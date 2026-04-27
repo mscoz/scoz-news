@@ -1,0 +1,10 @@
+.playwright-mcp/
+.claude/
+__pycache__/
+*.pyc
+preview-a-haze.html
+preview-b-editorial.html
+preview-c-signal.html
+snap-full.md
+scoz-news-redesign.png
+design-system/
