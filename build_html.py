@@ -290,9 +290,7 @@ def build_html(data, logo_b64):
     }}
     .acc-item:hover {{ background: rgba(255,255,255,.05); border-color: rgba(255,255,255,.12); }}
     .acc-item.open {{
-      background: rgba(255,255,255,.06);
-      backdrop-filter: blur(16px) saturate(160%);
-      -webkit-backdrop-filter: blur(16px) saturate(160%);
+      background: rgba(255,255,255,.07);
       border-color: rgba(255,255,255,.15);
     }}
     [data-panel="meta"]   .acc-item {{ border-left: 3px solid rgba(14,165,233,.50); }}
