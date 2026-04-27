@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 
 BASE_DIR  = os.path.dirname(os.path.abspath(__file__))
 JSON_PATH = os.path.join(BASE_DIR, "noticias-data.json")
-HTML_PATH = os.path.join(BASE_DIR, "noticias-semana.html")
+HTML_PATH = os.path.join(BASE_DIR, "index.html")
 
 # ── Logo ──────────────────────────────────────────────────────────────────────
 def make_logo_b64():
