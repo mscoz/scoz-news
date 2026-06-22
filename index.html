@@ -14929,7 +14929,9 @@
   const allWeeks = [...weekSet].sort().reverse();
   let currentWeek = allWeeks[0] || 'all';
   const pillsEl = document.getElementById('week-pills');
-  allWeeks.forEach((w, i) => {
+  // Pills só para as 4 semanas mais recentes; o restante fica acessível em "Todas".
+  const RECENT_WEEKS = 4;
+  allWeeks.slice(0, RECENT_WEEKS).forEach((w, i) => {
     const p = document.createElement('button');
     p.className = 'week-pill' + (i === 0 ? ' active' : '');
     p.dataset.week = w; p.textContent = fmtWeek(w);
