@@ -1,11 +1,12 @@
 #!/usr/bin/env node
 
-import { readdir, readFile } from "node:fs/promises";
+import { access, readdir, readFile } from "node:fs/promises";
 import path from "node:path";
-import process from "node:process";
 
 const DATA_DIR = "data";
+const DEFAULT_HTML = "index.html";
 const REQUEST_TIMEOUT_MS = 12_000;
+const CONCURRENCY = 12;
 const ALLOWED_RESTRICTED_STATUSES = new Set([401, 403, 429]);
 const GENERIC_NOT_FOUND_PATTERNS = [
   "article_not_found",
@@ -13,6 +14,15 @@ const GENERIC_NOT_FOUND_PATTERNS = [
   "page-not-found",
   "page_not_found",
 ];
+
+async function fileExists(filePath) {
+  try {
+    await access(filePath);
+    return true;
+  } catch {
+    return false;
+  }
+}
 
 async function latestWeekFile() {
   const files = (await readdir(DATA_DIR))
@@ -27,14 +37,56 @@ async function latestWeekFile() {
   return path.join(DATA_DIR, files[0]);
 }
 
+async function defaultSourcePath() {
+  if (await fileExists(DEFAULT_HTML)) return DEFAULT_HTML;
+  return latestWeekFile();
+}
+
+function parseItemsFromHtml(html) {
+  const items = [];
+  const panels = html.split(/(?=<div class="tab-panel)/);
+  const itemRe =
+    /<div class="acc-item"[^>]*>[\s\S]*?<span class="acc-title">([^<]*)<\/span>[\s\S]*?class="btn-link" href="([^"]+)"/g;
+
+  for (const chunk of panels) {
+    const panelMatch = chunk.match(/data-panel="([^"]+)"/);
+    if (!panelMatch) continue;
+    const category = panelMatch[1];
+    let match;
+    while ((match = itemRe.exec(chunk)) !== null) {
+      items.push({ category, title: match[1].trim(), url: match[2] });
+    }
+  }
+
+  return items;
+}
+
+async function loadAuditItems(sourcePath) {
+  if (sourcePath.endsWith(".html")) {
+    const html = await readFile(sourcePath, "utf8");
+    return { sourcePath, items: parseItemsFromHtml(html) };
+  }
+
+  const data = JSON.parse(await readFile(sourcePath, "utf8"));
+  if (!data?.items || typeof data.items !== "object") {
+    throw new Error("JSON invalido: campo items ausente");
+  }
+
+  const items = Object.entries(data.items).flatMap(([category, categoryItems]) =>
+    categoryItems.map((item) => ({ category, title: item.title, url: item.url })),
+  );
+  return { sourcePath, items };
+}
+
 function parseRedditPath(url) {
   const match = url.match(/reddit\.com\/r\/([^/]+)\/comments\/([^/]+)/i);
   if (!match) return null;
   return { subreddit: match[1].toLowerCase(), postId: match[2].toLowerCase() };
 }
 
-async function fetchWithTimeout(url) {
+async function fetchWithTimeout(url, method = "GET") {
   return fetch(url, {
+    method,
     redirect: "follow",
     signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
     headers: { "user-agent": "scoz-news-link-audit/1.0" },
@@ -75,7 +127,12 @@ async function auditRedditUrl(url) {
 }
 
 async function auditHttpUrl(url) {
-  const response = await fetchWithTimeout(url);
+  let response = await fetchWithTimeout(url, "HEAD");
+  if (response.status === 405 || response.status === 501) {
+    response = await fetchWithTimeout(url, "GET");
+  }
+  await response.body?.cancel?.();
+
   const statusAllowed =
     response.ok || ALLOWED_RESTRICTED_STATUSES.has(response.status);
   const lowerFinalUrl = response.url.toLowerCase();
@@ -98,47 +155,77 @@ async function auditHttpUrl(url) {
   return { ok: true, status: response.status, finalUrl: response.url };
 }
 
-async function auditItem(item, category) {
-  const url = item.url?.trim();
-  if (!url) {
-    return { ok: false, category, title: item.title, url: "", reason: "URL vazia" };
+async function auditUrl(url) {
+  const trimmed = url?.trim();
+  if (!trimmed) {
+    return { ok: false, reason: "URL vazia", url: trimmed || "" };
   }
 
   try {
-    const result = url.includes("reddit.com/")
-      ? await auditRedditUrl(url)
-      : await auditHttpUrl(url);
-    return { category, title: item.title, url, ...result };
+    const result = parseRedditPath(trimmed)
+      ? await auditRedditUrl(trimmed)
+      : await auditHttpUrl(trimmed);
+    return { url: trimmed, ...result };
   } catch (error) {
     return {
       ok: false,
-      category,
-      title: item.title,
-      url,
+      url: trimmed,
       reason: `${error.name}: ${error.message}`,
     };
   }
 }
 
-async function main() {
-  const weekFile = process.argv[2] || (await latestWeekFile());
-  const data = JSON.parse(await readFile(weekFile, "utf8"));
-  const items = Object.entries(data.items).flatMap(([category, categoryItems]) =>
-    categoryItems.map((item) => ({ item, category })),
-  );
+async function mapPool(items, concurrency, fn) {
+  const results = new Array(items.length);
+  let index = 0;
 
-  const results = [];
-  for (const { item, category } of items) {
-    const result = await auditItem(item, category);
-    results.push(result);
-    const marker = result.ok ? "OK" : "ERRO";
-    console.log(`${marker} [${category}] ${item.title}`);
-    if (!result.ok) console.log(`  ${result.reason}: ${result.url}`);
+  async function worker() {
+    while (index < items.length) {
+      const current = index++;
+      results[current] = await fn(items[current], current);
+    }
   }
 
-  const failures = results.filter((result) => !result.ok);
-  console.log(`\n${weekFile}: ${results.length} link(s), ${failures.length} erro(s)`);
-  if (failures.length) process.exitCode = 1;
+  await Promise.all(
+    Array.from({ length: Math.min(concurrency, items.length) }, worker),
+  );
+  return results;
+}
+
+async function main() {
+  const sourcePath = process.argv[2] || (await defaultSourcePath());
+  const { items } = await loadAuditItems(sourcePath);
+  if (!items.length) {
+    throw new Error(`Nenhuma noticia encontrada em ${sourcePath}`);
+  }
+
+  const urlCache = new Map();
+  async function auditCached(entry) {
+    const url = entry.url?.trim();
+    if (!url) {
+      return { ok: false, category: entry.category, title: entry.title, url: "", reason: "URL vazia" };
+    }
+    if (!urlCache.has(url)) {
+      urlCache.set(url, auditUrl(url));
+    }
+    const result = await urlCache.get(url);
+    return { category: entry.category, title: entry.title, ...result };
+  }
+
+  const results = await mapPool(items, CONCURRENCY, auditCached);
+  let failureCount = 0;
+
+  for (const result of results) {
+    const marker = result.ok ? "OK" : "ERRO";
+    console.log(`${marker} [${result.category}] ${result.title}`);
+    if (!result.ok) {
+      failureCount++;
+      console.log(`  ${result.reason}: ${result.url}`);
+    }
+  }
+
+  console.log(`\n${sourcePath}: ${results.length} link(s), ${failureCount} erro(s)`);
+  if (failureCount) process.exitCode = 1;
 }
 
 await main();
