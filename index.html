@@ -21453,20 +21453,6 @@
   }
   function closeAll(items = allItems) { items.forEach(item => setItemOpen(item, false)); }
 
-  let stickyRaf = 0;
-  function syncStickyTop() {
-    const tabs = document.getElementById('tabs');
-    const wbar = document.querySelector('.week-bar');
-    if (tabs && wbar) { tabs.style.top = '0px'; wbar.style.top = tabs.offsetHeight + 'px'; }
-  }
-  function scheduleStickySync() {
-    if (stickyRaf) cancelAnimationFrame(stickyRaf);
-    stickyRaf = requestAnimationFrame(() => { stickyRaf = 0; syncStickyTop(); });
-  }
-  syncStickyTop();
-  window.addEventListener('resize', scheduleStickySync, { passive: true });
-  window.addEventListener('orientationchange', scheduleStickySync, { passive: true });
-
   const tabsEl = document.getElementById('tabs');
   const tabButtons = [...document.querySelectorAll('.tab-btn')];
   function activateTab(btn, focus = false) {
