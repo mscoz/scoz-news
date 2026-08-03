@@ -1,0 +1,370 @@
+{
+  "id": "2026-06-15",
+  "label": "15-21 jun/26",
+  "label_full": "15 a 21 de junho de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta leva Live Shopping Ads ao Instagram e ao Facebook global com parceiros de live commerce",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/meta-expands-live-shopping-ads-and-virtual-card-checkout-to-drive-more-purchases-480532",
+        "summary": "A Meta expandiu os Live Video Ads globalmente no Facebook e os trouxe ao Instagram, integrando plataformas de live commerce como CommentSold, Firework, LiveMeUp, Sprii e TalkShopLive. Anunciantes podem transformar transmissoes elegiveis em anuncios que alcancam publico fora dos seguidores e levam direto a compra ao vivo, abrindo um placement de fundo de funil para ecommerce sem depender de plataforma externa."
+      },
+      {
+        "title": "Meta lanca checkout com cartao virtual (Mastercard/Visa) para reduzir atrito de compra dentro dos apps",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/meta-expands-live-shopping-ads-and-virtual-card-checkout-to-drive-more-purchases-480532#virtual-card",
+        "summary": "A partir do verao de 2026, a Meta passa a oferecer pagamento via cartao virtual em parceria com Mastercard e Visa: o sistema gera um numero de cartao temporario e de uso unico vinculado ao cartao real do comprador, sem expor os dados ao lojista. Para o gestor de midia, menos atrito no checkout tende a elevar a conversao das campanhas de Sales que fecham a compra dentro do ecossistema Meta."
+      },
+      {
+        "title": "Em Sales campaigns, a IA da Meta passa a montar o anuncio em tempo real combinando feed e criativos",
+        "source": "Social Media Today",
+        "date": "Jun 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-updates-its-livestream-shopping-tools/823223/",
+        "summary": "A Meta tornou o dado de produto fundamental em todas as campanhas de Sales: em vez de escolher catalogo e formato separadamente, o anunciante fornece o feed e os criativos, e o sistema monta a melhor combinacao para cada usuario em tempo real. Reduz decisoes manuais e exige feed limpo (preco, disponibilidade, descricao) como sinal de otimizacao; feed desatualizado vira desperdicio de verba."
+      },
+      {
+        "title": "Instagram libera tags de afiliado em catalogo para criadores em 22 paises, com alcance pago por comissao",
+        "source": "Dynamic Business",
+        "date": "Jun 2026",
+        "url": "https://dynamicbusiness.com/topics/news/live-shopping-smarter-ads-and-affiliate-commissions-metas-biggest-updates-for-businesses-explained.html",
+        "summary": "Criadores em 22 paises agora podem marcar produtos do catalogo da marca diretamente em Reels e Feed do Instagram e ganhar comissao sobre as vendas geradas. Para o anunciante, e um canal de aquisicao de baixo custo, pagando comissao sobre resultado em vez de cache fixo de influenciador, e o conteudo de afiliado ainda pode ser amplificado pelas ferramentas de midia paga da plataforma."
+      },
+      {
+        "title": "Meta cria campanhas centralizadas no Ads Manager para WhatsApp Ads com o mesmo setup das outras",
+        "source": "SocialBee",
+        "date": "Jun 2026",
+        "url": "https://socialbee.com/blog/facebook-updates/",
+        "summary": "A Meta passou a permitir usar os mesmos criativos, fluxo de configuracao e orcamento de uma campanha tambem para WhatsApp Ads, via novo recurso de campanhas centralizadas no Ads Manager. Simplifica a operacao de quem ja roda Facebook e Instagram e quer testar o placement de WhatsApp sem montar campanha separada, reduzindo trabalho de setup e facilitando a alocacao de verba entre canais de mensageria."
+      },
+      {
+        "title": "Advantage+ Leads ganha agente que responde leads no Messenger automaticamente em teste",
+        "source": "Social Media Today",
+        "date": "Jun 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-lead-gen-ad-updates-ai-targeting-verification-crm-expansion/804301/",
+        "summary": "A Meta esta testando um recurso que permite engajar o lead na hora pelo Messenger: um agente automatizado responde duvidas, agenda compromissos e captura disponibilidade para follow-up. Combinado a instant forms e rastreamento de chamadas, o sistema escolhe o metodo de captura por audiencia; relatos apontam custo por lead 14% a 24% menor que usar so formulario de site."
+      },
+      {
+        "title": "Meta troca 'Post Engagement' pela meta de performance 'Maximize Interactions' em campanhas de engajamento",
+        "source": "SocialBee",
+        "date": "Jun 2026",
+        "url": "https://socialbee.com/blog/facebook-updates/#maximize-interactions",
+        "summary": "A Meta esta substituindo o tipo de conversao 'Post Engagement' por uma nova meta de performance chamada 'Maximize Interactions' nas campanhas de engajamento. Quem usa esse objetivo precisa revisar otimizacao e leitura de resultados, ja que a metrica de otimizacao muda, exigindo recalibrar expectativas de CPA por interacao e a comparacao historica de campanhas de engajamento."
+      },
+      {
+        "title": "Opportunity Score do Ads Manager: notas baixas entregam pior e score alto correlaciona com CPA menor",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/meta-upgrades-pixel-and-conversions-api-to-close-the-gap-for-small-advertisers/",
+        "summary": "O Opportunity Score da Meta avalia a configuracao da campanha de 0 a 100 em quatro eixos: diversidade de criativo, qualidade de sinal (Pixel + CAPI), amplitude de audiencia e precisao do evento de conversao. Gestores relatam que scores acima de 80 correlacionam com CPA menor e entrega mais estavel, enquanto campanhas abaixo de 60 performam pior; vale usa-lo como checklist antes de escalar verba."
+      },
+      {
+        "title": "Predictor Personas: IA da Meta preve compradores fora da categoria a partir dos melhores clientes do site",
+        "source": "Jetfuel Agency",
+        "date": "Jun 2026",
+        "url": "https://jetfuel.agency/metas-2026-algorithm-update-what-andromeda-changed-and-how-to-adapt-your-ads/",
+        "summary": "Sob a logica do Andromeda, a Meta destaca os 'Predictor Personas': a IA gera uma persona baseada nos melhores clientes do seu site e busca pessoas com intencao semelhante, mesmo que nunca tenham demonstrado interesse na categoria. Na pratica, camadas de interesse e lookalike perdem forca, e a qualidade de sinal (Pixel+CAPI, EMQ acima de 7) e a diversidade de criativos passam a definir o targeting."
+      },
+      {
+        "title": "Benchmark Meta 2026: CPA medio sobe 38% para US$ 38,19, mas taxa de conversao melhora para ate 8,2%",
+        "source": "AdAmigo",
+        "date": "Jun 2026",
+        "url": "https://www.adamigo.ai/blog/meta-ads-cpa-benchmarks-industry-2026",
+        "summary": "O CPA medio geral no Meta em 2026 chega a US$ 38,19, alta de 38,1% sobre os US$ 27,66 de 2025, puxado por inflacao de leilao e mais inventario. Ha forte variacao por vertical (ecommerce US$ 29,99; saude e juridico acima de US$ 150). O aumento de custo e parcialmente compensado pela alta da taxa de conversao, de 7,72% para 8,20%; util para recalibrar metas de CPA e budget por nicho."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google Ads vai puxar campanhas que superam a meta de volta ao alvo a partir de 17 de agosto",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/google-expands-smart-bidding-exploration-adds-promotion-mode-480165",
+        "summary": "A Bidding Target Optimization, anunciada em 15/jun, passa a reajustar automaticamente campanhas limitadas por orcamento que vinham batendo melhor que a meta de CPA ou ROAS, trazendo a entrega de volta ao alvo definido. Nao e opt-in: vale a partir de 17 de agosto. Um Bid Target Adjustment Tool chega em 6 de julho mostrando o historico e tres formas de reagir. Quem vinha lucrando acima da meta deve revisar metas antes de perder essa folga."
+      },
+      {
+        "title": "Google Ads lanca Promotion Mode em beta para afrouxar ROAS e injetar verba em picos de demanda",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/google-expands-smart-bidding-exploration-adds-promotion-mode-480165#promotion-mode",
+        "summary": "Em 15/jun o Google liberou o Promotion Mode (beta) para Search e Performance Max. Permite agendar mudancas temporarias na tolerancia de ROAS e adicionar orcamento diario extra em janelas de pico como sazonais, lancamentos e flash sales. Diferente dos ajustes de sazonalidade, e uma acao direta nas alavancas: voce decide gastar mais e aceitar eficiencia menor no periodo. Combina com orcamentos totais de campanha para controlar o gasto."
+      },
+      {
+        "title": "Termos do Merchant Center mudam em 15/jun e indexacao de e-mail marketing vem ligada por padrao",
+        "source": "JudeLuxe",
+        "date": "Jun 2026",
+        "url": "https://www.judeluxe.com/insights/google-merchant-center-tos-june-2026/",
+        "summary": "Os novos Termos do Merchant Center entram em vigor em 15/jun com a indexacao de marketing emails (newsletters, promocoes, lancamentos) formalizada e ATIVADA por padrao em contas novas e existentes. O Google pode acessar, indexar e exibir esse conteudo em Search, Shopping e Maps. Marcas DTC que nao querem expor seus e-mails devem optar por sair em Configuracoes > Uso de conteudo de marketing antes da data."
+      },
+      {
+        "title": "Demand Gen no Discover com otimizacao VTC migra de CPC para CPM em 15 de julho",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/google-ads-shifts-demand-gen-billing-to-cpm-for-some-discover-campaigns-480300",
+        "summary": "Em 16/jun o Google avisou que campanhas Demand Gen no posicionamento Discover com otimizacao de conversao view-through (VTC) passam de cobranca por clique para CPM em 15/jul. Afeta so quem ativou VTC manualmente (desligado por padrao desde abril). A mudanca e automatica: aceitar o CPM e refazer a conta de orcamento, ou sair desativando a otimizacao VTC. Espere alteracoes em pacing, volume de impressoes e metricas de relatorio."
+      },
+      {
+        "title": "Google lanca Ask Ad Manager, assistente Gemini para diagnosticar e gerar relatorios por conversa",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/google-launches-ai-agent-for-ad-manager-480613",
+        "summary": "Em 18/jun o Google levou IA generativa ao Google Ad Manager com o Ask Ad Manager, assistente Gemini que responde em linguagem natural. Ajuda em tres frentes: diagnosticar campanhas com baixo desempenho, gerar relatorios e metricas customizadas sob demanda e navegar a plataforma aplicando filtros automaticamente. O foco e acelerar de 'analise para acao', com novos agentes de inventario e negociacao previstos para o ano."
+      },
+      {
+        "title": "Google passa a misturar anuncios pagos nos resultados organicos da aba Imagens",
+        "source": "Search Engine Roundtable",
+        "date": "Jun 2026",
+        "url": "https://www.seroundtable.com/google-image-search-mix-ads-41511.html",
+        "summary": "Reportado em 20/jun: o Google comecou a exibir anuncios 'Sponsored' misturados as imagens organicas na aba Imagens do mobile. O posicionamento funciona com campanhas que ja rodam em Search ou Performance Max, puxando os assets de imagem existentes, sem precisar criar campanha nova. E a terceira superficie fora da SERP a receber inventario pago em 2026. Espere alto volume de impressoes, mas CTR menor que o de anuncios de texto."
+      },
+      {
+        "title": "Google Ads ganha secao nativa de Leads dentro de Conversoes",
+        "source": "Search Engine Roundtable",
+        "date": "Jun 2026",
+        "url": "https://www.seroundtable.com/recap-06-15-2026-41505.html",
+        "summary": "Em 20/jun anunciantes flagraram uma nova secao 'Leads' aparecendo sob Conversoes na interface do Google Ads. A novidade acompanha a consolidacao das enhanced conversions para web e leads em um unico controle on/off e a centralizacao de uploads de leads na Data Manager API (com bloqueio na Google Ads API a partir de 15/jun). Vale conferir a nova area para garantir que o rastreamento de leads e os diagnosticos sigam reportando corretamente."
+      },
+      {
+        "title": "Nova aba de diagnostico de Shopping aparece na interface do Google Ads",
+        "source": "Search Engine Roundtable",
+        "date": "Jun 2026",
+        "url": "https://www.seroundtable.com/recap-06-15-2026-41505.html#shop-diagnostics",
+        "summary": "Em 21/jun foi flagrada uma nova aba de Shop diagnostics no Google Ads, voltada a identificar problemas que travam a exibicao de produtos em campanhas de Shopping e Performance Max. A ferramenta consolida o status de aprovacao e alertas de feed em um so lugar, ajudando gestores a achar rapido produtos reprovados ou com avisos de politica/qualidade antes que derrubem a entrega. Acompanhe o rollout para validar a saude do feed por essa via."
+      },
+      {
+        "title": "Google renomeia estrategias de lance: Target CPA e Target ROAS viram opcoes independentes",
+        "source": "Practical Ecommerce",
+        "date": "Jun 2026",
+        "url": "https://www.practicalecommerce.com/3-performance-max-updates-for-2026",
+        "summary": "A partir de junho o Google Ads muda os rotulos das estrategias de lance: 'Maximizar conversoes com Target CPA' passa a aparecer apenas como 'Target CPA', e 'Maximizar valor com Target ROAS' vira 'Target ROAS', separadas das estrategias de volume. E mudanca visual, o funcionamento e identico e nao exige acao. Durante o rollout pode haver nomes misturados, e API, Editor e app mobile nao adotam os novos rotulos de imediato."
+      },
+      {
+        "title": "Smart Bidding Exploration chega a todas as campanhas PMax sem feed, e abre beta no Shopping",
+        "source": "Search Engine Journal",
+        "date": "Jun 2026",
+        "url": "https://www.searchenginejournal.com/google-ads-three-bidding-budgeting-updates/579292/",
+        "summary": "Desde 15/jun o Smart Bidding Exploration ficou disponivel globalmente, em todos os idiomas, para todas as campanhas Performance Max sem feed de produtos. Junto, abriu beta para Shopping ads — em PMax com feed e em campanhas Shopping padrao. O recurso deixa o gestor definir uma tolerancia de ROAS para o sistema buscar conversoes em buscas ainda nao capturadas. Util para destravar volume incremental, mas exige acompanhar de perto o impacto na eficiencia."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "Microsoft lanca Web IQ e abre piloto do MCP Server (read-only) para Claude, ChatGPT e Copilot",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/microsoft-bets-on-ai-economy-with-web-iq-clarity-citations-and-mcp-server/",
+        "summary": "Em 17/jun, antes do Cannes Lions, a Microsoft Advertising abriu piloto do MCP Server com acesso somente leitura, permitindo agencias analisarem dados vivos de campanha dentro de Claude, ChatGPT e M365 Copilot. Trouxe ainda Web IQ (APIs de grounding), Clarity Citations e novos controles de AI Max. Impacto: gestores podem auditar e diagnosticar contas Bing via IA sem sair do fluxo de trabalho, e medir citacoes em respostas de IA."
+      },
+      {
+        "title": "Microsoft Ads adiciona segmentacao por senioridade do LinkedIn no Search e Audience",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/microsoft-ads-expands-linkedin-targeting-with-job-seniority-filters-480296",
+        "summary": "Em 16/jun a Microsoft liberou segmentacao por 10 niveis de senioridade do LinkedIn (CXO, VP, Diretor, Gerente etc.) em campanhas de Search e Audience, no nivel de campanha e grupo de anuncios, em modos targeting ou observacao. Impacto: campanhas B2B no Bing passam a separar decisores de praticantes — a recomendacao e comecar em observacao nos 10 niveis e concentrar lances em Diretor+ apos confirmar de onde vem o pipeline."
+      },
+      {
+        "title": "Walmart Connect leva dados de compra reais ao DV360 do Google para campanhas no YouTube",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/walmart-connect-brings-real-purchase-data-into-google-dv360-for-youtube-ads/",
+        "summary": "Em 11/jun, Walmart Connect e Google tornaram as audiencias first-party do varejista ativaveis no Display & Video 360, comecando pelo YouTube, com mensuracao de vendas em loja (closed-loop). Marcas podem mirar quem comprou concorrentes e medir se a exposicao em video gerou compra no Walmart, sem compartilhar dados individuais. Impacto: conecta retail media a budgets de YouTube com atribuicao de venda, ainda em prova de conceito fechada."
+      },
+      {
+        "title": "WPP Media eleva projecao de ad spend global para US$ 1,3 tri; commerce e generative search puxam alta",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/wpp-media-sees-ai-as-advertisings-1-3-trillion-growth-engine-in-2026/",
+        "summary": "A previsao de meio de ano da WPP Media (18/jun) subiu de 7,1% para 8,9% de crescimento em 2026. Commerce (liderado por retail media de Amazon e Walmart) chega a US$ 72,2 bi (+17,7%) e search tradicional + generativo soma 21,8% de toda a receita publicitaria. Impacto: reforca a migracao de verba para retail media e canais de busca por IA, exigindo que o mix de midia inclua generative search e plataformas de commerce."
+      },
+      {
+        "title": "CommerceIQ: ROAS de retail media na Amazon atinge maior nivel em quase 2 anos antes do Prime Day",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/amazon-prime-day-2026-stockout-losses-jump-24-despite-stronger-inventory/",
+        "summary": "O Pre-Prime Day Pulse da CommerceIQ (18/jun, dados de abr-mai) aponta ROAS de retail media perto de US$ 5,80 (recorde em ~2 anos), conversao media de 29,8% (+15% a/a) e gasto em anuncios +10%. Mas perdas por ruptura de estoque saltaram 24% a/a, concentradas em ASINs de alta receita. Impacto: vale escalar investimento antes do Prime Day, mas proteger budget de produtos campeoes contra stockout que zera o retorno."
+      },
+      {
+        "title": "AudienceProject passa a medir campanhas do Pinterest no Reino Unido e Alemanha com alcance cross-media",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/audienceproject-can-now-measure-your-pinterest-campaigns-in-the-uk-and-germany/",
+        "summary": "Em 19/jun a AudienceProject integrou o Pinterest a sua medicao independente em UK e Alemanha, com numeros de audiencia deduplicados entre canais e calculo de alcance incremental sobre open web, social, video e CTV. Impacto: anunciantes deixam de avaliar o Pinterest isoladamente e passam a verificar se ele realmente entrega audiencia nova ou apenas duplica quem ja e alcancado em outros canais — decisivo para alocacao de budget."
+      },
+      {
+        "title": "IAS lanca Quality Connect e mostra a publishers as preferencias de qualidade dos anunciantes em tempo real",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/ias-quality-connect-finally-shows-publishers-what-advertisers-actually-want/",
+        "summary": "Em 18/jun a Integral Ad Science disponibilizou o Quality Connect no IAS Pulse, dando aos publishers visibilidade quase em tempo real sobre brand safety, suitability, antifraude e exclusoes de palavras-chave configuradas pelas campanhas. Impacto: o lado de venda do programatico pode alinhar inventario as exigencias do anunciante antes da entrega, reduzindo bloqueios e desperdicio — Financial Times e AdKaora ja estao entre os primeiros usuarios."
+      },
+      {
+        "title": "Publicis reinstala The Trade Desk na lista recomendada de DSPs e encerra atrito publico",
+        "source": "AdExchanger / Digiday",
+        "date": "Jun 2026",
+        "url": "https://digiday.com/media-buying/ad-tech-briefing-the-shifting-tides-behind-publicis-and-the-trade-desks-detente/",
+        "summary": "Em 12/jun, Publicis e The Trade Desk anunciaram tregua: a holding recolocou a TTD na lista de DSPs recomendados, encerrando o atrito de marco, quando uma auditoria apontou supostas irregularidades de fee-stacking. No intervalo, Amazon, Yahoo, StackAdapt e Viant avancaram sobre o share. Impacto: gestores que migraram verba programatica para DSPs concorrentes precisam reavaliar curadoria e custos com a TTD de volta ao radar das agencias."
+      },
+      {
+        "title": "TikTok detalha novidades de Q2 2026: controles por modulo no Smart+, Collage Carousel e leads no Salesforce",
+        "source": "TikTok For Business",
+        "date": "Jun 2026",
+        "url": "https://ads.tiktok.com/business/en/blog/tiktok-product-preview",
+        "summary": "O preview de produto do TikTok para Q2 2026 traz controle de automacao por modulo no Smart+ (targeting, budget e posicionamentos ligados/desligados separadamente), Music Autofix para destravar entrega com musica sem licenca, o novo formato Collage Carousel (1 imagem-heroi + 3 produtos clicaveis no primeiro frame) e envio de leads em tempo real ao Salesforce Marketing Cloud. Impacto: mais controle granular sobre campanhas automatizadas e melhor handoff de leads para CRM."
+      },
+      {
+        "title": "Mercado global de DSP deve chegar a US$ 265 bi ate 2035 puxado por IA e CTV, aponta SNS Insider",
+        "source": "GlobeNewswire / SNS Insider",
+        "date": "Jun 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/06/17/3313526/0/en/Demand-Side-Platform-DSP-Market-Projected-to-Reach-265-64-Billion-by-2035-as-AI-Powered-Programmatic-Advertising-and-Connected-TV-Spending-Surge-Research-by-SNS-Insider.html",
+        "summary": "Relatorio de 17/jun projeta o mercado de DSPs em US$ 265,64 bi ate 2035, impulsionado por programatica com IA e gasto crescente em Connected TV. O movimento acompanha a consolidacao de curadoria de inventario e compra por linguagem natural (ex.: Kokai da TTD). Impacto: confirma a tendencia de centralizar compra de midia em DSPs com automacao por IA e CTV, orientando onde estruturar capacidade programatica nos proximos ciclos de planejamento."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "KFC inicia evolucao global de marca: cardapio, design de lojas e visual renovado comecam pelo Reino Unido",
+        "source": "Marketing Dive",
+        "date": "Jun 2026",
+        "url": "https://www.marketingdive.com/news/kfcs-brand-evolution-looks-to-set-the-standard-for-fried-chicken-qsrs/822546/",
+        "summary": "KFC lancou em 15/06 uma evolucao de marca que vai alem do logo: inovacao de cardapio (tenders, linha 'Dunked', bebida Kwench), novos formatos de loja e refresh do balde e do Colonel. A CMO global reforca que rebrand sem mudanca de produto e erro. Licao para marcas: reposicionamento precisa ancorar identidade visual em estrategia de negocio real, nao so estetica."
+      },
+      {
+        "title": "GA4 separa controle de consentimento do Google Ads em 15/06: ad_storage comanda o compartilhamento de dados",
+        "source": "Search Engine Land / PPC Land",
+        "date": "Jun 2026",
+        "url": "https://www.cookiehub.com/blog/google-analytics-google-ads-consent-mode-v2-2026",
+        "summary": "A partir de 15/06, o Google Signals deixa de controlar o fluxo de dados para o Ads; agora o ad_storage do Consent Mode e a unica autoridade sobre o envio de dados do GA4 para contas Ads vinculadas. Quem dependia do modelo duplo precisa revisar o CMP imediatamente, ou perdera audiencias, conversoes e remarketing sem perceber. Prazo rigido, nao recomendacao."
+      },
+      {
+        "title": "Trafego vindo de IA cresce 194% e engaja mais: visitantes de busca generativa ficam 70% mais tempo no site, diz Adobe",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/ai-referrals-engagement-travel-sites-adobe-480445",
+        "summary": "Dados da Adobe (17/06) mostram que referencias de IA para sites de viagem subiram 194% ano a ano em maio: esses visitantes engajam 21% mais, ficam 70% mais tempo e tem rejeicao 41% menor. No varejo, convertem 54% acima da media. Como 1/3 do conteudo das paginas lideres e ilegivel por IA, estruturar dados e textos para AEO vira prioridade de trafego qualificado."
+      },
+      {
+        "title": "Update nao confirmado do Google em 19/06 abala rankings de spam enquanto trackers indicam calmaria",
+        "source": "Search Engine Roundtable",
+        "date": "Jun 2026",
+        "url": "https://www.seroundtable.com/google-search-ranking-hits-black-hats-41541.html",
+        "summary": "Em 19/06, SEOs relataram nova onda de movimentacao de ranking que atingiu mais taticas black-hat e spam, embora a maioria dos trackers mostrasse estabilidade. Fechou um mes turbulento apos o Core Update de maio. Licao: confie em dados proprios do GSC, nao so em ferramentas de terceiros; sites com E-E-A-T real e conteudo util seguem protegidos da turbulencia."
+      },
+      {
+        "title": "Search Console ganha relatorio de visibilidade em IA: impressoes em AI Overviews e AI Mode agora sao mensuraveis",
+        "source": "Search Engine Land / Google Search Central",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/google-search-console-ai-performance-reports-and-controls-to-block-your-content-in-ai-responses-479298",
+        "summary": "O Google liberou relatorios de IA generativa no Search Console com impressoes, paginas, paises, dispositivos e datas em AI Overviews, AI Mode e Discover. Nao ha dados de clique, o que limita medir valor de trafego. Tambem chegou um toggle para sair de respostas de IA sem afetar ranking organico. Primeiro dado oficial de visibilidade em IA para profissionais ajustarem estrategia de conteudo."
+      },
+      {
+        "title": "Google lanca Search Profiles no Discover: publishers e creators ganham pagina propria com botao de seguir",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/google-introduces-search-profiles-within-google-discover-479475",
+        "summary": "O Google criou perfis dentro do Discover que reunem artigos, videos e posts sociais de cada veiculo, com avatar, banner e botao de seguir. Quem e seguido tende a aparecer mais no feed do usuario. Exige 100 mil seguidores em YouTube, Instagram ou X (300 mil no TikTok). Novo canal de distribuicao proprio para conteudo em meio a queda de trafego organico causada pela IA."
+      },
+      {
+        "title": "Instagram leva 'Your Algorithm' ao Feed: envios por DM pesam ate 5x mais que curtidas no ranqueamento",
+        "source": "Buffer / Hootsuite",
+        "date": "Jun 2026",
+        "url": "https://buffer.com/resources/instagram-algorithms/",
+        "summary": "Em junho o Instagram expandiu o 'Your Algorithm' do Reels e Explore para o Feed: o usuario ve e edita os topicos que o app associa a ele. Sinais de ranqueamento confirmados por Mosseri: tempo de visualizacao, curtidas por alcance e envios por DM (que pesam 3-5x mais que likes). Contas que repostam 10+ vezes em 30 dias saem das recomendacoes. Nicho claro e conteudo compartilhavel passam a definir alcance organico."
+      },
+      {
+        "title": "Conteudo de creator ja e 44% do criativo de midia paga e supera anuncio tradicional, aponta CreatorIQ",
+        "source": "CreatorIQ",
+        "date": "Jun 2026",
+        "url": "https://www.creatoriq.com/press/releases/creator-powered-funnel-report-2026",
+        "summary": "Pesquisa CreatorIQ (10/06) com 100 lideres de midia paga: conteudo de creator responde por 44% dos criativos pagos, e 92% das marcas ja o usam em campanhas. 77% dizem que ele supera o anuncio de marca tradicional em CTR (65%), conversao (58%) e CPM (50%). Investimento medio em creators chegou a US$ 6,6 mi com 2x+ de ROI. Sinal para realocar verba de criativo de marca para conteudo de creator."
+      },
+      {
+        "title": "Estudo de Lily Ray mostra Google citando listicles das marcas em AI Overviews, mas excluindo-as das recomendacoes",
+        "source": "Search Engine Journal",
+        "date": "Jun 2026",
+        "url": "https://www.searchenginejournal.com/category/news/",
+        "summary": "Analise divulgada em 18/06 revela que o Google cita as proprias listas comparativas das marcas dentro de AI Overviews, porem nao as recomenda como melhor opcao na maioria dos casos, favorecendo terceiros. Implicacao pratica: ser citado nao garante ser recomendado pela IA; marcas precisam de prova social externa e mencoes em terceiros, nao so conteudo proprio, para influenciar respostas generativas."
+      },
+      {
+        "title": "Gmail e Yahoo endurecem fiscalizacao em 2026 e DMARC ganha novos parametros: revise autenticacao de e-mail",
+        "source": "MarTech / Litmus",
+        "date": "Jun 2026",
+        "url": "https://martech.org/new-rules-for-bulk-email-senders-from-google-yahoo-what-you-need-to-know/",
+        "summary": "Em junho, o DMARC anunciou dois novos parametros e descontinuou outros dois, enquanto Gmail e Yahoo passaram a rejeitar permanentemente (nao so atrasar) remetentes fora de conformidade. Quem envia 5 mil+ e-mails/dia precisa de SPF, DKIM, DMARC, descadastro de um clique (RFC 8058) e taxa de spam abaixo de 0,3%. Configuracao 'boa o suficiente' agora derruba entregabilidade de campanhas inteiras."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Salesforce compra a Fin (ex-Intercom) por US$ 3,6 bi e reforca agentes de IA no Agentforce",
+        "source": "TechCrunch",
+        "date": "Jun 2026",
+        "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+        "summary": "A Salesforce fechou acordo de US$ 3,6 bi para adquirir a Fin (antiga Intercom), cujo agente de IA resolve em media 76% do volume de atendimento ponta a ponta em chat, e-mail, WhatsApp e SMS. Traz 30 mil empresas para o ecossistema Agentforce. Para o marketing, sinaliza consolidacao da camada de atendimento e relacionamento sob agentes autonomos, com impacto direto em CRM, retencao e jornada pos-venda."
+      },
+      {
+        "title": "Databricks lanca CustomerLake, CDP agentico que troca campanhas pontuais por 'infinity campaigns'",
+        "source": "Databricks / Adweek",
+        "date": "Jun 2026",
+        "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-enters-marketing-industry-customerlake-agentic-customer",
+        "summary": "No Data + AI Summit (16/jun), a Databricks entrou no martech com o CustomerLake, CDP nativo no lakehouse com agentes que analisam comportamento em tempo real e disparam 'infinity campaigns' continuas, prometendo personalizacao 1:1 em escala de bilhoes de interacoes/dia. Para marketers, e uma alternativa aos CDPs tradicionais que une dados, identidade, audiencias e ativacao sem silos."
+      },
+      {
+        "title": "Shopify Summer '26: merchandising por IA ordena colecoes pela probabilidade real de conversao",
+        "source": "Shopify Editions",
+        "date": "Jun 2026",
+        "url": "https://www.shopify.com/editions/winter2026",
+        "summary": "As Summer '26 Editions (17/jun) trouxeram 150+ updates, com destaque para o AI Collection Sort, que ordena produtos da colecao pela chance de conversao em tempo real, blocos preditivos de cross-sell e painel de insights de merchandising — tudo nativo, sem app extra. Lojistas ganham otimizacao automatica de vitrine; atencao: Shopify Scripts encerram de vez em 30/jun."
+      },
+      {
+        "title": "Seismic expande Aura Agents para nove agentes de IA em todo o fluxo de go-to-market",
+        "source": "Seismic / Business Wire",
+        "date": "Jun 2026",
+        "url": "https://www.businesswire.com/news/home/20260616898685/en/Seismic-Extends-Aura-Agents-Across-Go-to-market-Workflows-Deepens-Executive-Leadership-Bench",
+        "summary": "No Spring 2026 Release (16/jun), a Seismic levou nove Aura Agents novos e aprimorados a planejamento, preparo e execucao de vendas — incluindo Meeting, Presentation, Roleplay e Search Agent — alem do Aura Chat conectado ao contexto de negocio. Ja sao 248 organizacoes usando o motor. Para times de marketing e enablement, acelera producao de conteudo, role plays e materiais comerciais on-brand."
+      },
+      {
+        "title": "Claude ganha provisionamento de conectores MCP via Okta: acesso zero-touch para toda a empresa",
+        "source": "Claude / Anthropic",
+        "date": "Jun 2026",
+        "url": "https://claude.com/blog/enterprise-managed-auth",
+        "summary": "A Anthropic liberou (18/jun) a autorizacao gerenciada de conectores MCP no Claude para planos Team e Enterprise: o admin provisiona uma vez pelo Okta e o funcionario herda acesso no primeiro login, sem telas de consentimento OAuth. Suporta Asana, Atlassian, Canva, Figma, Linear e mais. Para equipes de marketing, simplifica colocar o Claude a operar dentro do stack (Canva, Figma) com governanca central."
+      },
+      {
+        "title": "Bing Webmaster Tools cria 'Citation Share': percentual de citacoes da marca em buscas com IA",
+        "source": "Bing / Search Engine Journal",
+        "date": "Jun 2026",
+        "url": "https://blogs.bing.com/search/June-2026/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare",
+        "summary": "O Bing lancou (16/jun) quatro metricas de visibilidade em IA: Citation Share (percentual de citacoes do seu site numa query), Intents, Topics e Compare. E a primeira metrica de uma grande plataforma que mostra participacao relativa de citacoes, nao so contagem bruta. Para times de GEO/AEO, da um KPI concreto para medir e melhorar presenca nas respostas geradas por IA."
+      },
+      {
+        "title": "Salesforce e Databricks ampliam parceria para unir dados corporativos a workflows de agentes",
+        "source": "Salesforce",
+        "date": "Jun 2026",
+        "url": "https://www.salesforce.com/news/stories/salesforce-databricks-shared-foundation-of-human-agent-work-announcement/",
+        "summary": "No Data + AI Summit (16/jun), Salesforce e Databricks anunciaram parceria expandida para conectar com seguranca dados empresariais a relacionamentos, permissoes, aprovacoes e workflows necessarios para decisoes agenticas confiaveis. A Salesforce foi nomeada ISV Business App Partner of the Year. Para marketers, fortalece a camada de orquestracao que define selecao de campanha e ativacao de audiencia por IA."
+      },
+      {
+        "title": "Optimizely lanca plataforma AEO completa com Agent Visibility Analytics e parceria com a Conductor",
+        "source": "Optimizely / PR Newswire",
+        "date": "Jun 2026",
+        "url": "https://www.prnewswire.com/news-releases/optimizely-launches-full-aeo-platform-to-help-marketers-understand-and-act-on-ai-driven-content-discovery-302795999.html",
+        "summary": "A Optimizely lancou (10/jun) uma plataforma AEO de ponta a ponta que rastreia atividade real de agentes de IA no site via dados de log, cruza com SEO, mostra mudancas de visibilidade por tema e usa tres novos agentes para identificar gaps de conteudo automaticamente. Tira marketers da fase de so medir visibilidade em IA e os leva a otimizacao e execucao autonomas da descoberta de conteudo."
+      },
+      {
+        "title": "Sprinklr lanca LLM Insights para medir e corrigir como a marca aparece em ChatGPT, Gemini e Perplexity",
+        "source": "Sprinklr / Business Wire",
+        "date": "Jun 2026",
+        "url": "https://www.businesswire.com/news/home/20260610244721/en/Sprinklr-Introduces-LLM-Insights-to-Help-Brands-Understand-and-Influence-How-Theyre-Represented-in-AI-Generated-Answers",
+        "summary": "A Sprinklr apresentou (10/jun) o LLM Insights, capacidade nativa de IA que mostra como marca e concorrentes aparecem em answer engines (ChatGPT, Gemini, Perplexity) para termos-chave de compra, usando prompts reais. Em betas, clientes descobriram respostas incompletas ou que posicionavam o concorrente como melhor opcao. Converte achados em Action Plans para reforcar a representacao da marca na busca com IA."
+      },
+      {
+        "title": "Cordial abre infraestrutura headless com MCP para qualquer agente de IA operar campanhas",
+        "source": "Cordial / PR Newswire",
+        "date": "Jun 2026",
+        "url": "https://www.prnewswire.com/news-releases/cordial-brings-ai-into-the-work-not-just-the-workflow-302658552.html",
+        "summary": "A Cordial lancou uma infraestrutura de IA headless e agnostica de LLM que expoe cada recurso da plataforma como servico padrao consumivel por qualquer agente, via MCP, context services e CLI. Marketers passam a construir seus proprios agentes para disparar campanhas, puxar relatorios de performance e insights de audiencia diretamente no fluxo de trabalho, em vez de so dentro da interface tradicional."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://socialbee.com/blog/facebook-updates/"
+  ]
+}

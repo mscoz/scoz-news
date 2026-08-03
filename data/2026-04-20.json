@@ -1,0 +1,390 @@
+{
+  "id": "2026-04-20",
+  "label": "20-26 abr/26",
+  "label_full": "20 a 26 de abril de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta migra segmentação automotiva de Nielsen DMA para Comscore Markets a partir de junho",
+        "source": "Swipe Insight / Meta Business Help",
+        "date": "Apr 20, 2026",
+        "url": "https://web.swipeinsight.app/topics/meta-ads",
+        "summary": "A Meta começou a notificar anunciantes do setor automotivo sobre a substituição do Nielsen DMA pelo Comscore Markets® como base de segmentação geográfica, com vigência a partir de 22 de junho de 2026. Campanhas que usam segmentações Nielsen DMA serão pausadas automaticamente na data de corte se não atualizadas. Anunciantes do setor precisam revisar e migrar a segmentação antes da data limite para evitar interrupções de entrega."
+      },
+      {
+        "title": "Threads Ads começa expansão global para todos os usuários a partir de 28 de abril",
+        "source": "SocialBee / Meta Newsroom",
+        "date": "Apr 24, 2026",
+        "url": "https://socialbee.com/blog/facebook-updates/",
+        "summary": "A Meta confirmou o início da expansão global dos anúncios no Threads para todas as contas a partir de 28 de abril de 2026. O formato de anúncios no Threads já estava disponível para alguns mercados selecionados desde o início do ano. A expansão abre um novo placement para campanhas de awareness e consideração, com audiência crescente e menor concorrência de leilão comparado a Instagram e Facebook."
+      },
+      {
+        "title": "Meta Ads Manager adiciona breakdown de 'Conversion Count' para separar conversões únicas de múltiplas",
+        "source": "AdManage.ai / Meta Ads Updates",
+        "date": "Apr 21, 2026",
+        "url": "https://admanage.ai/blog/meta-ads-update",
+        "summary": "O Gerenciador de Anúncios ganhou uma nova opção de detalhamento chamada 'Conversion Count', que permite diferenciar conversões únicas por usuário de conversões totais, incluindo múltiplas ações do mesmo usuário. A mudança afeta diretamente como anunciantes de e-commerce e apps interpretam volume de conversões reportado. Campanhas otimizadas para valor de compra podem apresentar números diferentes dependendo da configuração selecionada."
+      },
+      {
+        "title": "Meta atualiza Pixel e Conversions API com preenchimento automático de dados de produto",
+        "source": "Core Brief / Meta Ads Updates 2026",
+        "date": "Apr 22, 2026",
+        "url": "https://corebrief.in/meta-ads-updates-2026/",
+        "summary": "A Meta lançou atualização no Meta Pixel e na Conversions API que adiciona automaticamente informações de produto e negócio às sinalizações de evento, reduzindo a configuração técnica necessária para anunciantes menores. O sistema usa IA para identificar e preencher campos como preço, categoria de produto e nome da loja sem intervenção manual. O impacto esperado é melhora na qualidade dos dados de treinamento dos algoritmos de otimização."
+      },
+      {
+        "title": "Formulários Instantâneos passam a permitir edição após publicação no Ads Manager",
+        "source": "Swipe Insight / Meta Business",
+        "date": "Apr 23, 2026",
+        "url": "https://web.swipeinsight.app/topics/meta-ads",
+        "summary": "A Meta liberou a edição de Instant Forms após publicação diretamente no Gerenciador de Anúncios, funcionalidade que não estava disponível anteriormente. Antes, qualquer alteração no formulário exigia criar uma nova versão e associá-la ao anúncio novamente. A mudança reduz o atrito operacional em campanhas de geração de leads e permite correções rápidas sem interromper a entrega."
+      },
+      {
+        "title": "Meta mudará atribuição de Link Clicks e regras de Engage-Through para vídeos em maio",
+        "source": "Almcorp / DOJO AI",
+        "date": "Apr 20, 2026",
+        "url": "https://almcorp.com/blog/meta-ad-attribution-changes-2026/",
+        "summary": "A Meta anunciou alterações nas regras de atribuição de Link Clicks e Engage-Through Views para anúncios em vídeo, com implementação prevista para maio de 2026. As mudanças afetam como visualizações de vídeo são computadas como ponto de atribuição de conversão, potencialmente reduzindo conversões reportadas em campanhas de vídeo que usam janela de 1 dia de visualização. Anunciantes que comparam períodos históricos precisarão recalibrar benchmarks."
+      },
+      {
+        "title": "Meta adiciona recurso 'Apply Website Highlights' para destacar elementos do site em anúncios",
+        "source": "Meta Ads Updates / AdManage.ai",
+        "date": "Apr 22, 2026",
+        "url": "https://admanage.ai/blog/meta-ads-update",
+        "summary": "O Ads Manager passou a disponibilizar a opção 'Apply Website Highlights', que extrai automaticamente textos e benefícios do site anunciado para incluir como destaques visuais no anúncio. O recurso usa IA para identificar propostas de valor na página de destino e traduzir em elementos de copy e sobreposição criativa. Anunciantes com landing pages bem estruturadas tendem a se beneficiar mais da funcionalidade."
+      },
+      {
+        "title": "Meta apresenta novos formatos de anúncios e opções de descoberta no IAB NewFronts 2026",
+        "source": "Social Media Today",
+        "date": "Apr 24, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-introduces-new-ad-and-discovery-options-at-iab-newfronts/815921/",
+        "summary": "Durante o IAB NewFronts 2026 em Nova York, a Meta apresentou novos formatos publicitários para Reels e Feed do Instagram, com foco em capacidades de branding usando dados de audiência proprietários. Os produtos incluem opções de seleção de contexto premium e novas superfícies de descoberta para marcas com campanhas de alcance. Detalhes de disponibilidade e precificação devem ser divulgados gradualmente ao longo do segundo trimestre."
+      },
+      {
+        "title": "Location Fees da Meta entram em vigor na Europa com taxas de 2% a 5% sobre o investimento",
+        "source": "Dataslayer / Core Brief",
+        "date": "Apr 20, 2026",
+        "url": "https://corebrief.in/meta-ads-updates-2026/",
+        "summary": "A Meta ativou as 'Location Fees' em seis países europeus para cobrir impostos sobre serviços digitais locais: Áustria e Turquia pagam 5%, França, Itália e Espanha 3%, e Reino Unido 2%. Os valores são adicionados automaticamente ao investimento declarado nas campanhas. Agências com clientes nesses mercados precisam ajustar projeções de CPA efetivo e comunicar o impacto no custo real dos anúncios."
+      },
+      {
+        "title": "Meta simplifica visualização de métricas no Gerenciador de Anúncios reduzindo colunas padrão",
+        "source": "Social Media Today",
+        "date": "Apr 23, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-simplifies-ad-performance-elements/817629/",
+        "summary": "O Meta Ads Manager recebeu atualização que consolida métricas e reduz o número de colunas padrão exibidas, agrupando indicadores que o sistema considera redundantes. A mudança é voltada para facilitar a leitura de anunciantes com menos experiência, mas pode ocultar granularidade relevante para gestores avançados que fazem otimizações por métricas secundárias. Configurações de colunas customizadas salvas não são afetadas pela alteração."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google Ads API exige autenticação multifator obrigatória para novos tokens OAuth a partir de 21 de abril",
+        "source": "Google Ads Developer Blog / Almcorp",
+        "date": "Apr 21, 2026",
+        "url": "https://ads-developers.googleblog.com/2026/",
+        "summary": "A partir de 21 de abril de 2026, o Google Ads API passou a exigir autenticação multifator (MFA) para todos os usuários que geram novos tokens OAuth 2.0 via fluxo de autenticação de usuário. A medida se aplica a tokens novos; tokens existentes seguem funcionando sem reautenticação imediata. Desenvolvedores e agências que usam scripts e integrações via API precisam garantir que os usuários responsáveis pelos tokens tenham MFA habilitado em suas contas Google."
+      },
+      {
+        "title": "Google Ads Advisor recebe correções de campanha em tempo real com agentic safety features",
+        "source": "Dataconomy PT / Two Octobers",
+        "date": "Apr 22, 2026",
+        "url": "https://pt.dataconomy.com/2026/04/22/o-google-atualiza-o-ads-advisor-com-correcoes-de-campanha-em-tempo-real/",
+        "summary": "O Google atualizou o Ads Advisor com capacidades agênticas de segurança que permitem identificar violações de política e sugerir correções em tempo real dentro do fluxo de criação de campanhas. O sistema agora fornece orientação proativa antes que anúncios sejam reprovados, reduzindo o tempo de resolução de problemas. A atualização inclui também acesso a certificações automatizadas diretamente na interface."
+      },
+      {
+        "title": "Enhanced Conversions unifica rastreamento web e leads em configuração única a partir de abril",
+        "source": "Google Ads Help / Swipe Insight",
+        "date": "Apr 21, 2026",
+        "url": "https://web.swipeinsight.app/topics/google-ads",
+        "summary": "O Google está simplificando Enhanced Conversions ao fundir as versões de web e leads em uma única configuração com switch on/off, eliminando a necessidade de escolher implementações separadas. A partir de abril, o sistema aceita dados simultâneos de tags de site e de API para melhorar precisão de atribuição e qualidade de sinal para lances. A fusão completa das duas funcionalidades está prevista para junho de 2026."
+      },
+      {
+        "title": "Google usa IA para qualificar leads de ligações, focando em conversões reais em vez de duração da chamada",
+        "source": "Paid Search Association / PPC News Feed",
+        "date": "Apr 22, 2026",
+        "url": "https://paidsearch.org/top-10-ppc-news-parade-april-17-to-24-2026/",
+        "summary": "O Google Ads adicionou qualificação de leads de chamadas telefônicas via IA, permitindo que o algoritmo avalie a qualidade da ligação com base em conteúdo da conversa e não apenas na duração. O sistema sinaliza leads qualificados para os algoritmos de Smart Bidding, melhorando a precisão dos lances em campanhas com extensões de chamada ou campanhas dedicadas a ligações. Anunciantes precisam habilitar a gravação de chamadas e aceitar os termos de análise de conteúdo."
+      },
+      {
+        "title": "Anúncios Demand Gen enfrentam atrasos de até uma semana na revisão, Google reconhece o problema",
+        "source": "Paid Search Association / PPC News Feed",
+        "date": "Apr 23, 2026",
+        "url": "https://paidsearchassociation.substack.com/p/your-ppc-links-from-the-paid-search-db5",
+        "summary": "Anunciantes reportaram atrasos de até sete dias na aprovação de anúncios Demand Gen, com criativos ficando presos em estado de revisão sem movimento. O Google confirmou o problema e informou estar trabalhando para resolução, sem prazo definido. Campanhas novas ou com criativos atualizados no período foram diretamente afetadas, com impacto em planejamentos de lançamento e testes de criativo."
+      },
+      {
+        "title": "Google testa App Labs no Google Ads dando acesso antecipado a recursos experimentais de campanhas de app",
+        "source": "Search Engine Journal / PPC News Feed",
+        "date": "Apr 24, 2026",
+        "url": "https://www.searchenginejournal.com/category/paid-media/pay-per-click/",
+        "summary": "O Google começou a testar o App Labs, um ambiente dentro do Google Ads que oferece acesso antecipado a funcionalidades experimentais de campanhas de aplicativos antes do lançamento geral. O recurso permite que anunciantes selecionados testem novas opções de segmentação, formatos de criativos e estratégias de lances em fase beta. A iniciativa segue o modelo de programas early-access já usados em outros produtos do Google para coleta de feedback estruturado."
+      },
+      {
+        "title": "Google Shopping aumenta presença de anúncios pagos dentro da grade de produtos gratuitos",
+        "source": "Optimixed / Search Engine Journal",
+        "date": "Apr 21, 2026",
+        "url": "https://www.optimixed.com/seo-daily-news-recaps-for-tuesday-april-21-2026/",
+        "summary": "O Google Shopping expandiu o espaço ocupado por anúncios pagos dentro da grade de listagens de produtos que antes era majoritariamente orgânica, reduzindo a visibilidade de produtos não patrocinados. A mudança impacta varejistas que dependiam de tráfego orgânico no Shopping como alternativa ao custo de campanhas pagas. Anunciantes com campanhas Shopping ativas podem se beneficiar do maior volume de impressões disponível."
+      },
+      {
+        "title": "Google adiciona deep links de 'read more' no snippet de busca para aumentar CTR orgânico",
+        "source": "Optimixed / Search Engine Land",
+        "date": "Apr 22, 2026",
+        "url": "https://www.optimixed.com/seo-daily-news-recaps-for-tuesday-april-21-2026/",
+        "summary": "O Google publicou melhores práticas para ativar deep links de 'read more' nos snippets de resultados de busca, recurso que exibe links adicionais dentro do resultado orgânico para seções específicas da página. A funcionalidade pode aumentar o CTR de páginas longas ao mostrar ao usuário que o conteúdo aborda múltiplos subtópicos. A implementação requer marcação estruturada adequada e conteúdo bem segmentado por seções."
+      },
+      {
+        "title": "Performance Max incorpora insights preditivos de audiência com nova camada de IA generativa",
+        "source": "Almcorp / Lance Marketing Digital",
+        "date": "Apr 20, 2026",
+        "url": "https://almcorp.com/blog/google-ads-updates-2026/",
+        "summary": "O Performance Max recebeu uma nova camada de insights preditivos de audiência que antecipa comportamentos de conversão antes de o usuário demonstrar intenção explícita de compra. O sistema usa sinais de contexto, histórico de navegação e padrões de comportamento de coortes semelhantes para expandir o alcance de campanhas de forma proativa. O nível de controle manual sobre segmentação continua reduzindo, consolidando o modelo de caixa-preta da plataforma."
+      },
+      {
+        "title": "Google Search Console com bug no filtro de vagas: zero impressões reportadas desde 16 de abril",
+        "source": "Optimixed / Search Engine Land",
+        "date": "Apr 21, 2026",
+        "url": "https://www.optimixed.com/seo-daily-news-recaps-for-tuesday-april-21-2026/",
+        "summary": "O Google Search Console apresentou um bug no relatório de performance especificamente para o filtro de listagens de vagas de emprego, reportando zero impressões e cliques desde 16 de abril de 2026. O problema foi confirmado pelo Google, mas sem previsão de correção divulgada. Sites de empregos e agregadores que dependem desses dados para monitorar visibilidade em Rich Results devem pausar decisões baseadas nessa métrica até a resolução."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "ChatGPT expande anúncios para usuários não logados, ampliando inventário disponível para anunciantes",
+        "source": "Paid Search Association / PPC News Feed",
+        "date": "Apr 23, 2026",
+        "url": "https://paidsearch.org/top-10-ppc-news-parade-april-17-to-24-2026/",
+        "summary": "O ChatGPT começou a exibir anúncios para usuários que acessam a plataforma sem estar logados, expandindo significativamente o inventário disponível para campanhas. A mudança facilita o escalonamento de investimento em mídia dentro do ChatGPT para anunciantes que já estavam testando o canal com audiência logada. CPMs e CTRs para usuários não logados ainda não têm benchmarks públicos estabelecidos."
+      },
+      {
+        "title": "Microsoft lança AI Max e novas ferramentas de anúncios para a era da web agêntica",
+        "source": "Search Engine Land / Search Engine Journal",
+        "date": "Apr 22, 2026",
+        "url": "https://searchengineland.com/2026-ppc-trends-466067",
+        "summary": "A Microsoft apresentou o AI Max e um conjunto de ferramentas publicitárias voltadas especificamente para o cenário em que agentes de IA realizam buscas e tomam decisões de compra em nome dos usuários. O objetivo é manter a visibilidade de anunciantes em superfícies onde o agente, e não o humano, faz a pesquisa. A estratégia da Microsoft é posicionar o Bing e o Copilot como canais de interceptação no fluxo de compra mediado por IA."
+      },
+      {
+        "title": "Google Demand Gen aprimora integração com dados de commerce e otimização view-through no YouTube",
+        "source": "Paid Search Association / Two Octobers",
+        "date": "Apr 22, 2026",
+        "url": "https://paidsearchassociation.substack.com/p/your-ppc-links-from-the-paid-search-db5",
+        "summary": "O Google aprimorou as campanhas Demand Gen com integração mais profunda de dados de commerce, permitindo que catálogos de produto alimentem criativos de vídeo no YouTube automaticamente. A otimização view-through foi refinada para capturar conversões de usuários que assistiram ao anúncio mas converteram por outro canal, melhorando o crédito de atribuição para campanhas de vídeo de topo de funil. O recurso é especialmente relevante para e-commerces com alto volume de produtos."
+      },
+      {
+        "title": "CPC médio no Google Search sobe para US$ 4,22 com alta de até 18% em saúde",
+        "source": "Promodo / WebFX PPC Benchmarks 2026",
+        "date": "Apr 20, 2026",
+        "url": "https://www.promodo.com/blog/ppc-benchmarks",
+        "summary": "Os benchmarks de PPC para 2026 apontam CPC médio de US$ 4,22 no Google Search, com as maiores altas anuais em Saúde (+18%), Educação (+11%) e Imóveis (+7%). Setores com CPCs mais baixos, como Entretenimento (US$ 1,16) e Viagens, mantiveram estabilidade. O investimento global em search pago deve atingir US$ 218 bilhões em 2026, evidenciando o crescimento contínuo da demanda por inventário em leilão."
+      },
+      {
+        "title": "Investimento global em paid search deve alcançar US$ 218 bilhões em 2026",
+        "source": "Backlinko / PPC Chief Benchmarks",
+        "date": "Apr 20, 2026",
+        "url": "https://backlinko.com/ppc-statistics",
+        "summary": "Projeções consolidadas para 2026 indicam que o mercado global de anúncios em search pago deve atingir US$ 218,3 bilhões, crescimento de aproximadamente 14% sobre 2025. O aumento reflete a migração de budgets de TV e display para canais com atribuição mensurável, além da expansão de anunciantes de pequeno porte habilitados por ferramentas de automação de campanha. Estados Unidos e China respondem por mais de 60% do volume global."
+      },
+      {
+        "title": "Taxa de conversão média em Google Search Ads cai para 3,75% com aumento de concorrência automatizada",
+        "source": "PPC Chief / Promodo Benchmarks",
+        "date": "Apr 21, 2026",
+        "url": "https://ppcchief.com/ppc-benchmarks-by-industry",
+        "summary": "Os dados de benchmark de 2026 mostram taxa de conversão média de 3,75% para anúncios de busca no Google, queda de 0,4 pontos percentuais em relação ao ano anterior. A redução é atribuída ao aumento de concorrência no leilão, parcialmente impulsionado por campanhas automatizadas de anunciantes que antes não conseguiam escalar sem suporte técnico. Setores como Finanças e Jurídico mantêm CVRs acima de 5%."
+      },
+      {
+        "title": "LinkedIn Ads: CTR médio de 0,78% e CPL acima de US$ 150 em campanhas B2B de tecnologia",
+        "source": "Lever Digital / B2B Advertising Benchmarks 2026",
+        "date": "Apr 22, 2026",
+        "url": "https://www.leverdigital.co.uk/post/top-8-advertising-benchmarks-for-b2b",
+        "summary": "Os benchmarks B2B de 2026 mostram CTR médio de 0,78% no LinkedIn Ads para conteúdo patrocinado, com CPL acima de US$ 150 em campanhas de tecnologia empresarial e SaaS. O LinkedIn mantém o maior custo por lead entre as plataformas de anúncio, mas apresenta as maiores taxas de qualificação de lead para vendas B2B complexas. Anunciantes que combinam LinkedIn com retargeting em Google e Meta relatam CPL efetivo 30% menor."
+      },
+      {
+        "title": "TikTok Shop consolida US$ 20 bilhões em vendas nos EUA em 2026 com crescimento de social commerce",
+        "source": "B2The7 / Digital Marketing Trends April 2026",
+        "date": "Apr 27, 2026",
+        "url": "https://www.b2the7.com/news-blog/marketing-trends-april-27-2026",
+        "summary": "O TikTok Shop deve ultrapassar US$ 20 bilhões em vendas nos EUA em 2026, após registrar US$ 15,8 bilhões em 2025. O crescimento consolida o TikTok como canal de commerce relevante além de plataforma de conteúdo, com anúncios de produto integrados ao feed de vídeo convertendo diretamente sem redirecionar o usuário para sites externos. Anunciantes de e-commerce que ainda não testam o formato correm risco de perder posição competitiva."
+      },
+      {
+        "title": "Creator advertising ultrapassa US$ 37 bilhões globalmente em 2025, com aceleração em 2026",
+        "source": "iMod Digital / B2The7",
+        "date": "Apr 25, 2026",
+        "url": "https://imoddigital.com/digital-marketing-seo-roundup-april-2026/",
+        "summary": "O mercado de publicidade via criadores de conteúdo ultrapassou US$ 37 bilhões globalmente em 2025 e segue em expansão em 2026, impulsionado pela integração de criadores diretamente em plataformas de anúncio como Meta Partnership Ads e TikTok Spark Ads. A tendência reflete a preferência do usuário por conteúdo autêntico sobre publicidade produzida, com marcas pagando prêmio por criativos com cara de conteúdo orgânico."
+      },
+      {
+        "title": "Vídeo vertical de curta duração lidera ROI entre todos os formatos de conteúdo pago em 2026",
+        "source": "B2The7 / Digital Marketing April 2026",
+        "date": "Apr 26, 2026",
+        "url": "https://www.b2the7.com/news-blog/marketing-trends-april-27-2026",
+        "summary": "Dados consolidados de plataformas de mídia paga confirmam que vídeo vertical de curta duração (até 30 segundos) entrega o maior retorno sobre investimento entre todos os formatos de conteúdo pago em 2026, superando imagem estática, carrossel e vídeo horizontal. O formato domina Reels, TikTok e YouTube Shorts, com CPMs geralmente menores e taxas de engajamento maiores que formatos tradicionais. Marcas que não produzem conteúdo nativo para vertical enfrentam desvantagem estrutural no leilão."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "SEO Week 2026 reúne líderes de busca com IA em Nova York de 27 a 30 de abril",
+        "source": "PR Newswire / Search Engine Journal",
+        "date": "Apr 27, 2026",
+        "url": "http://www.prnewswire.com/news-releases/seo-week-2026-brings-ai-search-leaders-to-new-yorkwith-the-lox-and-method-man-headlining-algorhythms-after-party-302753308.html",
+        "summary": "A SEO Week 2026, conferência da agência iPullRank, acontece de 27 a 30 de abril em Nova York com foco na interseção entre SEO e IA generativa. O evento reúne executivos de Google, Microsoft, OpenAI e líderes de SEO para discutir GEO, AI Overviews e o futuro da busca orgânica. A programação inclui workshops práticos sobre adaptação de estratégias de conteúdo para sistemas de busca generativos."
+      },
+      {
+        "title": "Google Search Console registra bug no filtro de vagas com zero impressões desde 16 de abril",
+        "source": "Optimixed / ROI Revolution",
+        "date": "Apr 21, 2026",
+        "url": "https://roirevolution.com/blog/april-2026-seo-news-recap/",
+        "summary": "O Google Search Console apresentou falha no relatório de performance ao filtrar por listagens de vagas de emprego, reportando zero impressões e cliques a partir de 16 de abril. O Google confirmou o bug mas não divulgou prazo de correção. Profissionais de SEO e sites de empregos devem usar períodos anteriores a 16 de abril como referência de performance e evitar decisões de otimização baseadas nos dados afetados."
+      },
+      {
+        "title": "AI Overviews deslocam resultados orgânicos em buscas informacionais, exigindo GEO como nova disciplina",
+        "source": "iMod Digital / Agência Novo Foco",
+        "date": "Apr 22, 2026",
+        "url": "https://imoddigital.com/digital-marketing-seo-roundup-april-2026/",
+        "summary": "Os AI Overviews do Google aparecem em proporção crescente das buscas informacionais, deslocando resultados orgânicos tradicionais para posições abaixo da dobra. A adaptação exige o desenvolvimento de GEO (Generative Engine Optimization), que combina autoridade temática, estrutura semântica e credibilidade editorial para que o conteúdo seja citado pelos sistemas generativos. Sites sem investimento em profundidade de conteúdo perdem visibilidade progressivamente."
+      },
+      {
+        "title": "Google Shopping expande anúncios pagos na grade de produtos, comprimindo espaço orgânico de varejistas",
+        "source": "Optimixed / Search Engine Land",
+        "date": "Apr 21, 2026",
+        "url": "https://www.optimixed.com/daily-search-forum-recap-april-21-2026/",
+        "summary": "O Google Shopping ampliou a proporção de slots pagos dentro da grade de listagem de produtos, comprimindo a visibilidade orgânica para varejistas sem campanhas ativas. A mudança segue a tendência histórica de monetização crescente do espaço de busca, com o Shopping tornando-se progressivamente pago mesmo para categorias antes dominadas por resultados gratuitos. Varejistas dependentes de tráfego orgânico via Shopping precisam reavaliar a estratégia de mídia paga."
+      },
+      {
+        "title": "TikTok Shop projeta ultrapassar US$ 20 bilhões em vendas nos EUA em 2026",
+        "source": "B2The7 / iMod Digital April 2026",
+        "date": "Apr 25, 2026",
+        "url": "https://www.b2the7.com/news-blog/marketing-trends-april-27-2026",
+        "summary": "O TikTok Shop registrou US$ 15,8 bilhões em vendas nos EUA em 2025 e está projetado para ultrapassar US$ 20 bilhões em 2026, consolidando a plataforma como player relevante de social commerce. O crescimento é impulsionado pela integração nativa de anúncios de produto com o feed de vídeo e pela adesão crescente de marcas de médio porte. Para profissionais de marketing, o dado reforça a necessidade de estratégias de conteúdo específicas para conversão in-app."
+      },
+      {
+        "title": "Estratégia barbell de conteúdo emerge como resposta às exigências simultâneas do algoritmo e do usuário",
+        "source": "RD Station / Orgânica Digital",
+        "date": "Apr 23, 2026",
+        "url": "https://www.rdstation.com/blog/marketing/tendencias-marketing-e-vendas/",
+        "summary": "A barbell content strategy consolida-se como modelo para marcas que precisam atender ao algoritmo e ao usuário simultaneamente: conteúdo muito curto para descoberta e distribuição em redes sociais combinado com conteúdo profundo e longo para decisão de compra e SEO. Conteúdo intermediário como posts de blog de 500 palavras sem profundidade perde relevância em ambos os contextos. A divisão exige planejamento editorial claro sobre o papel de cada formato na jornada."
+      },
+      {
+        "title": "Dados próprios deixam de ser vantagem competitiva e passam a ser pré-requisito operacional em 2026",
+        "source": "Meio e Mensagem / Kantar",
+        "date": "Apr 24, 2026",
+        "url": "https://www.meioemensagem.com.br/marketing/tendencias-que-devem-moldar-marketing-e-vendas-em-2026",
+        "summary": "O cenário de 2026 consolida a coleta e ativação de dados próprios como requisito operacional básico, não diferencial estratégico. A eliminação progressiva de cookies de terceiros, combinada com restrições crescentes das plataformas de anúncio, torna inviável operar em mídia paga com qualidade sem uma base própria de dados de audiência. Empresas sem CRM ativo e estratégia de captura de dados enfrentam CPAs crescentes sem alavanca de melhoria."
+      },
+      {
+        "title": "RevOps assume papel operacional com metas e indicadores unificados entre marketing, vendas e CS",
+        "source": "Meio e Mensagem / RD Station",
+        "date": "Apr 23, 2026",
+        "url": "https://www.meioemensagem.com.br/opiniao/as-10-tendencias-de-marketing-e-vendas-para-2026",
+        "summary": "Revenue Operations consolidou-se em 2026 como função operacional real nas empresas de médio e grande porte, integrando as operações de marketing, vendas e customer success sob metas compartilhadas e uma visão única de receita. Empresas com RevOps maduro reportam ciclos de venda até 20% mais curtos e menor desperdício de leads entre as etapas do funil. A estrutura exige squads dedicados, processos sincronizados e painéis conectando dados de CRM, anúncios e produto."
+      },
+      {
+        "title": "IA no marketing ainda opera majoritariamente no nível operacional, longe do uso estratégico",
+        "source": "Alfa de Negócios / Propmark",
+        "date": "Apr 22, 2026",
+        "url": "https://www.alfadenegocios.com.br/2026/04/inteligencia-artificial-no-marketing.html",
+        "summary": "Pesquisa com profissionais de marketing indica que 71,2% já utilizam ou testaram IA em suas rotinas, mas a maioria dos usos se limita a tarefas operacionais como geração de copy, resumo de relatórios e edição de imagem. O potencial estratégico da IA, como modelagem de atribuição, previsão de demanda e personalização em escala, ainda é explorado por minoria. O dado aponta lacuna de capacitação que deve definir vantagem competitiva nos próximos dois a três anos."
+      },
+      {
+        "title": "Plataformas de automação de marketing integram agentes de IA que operam dentro dos fluxos de campanha",
+        "source": "GreatPages Blog / Orgânica Digital",
+        "date": "Apr 24, 2026",
+        "url": "https://blog.greatpages.com.br/post/automacao-marketing-2026-ia-omnichannel-tendencias",
+        "summary": "Plataformas como HubSpot, RD Station e ActiveCampaign integraram agentes de IA que operam dentro dos fluxos de automação para sugerir assuntos de email, criar variações de copy e construir fluxos a partir de objetivos de negócio em linguagem natural. A mudança transfere parte do trabalho de configuração técnica para instrução em linguagem natural, reduzindo a curva de aprendizado para equipes menores. O risco é a delegação sem supervisão de decisões que afetam o relacionamento com leads."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Adobe rebatiza Experience Cloud como CX Enterprise com agentes de IA persistentes chamados 'Coworkers'",
+        "source": "MarTech / MarketingProfs AI Update",
+        "date": "Apr 24, 2026",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "summary": "A Adobe reposicionou o Experience Cloud como CX Enterprise, uma plataforma centrada em IA agêntica que unifica capacidades criativas, de marketing e de experiência do cliente. O diferencial são os 'Coworkers', agentes de IA persistentes que orquestram tarefas entre sistemas e operam continuamente em direção a objetivos de negócio definidos. A mudança posiciona a Adobe em competição direta com Salesforce Agentforce e Microsoft Copilot Studio no segmento de automação agêntica corporativa."
+      },
+      {
+        "title": "OpenAI lança GPT-5.5 e agentes de workspace no ChatGPT para equipes empresariais",
+        "source": "MarketingProfs AI Update April 24 / The AI Marketers",
+        "date": "Apr 24, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54587/ai-update-april-24-2026-ai-news-and-views-from-the-past-week",
+        "summary": "A OpenAI lançou o GPT-5.5 e introduziu agentes de workspace no ChatGPT para planos Business, Enterprise e Education, permitindo que equipes criem e compartilhem agentes de IA que executam tarefas integradas a ferramentas como Slack e Gmail. Os agentes coletam contexto, seguem fluxos de trabalho definidos, solicitam aprovações e melhoram com o uso. Para equipes de marketing, o recurso abre possibilidade de automação de ciclos de análise e relatório sem desenvolvimento personalizado."
+      },
+      {
+        "title": "Google Stitch recebe canvas infinito e agente de design que lê o contexto completo do projeto",
+        "source": "MarketingProfs AI Update / The AI Marketers",
+        "date": "Apr 25, 2026",
+        "url": "https://www.theaimarketers.ai/042526/",
+        "summary": "A ferramenta de design Stitch do Google foi redesenhada com um canvas infinito que aceita imagens, código ou especificações em texto como ponto de partida criativo. O novo agente de design lê o canvas inteiro de uma vez, permitindo instruções como 'substitua o logo' ou 'construa um brief a partir das telas existentes' sem perda de contexto. A ferramenta compete com Figma AI e Adobe Firefly no segmento de design assistido por IA."
+      },
+      {
+        "title": "Anthropic lança Claude Design para criação de decks, landing pages e protótipos em linguagem natural",
+        "source": "The AI Marketers / Need to Know News April 25",
+        "date": "Apr 25, 2026",
+        "url": "https://www.theaimarketers.ai/042526/",
+        "summary": "A Anthropic lançou Claude Design, funcionalidade que permite criar pitch decks, landing pages e protótipos funcionais a partir de descrições em linguagem natural, devolvendo um primeiro rascunho em formato de arquivo editável. A ferramenta é voltada para profissionais de marketing e produto que precisam de rascunhos rápidos sem depender de designers para cada iteração. O lançamento expande a competição no segmento de criação de conteúdo visual assistida por IA, ao lado de Canva AI e Gamma."
+      },
+      {
+        "title": "WPP integra Google Earth AI ao WPP Open para planejamento de mídia com dados geoespaciais reais",
+        "source": "MarTech / MarketingProfs AI Update",
+        "date": "Apr 22, 2026",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "summary": "O grupo WPP integrou o Google Earth AI ao WPP Open, sua plataforma de marketing centralizada, permitindo que campanhas incorporem dados físicos e geoespaciais reais no planejamento de targeting e compra de mídia. A integração possibilita segmentar audiências com base em padrões de mobilidade urbana ou proximidade a pontos de venda físicos. Para anunciantes de varejo e QSR, o recurso abre uma nova dimensão de dado contextual para campanhas de performance local."
+      },
+      {
+        "title": "Google Workspace Intelligence conecta dados entre Docs, Sheets e Gmail com assistência contextual em tempo real",
+        "source": "MarketingProfs AI Update / AI News",
+        "date": "Apr 23, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54587/ai-update-april-24-2026-ai-news-and-views-from-the-past-week",
+        "summary": "O Google expandiu as capacidades do Workspace com o Workspace Intelligence, sistema que conecta dados entre Docs, Sheets, Gmail e Meet para fornecer assistência contextual em tempo real. O sistema entende o contexto de documentos e emails relacionados ao trabalhar em qualquer aplicativo do pacote, eliminando a necessidade de copiar contexto manualmente entre ferramentas. Para equipes de marketing, o impacto prático é na produção de relatórios e briefs que dependem de dados distribuídos em múltiplos formatos."
+      },
+      {
+        "title": "Sebrae lança imersão gratuita sobre IA para empreendedores com foco em aplicação prática de marketing",
+        "source": "Perfil News / Jrs Comunicação",
+        "date": "Apr 23, 2026",
+        "url": "https://www.perfilnews.com.br/2026/04/23/sebrae-ms-promove-imersao-online-e-gratuita-sobre-inteligencia-artificial-para-empreendedores/",
+        "summary": "O Sebrae Mato Grosso do Sul lançou imersão online e gratuita sobre IA voltada para empreendedores de pequeno porte, com foco em aplicação prática de ferramentas de IA para marketing, vendas e atendimento. O contexto: 54% das pequenas empresas já usam IA no marketing e outros 27% planejam adotar em 2026. A formação responde à demanda crescente de capacitação na base do mercado, onde a adoção avança mais rápido que o conhecimento de uso estratégico."
+      },
+      {
+        "title": "IA generativa lidera adoção entre ferramentas de marketing com foco em conteúdo e automação de campanhas",
+        "source": "Vanguarda Martech / Agência Titânio",
+        "date": "Apr 21, 2026",
+        "url": "https://vanguardamartech.com.br/10-ferramentas-ia-marketing-2026/",
+        "summary": "Levantamento sobre adoção de ferramentas de IA em marketing aponta geração de conteúdo e automação de campanhas como os casos de uso mais adotados em 2026, com plataformas como Jasper, Copy.ai, Midjourney e ferramentas nativas das plataformas de anúncio liderando a preferência. A fronteira entre ferramenta especializada e funcionalidade nativa das plataformas principais está se estreitando. Ferramentas independentes precisam oferecer diferenciação clara para justificar custo adicional."
+      },
+      {
+        "title": "Microsoft Copilot Studio ganha capacidades agênticas para compra de mídia programática",
+        "source": "Search Engine Land / MarTech",
+        "date": "Apr 24, 2026",
+        "url": "https://searchengineland.com/2026-ppc-trends-466067",
+        "summary": "O Microsoft Copilot Studio recebeu novas capacidades para operar como agente autônomo em fluxos de compra de mídia programática, conectando dados de intenção do Bing com inventário de Display e Video. O desenvolvimento faz parte da estratégia da Microsoft de posicionar o Copilot como intermediário no processo de compra mediado por IA, onde agentes tomam decisões de targeting e lance sem intervenção humana direta. Anunciantes em plataformas Microsoft devem monitorar o impacto nas métricas de eficiência de campanha."
+      },
+      {
+        "title": "80% das pequenas empresas devem usar IA no marketing até o fim de 2026, aponta projeção do setor",
+        "source": "Jrs Comunicação / Automação de Marketing GreatPages",
+        "date": "Apr 22, 2026",
+        "url": "https://jrscomunicacao.com/marketing-ia-2026/",
+        "summary": "Projeções do setor indicam que mais de 80% das pequenas empresas deverão adotar alguma ferramenta de IA em suas operações de marketing até o final de 2026, ante 54% que já utilizam atualmente. O crescimento é impulsionado pela queda de custo e simplificação de interface das ferramentas, que agora operam sem configuração técnica avançada. Para agências, o mercado de pequenas e médias empresas torna-se mais competitivo do ponto de vista de produção de conteúdo e automação."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://web.swipeinsight.app/topics/meta-ads",
+    "https://socialbee.com/blog/facebook-updates/",
+    "https://corebrief.in/meta-ads-updates-2026/",
+    "https://almcorp.com/blog/meta-ad-attribution-changes-2026/",
+    "https://admanage.ai/blog/meta-ads-update",
+    "https://www.socialmediatoday.com/news/meta-introduces-new-ad-and-discovery-options-at-iab-newfronts/815921/",
+    "https://www.socialmediatoday.com/news/meta-simplifies-ad-performance-elements/817629/",
+    "https://web.swipeinsight.app/topics/google-ads",
+    "https://www.optimixed.com/seo-daily-news-recaps-for-tuesday-april-21-2026/",
+    "https://almcorp.com/blog/google-ads-updates-2026/",
+    "https://paidsearch.org/top-10-ppc-news-parade-april-17-to-24-2026/",
+    "https://searchengineland.com/2026-ppc-trends-466067",
+    "https://paidsearchassociation.substack.com/p/your-ppc-links-from-the-paid-search-db5",
+    "https://www.promodo.com/blog/ppc-benchmarks",
+    "https://ppcchief.com/ppc-benchmarks-by-industry",
+    "https://imoddigital.com/digital-marketing-seo-roundup-april-2026/",
+    "https://www.b2the7.com/news-blog/marketing-trends-april-27-2026",
+    "https://www.alfadenegocios.com.br/2026/04/inteligencia-artificial-no-marketing.html",
+    "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+    "https://www.theaimarketers.ai/042526/",
+    "https://www.marketingprofs.com/opinions/2026/54587/ai-update-april-24-2026-ai-news-and-views-from-the-past-week"
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "id": "2026-06-01",
+  "label": "1-7 jun/26",
+  "label_full": "1 a 7 de junho de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta Business Agent chega a mais negocios e amplia automacao em WhatsApp, Messenger e Instagram",
+        "source": "Meta Newsroom",
+        "date": "Jun 3, 2026",
+        "url": "https://about.fb.com/news/2026/06/meta-business-agent/",
+        "summary": "A Meta apresentou o Business Agent como uma camada de IA para atendimento, recomendacao de produtos, qualificacao de leads e fechamento de vendas em canais de mensagem. Para anunciantes, o ponto pratico e claro: campanhas click-to-message passam a depender ainda mais da qualidade do fluxo pos-clique e da governanca do agente."
+      },
+      {
+        "title": "Creator Assistant e traducoes por IA reforcam escala de conteudo no Facebook",
+        "source": "Meta Newsroom",
+        "date": "Jun 4, 2026",
+        "url": "https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook/",
+        "summary": "A Meta anunciou Creator Assistant e ampliacao de traducoes por IA que preservam voz e tom do criador. Embora seja uma noticia mais organica do que de Ads Manager, ela afeta o ecossistema de criativos: marcas e creators ganham mais capacidade de localizar conteudo antes de transformar assets em midia paga."
+      },
+      {
+        "title": "Falha no suporte por Meta AI expõe risco operacional para contas de Instagram de alto valor",
+        "source": "TechCrunch",
+        "date": "Jun 1, 2026",
+        "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+        "summary": "Relatos indicaram que atacantes exploraram o chatbot de suporte da Meta para obter acesso a contas de Instagram. Para marcas e gestores de trafego, o aprendizado nao e sobre performance, mas sobre risco: contas sociais usadas como ativo de midia precisam de processos de recuperacao, 2FA, owners claros e plano de contingencia."
+      },
+      {
+        "title": "Meta confirma correcao de falha ligada a recuperacao de contas via suporte de IA",
+        "source": "The Guardian",
+        "date": "Jun 1, 2026",
+        "url": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
+        "summary": "A cobertura reforcou que a Meta disse ter resolvido o problema apos pesquisadores exporem o vetor de ataque. A leitura para operacao de marketing e dura: automacao de suporte em plataforma critica pode virar ponto unico de falha, principalmente para marcas que dependem de Instagram para vendas e reputacao."
+      },
+      {
+        "title": "Usuarios afetados pelo exploit de Meta AI comecam a receber alertas no Instagram",
+        "source": "Gadgets 360",
+        "date": "Jun 4, 2026",
+        "url": "https://www.gadgets360.com/apps/news/instagram-meta-ai-hack-account-takeover-fix-11588785",
+        "summary": "O Instagram passou a alertar usuarios afetados pelo incidente de tomada de contas. Para agencias, isso deve entrar em checklist de seguranca de contas: verificar emails, telefones, administradores, Business Manager e historico de alteracoes antes de rodar campanhas relevantes."
+      },
+      {
+        "title": "Meta, Microsoft e parceiros apoiam acao contra redes de golpes no Sudeste Asiatico",
+        "source": "Meta Newsroom",
+        "date": "Jun 3, 2026",
+        "url": "https://about.fb.com/news/2026/06/leading-tech-companies-law-enforcement-disrupt-criminal-scam-networks-in-southeast-asia/",
+        "summary": "A Meta divulgou cooperacao com empresas de tecnologia e autoridades para interromper redes de golpes. O tema importa para midia paga porque fraude, impersonacao e paginas falsas continuam contaminando confianca em anuncios e atendimento via mensagem."
+      },
+      {
+        "title": "Analise de atribuicao no Meta Ads volta ao centro da rotina de diagnostico",
+        "source": "Jon Loomer",
+        "date": "Jun 2, 2026",
+        "url": "https://www.jonloomer.com/meta-ads-attribution-reporting/",
+        "summary": "Jon Loomer destacou a necessidade de usar breakdowns e comparacao de janelas de atribuicao para interpretar resultados de Meta Ads. O ponto e pragmatico: antes de chamar uma campanha de vencedora ou perdedora, o gestor precisa separar clique, view, janela e qualidade real da conversao."
+      },
+      {
+        "title": "Customer Lifecycle Strategy e lida como sinal de que Meta quer mais contexto de funil",
+        "source": "Jon Loomer",
+        "date": "Jun 4, 2026",
+        "url": "https://www.jonloomer.com/customer-lifecycle-strategy-not-what-advertisers-thought/amp/",
+        "summary": "A discussao sobre Customer Lifecycle Strategy reforca que a Meta esta empurrando anunciantes para estruturar melhor aquisicao, retencao e valor de cliente. A premissa que precisa ser testada e se a plataforma consegue inferir esse ciclo com qualidade sem bons eventos, CRM e exclusoes."
+      },
+      {
+        "title": "Relatos de anunciantes apontam instabilidade em performance, mas evidencia ainda e anedotica",
+        "source": "Reddit r/FacebookAds",
+        "date": "Jun 7, 2026",
+        "url": "https://www.reddit.com/r/FacebookAds/comments/1tyxaz4/what_the_hell_is_happening_to_meta_ads_right_now/",
+        "summary": "Uma thread com anunciantes relatou queda brusca de performance em Meta Ads. Isso nao prova falha sistemica da plataforma. Serve como alerta fraco, mas util, para comparar contra status page, mudancas de criativo, tracking, estoque, landing page e mix de canais antes de concluir que o problema e do leilao."
+      },
+      {
+        "title": "Enhance Media Text gera risco de alteracao indevida em promessa promocional",
+        "source": "Reddit r/FacebookAds",
+        "date": "Jun 4, 2026",
+        "url": "https://www.reddit.com/r/FacebookAds/comments/1twfbdk/facebook_changed_my_promo_from_buy_2_get_1_free/",
+        "summary": "Um anunciante relatou que o Enhance Media Text teria alterado a promocao de um criativo. Como relato de forum, isso deve ser verificado caso a caso. Mesmo assim, o risco operacional e real: automacoes criativas que mexem em oferta, preco ou condicao comercial devem ficar desligadas ou sob revisao rigorosa."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google Ads ganha tela nativa de Leads dentro de Conversoes",
+        "source": "PPC Land",
+        "date": "Jun 1, 2026",
+        "url": "https://ppc.land/google-ads-gets-a-native-leads-screen-that-bypasses-the-crm-tab/",
+        "summary": "O Google adicionou uma tela de Leads na area de Conversoes para exibir estagios como raw, qualified, converted e lost. O recurso reduz dependencia imediata de CRM para formularios hospedados pelo Google, mas tambem cria risco de leitura parcial: leads ficam retidos por janela curta e precisam continuar integrados ao funil real."
+      },
+      {
+        "title": "Adswerve entra no programa GIP do Google para recuperar sinais de conversao",
+        "source": "PPC Land",
+        "date": "Jun 2, 2026",
+        "url": "https://ppc.land/adswerve-joins-google-gip-as-north-american-partner-to-recover-lost-ad-signals/",
+        "summary": "A Adswerve foi nomeada parceira norte-americana do GCS Implementation Partner, ligado ao Data Strength Partner Program do Google. A direcao e inequívoca: Google Tag Gateway, enhanced conversions e infraestrutura first-party estao virando requisito operacional para quem depende de Smart Bidding."
+      },
+      {
+        "title": "Demand Gen e Discovery recebem esclarecimento sobre categorias sensiveis",
+        "source": "PPC Land",
+        "date": "Jun 6, 2026",
+        "url": "https://ppc.land/google-tightens-demand-gen-and-discovery-ad-serving-for-sensitive-categories/",
+        "summary": "O Google esclareceu que Demand Gen e Discovery usam audiencias curadas pelo anunciante por padrao e podem ter restricoes quando o produto cai em categorias sensiveis. Verticais como saude, financeiro, alcool e jogos precisam revisar setup antes de culpar criativo ou lance por falta de entrega."
+      },
+      {
+        "title": "Google bloqueia anuncios de prediction markets em Ohio a partir de 2 de junho",
+        "source": "PPC Land",
+        "date": "Jun 6, 2026",
+        "url": "https://ppc.land/google-bans-prediction-market-ads-in-ohio-as-state-gambling-fight-escalates/",
+        "summary": "O Google removeu Ohio da lista de estados permitidos para anuncios de prediction markets, efetivo em 2 de junho. Para contas reguladas, o recado e que certificacao nacional nao basta: segmentacao geografica precisa acompanhar disputas legais estaduais quase em tempo real."
+      },
+      {
+        "title": "GA4 Measurement Protocol entra em modo de manutencao e pressiona migracao para Data Manager API",
+        "source": "PPC Land Notes",
+        "date": "Jun 7, 2026",
+        "url": "https://notes.ppc.land/p/ga4-goes-quiet-microsoft-rewires",
+        "summary": "A documentacao do Google passou a indicar que o GA4 Measurement Protocol esta em maintenance mode, sem novos recursos planejados. Para times de mensuracao, isso enfraquece a aposta em pipelines legados de eventos server-side e aumenta a urgencia de avaliar Data Manager API."
+      },
+      {
+        "title": "Google Ads limita dados granulares a janela de 37 meses desde 1 de junho",
+        "source": "PPC Land",
+        "date": "Jun 1, 2026",
+        "url": "https://ppc.land/google-ads-cuts-granular-data-access-to-37-months-starting-june-2026/",
+        "summary": "A mudanca de retencao reduz acesso a dados diarios, semanais e horarios antigos em Google Ads e APIs relacionadas. Dashboards que comparam mais de tres anos em granularidade fina devem ajustar queries, exportar historico e evitar backfills que retornem vazio."
+      },
+      {
+        "title": "Google Signals perde autoridade sobre dados de Ads em 15 de junho",
+        "source": "PPC Land",
+        "date": "Jun 15, 2026",
+        "url": "https://ppc.land/google-strips-analytics-of-ad-data-authority-in-june-2026-consent-overhaul/",
+        "summary": "A partir de 15 de junho, o ad_storage do Consent Mode passa a ser o controle central para coleta de dados de Google Ads em contas vinculadas. A mudanca obriga revisao de CMP, tags e documentacao de consentimento, porque a configuracao antiga em GA4 deixa de ser suficiente."
+      },
+      {
+        "title": "Google Display Ads migra para Demand Gen sem encerrar entrega exclusiva na GDN",
+        "source": "Google Blog",
+        "date": "May 26, 2026",
+        "url": "https://blog.google/products/ads-commerce/google-display-ads-demand-gen/",
+        "summary": "O Google comunicou a migracao de Display Ads para Demand Gen, preservando a possibilidade de veicular apenas na GDN. A implicacao pratica e revisar naming, comparativos historicos e controles de inventario antes que a mudanca seja tratada como simples renomeacao."
+      },
+      {
+        "title": "Google Ads API amplia relatorios de produto para todos os tipos de campanha em 15 de junho",
+        "source": "PPC Land",
+        "date": "Jun 15, 2026",
+        "url": "https://ppc.land/google-ads-api-to-expand-product-reporting-for-all-campaign-types-on-june-15/",
+        "summary": "A API passara a expor metricas de custo e conversao para Video, Demand Gen e App campaigns, alem de fechar lacunas de Performance Max. Times com catalogos e BI devem preparar schemas para aproveitar a granularidade sem misturar series historicas incompatíveis."
+      },
+      {
+        "title": "AI Max e formatos de Search com Gemini reforcam nova arquitetura de intencao",
+        "source": "Google Blog",
+        "date": "May 20, 2026",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads",
+        "summary": "Os novos formatos de Search com Gemini aproximam recomendacao, conversa e conversao dentro da busca. A tese do Google e que o anuncio vira assistencia contextual; a contrapartida para gestores e medir qualidade de demanda, nao apenas cliques e CPA imediato."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "Microsoft Advertising prepara UTMs por formato para separar Search, Audience, Shopping, Video e PMax",
+        "source": "PPC Land",
+        "date": "Jun 6, 2026",
+        "url": "https://ppc.land/microsoft-advertisings-utm-fix-will-finally-separate-bing-campaign-types/",
+        "summary": "A Microsoft anunciou que a partir de setembro aplicara UTMs auto-tagged por formato de campanha. O ajuste corrige uma distorcao relevante em GA4 e outras ferramentas, onde Audience Ads, Shopping e Performance Max podiam aparecer agrupados como Paid Search."
+      },
+      {
+        "title": "Microsoft Audience Ads abre inventario para exchanges de cripto em mercados elegiveis",
+        "source": "PPC Land",
+        "date": "Jun 6, 2026",
+        "url": "https://ppc.land/microsoft-advertising-opens-audience-ads-to-crypto-exchanges-in-all-markets/",
+        "summary": "A Microsoft expandiu o piloto de publicidade para exchanges de criptomoedas no Audience Network, onde a categoria era restrita a Search desde 2022. A mudanca abre alcance prospectivo, mas exige certificacao e compliance estrito por mercado."
+      },
+      {
+        "title": "DoorDash Ads expande commerce media com LiveRamp, formatos premium e offsite",
+        "source": "Marketing Dive",
+        "date": "Jun 4, 2026",
+        "url": "https://www.marketingdive.com/news/doordash-upgrades-ad-platform-with-liveramp-pact-premium-ad-formats/821976/",
+        "summary": "DoorDash ampliou sua plataforma de ads com clean rooms via LiveRamp, novos formatos e capacidades offsite. Para PPC, e mais um sinal de que retail media e commerce media estao competindo por verba de performance fora dos walled gardens tradicionais."
+      },
+      {
+        "title": "Walmart Connect amplia estrategia offsite com Yahoo DSP e Magnite",
+        "source": "Marketing Dive",
+        "date": "Jun 1, 2026",
+        "url": "https://www.marketingdive.com/news/walmart-connect-expands-offsite-advertising-ambitions-with-yahoo-magnite/821575/",
+        "summary": "O Walmart Connect fechou novas parcerias para ativar dados e mensuracao em ambientes programaticos, com foco inicial em CTV. O movimento reforca a convergencia entre retail media, video conectado e closed-loop measurement."
+      },
+      {
+        "title": "ChatGPT Ads inicia campanhas otimizadas para conversao em beta",
+        "source": "PPC Land",
+        "date": "Jun 5, 2026",
+        "url": "https://searchengineland.com/openai-confirms-conversion-focused-ads-are-coming-to-chatgpt-478843",
+        "summary": "A OpenAI preparou rollout de campanhas conversion-optimized para anunciantes com Pixel ou Conversions API configurados. A oportunidade e testar contexto conversacional como midia de performance; o risco e confundir novidade de canal com incrementalidade comprovada."
+      },
+      {
+        "title": "Criteo reduz estimativas de crescimento ligadas ao piloto de ChatGPT Ads",
+        "source": "PPC Land",
+        "date": "Jun 8, 2026",
+        "url": "https://ppc.land/ga4-maintenance-mode-and-criteo-chatgpt-cuts-reshape-ad-infrastructure/",
+        "summary": "A cobertura da semana apontou que expectativas comerciais em torno de ChatGPT Ads estao sendo recalibradas. Para gestores, a leitura correta e testar o canal com eventos limpos e comparacao incremental, sem assumir que trafego de IA sera automaticamente mais eficiente."
+      },
+      {
+        "title": "DoubleVerify amplia mensuracao pos-bid para LinkedIn Audience Network",
+        "source": "PPC Land",
+        "date": "May 2026",
+        "url": "https://ppc.land/doubleverify-brings-post-bid-measurement-to-linkedin-audience-network/",
+        "summary": "A expansao de medicao de IVT, viewability, brand suitability e geografia para LinkedIn Audience Network melhora controle de qualidade em B2B paid media. O ponto pratico e separar escala de inventario de qualidade real antes de mover budget para audience extension."
+      },
+      {
+        "title": "LinkedIn data chega ao Amazon DSP CTV via Microsoft Monetize",
+        "source": "PPC Land",
+        "date": "May 7, 2026",
+        "url": "https://ppc.land/microsoft-monetizes-survival-bet-linkedin-data-on-amazon-dsp-ctv/",
+        "summary": "A combinacao de dados profissionais do LinkedIn com CTV via Amazon DSP cria uma rota nova para B2B em video conectado. A oportunidade e segmentacao profissional em ambiente de alcance; a cautela e provar frequencia, lift e atribuicao fora do clique."
+      },
+      {
+        "title": "Novo papel do profissional de PPC migra de keyword manager para system optimizer",
+        "source": "Search Engine Land",
+        "date": "Jun 3, 2026",
+        "url": "https://searchengineland.com/new-ppc-skill-set-system-optimizer-479316",
+        "summary": "A analise defende que Google Ads orientado por IA muda o trabalho de execucao para desenho de sinais, arquitetura de conversao e supervisao do sistema. E uma leitura correta, mas incompleta se ignorar fundamentos: oferta, margem e qualidade de dados ainda mandam."
+      },
+      {
+        "title": "Programatica e retail media aceleram disputa por inventario de CTV e dados first-party",
+        "source": "Marketing Dive",
+        "date": "Jun 2026",
+        "url": "https://www.marketingdive.com/news/inside-walmart-connect-as-retail-media-ctv-convergence-accelerates/807682/",
+        "summary": "A convergencia entre retail media e CTV fica mais clara com players como Walmart Connect buscando inventario, mensuracao e dados proprietarios. Para PPC, isso amplia o menu de canais, mas tambem aumenta a exigencia de MMM, testes de lift e governanca de frequencia."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Indeed reposiciona marca com campanha Jobs Need People em meio a fadiga de processos automatizados",
+        "source": "Marketing Dive",
+        "date": "Jun 3, 2026",
+        "url": "https://www.marketingdive.com/news/indeed-addresses-job-market-disconnect-with-ads-that-put-people-first/821847/",
+        "summary": "A campanha da Indeed responde a frustracoes de candidatos com ghosting e filtragem automatizada. Para marketing, e um exemplo forte de marca usando tensao cultural real contra uma categoria cada vez mais automatizada, sem vender IA como resposta universal."
+      },
+      {
+        "title": "NBCU defende premium video como contrapeso ao crescimento de social e creator marketing",
+        "source": "Marketing Dive",
+        "date": "Jun 1, 2026",
+        "url": "https://www.marketingdive.com/news/nbcu-points-to-premium-videos-broad-value-as-social-marketing-rises/821533/",
+        "summary": "A NBCU e a Gain Theory argumentam que premium video sustenta meio de funil e decisoes de compra, mesmo com social capturando verba. A leitura imparcial: e defesa interessada de um vendedor de inventario, mas obriga marcas a testar mix em vez de migrar tudo para lower funnel."
+      },
+      {
+        "title": "McDonald's dobra aposta em cultura, social e creators no plano McDonald's NEXT",
+        "source": "Marketing Dive",
+        "date": "Jun 3, 2026",
+        "url": "https://www.marketingdive.com/news/how-mcdonalds-is-serving-up-culture-as-part-of-its-new-strategic-plan/821833/",
+        "summary": "O McDonald's explicitou social media e creators como parte de um plano estrategico maior, nao como tática solta. O aprendizado para marcas menores e que cultura nao se compra apenas com post oportunista: precisa de processo, velocidade e criterio editorial."
+      },
+      {
+        "title": "Coca-Cola fecha campanha de Copa com aposta em emocao coletiva e assets globais",
+        "source": "Marketing Dive",
+        "date": "Jun 5, 2026",
+        "url": "https://www.marketingdive.com/news/campaign-trail-coca-cola-rides-a-roller-coaster-of-world-cup-emotions/821781/",
+        "summary": "A Coca-Cola lancou o filme No Better Feeling como parte da campanha Feel It All para a Copa. A execucao mostra uma estrategia classica, mas ainda poderosa: usar evento global para construir memoria emocional, depois adaptar distribuicao por mercado."
+      },
+      {
+        "title": "Greenlane Index resume impacto de core update, bug no Search Console e trafego de IA ainda pequeno",
+        "source": "Greenlane",
+        "date": "Jun 2, 2026",
+        "url": "https://www.greenlanemarketing.com/resources/articles/greenlane-index-may-2026",
+        "summary": "O roundup de SEO destacou o fim do March Core Update, bug prolongado no Search Console e dados que sugerem trafego de IA ainda pequeno em muitos cenarios. A conclusao mais honesta: AI search importa estrategicamente, mas nao justifica abandonar SEO tecnico e conteudo confiavel."
+      },
+      {
+        "title": "Marketing Agent Blog aponta IA, busca generativa e risco de plataforma como temas centrais da semana",
+        "source": "Marketing Agent Blog",
+        "date": "Jun 4, 2026",
+        "url": "https://marketingagent.blog/2026/06/04/top-daily-marketing-stories-today-june-4-2026/",
+        "summary": "O resumo de 4 de junho agrupou AI search, SEMrush, incidentes em Meta AI e instabilidade em Shopify como sinais de que marketing digital depende cada vez mais de infraestrutura. Como fonte agregadora, deve ser tratada como mapa de temas, nao como fonte primaria."
+      },
+      {
+        "title": "Marcas entram na fase final de ativacoes para a Copa de 2026",
+        "source": "Marketing Dive",
+        "date": "Jun 2026",
+        "url": "https://www.marketingdive.com/news/how-brands-are-taking-the-marketing-pitch-for-the-world-cup/818434/",
+        "summary": "A cobertura acompanha campanhas de marcas para a Copa que comeca em 11 de junho. O ponto para estrategistas e que grandes eventos continuam sendo uma das poucas ocasioes capazes de unir TV, creators, varejo, social e experiencias em uma narrativa comum."
+      },
+      {
+        "title": "Seafoam sintetiza junho como mes de GEO, AI SEO e diversificacao de canais",
+        "source": "Seafoam Media",
+        "date": "Jun 2026",
+        "url": "https://seafoammedia.com/june-2026-marketing-news-trends-insights/",
+        "summary": "A analise coloca generative engine optimization e diversificacao de canais no centro das prioridades. A premissa e plausivel, mas deve ser testada: marcas precisam medir visibilidade em IA sem inflar o tema alem da contribuicao real para receita."
+      },
+      {
+        "title": "Café Bustelo transforma cultura latina em tattoos temporarias antes da Copa",
+        "source": "Marketing Dive",
+        "date": "Jun 1, 2026",
+        "url": "https://www.marketingdive.com/news/cafe-bustelo-turns-latin-culture-into-temporary-tattoos-ahead-of-world-cup/821579/",
+        "summary": "A cobertura de criativos da semana destacou ativacoes culturais como a de Cafe Bustelo no contexto da Copa. Mesmo quando a noticia aparece em bloco de leitura recomendada, o sinal de mercado e claro: marcas estao usando identidade cultural e fandom esportivo como atalhos de relevancia."
+      },
+      {
+        "title": "Snickers ganha reforco de Reeses em campanha de peanut butter",
+        "source": "Marketing Dive",
+        "date": "Jun 2, 2026",
+        "url": "https://www.marketingdive.com/news/snickers-wins-praise-from-reeses-for-bigger-push-behind-peanut-butter/821696/",
+        "summary": "A semana tambem trouxe campanhas de CPG usando colisoes de categoria e humor social para gerar conversa. Como o link agrega chamadas de Creative, a leitura deve ser conservadora: e um sinal de tendencia criativa, nao um estudo de eficacia."
+      }
+    ],
+    "ia": [
+      {
+        "title": "ChatGPT Ads avanca para otimizacao por conversao com Pixel e Conversions API",
+        "source": "PPC Land",
+        "date": "Jun 5, 2026",
+        "url": "https://ppc.land/openais-chatgpt-ads-are-getting-conversion-optimization-heres-what-changes/",
+        "summary": "A OpenAI vinculou acesso antecipado a campanhas otimizadas por conversao ao setup de Pixel ou Conversions API. Para marketing, isso marca a transicao de anuncios em IA de experimento de awareness para infraestrutura de performance, ainda sem prova ampla de incrementalidade."
+      },
+      {
+        "title": "OpenAI formaliza novas rotas de compra para ChatGPT Ads por parceiros",
+        "source": "OpenAI",
+        "date": "May 5, 2026",
+        "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads/",
+        "summary": "A OpenAI explicou que anunciantes podem comprar ChatGPT Ads por parceiros que apoiam budget, lances e criativos, enquanto o sistema da OpenAI controla entrega. Isso reduz friccao de entrada, mas deixa uma pergunta critica: quanto controle e transparencia o anunciante realmente tera?"
+      },
+      {
+        "title": "Anthropic mostra como sua propria equipe de marketing usa Claude Cowork",
+        "source": "Anthropic",
+        "date": "Jun 4, 2026",
+        "url": "https://www.anthropic.com/webinars/how-anthropics-marketing-team-uses-claude-cowork",
+        "summary": "O webinar da Anthropic sobre uso de Claude Cowork em marketing sinaliza uma disputa por workflows internos, nao apenas por chatbots genericos. O valor potencial esta em pesquisa, briefing, operacao e colaboracao; a limitacao continua sendo governanca de dados e criterio humano."
+      },
+      {
+        "title": "Claude for Small Business conecta IA a ferramentas operacionais e marketing",
+        "source": "Anthropic",
+        "date": "May 2026",
+        "url": "https://www.anthropic.com/news/claude-for-small-business?hsLang=en",
+        "summary": "A Anthropic posicionou Claude for Small Business dentro de ferramentas como HubSpot, Canva, Google Workspace e Microsoft 365. Para pequenas empresas, o ganho esta em tirar IA do prompt isolado e levar para tarefas de campanha, atendimento e operacao."
+      },
+      {
+        "title": "Gemini avanca como app mais agentico com ajuda proativa",
+        "source": "Google Blog",
+        "date": "May 2026",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+        "summary": "O Google apresentou uma evolucao do Gemini com recursos mais agenticos e ajuda proativa. Para marketers, isso muda a interface de busca, planejamento e execucao: usuarios vao delegar mais etapas, e marcas precisam ser legiveis para agentes, nao apenas para SERPs."
+      },
+      {
+        "title": "Gemini adiciona conectores com Adobe e Canva para criacao agentica",
+        "source": "Gadgets 360",
+        "date": "May 2026",
+        "url": "https://www.gadgets360.com/ai/news/google-gemini-adobe-canva-connectors-announced-agentic-design-creation-features-details-11528040/amp",
+        "summary": "Os conectores de Gemini com Adobe e Canva reforcam a competicao por fluxos criativos completos dentro de assistentes. A oportunidade e acelerar variacoes; o risco e producao visual generica se marca, diretor criativo e revisao forem fracos."
+      },
+      {
+        "title": "Claude para trabalho criativo integra design, prototipos e handoff",
+        "source": "Anthropic",
+        "date": "May 2026",
+        "url": "https://www.anthropic.com/news/claude-for-creative-work",
+        "summary": "A Anthropic posicionou Claude Design e parcerias criativas como extensao do trabalho de ideacao e prototipagem. Para marketing, isso pressiona times a separar exploracao rapida de producao final: IA pode abrir rotas, mas gosto e decisao ainda sao gargalos humanos."
+      },
+      {
+        "title": "Adobe leva IA agentica ao Firefly e prepara ponte com Claude",
+        "source": "Axios",
+        "date": "Apr 27, 2026",
+        "url": "https://www.axios.com/2026/04/27/adobe-agentic-ai-firefly-claude",
+        "summary": "A Adobe iniciou beta publico de um assistente agentico no Firefly e trabalha em versao para chatbots, com Claude no radar. A direcao e clara: ferramentas criativas estao virando agentes que executam etapas, nao apenas geradores de assets isolados."
+      },
+      {
+        "title": "Incidente de Meta AI vira alerta sobre agentes com permissao de suporte",
+        "source": "Ars Technica",
+        "date": "Jun 2026",
+        "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+        "summary": "A falha no chatbot de suporte da Meta e relevante para qualquer empresa adotando agentes em marketing, vendas ou atendimento. O problema nao e IA em abstrato; e dar ao agente permissao operacional sem verificacoes fortes, logs e limites de acao."
+      },
+      {
+        "title": "Relatorios sobre ferramentas de IA mostram fragmentacao, nao uma pilha vencedora unica",
+        "source": "TechRadar",
+        "date": "May 2026",
+        "url": "https://www.techradar.com/best/best-ai-tools",
+        "summary": "Testes amplos de ferramentas de IA mostram que a escolha depende do caso de uso: pesquisa, copy, design, automacao ou analise. A conclusao que muitos vendedores evitam admitir e simples: nao existe uma ferramenta unica que resolva o stack de marketing."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://ppc.land/google-ads-cuts-granular-data-access-to-37-months-starting-june-2026/",
+    "https://blog.google/products/ads-commerce/google-marketing-live-search-ads",
+    "https://ppc.land/doubleverify-brings-post-bid-measurement-to-linkedin-audience-network/",
+    "https://ppc.land/openais-chatgpt-ads-are-getting-conversion-optimization-heres-what-changes/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/"
+  ]
+}

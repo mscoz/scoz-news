@@ -1,0 +1,378 @@
+{
+  "id": "2026-04-06",
+  "label": "6-12 abr/26",
+  "label_full": "6 a 12 de abril de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta lança Muse Spark, ferramenta de criação de criativos com IA integrada ao Facebook e Instagram",
+        "source": "MSN / Multiple outlets",
+        "date": "Apr 09, 2026",
+        "url": "https://www.msn.com/en-us/news/technology/meta-will-soon-roll-out-its-new-ai-program-to-facebook-and-instagram/vi-AA20xmEA",
+        "summary": "Meta introduziu Muse Spark, ferramenta de geração de assets criativos integrada diretamente ao Facebook e Instagram. O recurso automatiza a produção de variantes visuais e permite que anunciantes testem diversidade criativa com menor atrito operacional. O objetivo declarado é reduzir ciclos de fadiga ao acelerar a reposição de criativos sem depender de equipe de produção externa."
+      },
+      {
+        "title": "Meta redesenha Partnership Ads Hub e expande Reels Trending Ads para TV, Finanças e Viagem",
+        "source": "SocialBee",
+        "date": "Apr 07, 2026",
+        "url": "https://socialbee.com/blog/facebook-updates/",
+        "summary": "O Partnership Ads Hub foi reformulado para facilitar gestão de colaborações entre marcas e criadores. Os Reels Trending Ads foram expandidos para incluir as categorias TV e Filmes, Viagem, e Negócios e Finanças. Anunciantes agora podem alinhar campanhas a eventos como Fashion Week e F1, com posicionamento contextual similar ao TikTok Pulse."
+      },
+      {
+        "title": "Advantage+ Creative Image Touch-ups adiciona recorte automático para Feed e Reels em anúncios de catálogo",
+        "source": "Instagram / Meta Updates",
+        "date": "Apr 06, 2026",
+        "url": "https://www.instagram.com/p/DW6Q9tBFdWk/",
+        "summary": "Meta lançou recorte automático de imagens para anúncios de catálogo via Advantage+ Creative. O recurso adapta imagens para as proporções de Feed (4:5) e Reels/Stories (9:16) sem intervenção manual. Para anunciantes com catálogos grandes, elimina a necessidade de criar assets separados por formato e reduz tempo de setup de campanhas."
+      },
+      {
+        "title": "Meta reclassifica atribuição de clique: somente cliques em links contam como click-through a partir de março",
+        "source": "Two Octobers / AdManage.ai",
+        "date": "Apr 07, 2026",
+        "url": "https://twooctobers.com/blog/digital-marketing-updates-april-2026/",
+        "summary": "Meta reclassificou conversões em 3 de março: apenas cliques em links são contabilizados como click-through, enquanto curtidas e comentários passaram para engage-through. Contas que monitoram tendência de conversões podem registrar queda aparente nos relatórios sem que haja deterioração real de performance. A distinção é crítica para evitar otimizações incorretas baseadas em variação de relatório."
+      },
+      {
+        "title": "Algoritmo Andromeda registra aumento de 5% em conversões no Q2 com projeção de dobrar até Q3",
+        "source": "Social Media Examiner",
+        "date": "Apr 08, 2026",
+        "url": "https://www.socialmediaexaminer.com/facebook-ad-algorithm-changes-for-2026-what-marketers-need-to-know/",
+        "summary": "O Andromeda, algoritmo de distribuição de anúncios da Meta, registrou melhoria de 5% em conversões durante testes beta no Q2, com expectativa de dobrar o ganho até Q3. O sistema usa deep learning para cruzar criativo com intenção do usuário, reduzindo CPA quando anunciantes mantêm bibliotecas diversificadas. Contas com poucos criativos ativos ficam em desvantagem direta nesse modelo."
+      },
+      {
+        "title": "Anúncios em carrossel superam vídeo em CTR em 2026, com imagens estáticas ainda gerando 60-70% das conversões",
+        "source": "Stackmatix / Industry Benchmarks",
+        "date": "Apr 06, 2026",
+        "url": "https://www.stackmatix.com/blog/meta-ads-examples",
+        "summary": "Dados de benchmark de 2026 mostram que carrosseis competem diretamente com vídeo em taxa de cliques, enquanto imagens estáticas seguem responsáveis por 60-70% das conversões no Meta. Carrosseis oferecem link independente por cartão, útil para catálogos e múltiplos produtos em uma única unidade de anúncio. A combinação dos três formatos em estruturas de teste ainda é a abordagem com maior volume de dados para otimização."
+      },
+      {
+        "title": "Meta removeu 159 milhões de anúncios fraudulentos em 2025 e intensifica fiscalização em 2026",
+        "source": "Instagram / Digital 10x Pro",
+        "date": "Apr 11, 2026",
+        "url": "https://www.instagram.com/p/DW_eqaACa5M/",
+        "summary": "Meta divulgou que removeu 159 milhões de anúncios fraudulentos ao longo de 2025, sinalizando continuidade da fiscalização rigorosa em 2026. Anunciantes com ofertas de prazo limitado e campanhas de geração de leads são os segmentos com maior risco de revisão automatizada. Contas com histórico limpo e conformidade com políticas de segurança de marca têm menor probabilidade de interrupções."
+      },
+      {
+        "title": "Threads Ads expande para instalações de aplicativos global e adiciona ferramentas de moderação de respostas",
+        "source": "Meta / Marketing API Update",
+        "date": "Apr 09, 2026",
+        "url": "https://www.instagram.com/p/DW_UxhfEWUS/",
+        "summary": "Meta expandiu anúncios no Threads para suportar APP_INSTALLS globalmente e adicionou ferramentas de moderação de respostas para anunciantes. Com 400 milhões de usuários ativos mensais, o Threads se torna canal viável para testes estruturados em campanhas de aplicativos. A moderação de respostas resolve um atrito recorrente para marcas que precisam controlar o ambiente de engajamento ao redor de anúncios."
+      },
+      {
+        "title": "Direcionamento amplo com Advantage+ supera interesses manuais como estratégia padrão em 2026",
+        "source": "Social Media Examiner / Tara Zirker",
+        "date": "Apr 08, 2026",
+        "url": "https://www.socialmediaexaminer.com/facebook-ad-algorithm-changes-for-2026-what-marketers-need-to-know/",
+        "summary": "Profissionais confirmam que direcionamento amplo nacional sem restrições demográficas supera segmentação manual por interesses na maioria dos casos em 2026. O Andromeda identifica o público correto a partir do sinal criativo, reduzindo necessidade de controles manuais. Reservar 10-20% do budget para testes de novas estruturas continua sendo a prática recomendada antes de consolidar escala."
+      },
+      {
+        "title": "Lead Ads e DPA com retargeting entregam 2-3x e 3-5x ROAS frente a campanhas de prospecção",
+        "source": "Stackmatix / Industry Benchmarks",
+        "date": "Apr 06, 2026",
+        "url": "https://www.stackmatix.com/blog/meta-ads-examples",
+        "summary": "Benchmarks de 2026 apontam Lead Ads com 2-3x maior ROAS e Dynamic Product Ads em retargeting com 3-5x ROAS comparado a campanhas de prospecção. Para e-commerce, DPA com abandono de carrinho segue como o segmento de maior retorno por real investido. Formulários pré-preenchidos em Lead Ads reduzem fricção de conversão e aumentam volume de leads qualificados."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google unifica configurações de Enhanced Conversions em toggle único a partir de junho de 2026",
+        "source": "PPC News Feed",
+        "date": "Apr 10, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/google-unifies-enhanced-conversions-settings/",
+        "summary": "Google consolidará as configurações de conversões aprimoradas em um único controle on/off a partir de junho de 2026. Anunciantes poderão enviar dados fornecidos pelo usuário simultaneamente via tag de website, Data Manager e conexões via API. A unificação simplifica o gerenciamento de rastreamento para campanhas que operam em múltiplos canais."
+      },
+      {
+        "title": "Merchant API chega ao Google Ads Scripts em 22 de abril com suporte à Product Studio API",
+        "source": "PPC News Feed",
+        "date": "Apr 10, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/merchant-api-arrives-google-ads-scripts-april/",
+        "summary": "A Merchant API estará disponível em scripts do Google Ads a partir de 22 de abril de 2026, incluindo suporte à Google Product Studio API com recursos de IA generativa para assets de produto. A nova API tem estrutura modular, facilitando adoção de atualizações futuras sem interrupção de automações existentes. Para anunciantes de e-commerce que dependem de scripts, a atualização expande o alcance da automação."
+      },
+      {
+        "title": "Google exibe avaliações de produto diretamente em anúncios do YouTube Shorts",
+        "source": "PPC News Feed",
+        "date": "Apr 12, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/google-shows-product-ratings-youtube-shorts-ads/",
+        "summary": "Google começou a mostrar estrelas e número de avaliações de produtos dentro de anúncios exibidos no YouTube Shorts. O recurso adiciona prova social diretamente no formato de vídeo curto, sem necessidade de configuração adicional por parte do anunciante. Campanhas de e-commerce com alto volume de avaliações positivas têm vantagem direta nesse formato."
+      },
+      {
+        "title": "Google autoriza provedores de telemedicina certificados pela LegitScript a anunciar na Nova Zelândia",
+        "source": "PPC News Feed",
+        "date": "Apr 11, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/healthcare-policy-telemedicine-new-zealand/",
+        "summary": "Google atualizou sua política para permitir que provedores de telemedicina com certificação LegitScript promovam serviços envolvendo medicamentos de prescrição na Nova Zelândia. Anunciantes receberão 7 dias de aviso antes de qualquer ação de cumprimento, criando uma janela de ajuste para operadores certificados que já atuam no mercado local."
+      },
+      {
+        "title": "Google abre canais no Discord para suporte e feedback da Data Manager API",
+        "source": "PPC News Feed",
+        "date": "Apr 09, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/google-adds-data-manager-api-channels-discord/",
+        "summary": "Google criou canais dedicados no Discord para desenvolvedores que utilizam a Data Manager API. A equipe do Google monitorará os canais para responder perguntas técnicas e coletar feedback diretamente da comunidade. Para quem usa integrações via API, o canal representa acesso mais direto à equipe de produto do que os fóruns de suporte padrão."
+      },
+      {
+        "title": "Farmácias online com certificação LegitScript podem anunciar serviços de prescrição na Índia a partir de abril",
+        "source": "PPC News Feed",
+        "date": "Apr 09, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/certified-pharmacies-allowed-promote-services-india/",
+        "summary": "Google liberou anúncios de serviços de farmácias online com certificação LegitScript na Índia a partir de abril de 2026. A permissão cobre os serviços, não os medicamentos específicos, e exige conformidade rigorosa com os requisitos de certificação. O ajuste de política abre espaço competitivo para players do setor de saúde digital no mercado indiano."
+      },
+      {
+        "title": "Google lança Developer Hub centralizado para ferramentas de Ads e Measurement",
+        "source": "PPC News Feed",
+        "date": "Apr 08, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/google-launches-developers-hub-ads-measurement/",
+        "summary": "Google lançou um hub centralizado para desenvolvedores de publicidade e measurement, reunindo documentação, acesso ao Discord e diretório de produtos em um único ponto de entrada. O recurso consolida ferramentas anteriormente dispersas em múltiplos portais. Para equipes que gerenciam automações e integrações de rastreamento, reduz o tempo de localização de documentação técnica."
+      },
+      {
+        "title": "Aba Resultados chega às Recomendações do Google Ads para mostrar impacto incremental aplicado",
+        "source": "PPC News Feed",
+        "date": "Apr 08, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/results-tab-available-google-ads-recommendations/",
+        "summary": "Google Ads adicionou uma aba Resultados dentro da seção de Recomendações, exibindo o impacto incremental das sugestões de lance e orçamento que foram implementadas. Anunciantes conseguem visualizar se as recomendações aplicadas geraram ganho real de performance além dos relatórios padrão. A funcionalidade aumenta a transparência sobre o valor real de aceitar sugestões automáticas da plataforma."
+      },
+      {
+        "title": "Golpe usa convites falsos de acesso ao Google Ads enviados por e-mail para comprometer contas de anunciantes",
+        "source": "PPC News Feed",
+        "date": "Apr 13, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/fake-google-ads-email-invites-used-scam-wave/",
+        "summary": "Uma nova onda de phishing usa convites de acesso falsificados ao Google Ads enviados por endereços Gmail para tentar comprometer contas de anunciantes. Os sinais de alerta incluem e-mails de domínios não corporativos e links de acesso com destinos suspeitos. A recomendação é não aceitar solicitações de acesso de contatos desconhecidos e revisar periodicamente os usuários com permissão na conta."
+      },
+      {
+        "title": "Google remove suporte a campanhas de Display e Vídeo no Performance Planner a partir de março de 2026",
+        "source": "PPC News Feed",
+        "date": "Apr 09, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/google-deprecates-features-performance-planner/",
+        "summary": "Google descontinuou o suporte a campanhas de Display e Vídeo dentro do Performance Planner a partir de 9 de março de 2026. A ferramenta agora foca exclusivamente em campanhas de Busca, reduzindo sua utilidade para quem planeja orçamento multi-canal. Anunciantes que dependiam do Planner para simular investimento em Display precisam migrar para outras ferramentas de forecasting."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Cognitiv lança AudienceGPT para substituir segmentos estáticos por perfis dinâmicos atualizados a cada 15 minutos",
+        "source": "PPC Land / BusinessWire",
+        "date": "Apr 09, 2026",
+        "url": "https://ppc.land/cognitivs-audiencegpt-targets-stale-audience-data-with-real-time-ai/",
+        "summary": "Cognitiv apresentou AudienceGPT, ferramenta que usa deep learning e raciocínio baseado em LLM para avaliar indivíduos em vez de coortes, com perfis atualizados a cada 15 minutos. Anunciantes descrevem públicos em linguagem natural e o sistema elimina dependência de dados históricos de conversão. A integração com canais programáticos inclui CTV e audio, expandindo o alcance além de search e social."
+      },
+      {
+        "title": "OpenAI projeta 2,5 bilhões de dólares em receita de publicidade em 2026 e 100 bilhões até 2030",
+        "source": "MarketingProfs / Axios",
+        "date": "Apr 09, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week",
+        "summary": "OpenAI anunciou projeção de 2,5 bilhões de dólares em receita publicitária para 2026 com expansão para 100 bilhões anuais até 2030. O piloto inicial da rede de anúncios dentro do ChatGPT gerou 100 milhões de dólares em receita anualizada em dois meses, aproveitando intenção explicitada pelos usuários em conversas para publicidade contextual de alta relevância."
+      },
+      {
+        "title": "Visa lança Intelligent Commerce Connect para pagamentos autônomos realizados por agentes de IA",
+        "source": "Visa / Axios",
+        "date": "Apr 08, 2026",
+        "url": "https://investor.visa.com/news/news-details/2026/Visa-Opens-the-Door-to-AI-Driven-Shopping-for-Businesses-Worldwide/default.aspx",
+        "summary": "Visa introduziu Intelligent Commerce Connect, plataforma que permite agentes de IA navegar, selecionar produtos e realizar pagamentos de forma autônoma com tokenização e autenticação integradas. O sistema suporta transações Visa e não-Visa e oferece controles de gastos configuráveis. O lançamento sinaliza infraestrutura de pagamentos se adaptando ao comércio agêntico como próxima fase do e-commerce."
+      },
+      {
+        "title": "Google Vids expande com geração de vídeo via Veo 3.1, música por IA e avatares para todos os usuários",
+        "source": "MarketingProfs / PPC Land",
+        "date": "Apr 08, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week",
+        "summary": "Google atualizou Vids com geração de vídeo usando Veo 3.1, criação de música customizada via Lyria e avatares de IA controláveis, disponibilizados gratuitamente para todos os usuários. A ferramenta compete diretamente com soluções de produção de vídeo com IA pagas. Para equipes de marketing com orçamento limitado para produção, representa acesso a qualidade de vídeo antes restrita a assinaturas pagas."
+      },
+      {
+        "title": "Gemini adiciona modelos 3D interativos e simulações em tempo real dentro de respostas do chatbot",
+        "source": "MarketingProfs / The Verge",
+        "date": "Apr 07, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week",
+        "summary": "Google atualizou o Gemini para gerar modelos 3D interativos e simulações diretamente em respostas de chatbot, permitindo que usuários manipulem visualizações e ajustem parâmetros em tempo real. O recurso avança a interface do assistente para além de texto e imagem estática. Para marketing de produto, abre possibilidade de demonstração interativa dentro de conversas assistidas."
+      },
+      {
+        "title": "Anthropic restringe acesso ao modelo Mythos após identificar capacidade autônoma de exploração de vulnerabilidades",
+        "source": "MarketingProfs / Axios",
+        "date": "Apr 07, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week",
+        "summary": "Anthropic limitou o acesso ao modelo Mythos Preview após descobrir que ele consegue identificar e explorar dezenas de milhares de vulnerabilidades de software de forma autônoma. Testes internos mostraram taxa de sucesso acima de 80% em reprodução e exploração de falhas. O caso reforça o debate sobre controles de acesso em modelos de IA de alta capacidade e cibersegurança em ambientes de TI."
+      },
+      {
+        "title": "Agências como Dentsu e Later usam IA para automatizar descoberta de influenciadores e previsão de resultados",
+        "source": "MarketingProfs / Digiday",
+        "date": "Apr 08, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week",
+        "summary": "Dentsu e Later implementaram sistemas de IA para automatizar descoberta de influenciadores, análise de engajamento e previsão de resultados de campanhas. O processo substituiu seleção manual e baseada em intuição por fluxo orientado por dados, viabilizando trabalho com pools muito maiores de micro e nano influenciadores. A redução de custo de triagem permite incluir criadores menores que antes seriam ignorados por limitação operacional."
+      },
+      {
+        "title": "Otimização para mecanismos generativos (GEO) impulsiona parcerias com veículos de mídia para ganhar visibilidade em IA",
+        "source": "MarketingProfs / Axios",
+        "date": "Apr 07, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week",
+        "summary": "Marcas aumentaram investimentos em Generative Engine Optimization (GEO), adquirindo e parceirizando com veículos de mídia para ampliar visibilidade em respostas de IA. Plataformas de IA priorizam conteúdo credível publicado em fontes terceiras, incentivando marcas a construir ecossistemas de mídia própria e parceira. A estratégia conecta relações públicas digitais diretamente a resultados em buscas assistidas por IA."
+      },
+      {
+        "title": "Google reporta aumento de 80% em vendas de varejistas com anúncios no modo de busca com IA",
+        "source": "MarketingProfs / Digiday",
+        "date": "Apr 07, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week",
+        "summary": "Google divulgou que anúncios com IA no modo de busca geraram aumento de 80% em receita para varejistas participantes do programa. A empresa testa ferramentas que permitem marcas moldar respostas de produto em voz própria, oferecer promoções dentro de jornadas de compra assistidas e suportar finalização de compra em conversas. O dado cobre contas ativas no AI Max com período de comparação de 30 dias."
+      },
+      {
+        "title": "Claude expande conector Microsoft 365 para todos os usuários com acesso somente leitura a dados corporativos",
+        "source": "MarketingProfs / Livemint",
+        "date": "Apr 08, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week",
+        "summary": "Anthropic estendeu o conector Microsoft 365 do Claude para todos os usuários, permitindo que o assistente pesquise e analise dados em Outlook, Teams, SharePoint, OneDrive e calendários em tempo real. O acesso é restrito a leitura para reduzir risco operacional. Para equipes de marketing que vivem no ecossistema Microsoft, elimina a necessidade de uploads manuais de contexto antes de trabalhar com o assistente."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "Gasto global em buscas pagas atinge 218,3 bilhões de dólares em 2026, crescimento de 8,5% ao ano",
+        "source": "AFFiNCO",
+        "date": "Apr 08, 2026",
+        "url": "https://affinco.com/state-of-ppc-advertising/",
+        "summary": "O mercado de search ads atingiu 218,3 bilhões de dólares em 2026 com crescimento de 8,5% ao ano. Google mantém 94% de participação com 225 bilhões em receita publicitária. TikTok registrou o maior crescimento: 64% ao ano, chegando a 38,9 bilhões em receita, consolidando-se como a plataforma de crescimento mais acelerado entre os grandes players."
+      },
+      {
+        "title": "53% dos profissionais de PPC relatam que a gestão de campanhas ficou mais difícil nos últimos dois anos",
+        "source": "ALM Corp",
+        "date": "Mar 12, 2026",
+        "url": "https://almcorp.com/blog/state-of-ppc-2026-global-report/",
+        "summary": "Pesquisa com 1.306 profissionais de PPC mostra que 53% consideram a gestão de campanhas mais difícil do que dois anos atrás. Performance Max atingiu 50% de adoção, mas 56% citam a opacidade do targeting como principal frustração. Paralelamente, 73% dos clientes querem manter gestão de PPC interna, ante 44% dois anos atrás, pressionando agências a diferenciar proposta de valor."
+      },
+      {
+        "title": "Benchmarks PPC 2026: CTR médio de 6,5% em busca, CPC de 2,69 dólares e CVR de 3,75%",
+        "source": "Promodo",
+        "date": "Feb 26, 2026",
+        "url": "https://www.promodo.com/blog/ppc-benchmarks",
+        "summary": "Benchmarks de 2026 para Google Ads de busca indicam CTR médio de 6,5%, CPC médio de 2,69 dólares e taxa de conversão de 3,75%. Para Display, os números são CTR 2,9%, CPC 0,63 dólar e CVR 0,77%. CPA médio está em 48,96 dólares em busca e 75,51 em Display, com variações significativas por setor."
+      },
+      {
+        "title": "Performance Max sobe para 71% de adoção e Demand Gen cresce 192% em gasto em 2025",
+        "source": "Fluency",
+        "date": "Feb 11, 2026",
+        "url": "https://www.fluency.inc/blog/2026-trends-and-performance-benchmarks-google-ads-meta-ads",
+        "summary": "A adoção de Performance Max subiu de 60% em 2024 para 71% em 2025. Demand Gen cresceu 192% em gasto, passando de 6,5 para 19,2 milhões. No Meta, conversões aumentaram 97% enquanto o custo por conversão caiu 17%, refletindo ganhos de eficiência com IA nas duas plataformas."
+      },
+      {
+        "title": "Google exibe avaliações de produto em anúncios do YouTube Shorts, reforçando prova social em vídeo",
+        "source": "PPC News Feed",
+        "date": "Apr 12, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/google-shows-product-ratings-youtube-shorts-ads/",
+        "summary": "Google passou a exibir estrelas e contagem de avaliações diretamente em anúncios do YouTube Shorts. O recurso funciona automaticamente para produtos já com avaliações cadastradas no Merchant Center. Anunciantes com volume alto de avaliações positivas ganham vantagem de sinalização de confiança nesse formato."
+      },
+      {
+        "title": "Top 10 PPC: Meta lança Muse Spark, Google AI AdSpace Agent e rastreamento server-side como prioridade",
+        "source": "Paid Search Association",
+        "date": "Apr 11, 2026",
+        "url": "https://paidsearch.org/top-10-ppc-news-parade-april-3-10-2026/",
+        "summary": "As principais movimentações da semana de 3-10 de abril incluem o lançamento do Muse Spark pela Meta, o surgimento silencioso do Google AdSpace Agent como assistente de IA conectado a recursos de ads, e a entrada do Joybuy (grupo JD) como novo player em shopping ads na Europa. O rastreamento server-side foi apontado como crítico com a depreciação de cookies de terceiros avançando."
+      },
+      {
+        "title": "Campanhas PPC em abril 2026 definidas por eficiência via IA, segmentação hiperlocal e retargeting inteligente",
+        "source": "MEAN CEO Blog",
+        "date": "Apr 03, 2026",
+        "url": "https://blog.mean.ceo/ppc-trends-april-2026/",
+        "summary": "As tendências de PPC para abril 2026 convergem em torno de automação com supervisão humana, segmentação hiperlocal e retargeting baseado em comportamento recente. Google Ads usa análise preditiva para ajuste de lances em tempo real e identificação de keywords de alta intenção. Para contas menores, micro-testes estruturados são a rota mais segura para construir dados antes de escalar."
+      },
+      {
+        "title": "TikTok Ads: CPM sobe 16% ao ano para 13,26 dólares, chegando à paridade com Meta em 14,19 dólares",
+        "source": "Triple Whale",
+        "date": "Mar 24, 2026",
+        "url": "https://www.triplewhale.com/blog/tiktok-benchmarks",
+        "summary": "Benchmarks do TikTok Ads apontam CPM médio de 13,26 dólares, alta de 16% ao ano, aproximando-se dos 14,19 dólares do Meta. O CPA médio foi de 32,74 dólares (+8,64%), com CVR caindo 6,2% para 2,01% e ROAS recuando 5,7% para 2,21. Apparel & Accessories liderou ROAS com 2,49; Pets & Animals obteve o menor CPA, em 13,46 dólares."
+      },
+      {
+        "title": "Criativos gerados por IA entregam CTR 12% maior no Meta, mas ROAS cai 8% em produtos acima de 100 dólares de AOV",
+        "source": "Digital Applied",
+        "date": "Mar 30, 2026",
+        "url": "https://www.digitalapplied.com/blog/ai-ad-creative-benchmark-2026-ctr-roas-data",
+        "summary": "Análise de benchmark mostra CTR 12% superior para criativos gerados por IA no Meta frente a criativos produzidos manualmente. Entretanto, conversão cai 8% para produtos com AOV acima de 100 dólares, ampliando para 14% acima de 500 dólares. A paridade de ROAS só se sustenta em e-commerce abaixo de 100 dólares de ticket médio. Equipes economizam 20 horas semanais com automação de criativos."
+      },
+      {
+        "title": "Google unifica Enhanced Conversions com toggle único para web e leads, com vigência a partir de junho",
+        "source": "PPC News Feed",
+        "date": "Apr 10, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-04/google-unifies-enhanced-conversions-settings/",
+        "summary": "Google consolidou as configurações de Enhanced Conversions em um controle único para web e leads, simplificando rastreamento multi-canal. A mudança entra em vigor progressivamente entre abril e junho de 2026. Para contas que gerenciam conversões de origens diversas, o ajuste reduz risco de configuração incorreta e facilita auditoria de rastreamento."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Busca com IA prioriza conteúdo estruturado com FAQs e headings claros em detrimento de otimização por palavras-chave",
+        "source": "B2The7",
+        "date": "Apr 04, 2026",
+        "url": "https://www.b2the7.com/news-blog/marketing-trends-april-2026-ai-seo-zero-click-data",
+        "summary": "Plataformas como Google Search e ChatGPT estão priorizando conteúdo com estrutura clara, links internos fortes e seções de FAQ em vez de conteúdo otimizado para palavras-chave densas. Páginas com estrutura otimizada para IA são citadas com mais frequência em respostas geradas, alterando o critério central de visibilidade orgânica. Estratégias de SEO baseadas exclusivamente em volume de keywords perdem eficácia nesse modelo."
+      },
+      {
+        "title": "Google AI Mode lança anúncios de shopping com compra direta via Universal Commerce Protocol",
+        "source": "Seafoam Media",
+        "date": "Mar 30, 2026",
+        "url": "https://seafoammedia.com/april-2026-marketing-news/",
+        "summary": "Google expandiu o AI Mode com anúncios de shopping patrocinados abaixo das recomendações orgânicas e Direct Offers com promoções personalizadas. O Universal Commerce Protocol permite finalizar compras dentro de conversas do AI Mode em plataformas como Etsy e Wayfair. A mudança transforma o AI Mode em ambiente integrado de descoberta e conversão, não apenas de pesquisa."
+      },
+      {
+        "title": "ChatGPT Ad Network atinge 100 milhões de dólares em receita anualizada em seis semanas com mais de 600 anunciantes",
+        "source": "Qortechno / Axios",
+        "date": "Mar 31, 2026",
+        "url": "https://qortechno.com/5-key-digital-marketing-trends-from-april-2026-every-business-must-prepare/",
+        "summary": "OpenAI reportou que sua rede de anúncios dentro do ChatGPT gerou 100 milhões de dólares em receita anualizada em apenas seis semanas de operação com mais de 600 anunciantes. Os anúncios aparecem em conversas com modelo de custo por visualização e estão sendo expandidos para Canadá, Austrália e Nova Zelândia. Métricas de confiança dos usuários permaneceram estáveis durante o piloto."
+      },
+      {
+        "title": "Reddit gera ROAS 82% maior quando considera conversões que originam na plataforma e convertem na Amazon",
+        "source": "Seafoam Media / Fospha",
+        "date": "Mar 30, 2026",
+        "url": "https://seafoammedia.com/april-2026-marketing-news/",
+        "summary": "Relatório da Fospha revelou que o Reddit gera ROAS 82% maior quando modelos de atribuição cross-channel são aplicados para capturar conversões que iniciam no Reddit e finalizam na Amazon. Dynamic Product Ads no Reddit entregaram ROAS 91% maior no Q4 2025 frente ao ano anterior. Collection Ads lançados em março registraram lift inicial de 8% em ROAS."
+      },
+      {
+        "title": "AI Max para campanhas de Search fica universalmente disponível com lift médio de 14% em conversões",
+        "source": "Seafoam Media / Google",
+        "date": "Mar 30, 2026",
+        "url": "https://seafoammedia.com/april-2026-marketing-news/",
+        "summary": "AI Max para campanhas de Search ficou disponível globalmente em abril com tecnologia de broad match e direcionamento sem palavras-chave. Dados internos do Google apontam lift médio de 14% em conversões, chegando a 27% para contas que operavam principalmente com exact e phrase match. A mudança redefine como anúncios de busca são direcionados para públicos de alta intenção."
+      },
+      {
+        "title": "Email marketing abandona taxa de abertura e migra para zero-party data com preference centers",
+        "source": "Litmus",
+        "date": "Dec 17, 2025",
+        "url": "https://www.litmus.com/blog/trends-in-email-marketing",
+        "summary": "Com Apple Mail Privacy Protection tornando taxas de abertura pouco confiáveis, profissionais de email marketing migraram para coleta de zero-party data via preference centers como principal métrica de qualidade de lista. Automação de ciclo de vida reduziu tempo de produção de campanhas de duas semanas para menos de uma semana. Newsletters ganharam relevância como ferramenta de retenção: 58% dos profissionais as incluem em estratégias ativas."
+      },
+      {
+        "title": "EEAT valoriza conteúdo de especialistas individuais e prova social em terceiros acima de backlinks tradicionais",
+        "source": "Marketer Milk",
+        "date": "Jan 02, 2026",
+        "url": "https://www.marketermilk.com/blog/seo-trends-2026",
+        "summary": "Após o Core Update de junho de 2025, Google reforçou o peso do EEAT favorecendo conteúdo de pessoas com experiência real sobre conteúdo corporativo genérico. Menções em podcasts, entrevistas, avaliações em sites de terceiros e citações de marca pesam mais que backlinks na avaliação de autoridade. Criadores individuais com nicho definido têm vantagem estrutural frente a grandes empresas sem rosto público."
+      },
+      {
+        "title": "Crescimento de busca por marca gera efeito cascata em rankings de palavras-chave não-branded",
+        "source": "Marketer Milk",
+        "date": "Jan 02, 2026",
+        "url": "https://www.marketermilk.com/blog/seo-trends-2026",
+        "summary": "Quando o volume de buscas por combinações de marca e palavra-chave específica cresce, o Google passa a associar a marca à keyword e melhora rankings para termos não-branded relacionados. O exemplo documentado é da Pooky: crescimento em buscas por 'pooky rechargeable lights' via UGC no TikTok resultou em posição número 1 para 'rechargeable lights'. A estratégia conecta ativação em redes sociais diretamente a resultados de busca orgânica."
+      },
+      {
+        "title": "Incorporar vídeo do YouTube em posts existentes melhora rankings de SEO de forma consistente",
+        "source": "Marketer Milk",
+        "date": "Jan 02, 2026",
+        "url": "https://www.marketermilk.com/blog/seo-trends-2026",
+        "summary": "SEOs documentaram melhoria de posicionamento ao incorporar vídeos do YouTube em posts de blog que já ranqueavam bem. Um caso reportado pelo Marketer Milk mostra movimento da posição 2-3 para posição 1 para 'AI marketing tools' após criar e incorporar vídeo no post existente. A hipótese é que vídeo aumenta tempo de permanência na página e adiciona sinal de autoridade que o Google pondera positivamente."
+      },
+      {
+        "title": "Busca social supera Google para metade da Geração Z, com TikTok, Instagram e YouTube como primeiro canal",
+        "source": "Sprout Social",
+        "date": "Dec 05, 2025",
+        "url": "https://sproutsocial.com/insights/social-media-trends/",
+        "summary": "Pesquisa da Sprout Social indica que quase um em cada três consumidores começa buscas em redes sociais em vez do Google, número que sobe para mais da metade entre a Geração Z. TikTok, Instagram e YouTube oferecem resumos gerados por IA que competem diretamente com SERPs tradicionais. Marcas que otimizam presença apenas para Google perdem visibilidade no canal de descoberta dominante para consumidores abaixo de 30 anos."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://socialbee.com/blog/facebook-updates/",
+    "https://www.socialmediaexaminer.com/facebook-ad-algorithm-changes-for-2026-what-marketers-need-to-know/",
+    "https://www.stackmatix.com/blog/meta-ads-examples",
+    "https://almcorp.com/blog/state-of-ppc-2026-global-report/",
+    "https://ppcnewsfeed.com/ppc-news/2026-04/google-shows-product-ratings-youtube-shorts-ads/",
+    "https://ppcnewsfeed.com/ppc-news/2026-04/google-unifies-enhanced-conversions-settings/",
+    "https://seafoammedia.com/april-2026-marketing-news/",
+    "https://www.marketermilk.com/blog/seo-trends-2026",
+    "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week"
+  ]
+}

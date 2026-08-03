@@ -1,0 +1,386 @@
+{
+  "id": "2026-03-23",
+  "label": "23-29 mar/26",
+  "label_full": "23 a 29 de março de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta confirma Location Fees para abril: taxas de 2% a 5% em seis países europeus",
+        "source": "AuditSocials / ALM Corp",
+        "date": "Mar 25, 2026",
+        "url": "https://www.auditsocials.com/blog/meta-ad-policy-updates-2026-guide",
+        "summary": "A partir de abril, a Meta cobra taxas adicionais sobre campanhas exibidas em seis mercados: Áustria 5%, França 3%, Itália 3%, Espanha 3%, Turquia 5% e Reino Unido 2%. A cobrança aparece separada do custo dos anúncios. Quem opera nesses países precisa revisar projeções de CPA e ajustar orçamentos antes da virada."
+      },
+      {
+        "title": "Manus AI integrado ao Meta Ads Manager, Instagram Creator Marketplace e WhatsApp Business",
+        "source": "SocialBee",
+        "date": "Mar 26, 2026",
+        "url": "https://socialbee.com/blog/facebook-updates/",
+        "summary": "A Meta integrou o Manus AI como ferramenta de suporte estratégico no Ads Manager, no Creator Marketplace e no WhatsApp Business. No Ads Manager, um atalho aparece na seção de Audiências. Por enquanto, a ferramenta oferece sugestões e não executa campanhas de forma autônoma."
+      },
+      {
+        "title": "WhatsApp Status Ads chega com auto-placement em campanhas de Traffic, Reach e Impressions",
+        "source": "Meta for Business",
+        "date": "Mar 24, 2026",
+        "url": "https://www.facebook.com/business/news",
+        "summary": "A Meta ativou anúncios no WhatsApp Status com posicionamento automático para campanhas otimizadas por cliques em links, alcance diário ou impressões ao usar Advantage+ placements. O formato expande o inventário disponível sem exigir configuração adicional para quem já usa posicionamento automático."
+      },
+      {
+        "title": "Threads App Ads disponível globalmente via Marketing API com moderação de respostas",
+        "source": "SwipeInsight",
+        "date": "Mar 25, 2026",
+        "url": "https://web.swipeinsight.app/topics/meta-ads",
+        "summary": "O Threads abriu a Marketing API para App Ads em escala global e adicionou ferramentas de moderação de comentários e respostas. Para marcas que já testavam o canal em acesso restrito, a abertura significa maior controle operacional e possibilidade de integrar o Threads em fluxos de automação."
+      },
+      {
+        "title": "Advantage+ Shopping Campaigns: budget consolidado, audience expandida e novo naming de campanha",
+        "source": "ALM Corp",
+        "date": "Mar 26, 2026",
+        "url": "https://almcorp.com/blog/meta-location-fees-2026-ad-price-increase-six-countries/",
+        "summary": "A Meta atualizou o ASC com controles de orçamento consolidados por campanha, novos sinais de otimização criativa e renomeação de relatórios para facilitar leitura de performance. A expansão do Advantage+ Audience reduz a necessidade de segmentação manual, acelerando ciclos de aprendizado."
+      },
+      {
+        "title": "Novos filtros de retargeting em audiências personalizadas: frequência mínima e janela de tempo configuráveis",
+        "source": "SwipeInsight",
+        "date": "Mar 23, 2026",
+        "url": "https://web.swipeinsight.app/topics/meta-ads",
+        "summary": "O Meta Ads liberou filtros que permitem criar audiências personalizadas com base em frequência de engajamento, como 'pelo menos X vezes', e período específico, como 'nos últimos X a Y dias'. O recurso se aplica a visitas de conta, engajamentos com posts e cliques em CTA, dando mais controle sobre quais usuários entram em cada público."
+      },
+      {
+        "title": "Meta reformula seleção de formatos: IA decide o formato por placement com múltiplos criativos por upload",
+        "source": "SocialBee",
+        "date": "Mar 24, 2026",
+        "url": "https://socialbee.com/blog/facebook-updates/",
+        "summary": "Os formatos tradicionais estão sendo substituídos por um sistema onde você faz upload das mídias e a IA define qual formato servir em cada placement, usando as opções Uploaded Media e Format display. Para quem realizava testes sistemáticos de formatos, a mudança exige uma nova abordagem de estruturação de criativos."
+      },
+      {
+        "title": "Janela de video engaged-view reduzida de 10 para 5 segundos, impactando atribuição em Reels",
+        "source": "Social Media Today",
+        "date": "Mar 25, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-updates-ad-metrics-to-align-with-other-platforms/813712/",
+        "summary": "A Meta reduziu o threshold de engaged-view em vídeos de 10 para 5 segundos, refletindo o comportamento de consumo mais rápido, especialmente em Reels. A mudança pode aumentar o volume de atribuições via engaged-view, mas também torna os números menos comparáveis com dados históricos de campanhas anteriores."
+      },
+      {
+        "title": "Click-through attribution em rollout final: somente link clicks válidos para conversões de site e in-store",
+        "source": "ALM Corp",
+        "date": "Mar 25, 2026",
+        "url": "https://almcorp.com/blog/meta-ad-attribution-changes-2026/",
+        "summary": "A reformulação da atribuição click-through entrou em fase de rollout ampliado. Somente cliques reais em links contam para conversões de site e in-store; curtidas, compartilhamentos e comentários passam para a categoria engage-through attribution. Os números no Ads Manager ficam menores, mas mais alinhados com o que ferramentas como o Google Analytics registram."
+      },
+      {
+        "title": "Meta oficializa plano para automatizar completamente a criação de anúncios com IA até o final de 2026",
+        "source": "Meta",
+        "date": "Mar 26, 2026",
+        "url": "https://www.pansofic.com/blog/meta-ads-changes-2026-setup-guide",
+        "summary": "A Meta formalizou a intenção de entregar um sistema em que a IA cria anúncios de forma autônoma, do criativo ao copy, sem intervenção manual. A mudança será gradual ao longo do ano. Equipes que mantêm controle granular sobre criativos precisam monitorar quais controles de override ainda estarão disponíveis à medida que o sistema avança."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google March 2026 Core Update começa em 27 de março: maior revisão do ano em andamento",
+        "source": "ALM Corp",
+        "date": "Mar 27, 2026",
+        "url": "https://almcorp.com/blog/google-march-2026-core-update/",
+        "summary": "O Google iniciou o rollout da Core Update de março em 27 de março, com previsão de 2 semanas para conclusão. Junto com o Spam Update encerrado em 24 de março, o ciclo deste mês é o mais intenso do ano até agora. Sites com conteúdo gerado por IA sem curadoria, afiliados e páginas com autoridade fraca são os mais expostos."
+      },
+      {
+        "title": "Google Ads API v23.1 lançada com suporte ao EU Political Ads Regulation e upload de vídeo",
+        "source": "SwipeInsight",
+        "date": "Mar 24, 2026",
+        "url": "https://web.swipeinsight.app/topics/google-ads",
+        "summary": "A v23.1 da Google Ads API adicionou campos obrigatórios para conformidade com o regulamento europeu de anúncios políticos e o YouTubeVideoUploadService para gerenciar vídeos diretamente via API. Também trouxe novas métricas de frequência de alcance único. Quem integra via API precisa atualizar as client libraries."
+      },
+      {
+        "title": "Google March 2026 Spam Update inicia em 24/03 e conclui em menos de 24 horas com alcance global",
+        "source": "Search Engine Land",
+        "date": "Mar 24, 2026",
+        "url": "https://searchengineland.com/google-march-2026-core-update-rolling-out-now-472759",
+        "summary": "O Spam Update de março iniciou em 24 de março às 12h18 PDT e encerrou antes do dia seguinte, ritmo incomum que indica foco preciso em link spam e conteúdo de baixa qualidade em escala. A conclusão rápida não significa impacto menor: sites com histórico de manipulação de links sentiram as mudanças de ranking imediatamente."
+      },
+      {
+        "title": "Veo integrado ao Google Ads Asset Studio globalmente: geração de vídeo a partir de imagens e texto",
+        "source": "ppcnewsfeed.com",
+        "date": "Mar 27, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-03/veo-video-generation-available-google-ads/",
+        "summary": "O Google liberou o Veo no Asset Studio do Google Ads para todos os anunciantes globalmente. A partir de uma imagem de produto ou de um prompt de texto, o modelo gera clips de vídeo adequados para Search, Display, YouTube e Performance Max. O Veo 3.1 também adiciona áudio sincronizado, trilha sonora e narração gerados por IA."
+      },
+      {
+        "title": "Performance Max recebe audience exclusions, budget projections e relatórios expandidos por canal",
+        "source": "Search Engine Journal",
+        "date": "Mar 24, 2026",
+        "url": "https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/",
+        "summary": "O PMax ganhou três melhorias relevantes: exclusões de audiência para evitar que anúncios sejam exibidos para segmentos indesejados, projeções de orçamento para simular impacto de mudanças de investimento, e relatórios no nível de canal mostrando onde o gasto está sendo alocado. Era uma das principais demandas de anunciantes que precisavam de mais visibilidade na plataforma."
+      },
+      {
+        "title": "Google confirma uso de IA para gerar title links nos resultados de busca",
+        "source": "Optimixed",
+        "date": "Mar 26, 2026",
+        "url": "https://www.optimixed.com/daily-search-forum-recap-march-26-2026/",
+        "summary": "O Google reconheceu que usa IA para criar ou modificar os title links exibidos nos resultados de busca, mesmo quando o site tem uma tag de título definida. A prática não é nova, mas a confirmação oficial levantou debate sobre o controle de snippet. Para SEOs, a resposta prática é garantir que os títulos das páginas sejam claros e relevantes para reduzir a frequência de reescrita."
+      },
+      {
+        "title": "Google Search Live expande para 200+ países com Gemini 3.1 Flash Live: voz multilingual e camera search",
+        "source": "Google",
+        "date": "Mar 26, 2026",
+        "url": "https://www.numinix.com/blog/march-2026-seo-algorithm-news-update/",
+        "summary": "A funcionalidade Search Live, que permite buscar por voz e câmera em tempo real, foi expandida para mais de 200 países usando o Gemini 3.1 Flash Live. O modelo suporta múltiplos idiomas e entende contexto visual capturado pela câmera do dispositivo. O impacto para marcas locais e de e-commerce é crescente, com buscas visuais ganhando relevância."
+      },
+      {
+        "title": "Google Merchant Center: botões de compra em cinza para produtos fora de estoque nas SERPs de Shopping",
+        "source": "Optimixed",
+        "date": "Mar 25, 2026",
+        "url": "https://www.optimixed.com/daily-search-forum-recap-march-25-2026/",
+        "summary": "O Google Merchant Center passou a exibir botões de compra desativados, em cinza, para produtos com estoque zerado nas SERPs de Shopping. A mudança melhora a experiência do usuário, mas aumenta a importância de manter o feed de produtos atualizado em tempo real para não perder impressões de Shopping em momentos de alto tráfego."
+      },
+      {
+        "title": "Google testa blocos de citação expandidos abaixo do AI Overviews para maior transparência nas fontes",
+        "source": "Optimixed",
+        "date": "Mar 25, 2026",
+        "url": "https://www.optimixed.com/daily-search-forum-recap-march-25-2026/",
+        "summary": "Em testes, o Google está exibindo blocos de citação maiores e mais detalhados abaixo das respostas do AI Overviews, com trechos mais longos das páginas de origem. Para sites que aparecem como fontes citadas, a visibilidade de marca aumenta mesmo sem clique, o que torna a presença em fontes de referência um ativo de GEO cada vez mais relevante."
+      },
+      {
+        "title": "Google Ads API v23.2 lançada com novas capacidades de automação e gerenciamento de campanhas",
+        "source": "Search Engine Land",
+        "date": "Mar 27, 2026",
+        "url": "https://searchengineland.com/google-march-2026-core-update-rolling-out-now-472759",
+        "summary": "A versão 23.2 da Google Ads API foi lançada na mesma semana da v23.1, trazendo capacidades adicionais de automação para gerenciamento de campanhas. Para times técnicos que integram via API, duas versões em sequência sinalizam ritmo acelerado de mudanças, exigindo monitoramento mais frequente da documentação oficial."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "IAB NewFronts 2026 acontece em Nova York de 23 a 26 de março: CTV ganha espaço central",
+        "source": "Paid Search Assoc.",
+        "date": "Mar 23, 2026",
+        "url": "https://paidsearch.org/top-10-ppc-news-parade-march-20-27-2026/",
+        "summary": "O IAB moveu os NewFronts de maio para março pela primeira vez. No evento em Nova York, Walmart e Vizio estrearam juntos com login unificado em smart TVs e identidade entre dispositivos. A mudança de data confirma que compras de inventário de streaming e CTV seguem ciclos contínuos, não o calendário tradicional de broadcast."
+      },
+      {
+        "title": "Pinterest lança Promote a Pin para criadores e pequenas empresas sem conta Business",
+        "source": "Adworld Experience",
+        "date": "Mar 24, 2026",
+        "url": "https://www.adworldexperience.it/en/top-10-ppc-news-parade-from-march-20-to-27-2026/",
+        "summary": "O Pinterest lançou o Promote a Pin, produto de impulsionamento simplificado para quem não tem histórico com mídia paga. Usa IA para targeting automático e dá acesso aos 619 milhões de usuários da plataforma sem exigir conta Business completa. Baixa barreira de entrada em um canal com CPLs competitivos para moda, casa e beleza."
+      },
+      {
+        "title": "TikTok lança TopReach: fusão de TopView e TopFeed com alcance 59% maior e frequency cap de 24h",
+        "source": "hellopartner.com",
+        "date": "Mar 24, 2026",
+        "url": "https://hellopartner.com/2026/03/24/tiktok-takes-new-audience-targeted-ad-solutions-to-market/",
+        "summary": "O TopReach combina o TopView, primeiro conteúdo ao abrir o app, e o TopFeed, primeiro anúncio no For You feed, em uma única compra com frequency cap de uma exibição por usuário a cada 24 horas. O TikTok reporta 59% mais alcance único em comparação com os formatos comprados separadamente."
+      },
+      {
+        "title": "TikTok expande suite Pulse: Pulse Mentions e Pulse Tastemakers para anúncios contextuais junto a criadores",
+        "source": "TechCrunch",
+        "date": "Mar 24, 2026",
+        "url": "https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/",
+        "summary": "O TikTok detalhou quatro produtos contextuais dentro da suite Pulse. O Pulse Mentions coloca anúncios ao lado de conteúdo onde usuários mencionam ativamente uma marca ou categoria. O Pulse Tastemakers posiciona anúncios logo após vídeos de criadores selecionados manualmente, associando a marca a vozes de autoridade no nicho."
+      },
+      {
+        "title": "TikTok lança Logo Takeover: anúncio co-branded com o TikTok na tela de abertura do app",
+        "source": "TechCrunch",
+        "date": "Mar 24, 2026",
+        "url": "https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/",
+        "summary": "O Logo Takeover permite que a marca apareça ao lado da logo do TikTok na tela de carregamento do app, capturando a atenção no primeiro segundo de uso. O formato é parte do conjunto de novidades apresentadas no NewFronts e faz parte de um redesign do inventário premium da plataforma para 2026."
+      },
+      {
+        "title": "OpenAI ChatGPT Ads atinge $100M em receita anualizada em 6 semanas com mais de 600 anunciantes ativos",
+        "source": "The Manila Times",
+        "date": "Mar 28, 2026",
+        "url": "https://www.manilatimes.net/2026/03/28/business/foreign-business/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-6-weeks/2309466",
+        "summary": "O piloto de anúncios do ChatGPT nos EUA atingiu $100 milhões em receita anualizada em menos de dois meses após o lançamento em 9 de fevereiro. São mais de 600 anunciantes ativos, com quase 80% das pequenas e médias empresas consultadas sinalizando interesse em entrar na plataforma. Cerca de 85% dos usuários elegíveis já podem ver anúncios."
+      },
+      {
+        "title": "OpenAI abre acesso self-serve para anunciantes no ChatGPT em abril com expansão internacional em sequência",
+        "source": "ALM Corp",
+        "date": "Mar 26, 2026",
+        "url": "https://almcorp.com/blog/chatgpt-ads-100m-openai-self-serve-april/",
+        "summary": "Após o piloto restrito com agências selecionadas, a OpenAI abre acesso direto para anunciantes via plataforma self-serve em abril. Pilotos internacionais no Canadá, Austrália e Nova Zelândia iniciam nas próximas semanas. Para quem quer testar o canal sem intermediários, a janela de entrada com menos concorrência está se abrindo."
+      },
+      {
+        "title": "OpenAI nomeia David Dugan, ex-VP da Meta, como head global de soluções de publicidade",
+        "source": "ppc.land",
+        "date": "Mar 25, 2026",
+        "url": "https://ppc.land/chatgpt-ads-hit-100m-in-six-weeks-and-openai-is-just-getting-started/",
+        "summary": "David Dugan, que liderou a construção do negócio de ads da Meta, assumiu o comando das soluções de publicidade global da OpenAI. A contratação sinaliza que a empresa está estruturando uma operação de vendas de anúncios com escala comercial, não apenas como experimento de produto."
+      },
+      {
+        "title": "NewFronts 2026: Meta, Amazon, TikTok e YouTube revelam novos formatos para mobile-first e engajamento em tempo real",
+        "source": "Mobile Marketing Reads",
+        "date": "Mar 24, 2026",
+        "url": "https://mobilemarketingreads.com/newfronts-2026/",
+        "summary": "Nos NewFronts deste ano, os grandes players apresentaram formatos pensados para consumo móvel e interação imediata: vídeos shoppable, integração com checkout nativo e anúncios ativados por voz. O evento consolidou a narrativa de que publicidade em vídeo se tornou inseparável do e-commerce em 2026."
+      },
+      {
+        "title": "State of PPC 2026: 75% dos profissionais já usam IA em campanhas; CPC médio no Google Search é de $2,69",
+        "source": "ALM Corp",
+        "date": "Mar 26, 2026",
+        "url": "https://almcorp.com/blog/state-of-ppc-2026-global-report/",
+        "summary": "Pesquisa com 1.306 profissionais de PPC mostra que 75% já integram IA em alguma etapa da gestão de campanhas. O CPC médio global no Google Search está em $2,69, com taxa de conversão média de 3,75%. O Google continua dominante em market share de paid search, mas o crescimento do ChatGPT Ads começa a aparecer como fator de diversificação."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Google Spam Update conclui em menos de 24h: Core Update de 27/03 ainda em rollout com impacto amplo",
+        "source": "Numinix",
+        "date": "Mar 27, 2026",
+        "url": "https://www.numinix.com/blog/march-2026-seo-algorithm-news-update/",
+        "summary": "O Spam Update iniciado em 24 de março encerrou em menos de um dia, algo que indica foco preciso em link spam e conteúdo de baixa qualidade em escala. O Core Update que começou em 27 de março ainda está em andamento e deve levar entre 1 e 2 semanas para completar. Estratégias de conteúdo baseadas em volume puro de IA são o principal vetor de risco neste ciclo."
+      },
+      {
+        "title": "AI Overviews derrubam CTR orgânico em 61% nas SERPs onde aparecem: dados de 3.119 queries analisadas",
+        "source": "Seer Interactive / ALM Corp",
+        "date": "Mar 25, 2026",
+        "url": "https://almcorp.com/blog/digital-marketing-news-march-11-20-2026/",
+        "summary": "Análise da Seer Interactive com 3.119 queries informacionais em 42 organizações mostrou queda de 61% no CTR orgânico quando AI Overviews aparecem. A taxa cai de 1,76% para 0,61%. Com o AI Mode expandido para mais de 75 milhões de usuários diários, o impacto deve se intensificar. Páginas dependentes de tráfego informacional precisam avaliar GEO como complemento."
+      },
+      {
+        "title": "Core Update de março: AI content farms perdem 60-80% de tráfego; afiliados lideram impacto negativo com 71%",
+        "source": "ALM Corp",
+        "date": "Mar 27, 2026",
+        "url": "https://almcorp.com/blog/google-march-2026-core-update/",
+        "summary": "Dados preliminares do Core Update mostram que sites de conteúdo gerado por IA sem curadoria perderam entre 60% e 80% de tráfego orgânico. Sites de afiliados registraram o maior índice de impacto negativo da atualização, com 71% relatando queda de rankings. Conteúdo com dados proprietários, pesquisa original e autoridade temática demonstrou maior estabilidade."
+      },
+      {
+        "title": "Shopify Agentic Storefronts: merchants vendem dentro do ChatGPT, Google AI Mode, Microsoft Copilot e Gemini",
+        "source": "Boston Inst. of Analytics",
+        "date": "Mar 25, 2026",
+        "url": "https://bostoninstituteofanalytics.org/blog/marketing-trends-news-march-22-28-2026-ai-disruption-meets-brand-reinvention/",
+        "summary": "A Shopify lançou os Agentic Storefronts, que permitem aos lojistas vender diretamente dentro de interfaces de IA conversacional. Preços, checkout e estoque ficam sincronizados a partir do painel da Shopify, sem integração adicional. Para e-commerce, representa o começo de um novo canal de aquisição com intenção de compra embutida."
+      },
+      {
+        "title": "Yahoo lança Planner e Scout: IA lê emails para criar calendários e answer engine em beta usa intent signals",
+        "source": "The AI Marketers",
+        "date": "Mar 26, 2026",
+        "url": "https://www.theaimarketers.ai/news032626/",
+        "summary": "O Yahoo Planner varre o Yahoo Mail em busca de prazos e eventos para construir calendários automaticamente. O Yahoo Scout é um answer engine em beta que usa sinais de intenção de navegação sem depender de cookies de terceiros. Para times de marketing que buscam alternativas de targeting first-party, o Scout sinaliza uma aposta relevante no pós-cookies."
+      },
+      {
+        "title": "YouTube reconstrói BrandConnect em YouTube Creator Partnerships com Gemini: busca entre 3 milhões de criadores",
+        "source": "Boston Inst. of Analytics",
+        "date": "Mar 25, 2026",
+        "url": "https://bostoninstituteofanalytics.org/blog/marketing-trends-news-march-22-28-2026-ai-disruption-meets-brand-reinvention/",
+        "summary": "O YouTube substituiu o BrandConnect pelo Creator Partnerships, com ferramentas de match baseadas no Gemini que varrem o catálogo de 3 milhões de criadores para identificar o perfil certo por campanha, com base em audiência, engajamento e alinhamento de categoria. A integração de criadores ao planning de mídia paga se torna operacionalmente mais viável."
+      },
+      {
+        "title": "Google AI Mode expande para 200+ países: zero-click cresce e equipes de conteúdo revisam estratégias",
+        "source": "Google",
+        "date": "Mar 26, 2026",
+        "url": "https://www.numinix.com/blog/march-2026-seo-algorithm-news-update/",
+        "summary": "Com o AI Mode disponível em mais de 200 países, o volume de buscas que retornam respostas diretas sem necessidade de clique cresce de forma acelerada. Para marcas que dependem de tráfego orgânico informacional, a prioridade passa a ser aparecer como fonte citada pelo AI Mode, não apenas ranquear nas posições tradicionais."
+      },
+      {
+        "title": "Bing Webmaster Tools adiciona grounding queries por página no AI performance report",
+        "source": "Optimixed",
+        "date": "Mar 25, 2026",
+        "url": "https://www.optimixed.com/daily-search-forum-recap-march-25-2026/",
+        "summary": "O Bing atualizou o AI performance report do Webmaster Tools com grounding queries no nível de página, mostrando quais perguntas específicas levam o Copilot a citar cada URL. O dado é relevante para quem trabalha com otimização de conteúdo para IAs, pois torna o diagnóstico de presença em respostas geradas mais preciso."
+      },
+      {
+        "title": "GEO (Generative Engine Optimization) avança como disciplina formal: budgets de SEO migram para visibilidade em IAs",
+        "source": "Search Engine Land",
+        "date": "Mar 26, 2026",
+        "url": "https://searchengineland.com/7-focus-areas-as-ai-transforms-search-and-the-customer-journey-in-2026-464068",
+        "summary": "Times de SEO em empresas de médio e grande porte estão realocando parte do orçamento para estratégias de GEO. Uma marca reportou aumento de 10% no budget de Q1 dedicado exclusivamente a otimizar presença em respostas de IA generativa. O GEO engloba estrutura de conteúdo, citabilidade e dados estruturados voltados para como os modelos interpretam e referenciam páginas."
+      },
+      {
+        "title": "Email marketing lidera ROI em 2026: abertura mobile domina e IA deve gerir 75% das operações de estratégia até o final do ano",
+        "source": "Hostinger",
+        "date": "Mar 26, 2026",
+        "url": "https://www.hostinger.com/tutorials/email-marketing-statistics",
+        "summary": "Email marketing mantém a liderança como canal de maior retorno sobre investimento entre todas as disciplinas digitais em 2026. A maioria das aberturas acontece em dispositivos móveis. Pesquisa aponta que 89% dos especialistas esperam que IA gerencie 75% das operações de estratégia de email ao longo do ano, abrangendo segmentação, timing e personalização de conteúdo."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Gemini importa histórico de conversas e memória do ChatGPT e Claude via upload de ZIP",
+        "source": "Winbuzzer",
+        "date": "Mar 27, 2026",
+        "url": "https://winbuzzer.com/2026/03/27/google-gemini-imports-chats-memory-chatgpt-claude-xcxwbn/",
+        "summary": "O Google lançou ferramentas que permitem ao Gemini importar histórico de conversas e memória aprendida do ChatGPT e do Claude. O usuário exporta um ZIP da plataforma de origem e faz upload direto no Gemini, ou usa um prompt que transfere preferências entre plataformas. É a primeira vez que um LLM de grande porte facilita portabilidade de contexto entre concorrentes."
+      },
+      {
+        "title": "Perplexity adiciona Verification Loop ao Deep Research: alucinações reduzidas em 33% com checagem em tempo real",
+        "source": "College Simplified",
+        "date": "Mar 24, 2026",
+        "url": "https://www.collegesimplified.in/post/ai-just-changed-again-latest-updates-in-chatgpt-gemini-ai-tools-march-2026",
+        "summary": "O Deep Research do Perplexity ganhou um módulo de verificação que cruza afirmações da IA com periódicos acadêmicos e bases de patentes antes de entregar a resposta final. Segundo a empresa, a redução de alucinações chegou a 33%. Para pesquisa de mercado, análise de concorrentes e due diligence, o Perplexity se diferencia dos outros modelos justamente neste ponto."
+      },
+      {
+        "title": "Google lança Gemini 3.1 Flash Live: suporte multilingual, camera search e voice no AI Mode para 200+ países",
+        "source": "Google",
+        "date": "Mar 26, 2026",
+        "url": "https://www.numinix.com/blog/march-2026-seo-algorithm-news-update/",
+        "summary": "O Gemini 3.1 Flash Live passou a alimentar o Search Live globalmente. O modelo suporta múltiplos idiomas, interpreta contexto visual capturado pela câmera em tempo real e responde por voz com latência baixa. Marcas de e-commerce e varejo local enfrentam um novo vetor de descoberta de produtos via busca visual e conversacional."
+      },
+      {
+        "title": "OpenAI nomeia David Dugan, ex-VP da Meta Ads, como head global de soluções de publicidade",
+        "source": "ppc.land",
+        "date": "Mar 25, 2026",
+        "url": "https://ppc.land/chatgpt-ads-hit-100m-in-six-weeks-and-openai-is-just-getting-started/",
+        "summary": "David Dugan, responsável por estruturar parte da operação de ads da Meta, foi nomeado head global de publicidade da OpenAI. A contratação indica que o ChatGPT Ads deixou de ser experimento e está sendo organizado como negócio de mídia com infraestrutura comercial própria, team de vendas e roadmap de produto dedicado."
+      },
+      {
+        "title": "Anthropic expande Claude com controle direto de desktops: agentes navegam e executam tarefas no ambiente do usuário",
+        "source": "Andrelug",
+        "date": "Mar 25, 2026",
+        "url": "https://andrelug.com/novidades-de-inteligencia-artificial-dia-25-de-marco-de-2026/",
+        "summary": "A Anthropic avançou nas capacidades de uso de computador do Claude, permitindo que agentes controlem desktops diretamente: navegam em browsers, clicam em elementos, preenchem formulários e executam fluxos de trabalho sem intervenção humana. Para equipes de marketing que gerenciam operações repetitivas em múltiplas plataformas, o avanço começa a tornar automação de tarefas complexas mais acessível."
+      },
+      {
+        "title": "Veo 3.1 no Google Ads: gera vídeo com áudio sincronizado, música e narração a partir de imagem ou texto",
+        "source": "ppcnewsfeed.com",
+        "date": "Mar 27, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-03/veo-video-generation-available-google-ads/",
+        "summary": "A versão 3.1 do Veo, disponível no Asset Studio do Google Ads, gera vídeos com trilha sonora, efeitos de áudio e narração sincronizados ao conteúdo visual. O modelo aceita imagens de produto ou prompts de texto como entrada. Para anunciantes sem estrutura de produção de vídeo, reduz o custo de criação de assets para YouTube e campanhas de vídeo."
+      },
+      {
+        "title": "Mirage (Captions) capta US$75M para expandir IA em vídeo publicitário com modelos treinados em ritmo e atenção",
+        "source": "TechCrunch",
+        "date": "Mar 24, 2026",
+        "url": "https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/",
+        "summary": "A Mirage, desenvolvedora do app Captions, captou US$75 milhões para expandir modelos de IA voltados a vídeo publicitário. A empresa treinou modelos específicos para ritmo, enquadramento e dinâmica de atenção em vídeos curtos, com foco em publicidade e marketing. Também apresentou avanços em preservação de sotaque na geração de áudio, relevante para criação de conteúdo multilingual."
+      },
+      {
+        "title": "IA para publicidade projetada para crescer 63% em 2026, chegando a US$57 bilhões em ad spend global",
+        "source": "Mobile Marketing Reads",
+        "date": "Mar 26, 2026",
+        "url": "https://mobilemarketingreads.com/newfronts-2026/",
+        "summary": "Projeções apresentadas nos NewFronts indicam que o ad spend impulsionado por IA deve crescer 63% ao longo de 2026, atingindo US$57 bilhões. O número engloba otimização automatizada de lances, geração de criativos por IA e alocação de budget por modelos preditivos. A adoção acelerada pelos principais players de plataforma está consolidando a IA como infraestrutura padrão de mídia paga."
+      },
+      {
+        "title": "ChatGPT integra checkout nativo do Shopify: compra concluída dentro da conversa com estoque sincronizado",
+        "source": "Boston Inst. of Analytics",
+        "date": "Mar 25, 2026",
+        "url": "https://bostoninstituteofanalytics.org/blog/marketing-trends-news-march-22-28-2026-ai-disruption-meets-brand-reinvention/",
+        "summary": "Merchants do Shopify podem agora receber pedidos diretamente por dentro do ChatGPT, com preço, disponibilidade e checkout sincronizados ao painel do Shopify. O usuário finaliza a compra sem sair da interface conversacional. Do ponto de vista de mídia, representa a consolidação do ChatGPT como canal de conversão, não apenas de descoberta."
+      },
+      {
+        "title": "Yahoo Scout em beta: answer engine usa intent signals de usuários sem cookies de terceiros para personalizar respostas",
+        "source": "The AI Marketers",
+        "date": "Mar 26, 2026",
+        "url": "https://www.theaimarketers.ai/news032626/",
+        "summary": "O Yahoo Scout é um answer engine que usa sinais de comportamento coletados diretamente pelo ecossistema Yahoo, como padrões de busca e dados do Yahoo Mail, para personalizar respostas sem depender de cookies de terceiros. O produto está em beta fechado e representa uma aposta da empresa no mercado de search pós-cookies com dados first-party próprios."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://www.auditsocials.com/blog/meta-ad-policy-updates-2026-guide",
+    "https://socialbee.com/blog/facebook-updates/",
+    "https://web.swipeinsight.app/topics/meta-ads",
+    "https://www.socialmediatoday.com/news/meta-updates-ad-metrics-to-align-with-other-platforms/813712/",
+    "https://web.swipeinsight.app/topics/google-ads",
+    "https://www.optimixed.com/daily-search-forum-recap-march-25-2026/",
+    "https://searchengineland.com/google-march-2026-core-update-rolling-out-now-472759",
+    "https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/",
+    "https://www.numinix.com/blog/march-2026-seo-algorithm-news-update/",
+    "https://almcorp.com/blog/digital-marketing-news-march-11-20-2026/",
+    "https://almcorp.com/blog/google-march-2026-core-update/",
+    "https://bostoninstituteofanalytics.org/blog/marketing-trends-news-march-22-28-2026-ai-disruption-meets-brand-reinvention/",
+    "https://www.collegesimplified.in/post/ai-just-changed-again-latest-updates-in-chatgpt-gemini-ai-tools-march-2026",
+    "https://ppc.land/chatgpt-ads-hit-100m-in-six-weeks-and-openai-is-just-getting-started/",
+    "https://ppcnewsfeed.com/ppc-news/2026-03/veo-video-generation-available-google-ads/",
+    "https://mobilemarketingreads.com/newfronts-2026/",
+    "https://www.theaimarketers.ai/news032626/"
+  ]
+}

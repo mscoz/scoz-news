@@ -1,0 +1,391 @@
+{
+  "id": "2026-05-25",
+  "label": "25-31 mai/26",
+  "label_full": "25 a 31 de maio de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "AI Pixel Enhancements entra no radar de anunciantes com ativacao automatica em contas elegiveis",
+        "source": "Reddit r/FacebookAds",
+        "date": "May 30, 2026",
+        "url": "https://www.reddit.com/r/FacebookAds/comments/1t0ahuv/meta_is_autoenabling_ai_pixel_enhancements_on_may/",
+        "summary": "A Meta passou a comunicar o AI Pixel Enhancements como camada automatica para pixels elegiveis. Para gestores, a acao imediata e auditar eventos, consentimento e impacto na atribuicao antes de comparar resultados com periodos anteriores."
+      },
+      {
+        "title": "Retencao de audiencias de compra chega a 730 dias e exige revisao de retargeting",
+        "source": "Good Morning",
+        "date": "May 20, 2026",
+        "url": "https://www.goodmorningco.com/blog/meta-ads-update-may-2026",
+        "summary": "A ampliacao da janela de retencao pode aumentar listas de compradores sem intervencao do anunciante. Gestores devem revisar exclusoes, recencia e frequencia para evitar que compradores antigos distorcam campanhas de retargeting."
+      },
+      {
+        "title": "APIs legadas de Advantage+ chegam ao fim e pressionam automacoes a migrar",
+        "source": "AdsUploader",
+        "date": "May 19, 2026",
+        "url": "https://adsuploader.com/blog/meta-ads-updates",
+        "summary": "Ferramentas internas e plataformas de automacao precisam abandonar endpoints antigos de Advantage+ Shopping e App Campaigns. O risco esta em fluxos de bulk edit e templates quebrarem silenciosamente."
+      },
+      {
+        "title": "AI Business Assistant entra na rotina de diagnostico dentro do ecossistema Meta",
+        "source": "DataSlayer",
+        "date": "May 19, 2026",
+        "url": "https://www.dataslayer.ai/blog/meta-ai-business-assistant-marketing-reporting-2026",
+        "summary": "O assistente ajuda a responder perguntas de conta e troubleshooting em linguagem natural. A recomendacao e usar a camada para acelerar diagnostico, mantendo validacao com dados externos e contexto comercial."
+      },
+      {
+        "title": "Meta Ads AI Connectors levam dados de campanhas para Claude e ChatGPT",
+        "source": "Social Media Today",
+        "date": "May 19, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-launches-ai-ad-connectors-that-work-with-outside-chatbots/819033/",
+        "summary": "Os conectores reduzem exportacoes manuais e aceleram analises ad hoc em assistentes externos. A adocao exige controle de acesso, politicas por cliente e revisao de privacidade."
+      },
+      {
+        "title": "Leitura tecnica do AI Pixel Enhancements aponta ganho potencial e risco de governanca",
+        "source": "Aimerce",
+        "date": "May 29, 2026",
+        "url": "https://www.aimerce.ai/blogs/what-is-ai-pixel-enhancements-meta",
+        "summary": "Aimerce detalhou como a nova camada de Pixel busca melhorar sinais para otimizacao e mensuracao. O beneficio depende de dados confiaveis; eventos duplicados, consentimento mal configurado e discrepancias com CAPI continuam sendo riscos relevantes."
+      },
+      {
+        "title": "Agentes de IA para Meta Ads ampliam automacao, mas ainda exigem supervisao humana",
+        "source": "Admove",
+        "date": "May 18, 2026",
+        "url": "https://www.admove.ai/blog/meta-ai-agents-for-ads",
+        "summary": "A operacao migra de execucao manual para supervisao de sistemas automatizados. Decisoes de budget, causa raiz e alinhamento com oferta continuam dependendo de leitura humana."
+      },
+      {
+        "title": "Relatorios de Meta Ads precisam separar clique, engage-through e view",
+        "source": "Good Morning",
+        "date": "May 21, 2026",
+        "url": "https://goodmorningco.com/blog/weekly-meta-ads-report-fewer-clicks",
+        "summary": "Mudancas de atribuicao alteram comparacoes historicas mesmo quando a campanha nao piorou. Templates semanais devem separar os buckets novos antes de cortar criativos ou redistribuir budget."
+      },
+      {
+        "title": "Roundup de maio organiza mudancas de Pixel, criativo, placements e retargeting",
+        "source": "Vizup",
+        "date": "May 21, 2026",
+        "url": "https://www.tryvizup.com/blog/meta-ads-updates-may-2026",
+        "summary": "A revisao mensal ajuda a priorizar o que exige acao imediata. Pixel e CAPI, qualidade de criativo, retencao de audiencias e Advantage+ devem entrar em um checklist recorrente."
+      },
+      {
+        "title": "Especificacoes de criativo por placement reforcam disciplina de asset no Meta Ads",
+        "source": "Superscale",
+        "date": "May 19, 2026",
+        "url": "https://superscale.ai/learn/meta-ad-sizes",
+        "summary": "Variacoes 1:1, 4:5 e 9:16 com safe zones e legibilidade mobile continuam essenciais. A automacao de placements nao substitui bons materiais de origem."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google Tag Manager e Google tag vao convergir em containers completos",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/google-tag-manager-and-google-tag-are-merging-what-actually-changes/",
+        "summary": "O plano inclui upgrade de Google tags para containers GTM, ferramenta visual no-code e interface redesenhada. Agencias devem revisar governanca, permissoes e inventario de tags antes da migracao."
+      },
+      {
+        "title": "DV360 API ganha novas capacidades para campanhas Demand Gen",
+        "source": "PPC Land",
+        "date": "May 27, 2026",
+        "url": "https://ppc.land/dv360-api-is-finally-getting-full-demand-gen-support-on-june-10/",
+        "summary": "A atualizacao permite ampliar gestao programatica e reporting de Demand Gen via API. Para operacoes maiores, isso reduz trabalho manual e exige atualizar integracoes internas para aproveitar os novos campos."
+      },
+      {
+        "title": "Google Ads passa a exigir passkeys para acoes sensiveis a partir de 15 de julho",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/google-ads-will-require-passkeys-for-sensitive-actions-from-july-15/",
+        "summary": "A autenticacao biometrica substitui senhas em acoes de maior risco para reduzir phishing e sequestro de conta. Times de midia precisam preparar acessos compartilhados e processos de recuperacao."
+      },
+      {
+        "title": "Backstage do GML detalha Gemini, AI Max e novos sinais de mensuracao",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/google-gml-backstage-product-leaders-on-gemini-ai-max-and-measurement/",
+        "summary": "Lideres de produto detalharam mudancas em intent matching, requisitos de AI Max, criacao de video e sinais de conversao. O impacto pratico e exigir briefing melhor e QA mais disciplinado."
+      },
+      {
+        "title": "Google Customer Reviews quebra em Shopify e exige ajuste de integracao",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/google-customer-reviews-breaks-in-shopify-here-is-the-free-fix/",
+        "summary": "Mudancas no checkout da Shopify afetaram pop-ups do Google Customer Reviews. Lojistas devem revisar a integracao via app Google e YouTube para recuperar coleta de avaliacoes."
+      },
+      {
+        "title": "Novos formatos de Search Ads com Gemini aproximam recomendacao, comparacao e conversao",
+        "source": "Google Blog",
+        "date": "May 26, 2026",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads",
+        "summary": "Os anuncios em Search evoluem para formatos inseridos em respostas e jornadas assistidas. A avaliacao correta exige acompanhar termos, conversoes qualificadas e impacto no funil completo."
+      },
+      {
+        "title": "AI Max reforca controles de marca e oferta para campanhas orientadas por IA",
+        "source": "Google Blog",
+        "date": "May 27, 2026",
+        "url": "https://blog.google/products/ads-commerce/ai-max-new-features/",
+        "summary": "O AI Max ganha papel central na operacao de Search, Shopping e Travel. Para contas menores, o recurso amplia automacao; para gestores, aumenta a necessidade de exclusions, briefing e auditoria de queries."
+      },
+      {
+        "title": "Asset Studio amplia producao multimodal para campanhas do ecossistema Google",
+        "source": "Google Blog",
+        "date": "May 28, 2026",
+        "url": "https://blog.google/products/ads-commerce/asset-studio-updates/",
+        "summary": "A criacao e adaptacao automatica de assets reduz custo de variacao por formato. O risco e produzir materiais genericos, por isso identidade visual e revisao humana continuam essenciais."
+      },
+      {
+        "title": "Demand Gen combina Maps e creator partnerships para ampliar descoberta e performance",
+        "source": "YouTube Blog",
+        "date": "May 28, 2026",
+        "url": "https://blog.google/products-and-platforms/products/youtube/youtube-demand-gen-updates/",
+        "summary": "A expansao aproxima criadores, descoberta local e compra de midia. Marcas precisam organizar direitos de uso, taxonomia de assets e mensuracao para evitar tratar criativo de creator como banner tradicional."
+      },
+      {
+        "title": "Meridian MMM e novos sinais de conversao reforcam mensuracao menos dependente de last click",
+        "source": "Google Blog",
+        "date": "May 29, 2026",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-2026-turn-your-data-into-decisions/",
+        "summary": "O Google aproxima modelagem de mix, dados proprietarios e leitura de resultados futuros qualificados. O ganho e uma visao mais ampla; a contrapartida e manter testes independentes para validar incrementalidade."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "ChatGPT Ads ganha campanhas otimizadas para conversao a partir de 5 de junho",
+        "source": "PPC Land",
+        "date": "May 30, 2026",
+        "url": "https://ppc.land/openais-chatgpt-ads-are-getting-conversion-optimization-heres-what-changes/",
+        "summary": "A OpenAI prepara campanhas conversion-optimized para anunciantes que configurarem Pixel ou Conversions API. Testes devem separar qualidade de conversao, contexto conversacional e efeito assistido no restante do mix."
+      },
+      {
+        "title": "Reddit divulga estudo de criativos que identifica sinais associados a maior conversao",
+        "source": "PPC Land",
+        "date": "May 27, 2026",
+        "url": "https://ppc.land/reddits-2026-ad-creative-study-what-actually-moves-conversion-rates/",
+        "summary": "O estudo reforca que criativos nativos de comunidade, claros e contextuais tendem a funcionar melhor no Reddit. O canal pede linguagem menos polida que Meta e Google, com segmentacao orientada por interesse real."
+      },
+      {
+        "title": "Reddit expande integracao com Shopify globalmente e destaca ROAS de varejo na EMEA",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/reddit-makes-shopify-integration-global-as-emea-retail-data-shows-7x-roas/",
+        "summary": "A integracao nativa com Shopify chega a mais mercados enquanto estudo da TransUnion aponta ROAS medio de 7x para varejistas da EMEA. E-commerce ganha um caminho mais direto para testar comunidades como canal de performance."
+      },
+      {
+        "title": "CPMs programaticos nos EUA sobem 34% em um ano enquanto CTV perde preco",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/us-programmatic-cpms-jump-34-yoy-as-display-surges-and-ctv-stalls/",
+        "summary": "O relatorio da DataBeat mostra alta geral de CPM, recuperacao de video e queda de CTV com crescimento de oferta. Planejamento programatico precisa separar inflacao de inventario, qualidade e resultado incremental."
+      },
+      {
+        "title": "Agentes executam campanha OOH totalmente agentica entre compra e venda de midia",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/broadsign-and-draft-digitals-ai-agents-run-first-fully-agentic-ooh-campaign/",
+        "summary": "Agentes de Broadsign e Draft Digital planejaram, reservaram e executaram uma campanha OOH. O caso mostra como automacao passa de recomendacao para transacao em midia."
+      },
+      {
+        "title": "ChatGPT Ads Manager ganha orcamento diario, geotargeting e CTAs dinamicos no beta",
+        "source": "PPC Land",
+        "date": "May 25, 2026",
+        "url": "https://ppc.land/chatgpt-ads-manager-gets-daily-budgets-geo-targeting-and-dynamic-ctas/",
+        "summary": "O beta ganha controles minimos para experimentos mais estruturados. Ainda faltam benchmarks, escala e padroes consolidados de atribuicao, mas o canal ja merece uma linha de teste separada."
+      },
+      {
+        "title": "TikTok reforca social search como camada de descoberta e oportunidade de performance",
+        "source": "Brainlabs",
+        "date": "May 26, 2026",
+        "url": "https://www.brainlabsdigital.com/tiktok-marketing-strategy-2026/",
+        "summary": "Busca social e conteudo nativo reduzem a separacao entre awareness e conversao. Para paid media, a oportunidade depende de criativos que respondem a intencao sem parecer adaptacao direta de campanhas de outros canais."
+      },
+      {
+        "title": "DoubleVerify adiciona medicao pos-bid para LinkedIn Audience Network",
+        "source": "PPC Land",
+        "date": "May 30, 2026",
+        "url": "https://ppc.land/doubleverify-brings-post-bid-measurement-to-linkedin-audience-network/",
+        "summary": "A integracao leva sinais de IVT, viewability e brand suitability para campanhas B2B. A mudanca melhora auditoria de inventario fora do feed principal do LinkedIn."
+      },
+      {
+        "title": "Self-serve ads do ChatGPT colocam pixel e Conversion API no novo mapa de PPC",
+        "source": "Search Engine Journal",
+        "date": "May 26, 2026",
+        "url": "https://www.searchenginejournal.com/openai-launches-self-serve-ads-manager-for-chatgpt/573971/",
+        "summary": "A estrutura de mensuracao aproxima ChatGPT Ads de canais conhecidos. A diferenca esta no contexto da conversa, que exige comparar qualidade de conversao e nao apenas volume de cliques."
+      },
+      {
+        "title": "Retail media e commerce agentico comprimem jornada entre descoberta e checkout",
+        "source": "Tom's Guide",
+        "date": "May 28, 2026",
+        "url": "https://www.tomsguide.com/tech-events/googles-new-universal-cart-uses-ai-to-track-deals-and-shop-across-apps",
+        "summary": "Experiencias de compra mediadas por IA podem reduzir etapas tradicionais do funil. Profissionais de performance precisam tratar feed, margem, disponibilidade e identidade como parte central da compra de midia."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Adobe aponta que 98% dos marketers ainda nao tem estrategia clara para AI Search",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/adobe-98-of-marketers-have-no-confident-ai-search-strategy/",
+        "summary": "A pesquisa mostra distancia entre crescimento de referrals de IA e maturidade operacional. Equipes precisam definir fontes prioritarias, medicao separada e um roadmap de conteudo citavel."
+      },
+      {
+        "title": "Estudo indica que AI Search pode criar internet de dois niveis entre publishers",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/googles-ai-search-is-building-a-two-tier-internet-study-finds/",
+        "summary": "A analise de publishers aponta concentracao de ganhos em marcas institucionais. SEO precisa acompanhar citacao, trafego e distribuicao direta, nao apenas ranking tradicional."
+      },
+      {
+        "title": "Preferred Sources chega a AI Mode e recompensa publishers com audiencia estabelecida",
+        "source": "PPC Land",
+        "date": "May 30, 2026",
+        "url": "https://ppc.land/google-extends-preferred-sources-into-ai-mode-as-new-sites-lose-ground/",
+        "summary": "O recurso adiciona sinais de preferencia em AI Overviews e AI Mode. Newsletter, comunidade e relacionamento direto ganham importancia para fortalecer distribuicao editorial."
+      },
+      {
+        "title": "Pichai discute Google Zero e admite que Search ficou opinativo demais",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/pichai-on-google-zero-agi-timeline-and-a-search-he-admits-is-too-opinionated/",
+        "summary": "A discussao reforca a necessidade de preparar marcas para jornadas sem clique. Conteudo proprietario, reputacao e canais diretos reduzem dependencia exclusiva de referrals."
+      },
+      {
+        "title": "SISTRIX resume maio com MCP aberto, Core Update e mudancas de citacao no ChatGPT",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/sistrix-may-2026-mcp-for-all-core-update-patterns-and-chatgpt-shifts/",
+        "summary": "O roundup conecta SEO, distribuicao em IA e novas interfaces de dados. Times devem monitorar vencedores e perdedores do Core Update junto com alteracoes de citacao."
+      },
+      {
+        "title": "YouTube move rotulos de IA para pontos mais visiveis e amplia deteccao automatica",
+        "source": "PPC Land",
+        "date": "May 30, 2026",
+        "url": "https://ppc.land/youtube-shifts-generative-ai-labels-to-spots-viewers-will-actually-see/",
+        "summary": "A plataforma aumenta transparencia para conteudo sintetico e alerta criadores sobre penalidades por omitir disclosure. Social e creator marketing precisam registrar origem de assets."
+      },
+      {
+        "title": "IAB Tech Lab abre orientacao sobre bots e crawlers de IA para comentario publico",
+        "source": "PPC Land",
+        "date": "May 28, 2026",
+        "url": "https://ppc.land/iab-tech-lab-opens-bot-management-guidance-for-public-comment/",
+        "summary": "Agentes e crawlers tornam mais dificil interpretar trafego e engajamento. Analytics deve distinguir consumo humano, automacao util e ruido antes de orientar investimento."
+      },
+      {
+        "title": "Google adiciona llms.txt ao Lighthouse e reacende debate sobre padroes da web agentica",
+        "source": "PPC Land",
+        "date": "May 30, 2026",
+        "url": "https://ppc.land/google-adds-llms-txt-to-lighthouse-as-agentic-web-standards-heat-up/",
+        "summary": "A auditoria do Lighthouse coloca readiness para agentes no radar de SEO e desenvolvimento. Equipes precisam avaliar utilidade real do protocolo sem abandonar fundamentos tecnicos."
+      },
+      {
+        "title": "Especificacao de sites lista 128 regras para preparar experiencias digitais para agentes",
+        "source": "PPC Land",
+        "date": "May 30, 2026",
+        "url": "https://ppc.land/joost-de-valks-website-spec-128-rules-to-future-proof-your-site/",
+        "summary": "A proposta cobre HTML, seguranca, Core Web Vitals, MCP e readiness para IA. Para marketing, ajuda a transformar discussao de AI Search em requisitos concretos para produto e conteudo."
+      },
+      {
+        "title": "Estudo da IAB Espanha mostra fragmentacao social e crescimento acelerado do TikTok Shop",
+        "source": "PPC Land",
+        "date": "May 31, 2026",
+        "url": "https://ppc.land/spains-social-media-users-jump-to-7-2-platforms-but-42-quit-at-least-one/",
+        "summary": "Usuarios espanhois usam em media 7,2 plataformas e 42% abandonaram ao menos uma rede. A fragmentacao exige estrategia social por comportamento, nao apenas replicacao de formato."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Anthropic lanca Claude Opus 4.8 com ganhos em agentes, coding e trabalho de conhecimento",
+        "source": "Anthropic",
+        "date": "May 28, 2026",
+        "url": "https://www.anthropic.com/news/claude-opus-4-8",
+        "summary": "O novo modelo flagship melhora autonomia em tarefas longas, raciocinio e execucao agentica. Para marketing operations, a evolucao favorece analise, pesquisa e workflows com revisao humana em pontos criticos."
+      },
+      {
+        "title": "Claude Opus 4.8 introduz Dynamic Workflows e controle de esforco para tarefas complexas",
+        "source": "TechCrunch",
+        "date": "May 28, 2026",
+        "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+        "summary": "Dynamic Workflows permite decompor trabalhos maiores e coordenar execucao com mais autonomia. A aplicacao pratica esta em processos que combinam pesquisa, sintese, QA e producao de materiais."
+      },
+      {
+        "title": "Opus 4.8 ganha fast mode mais barato para acelerar tarefas agenticas",
+        "source": "VentureBeat",
+        "date": "May 28, 2026",
+        "url": "https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment",
+        "summary": "A opcao de maior velocidade altera a conta de custo para operacoes recorrentes. Times devem escolher modo por risco e urgencia, reservando revisao mais profunda para entregas externas e decisoes de negocio."
+      },
+      {
+        "title": "Claude Opus 4.8 enfatiza honestidade e menor tendencia a esconder falhas",
+        "source": "Tom's Guide",
+        "date": "May 28, 2026",
+        "url": "https://www.tomsguide.com/ai/claude-opus-4-8-just-launched-and-anthropic-says-its-far-less-likely-to-fake-answers",
+        "summary": "A Anthropic posiciona confiabilidade como diferencial junto com performance. Para uso profissional, o ponto central continua sendo verificar fontes, manter logs e testar resultados antes de automatizar publicacao."
+      },
+      {
+        "title": "Anthropic combina lancamento do Opus 4.8 com expectativa de modelos ainda mais avancados",
+        "source": "Axios",
+        "date": "May 28, 2026",
+        "url": "https://www.axios.com/2026/05/28/anthropic-opus-release-mythos",
+        "summary": "O ciclo acelerado de modelos reduz a vida util de comparacoes estaticas. Empresas devem avaliar tarefas, custo e governanca continuamente em vez de padronizar um unico modelo por tempo indefinido."
+      },
+      {
+        "title": "OpenAI conecta Codex em mobile a sessoes de trabalho hospedadas no desktop",
+        "source": "OpenAI Help Center",
+        "date": "May 29, 2026",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "summary": "Usuarios podem acompanhar execucao, responder prompts e orientar trabalho a distancia. O recurso reforca agentes persistentes como interface operacional, inclusive para times que automatizam analise e manutencao."
+      },
+      {
+        "title": "Gemini evolui para assistente proativo com Daily Brief e agente pessoal Spark",
+        "source": "Google Blog",
+        "date": "May 25, 2026",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+        "summary": "A atualizacao mostra assistentes migrando de resposta sob demanda para execucao continua. Em marketing, isso abre espaco para monitoramento, consolidacao de sinais e rotinas de briefing."
+      },
+      {
+        "title": "Gemini Omni amplia criacao multimodal e leva video gerado para novos fluxos",
+        "source": "TechRadar",
+        "date": "May 26, 2026",
+        "url": "https://www.techradar.com/ai-platforms-assistants/googles-new-gemini-omni-ai-can-turn-almost-anything-into-video",
+        "summary": "Imagem, texto e contexto passam a alimentar geracao de video com menos friccao. Para times criativos, o ganho e velocidade; o risco e produzir assets pouco diferenciados sem direcao de marca."
+      },
+      {
+        "title": "Google Flow ganha musica e edicao generativa para criacao assistida por IA",
+        "source": "Android Central",
+        "date": "May 26, 2026",
+        "url": "https://www.androidcentral.com/apps-software/ai/google-i-o-gets-into-a-flow-preps-flow-music-app-and-generative-editing-for-on-the-go",
+        "summary": "A suite reduz distancia entre ideacao, edicao e publicacao de video. Marcas precisam definir aprovacao, direitos e criterios de qualidade antes de incorporar geracao automatica ao calendario."
+      },
+      {
+        "title": "ChatGPT perde participacao em referrals enquanto concorrentes de IA ganham espaco",
+        "source": "TechRadar / Statcounter",
+        "date": "May 27, 2026",
+        "url": "https://www.techradar.com/pro/new-figures-claim-chatgpt-usage-at-all-time-low-as-quitgpt-movement-dents-popularity-with-gemini-perplexity-and-copilot-all-stealing-market-share",
+        "summary": "A distribuicao de trafego vindo de assistentes fica mais fragmentada. Analytics deve separar referrals por plataforma e avaliar volume, intencao e conversao em vez de tratar AI search como um canal unico."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://www.goodmorningco.com/blog/meta-ads-update-may-2026",
+    "https://adsuploader.com/blog/meta-ads-updates",
+    "https://www.dataslayer.ai/blog/meta-ai-business-assistant-marketing-reporting-2026",
+    "https://www.socialmediatoday.com/news/meta-launches-ai-ad-connectors-that-work-with-outside-chatbots/819033/",
+    "https://www.admove.ai/blog/meta-ai-agents-for-ads",
+    "https://goodmorningco.com/blog/weekly-meta-ads-report-fewer-clicks",
+    "https://www.tryvizup.com/blog/meta-ads-updates-may-2026",
+    "https://superscale.ai/learn/meta-ad-sizes",
+    "https://blog.google/products/ads-commerce/google-marketing-live-search-ads",
+    "https://blog.google/products/ads-commerce/ai-max-new-features/",
+    "https://blog.google/products/ads-commerce/asset-studio-updates/",
+    "https://blog.google/products-and-platforms/products/youtube/youtube-demand-gen-updates/",
+    "https://blog.google/products/ads-commerce/google-marketing-live-2026-turn-your-data-into-decisions/",
+    "https://ppc.land/reddits-2026-ad-creative-study-what-actually-moves-conversion-rates/",
+    "https://ppc.land/chatgpt-ads-manager-gets-daily-budgets-geo-targeting-and-dynamic-ctas/",
+    "https://www.brainlabsdigital.com/tiktok-marketing-strategy-2026/",
+    "https://www.searchenginejournal.com/openai-launches-self-serve-ads-manager-for-chatgpt/573971/",
+    "https://www.tomsguide.com/tech-events/googles-new-universal-cart-uses-ai-to-track-deals-and-shop-across-apps",
+    "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+    "https://www.techradar.com/ai-platforms-assistants/googles-new-gemini-omni-ai-can-turn-almost-anything-into-video",
+    "https://www.androidcentral.com/apps-software/ai/google-i-o-gets-into-a-flow-preps-flow-music-app-and-generative-editing-for-on-the-go",
+    "https://www.techradar.com/pro/new-figures-claim-chatgpt-usage-at-all-time-low-as-quitgpt-movement-dents-popularity-with-gemini-perplexity-and-copilot-all-stealing-market-share"
+  ]
+}

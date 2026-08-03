@@ -9,7 +9,5 @@ snap-full.md
 scoz-news-redesign.png
 design-system/
 noticias-data.json
-build_html.py
 noticias-cache.json
-data/
 .DS_Store

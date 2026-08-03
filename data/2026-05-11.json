@@ -1,0 +1,370 @@
+{
+  "id": "2026-05-11",
+  "label": "11-17 mai/26",
+  "label_full": "11 a 17 de maio de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta expande AI Business Assistant no Ads Manager para todos os anunciantes e agencias globalmente",
+        "source": "Swipe Insight",
+        "date": "May 15, 2026",
+        "url": "https://web.swipeinsight.app/posts/meta-ai-business-assistant-ads-manager-global-rollout-41298",
+        "summary": "A Meta liberou o AI Business Assistant no Ads Manager para todos os anunciantes e agencias do mundo, saindo do beta restrito. O assistente responde perguntas sobre performance de campanhas, sugere otimizacoes e ajuda no troubleshooting diretamente dentro do Ads Manager. Para gestores de trafego, o impacto pratico e imediato: diagnostico rapido de campanhas sem precisar exportar dados ou navegar entre telas. O risco e confiar cegamente nas recomendacoes sem validar contra o contexto do negocio."
+      },
+      {
+        "title": "Meta atualiza Pixel com setup assistido por IA e simplifica implementacao da Conversions API",
+        "source": "iCreate Brand",
+        "date": "May 14, 2026",
+        "url": "https://icreatebrand.com/latest-meta-ads-update-2026/",
+        "summary": "A Meta lancou um setup assistido por IA para o Meta Pixel que detecta automaticamente eventos e dados de produto nas paginas do site, eliminando configuracao manual de eventos padrao. Em paralelo, o novo fluxo de Conversions API com um clique permite ativar o CAPI sem servidor proprio ou codigo customizado. A combinacao torna a infraestrutura de tracking da Meta acessivel para anunciantes sem equipe tecnica, mas anunciantes com implementacoes avancadas devem verificar se o setup automatico nao conflita com tags existentes."
+      },
+      {
+        "title": "Catalog Ads ganham recorte automatico de imagem por placement e adicao automatica de produtos do site",
+        "source": "SocialBee",
+        "date": "May 13, 2026",
+        "url": "https://socialbee.com/blog/facebook-updates/#may2026-catalog",
+        "summary": "A Meta adicionou duas funcionalidades aos anuncios de catalogo: recorte automatico de imagens para encaixe ideal em Feed, Stories e Reels, e adicao automatica de produtos do site que nao estao no catalogo. O recorte elimina o problema de imagens cortadas em placements verticais. A adicao automatica de produtos amplia a cobertura do catalogo sem intervencao manual, mas exige revisao periodica para garantir que produtos indesejados nao entrem nas campanhas."
+      },
+      {
+        "title": "Meta redesenha Partnership Ads Hub com nova UI e expande Creator Marketplace com filtro de audiencia",
+        "source": "Social Media Today",
+        "date": "May 14, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-redesigns-partnership-ads-hub-creator-marketplace-may-2026/818200/",
+        "summary": "O Partnership Ads Hub ganhou interface redesenhada e o Facebook Creator Marketplace e Instagram Creator Marketplace receberam filtro por 'Target audience'. A mudanca permite que anunciantes encontrem criadores cujo publico corresponde ao perfil de cliente desejado, em vez de selecionar apenas por nicho ou metricas de vaidade. Para campanhas de creator ads, o filtro de audiencia reduz o risco de investir em criadores com engajamento alto mas audiencia desalinhada do produto."
+      },
+      {
+        "title": "Meta atualiza Developer Policies: disclosure de gastos e fees obrigatorio para solucoes de compra de midia",
+        "source": "Meta for Business",
+        "date": "May 12, 2026",
+        "url": "https://www.facebook.com/business/news/developer-policies-transparency-2026",
+        "summary": "A Meta atualizou as Developer Policies exigindo que solucoes de compra de midia mantenham end advertisers em contas separadas (a menos que usem vendor_id ou brand fields) e divulguem ad spend, fees e detalhes de campanha sob demanda a partir de fevereiro de 2027. A medida afeta diretamente agencias e plataformas de automacao que operam campanhas de multiplos clientes em contas consolidadas. Quem nao se adaptar ate o prazo corre risco de suspensao de acesso a API."
+      },
+      {
+        "title": "AI Pixel Enrichment da Meta entra em ativacao automatica para anunciantes existentes em maio",
+        "source": "Aimerce / Meta",
+        "date": "May 13, 2026",
+        "url": "https://www.aimerce.ai/blogs/what-is-meta-pixel-ai-enrichment-full-breakdown-of-the-2026-update",
+        "summary": "A atualizacao de Pixel da Meta usa IA para extrair automaticamente informacoes de pagina, produto, preco, moeda e disponibilidade sem mudanca de codigo. O rollout comecou apos a janela de notificacao aberta em abril e passa a ativar enriquecimento para contas elegiveis ao longo de maio. Para anunciantes, o ganho potencial e mais sinal de contexto para otimizacao; o risco e enviar dados incorretos quando paginas usam temas customizados, precos dinamicos ou variacoes de produto que a IA interpreta mal."
+      },
+      {
+        "title": "Andromeda volta ao centro das discussoes com relatos de volatilidade em CPM, learning phase e deduplicacao",
+        "source": "HyperFX / Comunidade Meta Ads",
+        "date": "May 13, 2026",
+        "url": "https://www.hyperfx.ai/blog/meta-andromeda-issues-may-2026",
+        "summary": "Operadores de Meta Ads reportaram em maio instabilidade ligada ao rollout de Andromeda: oscilacoes fortes de CPM, resets de learning phase apos edicoes pequenas e problemas de deduplicacao entre Pixel e CAPI. Mesmo quando a perda aparece como ruido de reporting, a consequencia pratica e reduzir mudancas taticas desnecessarias durante a janela de estabilizacao. Times de midia devem monitorar EMQ, deduplicacao e qualidade real de lead antes de reagir apenas ao ROAS exibido no Ads Manager."
+      },
+      {
+        "title": "Guias tecnicos alertam que AI Pixel pode falhar em lojas WooCommerce com variacoes e multi-moeda",
+        "source": "Seresa",
+        "date": "May 15, 2026",
+        "url": "https://seresa.io/blog/marketing-pixels-tags/metas-ai-pixel-activates-on-your-woocommerce-store-may-15",
+        "summary": "Analises tecnicas sobre o AI Pixel da Meta destacaram risco especifico para lojas WooCommerce: produtos variaveis, multi-moeda e temas que renderizam preco via JavaScript podem gerar inferencias erradas. A recomendacao operacional e enviar eventos canonicos via Conversions API com event_id deterministico, deixando a deduplicacao priorizar dados explicitos sobre campos inferidos pela IA. Para e-commerces, a mudanca reforca que automacao de tracking nao elimina QA tecnico."
+      },
+      {
+        "title": "Meta Dynamic Product Ads ganham fluxo operacional atualizado para catalogos em Flight Control",
+        "source": "Clinch",
+        "date": "May 12, 2026",
+        "url": "https://clinchflightcontrol.zendesk.com/hc/en-us/articles/28377175694740-Meta-Dynamic-Product-Ad-DPA-Campaigns",
+        "summary": "A Clinch atualizou sua documentacao de Dynamic Product Ads para Meta, detalhando como campanhas DPA usam catalogos do Commerce Manager e product sets no nivel de campanha, ad set ou criativo. Embora seja uma atualizacao de ferramenta, ela reflete a complexidade crescente de operar catalog ads com camadas de criativo dinamico. Para varejistas, o ponto pratico e garantir que feed, catalogo e template criativo estejam alinhados antes de escalar anuncios dinamicos."
+      },
+      {
+        "title": "Anunciantes relatam golpes via Business Manager partner request mirando acesso a contas de ads",
+        "source": "Reddit r/FacebookAds",
+        "date": "May 14, 2026",
+        "url": "https://www.reddit.com/r/FacebookAds/comments/1tcu4uc/psa_fake_business_manager_partner_request_emails/",
+        "summary": "Profissionais de Meta Ads alertaram para golpes que usam e-mails e solicitacoes de parceiro no Business Manager para obter acesso a contas de anuncio. O risco e operacional e financeiro: depois de aceitar uma solicitacao fraudulenta, o invasor pode trocar permissoes, rodar anuncios no cartao salvo ou bloquear administradores reais. Agencias devem reforcar verificacao de parceiros, limitar permissao por funcao e revisar acessos ativos como parte do checklist semanal de seguranca."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google Ads limita retencao de dados granulares a 37 meses a partir de junho de 2026",
+        "source": "PPC Land",
+        "date": "May 13, 2026",
+        "url": "https://ppc.land/google-ads-cuts-granular-data-access-to-37-months-starting-june-2026/",
+        "summary": "O Google anunciou que dados de reporting por hora, dia e semana no Google Ads serao acessiveis por apenas 37 meses a partir de junho de 2026. Dados agregados mensais e anuais mantem janela de 11 anos. A mudanca afeta diretamente analises de sazonalidade que dependem de comparacoes granulares com anos anteriores. Anunciantes que precisam de historico detalhado devem exportar os dados antes do corte ou implementar pipelines automaticos de backup via API."
+      },
+      {
+        "title": "Veo no Google Ads: geracao de video a partir de imagens estaticas para escalar criativos",
+        "source": "GROAS",
+        "date": "May 14, 2026",
+        "url": "https://www.groas.com/post/today-in-google-ads-may-14-2026",
+        "summary": "O Google integrou o Veo ao Google Ads para gerar variacoes de video a partir de imagens estaticas. O objetivo e permitir que anunciantes escalem a variedade de assets e atinjam melhor Ad Strength sem produzir video manualmente. Para campanhas de Performance Max e Demand Gen que dependem de volume criativo, a ferramenta reduz a barreira de producao. O risco e a padronizacao estetica dos videos gerados, que pode diminuir diferenciacao entre anunciantes no mesmo leilao."
+      },
+      {
+        "title": "Kroger e DV360 conectam audiences de varejo no YouTube com relatorio de conversao por SKU",
+        "source": "Google Blog",
+        "date": "May 15, 2026",
+        "url": "https://blog.google/products/ads-commerce/kroger-dv360-youtube-sku-reporting/",
+        "summary": "A Kroger Precision Marketing firmou parceria com o Display & Video 360 para ativar audiences de shoppers baseadas em sinais de compra real no YouTube e inventario de terceiros. O Google tambem introduziu SKU-level conversion reporting no DV360, permitindo que marcas vejam o impacto do spend no YouTube sobre vendas de produtos especificos na Kroger. Para CPG, o modelo aproxima investimento em video de vendas por produto individual no varejo."
+      },
+      {
+        "title": "Demand Gen permite otimizacao para follow-on views e aprofunda objetivo de crescimento no YouTube",
+        "source": "Google Ads Help",
+        "date": "May 15, 2026",
+        "url": "https://support.google.com/google-ads/answer/16041562",
+        "summary": "O Google reforcou o uso de follow-on views como conversao de engajamento em Demand Gen. O recurso mede e otimiza para pessoas que continuam assistindo videos organicos do canal apos verem um anuncio. Para marcas que usam YouTube como ativo de audiencia, a mudanca posiciona Demand Gen alem de clique e conversao direta, permitindo comprar midia com objetivo de aumentar consumo recorrente de conteudo e crescimento de canal."
+      },
+      {
+        "title": "Universal Commerce Protocol ganha Cart, Catalog e Identity Linking para compras agenticas",
+        "source": "Google Blog",
+        "date": "May 16, 2026",
+        "url": "https://blog.google/products/ads-commerce/universal-commerce-protocol-cart-catalog-identity/",
+        "summary": "O Google atualizou o Universal Commerce Protocol com tres novas capacidades: Cart para salvar ou adicionar multiplos itens, Catalog para detalhes de produto em tempo real e Identity Linking para preservar beneficios de fidelidade entre plataformas. As atualizacoes posicionam o UCP como infraestrutura central para comercio mediado por agentes de IA, onde o consumidor nao navega diretamente e um agente autonomo compara, seleciona e compra em seu nome."
+      },
+      {
+        "title": "Google Tag Manager passa a aparecer dentro do Google Ads Data Manager",
+        "source": "PPC Land",
+        "date": "May 16, 2026",
+        "url": "https://ppc.land/google-tag-manager-moves-inside-google-ads-data-manager-what-changes/",
+        "summary": "O Google comecou a integrar o Tag Manager ao Google Ads Data Manager, permitindo configurar tags sem sair da plataforma de ads. A mudanca segue a consolidacao de first-party data, conversoes offline e Customer Match dentro do Data Manager. Para times de midia, isso reduz friccao entre operacao de campanhas e tracking; para equipes tecnicas, aumenta a necessidade de governanca para evitar que alteracoes de tag sejam feitas sem controle de versao ou QA."
+      },
+      {
+        "title": "Google tag gateway passa a ocultar IDs de containers GTM em caminhos first-party",
+        "source": "PPC Land",
+        "date": "May 17, 2026",
+        "url": "https://ppc.land/google-tag-gateway-now-lets-advertisers-hide-gtm-container-ids/",
+        "summary": "O Google atualizou a documentacao do tag gateway para permitir que containers do GTM sejam servidos por caminhos alfanumericos aleatorios em infraestrutura first-party. A mudanca dificulta bloqueios baseados em padroes publicos como GTM-XXXXXX e reforca a estrategia de preservar sinais de conversao contra ad blockers. Para anunciantes dependentes de mensuracao precisa, o ganho potencial e maior resiliência de coleta, mas exige revisao legal e tecnica de processamento first-party."
+      },
+      {
+        "title": "Merchant Center for Agencies expande globalmente apos piloto nos EUA e Canada",
+        "source": "PPC Land",
+        "date": "May 17, 2026",
+        "url": "https://ppc.land/merchant-center-for-agencies-goes-global-after-us-and-canada-head/",
+        "summary": "O Google expandiu o Merchant Center for Agencies para agencias fora dos EUA e Canada, centralizando diagnosticos, promocoes e oportunidades de ads em multiplas contas de cliente. A disponibilidade global reduz friccao para agencias que gerenciam muitos Merchant Centers separados. Para Shopping e Performance Max, o valor pratico e detectar problemas de feed, politicas e promocoes com mais rapidez, antes que falhas de produto afetem entrega ou receita."
+      },
+      {
+        "title": "Google Ads API v24.1 adiciona estatisticas de experimentos e novos tipos de teste para AI Max e PMax",
+        "source": "PPC Land / Google Ads API",
+        "date": "May 14, 2026",
+        "url": "https://ppc.land/google-ads-api-v24-1-brings-direct-a-b-experiment-stats-and-new-test-types/",
+        "summary": "A versao v24.1 da Google Ads API trouxe estatisticas diretas de experimentos e novos tipos de teste cobrindo AI Max, broad match, video e otimizacao de assets em Performance Max. Para equipes com automacoes proprias, a mudanca amplia o que pode ser monitorado sem depender apenas da interface. O impacto esta em criar rotinas de teste mais mensuraveis para recursos automatizados, principalmente quando Google reduz controle manual em campanhas."
+      },
+      {
+        "title": "Google Ads prepara vinculacao automatica de canais do YouTube a contas de anunciantes apos 10 de junho",
+        "source": "Search Engine Land",
+        "date": "May 14, 2026",
+        "url": "https://searchengineland.com/google-ads-to-auto-link-youtube-channels-starting-june-10-477094",
+        "summary": "O Google Ads passara a vincular automaticamente contas de anunciantes aos respectivos canais do YouTube apos 10 de junho de 2026. A mudanca aumenta o fluxo de sinais de engajamento do YouTube para Google Ads e facilita uso de metas como subscriptions e follow-on views. Para marcas com presenca forte em video, o beneficio e mais dados integrados; para agencias, o cuidado e revisar permissoes, ownership e governanca de canais antes da vinculacao automatica."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "LinkedIn e Amazon DSP firmam acordo de targeting B2B usando dados profissionais do LinkedIn",
+        "source": "Paid Search Association",
+        "date": "May 14, 2026",
+        "url": "https://paidsearch.org/top-10-ppc-news-parade-may-8-15-2026/",
+        "summary": "LinkedIn e Amazon anunciaram acordo que permite anunciantes do Amazon DSP segmentar usuarios B2B usando dados de audiencia do LinkedIn. A integracao conecta sinais profissionais (cargo, setor, empresa) com inventario programatico da Amazon, criando uma opcao de targeting B2B fora do ecossistema do Google. Para anunciantes B2B que dependiam exclusivamente do LinkedIn para targeting por cargo, a expansao para inventario da Amazon oferece escala e diversificacao de canal."
+      },
+      {
+        "title": "ChatGPT Ads Manager entra em open beta nos EUA com expansao para Canada, Australia e Nova Zelandia",
+        "source": "PPC News Feed",
+        "date": "May 12, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-05/chatgpt-ads-manager-open-beta/",
+        "summary": "O ChatGPT Ads Manager da OpenAI saiu do piloto e entrou em open beta nos Estados Unidos, com anuncios ja rodando tambem no Canada, Australia e Nova Zelandia. Os primeiros dados indicam taxas de conversao significativamente superiores ao Google Search e CTR duas vezes maior que display ads. A abertura do self-serve transforma o ChatGPT de canal experimental em plataforma de midia emergente, pressionando Google e Meta a responderem com inventario proprio em interfaces de IA."
+      },
+      {
+        "title": "Google Ads API v20 encerra em 10 de junho: migracao obrigatoria para versoes mais recentes",
+        "source": "Google Ads Developer Blog",
+        "date": "May 13, 2026",
+        "url": "https://ads-developers.googleblog.com/2026/05/google-ads-api-v20-sunset-june.html",
+        "summary": "O Google confirmou que a API v20 do Google Ads sera descontinuada em 10 de junho de 2026. Anunciantes e ferramentas que ainda operam nesta versao precisam migrar para v23 ou superior para evitar disrupcoes em automacoes, scripts e integracao com plataformas de terceiros. O prazo e curto — menos de um mes — e afeta qualquer stack de automacao que nao tenha sido atualizado nos ultimos 12 meses."
+      },
+      {
+        "title": "Journey-aware tCPA em Search e Smart Bidding Exploration em PMax chegam como novos recursos de lances",
+        "source": "PPC News Feed",
+        "date": "May 15, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-05/journey-aware-tcpa-smart-bidding-exploration/",
+        "summary": "O Google anunciou dois novos recursos de lances: Journey-aware tCPA em Search, que ajusta lances com base no estagio da jornada do usuario (nao apenas na query isolada), e Smart Bidding Exploration em PMax e Shopping, que busca ativamente novas categorias de query com potencial de conversao. Nos testes, Smart Bidding Exploration gerou +18% em categorias unicas de query convertendo e +19% em conversoes totais. A combinacao amplia o alcance sem aumentar CPA, mas reduz controle granular sobre onde o budget e alocado."
+      },
+      {
+        "title": "Site Visit Extensions chegam como feature oficial do Google Ads para conectar visitas fisicas a campanhas digitais",
+        "source": "PPC News Feed",
+        "date": "May 14, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-05/site-visit-extensions-official/",
+        "summary": "O Google oficializou as Site Visit Extensions como recurso disponivel para todos os anunciantes. A extensao exibe informacoes de localizacao diretamente no anuncio e conecta visitas fisicas a campanhas digitais. Para negocios com pontos de venda fisicos, o recurso fecha o loop entre investimento em midia digital e trafego na loja, facilitando a atribuicao de receita offline ao canal pago."
+      },
+      {
+        "title": "TikTok World concentra novidades de ads com controles de campanha mais proximos de agentes de IA",
+        "source": "PPC Land",
+        "date": "May 13, 2026",
+        "url": "https://ppc.land/tiktok-world-upfront-week-and-an-amazon-merger-reshape-the-ad-week/",
+        "summary": "O TikTok concentrou seus principais anuncios de advertising no TikTok World em 13 de maio, em uma semana marcada por plataformas puxando mais partes do ciclo de campanha para dentro dos seus proprios ambientes. A leitura para PPC e clara: criacao, mensuracao, ativacao e transacao estao sendo empacotadas com IA dentro das plataformas. Gestores de trafego precisam avaliar onde ainda conseguem diferenciar estrategia quando a execucao fica cada vez mais automatizada."
+      },
+      {
+        "title": "OpenAI adiciona custom audiences ao ChatGPT Ads em rollout restrito",
+        "source": "PPC Land",
+        "date": "May 14, 2026",
+        "url": "https://ppc.land/openai-adds-custom-audiences-to-chatgpt-ads-as-self-serve-expands/",
+        "summary": "O ChatGPT Ads comecou a exibir upload de custom audiences em rollout controlado, adicionando uma camada de targeting conhecida por compradores de midia. A funcionalidade indica que a plataforma esta evoluindo de inventario experimental para stack de performance mais proximo de Google e Meta. Para anunciantes, o ponto critico sera entender qualidade de match, privacidade e atribuição antes de mover budget relevante para audiencias proprietarias dentro do ChatGPT."
+      },
+      {
+        "title": "The Trade Desk atualiza Kokai com controles granulares de IA, pause ads e melhorias no Deal Desk",
+        "source": "PPC Land",
+        "date": "May 16, 2026",
+        "url": "https://ppc.land/the-trade-desks-q2-kokai-updates-ai-controls-ctv-pause-ads-deal-desk/",
+        "summary": "A atualizacao Q2 do Kokai trouxe controle mais granular sobre Koa Optimizations, permitindo ligar ou desligar componentes individuais da IA de bidding e inventario. A The Trade Desk tambem abriu pause ads em beta e melhorou o Deal Desk com filtros, lookback windows e mais metadados. Para compradores programaticos, o movimento e relevante porque oferece automacao seletiva, nao apenas uma caixa-preta ligada ou desligada."
+      },
+      {
+        "title": "Amazon Audiences chegam ao inventario Netflix EMEA via Amazon DSP",
+        "source": "PPC Land",
+        "date": "May 14, 2026",
+        "url": "https://ppc.land/amazon-audiences-reach-netflix-emea-on-may-18/",
+        "summary": "A Amazon passou a levar seus sinais de audiencia para inventario Netflix na regiao EMEA via Amazon DSP. A integracao combina dados de compra da Amazon com audiencia de streaming da Netflix, ampliando a oferta de CTV orientada por comportamento real de varejo. Para marcas com budget de video e retail media, isso reforca a convergencia entre TV, comercio e performance, mas tambem aumenta dependência de ecossistemas fechados de dados."
+      },
+      {
+        "title": "Amazon Ads expande benchmarks globais, MMM sai de beta e GIA chega a disponibilidade geral",
+        "source": "PPC Land",
+        "date": "May 16, 2026",
+        "url": "https://ppc.land/amazon-ads-may-2026-benchmarks-go-global-mmm-exits-beta-gia-reaches-ga/",
+        "summary": "A Amazon Ads avancou em tres frentes de mensuracao e planejamento: benchmarks globais, Marketing Mix Modeling API fora do beta e Geographic Insights and Activation em disponibilidade geral. Para anunciantes, a mudanca melhora capacidade de comparar performance, automatizar ingestao de sinais agregados e ativar insights por geografia. O movimento coloca a Amazon mais perto de um sistema completo de medicao, midia e varejo em um unico ambiente."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Google May 2026 Algorithm Update foca em E-E-A-T e separa conteudo de especialistas reais de producao por IA em massa",
+        "source": "Quantifi Media",
+        "date": "May 15, 2026",
+        "url": "https://www.quantifimedia.com/google-algorithm-update-may-2026-what-changed-and-how-it-impacts-your-rankings",
+        "summary": "O update de algoritmo de maio de 2026 reforca a separacao entre conteudo produzido por especialistas com experiencia real e conteudo gerado por IA em escala. Sites intermediarios — agregadores de reviews afiliados, portais de cupons e hubs de conteudo construidos em torno de receita publicitaria — perderam posicoes de forma significativa. Os sinais que o Google aparenta ter fortalecido incluem narrativas de teste em primeira mao, screenshots de produtos reais, bios de autores com credenciais verificaveis e historico de revisao com datas. Para SEO, a implicacao e direta: volume de conteudo sem expertise demonstravel perde relevancia."
+      },
+      {
+        "title": "Busca baseada em respostas substitui busca por links: usuarios esperam sintese direta em vez de lista de resultados",
+        "source": "ALM Corp",
+        "date": "May 13, 2026",
+        "url": "https://almcorp.com/blog/digital-marketing-trends-may-2026/",
+        "summary": "A mudanca mais estrutural no marketing digital de maio de 2026 e a consolidacao da busca baseada em respostas. Usuarios fazem perguntas mais longas e especificas, buscam com mais contexto, comparam opcoes e esperam uma sintese em vez de uma lista de links. O impacto para marcas e duplo: conteudo otimizado para ranking tradicional perde eficacia se nao for citavel por IAs, e a jornada entre descoberta e conversao se comprime — quem nao aparece na resposta gerada pode nao aparecer de forma alguma."
+      },
+      {
+        "title": "Agentic commerce define performance de e-commerce em 2026: agentes de IA ja geram parcela significativa do trafego",
+        "source": "Improvado",
+        "date": "May 14, 2026",
+        "url": "https://improvado.io/blog/ecommerce-trends",
+        "summary": "O comercio agentico — onde agentes de IA autonomos navegam, comparam e executam compras em nome dos consumidores — esta definindo a performance de e-commerce em 2026. O interesse por 'AI agent' triplicou no ultimo ano e uma parcela crescente do trafego de e-commerce ja se origina desses agentes. Para varejistas, a implicacao e que otimizar apenas para humanos navegando nao e mais suficiente; dados estruturados, APIs abertas e protocolos de comercio como o UCP do Google se tornam infraestrutura obrigatoria."
+      },
+      {
+        "title": "TikTok Shop atinge US$ 15,8 bilhoes em vendas e social commerce acelera com checkout nativo",
+        "source": "Search Engine Land",
+        "date": "May 12, 2026",
+        "url": "https://searchengineland.com/guide/top-ecommerce-trends-2026",
+        "summary": "O TikTok Shop atingiu US$ 15,82 bilhoes em vendas apos crescimento de 108% no ultimo ano, consolidando o social commerce como canal de conversao e nao apenas de descoberta. Instagram Shopping e TikTok transformaram conteudo em comercio sem necessidade de sair do app. Para marcas de beleza, alimentos e moda, video esta gerando 20 a 35% de aquisicao de novos clientes. A implicacao para planejamento de midia e que social commerce nao e mais experimental — e um canal com volume real que compete com search e display por budget de performance."
+      },
+      {
+        "title": "Unified commerce substitui omnichannel: varejistas integram front-end e back-end em plataforma unica com dados em tempo real",
+        "source": "Digital Commerce 360",
+        "date": "May 14, 2026",
+        "url": "https://www.digitalcommerce360.com/2026/05/unified-commerce-replacing-omnichannel/",
+        "summary": "A industria de varejo esta migrando de estrategias omnichannel para unified commerce — plataformas que fundem front-end e back-end para que dados fluam entre canais em tempo real. A diferenca pratica e que omnichannel mantinha canais conectados mas separados; unified commerce elimina a separacao, permitindo que estoque, precos, dados de cliente e historico de interacao estejam sincronizados instantaneamente entre loja fisica, e-commerce, marketplace e app. Para performance marketing, a mudanca melhora atribuicao e personalizacao cross-canal."
+      },
+      {
+        "title": "Estudo mede AI Overviews e aponta impacto em publishers, qualidade de fontes e fidelidade de claims",
+        "source": "arXiv",
+        "date": "May 13, 2026",
+        "url": "https://arxiv.org/abs/2605.14021",
+        "summary": "Um estudo publicado no arXiv analisou Google AI Overviews em escala, avaliando ativacao, qualidade das fontes, fidelidade de afirmacoes e impacto sobre publishers. A pesquisa indica que AI Overviews usam mecanismos de selecao de fontes diferentes do ranking tradicional e que parte relevante dos claims nao e diretamente suportada pelas paginas citadas. Para marketing de conteudo, a implicacao e que SEO precisa medir citacao, cobertura semantica e confiabilidade, nao apenas posicao organica."
+      },
+      {
+        "title": "Google esclarece que politicas de spam tambem se aplicam a AI Overviews e AI Mode",
+        "source": "PPC Land",
+        "date": "May 15, 2026",
+        "url": "https://ppc.land/google-spam-policies-now-officially-cover-ai-overviews-and-ai-mode-in-search/",
+        "summary": "O Google formalizou que suas politicas de spam se aplicam tambem a AI Overviews e AI Mode. A mudanca encerra a ambiguidade sobre tentativas de manipular respostas geradas por IA com taticas de SEO agressivas. Para equipes de conteudo e SEO, o recado e que GEO precisa seguir os mesmos principios de qualidade, utilidade e confiabilidade da busca tradicional, com ainda mais enfase em reputacao de fonte e evidencias claras."
+      },
+      {
+        "title": "Google publica guia para otimizar conteudo para IA generativa na Busca",
+        "source": "Search Engine Journal",
+        "date": "May 15, 2026",
+        "url": "https://www.searchenginejournal.com/googles-new-ai-search-guide-calls-aeo-and-geo-still-seo/575026/",
+        "summary": "O Google publicou um guia voltado a donos de sites sobre como aparecer em experiencias generativas da Busca, enderecando confusoes sobre AEO e GEO. A orientacao reforca fundamentos como conteudo util, estrutura clara, dados acessiveis e presenca em fontes confiaveis. Para marketing digital, o guia consolida uma mudanca de briefing: conteudo precisa servir humanos e sistemas de resposta, com dados verificaveis e formato facil de citar."
+      },
+      {
+        "title": "Condé Nast orienta marcas a planejarem cenario de trafego de busca zero",
+        "source": "Search Engine Journal",
+        "date": "May 14, 2026",
+        "url": "https://www.searchenginejournal.com/conde-nast-ceo-plan-as-if-search-traffic-will-be-zero/574786/",
+        "summary": "O CEO da Condé Nast orientou as marcas do grupo a operarem como se o trafego de busca pudesse chegar a zero. A declaracao reflete a pressao que AI Overviews, AI Mode e respostas diretas colocam sobre publishers dependentes de SEO. Para marcas, o sinal estrategico e reduzir dependencia de descoberta via Google, fortalecendo audiencia direta, newsletter, comunidade, parcerias e presenca em fontes citadas por IAs."
+      },
+      {
+        "title": "Relatorio FIPP/WAN-IFRA mostra AI search pressionando referral traffic e acelerando relacoes diretas",
+        "source": "FIPP / WAN-IFRA",
+        "date": "May 16, 2026",
+        "url": "https://www.fipp.com/news/fipps-global-digital-subscription-snapshot-2026-growing-influence-of-ai-search/",
+        "summary": "O Snapshot 2026 da FIPP e WAN-IFRA apontou AI search como uma das forcas que reduzem referral traffic para publishers, enquanto bundles e relacionamentos diretos com audiencia ganham peso. Para marketing, a tendencia reforca que distribuicao organica aberta esta menos previsivel. Marcas que dependem de conteudo precisam tratar relacionamento proprietario, dados first-party e autoridade editorial como ativos de performance, nao apenas de branding."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Google Analytics adiciona canal nativo 'AI Assistant' para classificar trafego de ChatGPT, Gemini e Claude automaticamente",
+        "source": "PPC Land / SE Roundtable",
+        "date": "May 13, 2026",
+        "url": "https://ppc.land/google-analytics-adds-ai-assistant-channel-for-chatgpt-gemini-claude/",
+        "summary": "O Google Analytics adicionou em 13 de maio de 2026 um canal nativo 'AI Assistant' ao Default Channel Group, classificando automaticamente trafego referido por ChatGPT, Gemini, Claude e outros assistentes de IA. Quando o GA detecta um referrer de assistente de IA reconhecido, atribui o valor 'ai-assistant' a dimensao medium. A mudanca e significativa porque transforma trafego de IA de 'referral generico' em categoria propria, permitindo analise isolada de volume, comportamento e conversao originados em interfaces de IA."
+      },
+      {
+        "title": "ChatGPT expande anuncios para Brasil, Japao, Mexico e Coreia do Sul com conversao superior ao Google Search",
+        "source": "House of Communication",
+        "date": "May 14, 2026",
+        "url": "https://www.house-of-communication.com/us/en/newsroom/blog/2026/05/mediaplus-chatgpt-marketing-funnel.html",
+        "summary": "A OpenAI expandiu os anuncios do ChatGPT para Brasil, Japao, Mexico e Coreia do Sul. Dados iniciais indicam que a taxa de conversao do trafego vindo do ChatGPT e significativamente superior a do Google Search, e o CTR e duas vezes maior que o de display ads. Para anunciantes brasileiros, o ChatGPT se torna uma opcao real de canal pago pela primeira vez. A questao aberta e se o volume de inventario no Brasil sera suficiente para justificar alocacao de budget ou se permanecera como canal de teste."
+      },
+      {
+        "title": "AI assistants evoluem para proatividade: ChatGPT Pulse, Gemini Proactive Assistance e Claude Orbit",
+        "source": "PCWorld",
+        "date": "May 15, 2026",
+        "url": "https://www.pcworld.com/article/3131926/personal-ai-assistants-were-big-proactive-ai-could-be-bigger.html",
+        "summary": "Os tres principais assistentes de IA estao evoluindo de respostas reativas para assistencia proativa. O ChatGPT lancou Pulse para briefings personalizados, o Google desenvolve Proactive Assistance para o Gemini, e ha evidencias de um recurso do Claude chamado Orbit que conectaria Gmail, Slack, GitHub, Google Calendar, Drive e Figma. A mudanca de paradigma implica que assistentes de IA deixam de esperar perguntas e passam a antecipar necessidades, alterando como profissionais de marketing organizam fluxos de trabalho e tomam decisoes diarias."
+      },
+      {
+        "title": "5W lanca AI Citation Source Index 2026: os 50 sites que determinam visibilidade de marcas dentro de IAs",
+        "source": "PR Newswire",
+        "date": "May 14, 2026",
+        "url": "https://www.prnewswire.com/news-releases/5w-releases-ai-platform-citation-source-index-2026-the-50-websites-that-now-decide-what-brands-are-visible-inside-chatgpt-claude-perplexity-gemini-and-google-ai-overviews-302759804.html",
+        "summary": "A agencia 5W publicou o AI Platform Citation Source Index 2026, mapeando os 50 sites mais citados por ChatGPT, Claude, Perplexity, Gemini e Google AI Overviews ao gerar respostas. O indice revela quais fontes de conteudo efetivamente determinam a visibilidade de marcas dentro de interfaces de IA generativa. Para estrategias de GEO (Generative Engine Optimization), o levantamento e um insumo direto: estar presente e bem posicionado nesses 50 sites aumenta a probabilidade de ser citado quando um usuario pergunta a uma IA sobre o seu mercado."
+      },
+      {
+        "title": "ChatGPT cai para 68% de market share enquanto Gemini sobe para 18% e Claude domina novos contratos enterprise",
+        "source": "First Page Sage / AI Business Weekly",
+        "date": "May 15, 2026",
+        "url": "https://aibusinessweekly.net/p/ai-market-share-2026",
+        "summary": "O market share de chatbots de IA generativa esta se redistribuindo: o ChatGPT caiu para 68% conforme Gemini subiu para 18% em 12 meses, e o Claude conquistou 70% dos novos contratos enterprise. A diversificacao do mercado tem implicacao direta para GEO e para planejamento de presenca em canais de IA: otimizar para um unico modelo nao e mais suficiente. Marcas que dependem de visibilidade em respostas de IA precisam garantir presenca em fontes citadas por multiplas plataformas, nao apenas pelo ChatGPT."
+      },
+      {
+        "title": "ChatGPT perde share de referrals enquanto Gemini, Perplexity e Copilot ganham espaco",
+        "source": "TechRadar / Statcounter",
+        "date": "May 15, 2026",
+        "url": "https://www.techradar.com/pro/new-figures-claim-chatgpt-usage-at-all-time-low-as-quitgpt-movement-dents-popularity-with-gemini-perplexity-and-copilot-all-stealing-market-share",
+        "summary": "Dados da Statcounter citados pela TechRadar indicaram que o ChatGPT caiu para seu menor share registrado de referrals de chatbots de IA, enquanto Gemini, Perplexity e Copilot ganharam participacao. Para marketing, o ponto pratico e que estrategias de GEO nao podem depender de um unico assistente. Monitorar citacoes, trafego e sentimento em multiplas plataformas passa a ser necessario para evitar cegueira de canal."
+      },
+      {
+        "title": "Microsoft Clarity adiciona Citations para medir presenca em respostas de IA",
+        "source": "PPC Land / Microsoft Clarity",
+        "date": "May 13, 2026",
+        "url": "https://ppc.land/upfront-week-reshapes-tv-ad-money-as-openai-bolts-on-custom-audiences/",
+        "summary": "O Microsoft Clarity anunciou o recurso Citations para reportar paginas citadas em respostas geradas por IA, share de autoridade frente a concorrentes, trafego de IA, grounding queries e paginas citadas. A ferramenta leva analitica de visibilidade em IA para mais perto do stack gratuito de produto. Para equipes de marketing, isso cria uma nova camada de medicao entre SEO tradicional e analytics: aparecer na resposta antes do clique."
+      },
+      {
+        "title": "LLM Pulse publica ranking de dominios mais citados por ChatGPT, Perplexity, Gemini e Google AI",
+        "source": "LLM Pulse",
+        "date": "May 13, 2026",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
+        "summary": "A LLM Pulse atualizou seu estudo de dominios mais citados por ChatGPT, Perplexity, Gemini, Google AI Mode e AI Overviews. O levantamento usa milhares de prompts reais para mapear citacoes, mencoes e sentimento. Para marcas, o valor esta em entender quais tipos de fontes cada mecanismo privilegia, em vez de assumir que ranking organico do Google e suficiente para visibilidade em respostas de IA."
+      },
+      {
+        "title": "Trakkr mede trafego enviado por ChatGPT, Claude, Gemini e Perplexity em milhares de propriedades GA4",
+        "source": "Trakkr",
+        "date": "May 13, 2026",
+        "url": "https://trakkr.ai/ai-search-traffic",
+        "summary": "A Trakkr publicou benchmark de trafego de IA baseado em milhares de propriedades GA4, comparando visitas vindas de ChatGPT, Claude, Gemini, Perplexity e outros assistentes. O dado ajuda a separar hype de volume real: muitos sites ja veem sinais mensuraveis, mas a distribuicao varia muito por vertical. Para marketing, o uso pratico e criar baseline por fonte de IA antes de prometer crescimento via GEO."
+      },
+      {
+        "title": "State of AI Citations 2026 mapeia diferencas de citacao entre ChatGPT, Claude, Perplexity e Gemini",
+        "source": "Promagen",
+        "date": "May 14, 2026",
+        "url": "https://promagen.com/state-of-ai-citations-2026",
+        "summary": "O relatorio State of AI Citations 2026 destacou que ChatGPT, Claude, Perplexity e Gemini citam fontes sob regras diferentes, com variacoes de consistencia, uso de robots.txt e relacao com busca ao vivo. Para marcas, isso significa que GEO nao e um unico playbook. A mesma pagina pode performar bem em um motor e ser invisivel em outro, exigindo monitoramento por plataforma e formatos de conteudo mais verificaveis."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://ppc.land/google-ads-cuts-granular-data-access-to-37-months-starting-june-2026/"
+  ]
+}

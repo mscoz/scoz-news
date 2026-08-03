@@ -1,0 +1,371 @@
+{
+  "id": "2026-07-06",
+  "label": "06-12/jul",
+  "label_full": "6 a 12 de julho de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Muse Image chega ao Advantage+ Creative para gerar e editar imagens com briefs mais complexos",
+        "source": "Meta Newsroom",
+        "date": "Jul 2026",
+        "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
+        "summary": "A Meta apresentou o Muse Image, primeiro modelo de imagem da Superintelligence Labs, com raciocínio sobre o brief, mistura de referências e edição guiada. A empresa confirmou que o modelo chegará ao Advantage+ Creative, ampliando a capacidade de produzir variações de anúncios; equipes devem reforçar critérios de marca e revisão humana antes de escalar assets."
+      },
+      {
+        "title": "Meta atualiza os rótulos de anúncios gerados por IA e passa a detectar ferramentas de terceiros",
+        "source": "Social Media Today",
+        "date": "Jul 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-adds-updated-disclosure-tags-for-ai-generated-ads/824658/",
+        "summary": "A Meta ampliou a identificação de anúncios criados ou alterados por IA, incluindo sinais de ferramentas externas e exibição mais visível quando há pessoas fotorrealistas geradas artificialmente. O gestor precisa preservar metadados e revisar o preview do anúncio, porque o rótulo pode afetar percepção de autenticidade e deve entrar no QA criativo."
+      },
+      {
+        "title": "Meta adiciona métricas para medir resolução, escalonamento e desempenho dos Business Agents",
+        "source": "Social Media Today",
+        "date": "Jul 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-adds-new-metrics-to-track-business-chatbot-performance/824908/",
+        "summary": "Marcas que usam os Business Agents da Meta ganharam novos indicadores para acompanhar como o agente responde, resolve dúvidas e encaminha conversas. Para campanhas de clique para mensagem, isso aproxima mídia e atendimento: além do custo por conversa, passa a ser possível observar se o tráfego pago produz interações efetivamente resolvidas."
+      },
+      {
+        "title": "Taxas geográficas da Meta entram nas faturas de seis mercados e elevam o custo fora do Ads Manager",
+        "source": "AdsUploader",
+        "date": "Jul 2026",
+        "url": "https://adsuploader.com/blog/meta-ads-updates#location-fees",
+        "summary": "As location fees começaram a ser cobradas em julho para anúncios entregues em mercados europeus selecionados e na Turquia. Como a sobretaxa aparece na cobrança e não necessariamente no gasto exibido no Ads Manager, operações internacionais precisam reconciliar fatura por país e recalcular CAC, margem e metas de ROAS com o custo efetivo."
+      },
+      {
+        "title": "Marketing API v23 é desativada e integrações precisam revisar versão, breakdowns e erros de consulta",
+        "source": "AdMake AI",
+        "date": "Jul 2026",
+        "url": "https://admakeai.com/blog/meta-ads-updates-july-2026#marketing-api",
+        "summary": "A janela de suporte da Marketing API v23 terminou, afetando automações e relatórios que ainda dependiam dessa versão e de breakdowns removidos. Agências com pipelines próprios devem confirmar a versão ativa, monitorar erros e validar se os campos usados em dashboards continuam retornando dados antes de confiar no fechamento mensal."
+      },
+      {
+        "title": "Meta leva Business Agents ao Instagram e amplia a automação comercial em Messenger e WhatsApp",
+        "source": "Social Media Today",
+        "date": "Jun 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-offers-new-ai-messaging-options-for-businesses/821951/",
+        "summary": "A Meta expandiu seus agentes de negócio para responder clientes em mais superfícies, incluindo Instagram, Messenger e WhatsApp, e apresentou uma plataforma para implantações em escala. Para mídia de mensagens, a oportunidade é reduzir tempo de resposta; o risco é automatizar sem base de conhecimento, regras de escalonamento e acompanhamento de qualidade."
+      },
+      {
+        "title": "Suíte de IA da Meta conecta criação, catálogo e colaboração em um fluxo de anúncios de ponta a ponta",
+        "source": "TechRadar Pro",
+        "date": "Jun 2026",
+        "url": "https://www.techradar.com/pro/meta-announces-end-to-end-suite-of-ai-advertising-and-marketing-tools-and-the-roi-so-far-is-staggering",
+        "summary": "A Meta detalhou em Cannes um fluxo mais integrado para criar, testar e operar campanhas com IA, usando catálogos e ativos de marca como contexto. A mudança desloca parte do trabalho manual para a governança dos inputs: feed correto, biblioteca criativa coerente e regras claras passam a determinar a qualidade das combinações montadas pelo sistema."
+      },
+      {
+        "title": "Criativos com IA de terceiros passam a receber detecção automática por metadados C2PA",
+        "source": "AdMake AI",
+        "date": "Jul 2026",
+        "url": "https://admakeai.com/blog/meta-ads-updates-july-2026#ai-labels",
+        "summary": "A Meta passou a usar metadados de procedência, incluindo C2PA, para reconhecer assets criados ou modificados por ferramentas externas. Exportar, recomprimir ou remover metadados deixa de ser uma estratégia confiável para controlar a exibição do aviso; o fluxo correto é registrar a origem do asset e validar a rotulagem como parte da aprovação."
+      },
+      {
+        "title": "Mudança no controle de atividade fora da Meta pode ampliar sinais usados em personalização e retargeting",
+        "source": "Meta Newsroom",
+        "date": "Jun 2026",
+        "url": "https://about.fb.com/news/2026/06/better-personalization-and-changes-to-controls-for-your-activity-from-other-businesses/",
+        "summary": "A Meta revisou como apresenta os controles sobre informações compartilhadas por empresas e afirmou que esses dados também podem personalizar Feed e respostas de IA, além de anúncios. Para anunciantes, a leitura prática é acompanhar mudanças no tamanho de audiências e manter Pixel e CAPI documentados, sem interpretar a atualização como permissão para coletar dados adicionais."
+      },
+      {
+        "title": "Muse Image promete variações mais aderentes ao brief, mas aumenta a necessidade de guardrails de marca",
+        "source": "Social Media Today",
+        "date": "Jul 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-improves-ai-image-generation-tools-for-advertisers/824650/",
+        "summary": "O novo gerador visual da Meta foi apresentado como capaz de interpretar instruções criativas mais complexas e manter melhor o contexto da campanha. Para performance, o ganho potencial está em acelerar testes; para a marca, o cuidado é evitar que volume de variações substitua direção criativa, checagem de produto e controle de direitos de imagem."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google amplia controles de frequência para grupos de campanhas de vídeo",
+        "source": "Social Media Today",
+        "date": "Jul 2026",
+        "url": "https://www.socialmediatoday.com/news/google-expands-ad-frequency-controls/825132/",
+        "summary": "O Google passou a permitir que anunciantes apliquem opções de otimização de exposição a grupos de campanhas de vídeo, coordenando frequência entre promoções. A novidade ajuda a reduzir saturação em planos com várias campanhas simultâneas, mas exige definir alcance e repetição de acordo com objetivo, janela e tamanho real da audiência."
+      },
+      {
+        "title": "Google mostra em Search, YouTube e Discover se o criativo do anúncio foi feito ou editado com IA",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/google-ai-ad-disclosures-search-youtube-discover-481887",
+        "summary": "A seção 'How this ad was made' do My Ad Center passa a informar quando um criativo foi criado ou modificado com IA, com rollout global. Assets produzidos pelas ferramentas generativas do próprio Google podem receber a indicação automaticamente; equipes devem revisar a experiência final e alinhar disclosure, política local e mensagem da marca."
+      },
+      {
+        "title": "Merchant Center Next perde o 'Next' e volta a se chamar apenas Google Merchant Center",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/google-drops-next-from-merchant-center-next-481882",
+        "summary": "O Google simplificou o nome do produto e passou a chamar a interface atual apenas de Merchant Center. A alteração é nominal, mas afeta documentação, treinamento e comunicação com clientes; playbooks que ainda distinguem Merchant Center clássico e Next devem ser atualizados para evitar instruções ambíguas."
+      },
+      {
+        "title": "Google testa resumos gerados por IA abaixo dos anúncios de pesquisa",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/google-tests-ai-generated-summaries-in-search-ads-481424",
+        "summary": "Um teste do Google adiciona texto resumido por IA sob anúncios de Search, dando ao sistema mais influência sobre como a oferta é apresentada. Ainda não é um rollout confirmado; por isso, gestores devem tratar como experimento e monitorar previews, termos de busca e página de destino, mantendo a mensagem essencial clara nos assets fornecidos."
+      },
+      {
+        "title": "Seletor 'Todas as campanhas' ganha hierarquia e busca para facilitar navegação em contas grandes",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/google-ads-redesigns-all-campaigns-selector-481325",
+        "summary": "O Google Ads redesenhou o seletor de campanhas com visualização hierárquica e pesquisa, reduzindo atrito em contas com muitos portfólios e campanhas. A mudança não altera entrega, mas pode agilizar auditorias e operação; equipes devem revisar capturas de tela e instruções internas que dependem da navegação antiga."
+      },
+      {
+        "title": "Performance Max ganha Channel Diagnostics para apontar assets ausentes ou reprovados",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/google-adds-channel-diagnostics-to-performance-max-481445",
+        "summary": "O novo diagnóstico por canal ajuda a identificar limitações que impedem a PMax de usar determinados inventários, como asset ausente ou reprovado. O recurso melhora o troubleshooting, mas não substitui o relatório de performance: corrigir elegibilidade amplia opções de entrega, sem provar que todos os canais devem receber verba."
+      },
+      {
+        "title": "YouTube adiciona métricas para ligar campanhas de marca ao crescimento das buscas pela marca",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/google-adds-new-youtube-brand-campaign-measurement-tools-481320",
+        "summary": "Novas ferramentas de mensuração do YouTube buscam mostrar como campanhas de brand impactam atividade de pesquisa relacionada a marca. Isso oferece uma ponte entre alcance e demanda capturada, mas a leitura deve considerar tendência anterior, sazonalidade e outros canais; correlação de busca não equivale automaticamente a incrementalidade."
+      },
+      {
+        "title": "Política do Google permite rótulos de IA no próprio criativo e cria configuração dedicada em produtos de anúncios",
+        "source": "Social Media Today",
+        "date": "Jul 2026",
+        "url": "https://www.socialmediatoday.com/news/google-adds-ai-creation-disclosure-for-ads/824909/",
+        "summary": "O Google atualizou as regras para permitir avisos textuais ou visuais em assets gerados ou editados com IA e iniciou uma configuração de rótulo em Google Ads, DV360, Campaign Manager 360, Merchant Center e Ads Editor. O recurso ajuda na transparência, mas o Google ressalta que ativar o rótulo não garante conformidade com cada legislação local."
+      },
+      {
+        "title": "Dynamic Search Ads entram em rota de migração automática para AI Max em setembro",
+        "source": "Google Ads",
+        "date": "Apr/Jul 2026",
+        "url": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
+        "summary": "O Google confirmou que recursos legados de Dynamic Search Ads serão atualizados para AI Max a partir de setembro. Contas que ainda dependem de DSA devem mapear exclusões, cobertura de URLs e termos antes da migração, testar AI Max em escopo controlado e não esperar a conversão automática para descobrir conflitos de marca ou páginas inadequadas."
+      },
+      {
+        "title": "Relatório de produtos passa a consolidar desempenho em PMax, Shopping, Vídeo, App e Demand Gen",
+        "source": "Google Ads Developers",
+        "date": "Jun 2026",
+        "url": "https://ads-developers.googleblog.com/2026/04/product-reporting-changes-for-google.html?m=0",
+        "summary": "A aba de produtos foi ampliada para oferecer uma visão central do desempenho de itens anunciados em vários tipos de campanha ligados ao Merchant Center. Para ecommerce, isso facilita encontrar produtos com gasto ou conversão dispersos entre canais; ainda assim, decisões devem considerar margem, estoque e atribuição, não apenas ROAS agregado."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "Commerce agêntico torna qualidade do feed mais importante do que escolher a próxima plataforma de anúncios",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/agentic-commerce-chatgpt-ads-482010",
+        "summary": "Google, Amazon e OpenAI estão construindo fluxos em que agentes pesquisam, recomendam e concluem compras. Nesse contexto, campanhas deixam de ser a única porta de entrada: catálogos, atributos, estoque e dados estruturados determinam se o produto aparece na decisão. A prioridade operacional é tratar o feed como ativo estratégico, com atualização frequente e governança."
+      },
+      {
+        "title": "Começar campanha com budget inflado pode piorar aprendizado e desperdiçar verba antes de haver sinais",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/why-frontloading-ad-spend-backfires-481931",
+        "summary": "Uma análise de estratégia de PPC alerta que despejar verba no lançamento não garante aprendizado mais rápido quando tracking, criativo e funil ainda não foram validados. O caminho mais seguro é construir volume progressivamente, observar qualidade de conversão e aumentar investimento conforme os sinais se estabilizam, em vez de confundir gasto inicial com velocidade de maturação."
+      },
+      {
+        "title": "Snapchat conecta dados da Dick's Sporting Goods via LiveRamp para medir vendas em loja",
+        "source": "Social Media Today",
+        "date": "Jul 2026",
+        "url": "https://www.socialmediatoday.com/news/snapchat-shares-data-with-dicks-sporting-goods/825255/",
+        "summary": "Uma nova parceria de dados permite relacionar exposição a anúncios no Snapchat com compras realizadas nas lojas da Dick's Sporting Goods. O caso reforça a evolução da mensuração omnichannel em plataformas sociais, mas também exige governança de identidade, consentimento e metodologia clara para separar correspondência de clientes de efeito incremental."
+      },
+      {
+        "title": "TikTok Shop melhora insights de ranking, origem de tráfego e eficiência de conversão para sellers",
+        "source": "Social Media Today",
+        "date": "Jul 2026",
+        "url": "https://www.socialmediatoday.com/news/tiktok-sellers-in-the-uk-get-improved-insights/825256/",
+        "summary": "Sellers no Reino Unido ganharam métricas mais detalhadas sobre posição de produtos, fontes de visitas e eficiência de conversão. A leitura ajuda a separar problema de descoberta de problema de oferta ou página de produto, permitindo que budget de TikTok Ads seja ajustado com base no gargalo real e não apenas no volume final de vendas."
+      },
+      {
+        "title": "LinkedIn lança brand kit, geração de copy, personalização e variações automáticas de anúncios",
+        "source": "Social Media Today",
+        "date": "Jul 2026",
+        "url": "https://www.socialmediatoday.com/news/linkedin-rolls-out-new-ai-powered-promotional-tools/824290/",
+        "summary": "O LinkedIn reuniu cores, fontes, logo e tom de voz em um brand kit e adicionou recursos de IA para copy, personalização e combinação de assets. A automação pode acelerar testes B2B, mas precisa de limites de claim, nomenclatura e prova: variações em escala só ajudam se a conversão continuar sendo avaliada por qualidade de lead e pipeline."
+      },
+      {
+        "title": "TikTok Agentic Hub conecta Ads a skills de IA para criação, catálogo, análise e otimização",
+        "source": "Social Media Today",
+        "date": "Jun 2026",
+        "url": "https://www.socialmediatoday.com/news/tiktok-launches-agentic-hub/824169/",
+        "summary": "O TikTok criou um hub de skills próprias e de parceiros integrado ao seu servidor MCP, permitindo que agentes apoiem tarefas de campanha. A proposta reduz operação manual, mas amplia a superfície de acesso: antes de conectar ferramentas externas, anunciantes devem definir permissões, dados disponíveis, aprovação humana e trilha de auditoria."
+      },
+      {
+        "title": "Reddit libera anúncios free-form, destaques de usuários e novos formatos de Shopping",
+        "source": "Social Media Today",
+        "date": "Jun 2026",
+        "url": "https://www.socialmediatoday.com/news/reddit-launches-more-integrated-ad-options-to-assure-shoppers/823466/",
+        "summary": "O Reddit apresentou um gerador beta de anúncios em formato livre inspirado em posts longos, além de assets adaptados a personas e destaques de comentários. A oportunidade é criar promoção com linguagem mais nativa da comunidade; a execução deve evitar copiar mecanicamente UGC e testar credibilidade, contexto e moderação de comentários."
+      },
+      {
+        "title": "TikTok Symphony Agent usa tendências e prompts para montar campanhas completas em vídeo",
+        "source": "Social Media Today",
+        "date": "Jun 2026",
+        "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-ai-creation-tools-for-marketers/823463/",
+        "summary": "O Symphony Agent analisa promoções em tendência, recebe texto e referências visuais e gera exemplos de vídeo, briefs e campanhas. Para equipes de performance, pode acelerar exploração criativa e localização; o uso mais valioso é como ponto de partida supervisionado, mantendo verificação de claims, licenças, identidade visual e adequação cultural."
+      },
+      {
+        "title": "X integra Pixel e Conversion API ao Google Tag Manager com setup guiado e painel de saúde",
+        "source": "Social Media Today",
+        "date": "Jun 2026",
+        "url": "https://www.socialmediatoday.com/news/x-adds-google-tag-manager-integration/823100/",
+        "summary": "O X passou a oferecer configuração de Pixel e CAPI com apoio do Google Tag Manager, além de um painel para acompanhar a saúde dos eventos. Isso reduz a barreira técnica, mas não elimina o trabalho de mensuração: nomes de evento, deduplicação, consentimento e teste de conversões precisam ser validados antes de alimentar otimização."
+      },
+      {
+        "title": "Pinterest apresenta assistente no Ads Manager, MCP e seleção dinâmica de criativos",
+        "source": "Social Media Today",
+        "date": "Jun 2026",
+        "url": "https://www.socialmediatoday.com/news/pinterest-launches-ai-powered-ad-and-shopping-tools/823218/",
+        "summary": "O Pinterest anunciou um assistente para anunciantes, infraestrutura MCP e recursos que escolhem variantes criativas conforme a impressão. Para marcas com catálogo visual, a combinação pode aproximar insights e execução; o teste deve comparar ganho real contra Performance+ atual e controlar acesso de copilotos externos aos dados da conta."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Google Images troca a home minimalista por galeria visual com coleções salvas",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/google-image-search-drops-clean-search-box-and-adds-gallery-of-images-482153",
+        "summary": "A página inicial do Google Images ganhou uma experiência de descoberta em galeria e recurso de coleções, aproximando-se de interfaces como Pinterest. Para marcas, imagens deixam de ser apenas suporte de página e ganham mais valor como superfície de descoberta; metadata, qualidade visual, contexto e direitos de uso merecem entrar no plano de SEO."
+      },
+      {
+        "title": "AI Overviews passa a gerar imagens dentro da busca com o modelo Nano Banana",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/google-ai-overviews-now-lets-you-create-image-482163",
+        "summary": "O Google adicionou geração de imagem diretamente nas AI Overviews, reduzindo a necessidade de sair da busca para tarefas visuais simples. Para publishers e ferramentas criativas, isso pode diminuir cliques em consultas utilitárias; a resposta é fortalecer experiências, assets proprietários e conteúdo que entregue mais do que uma geração isolada."
+      },
+      {
+        "title": "Search Console passa a medir conteúdo de Instagram, TikTok, X e YouTube como propriedades",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/google-search-console-gains-reporting-on-social-and-video-platforms-481696",
+        "summary": "O Google iniciou o rollout de propriedades de plataforma no Search Console, permitindo verificar perfis sociais e acompanhar consultas, impressões e cliques de posts exibidos na busca. Isso cria uma visão orgânica antes inexistente sobre conteúdo hospedado fora do site e ajuda a integrar SEO, social e vídeo no mesmo planejamento editorial."
+      },
+      {
+        "title": "Google Trends adiciona comparação automática com o período anterior",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/google-trends-adds-previous-time-period-comparison-481409",
+        "summary": "A interface do Google Trends ganhou uma linha de comparação com o intervalo anterior, facilitando identificar aceleração, queda e sazonalidade. O recurso agiliza diagnósticos de demanda e briefing de conteúdo, mas índices do Trends continuam relativos; eles devem ser combinados com volume, dados próprios e contexto de calendário antes de orientar investimento."
+      },
+      {
+        "title": "LinkedIn recomenda consistência, cadência e posts substanciais para ampliar alcance e citação por IA",
+        "source": "Social Media Today",
+        "date": "Jul 2026",
+        "url": "https://www.socialmediatoday.com/news/linkedin-shares-tips-on-effective-posting/824780/",
+        "summary": "O LinkedIn publicou orientações sobre frequência, extensão e consistência, ligando a qualidade do histórico de publicação tanto ao engajamento quanto a descoberta por sistemas de IA. Para B2B, a implicação é construir autoridade temática de forma recorrente e mensurável, em vez de depender de posts isolados ou conteúdo genérico em alto volume."
+      },
+      {
+        "title": "Consumidores usam IA para descobrir marcas, mas voltam a busca tradicional para comparar preços",
+        "source": "Social Media Today",
+        "date": "Jun 2026",
+        "url": "https://www.socialmediatoday.com/news/consumers-trust-ai-for-discovery-but-not-for-finding-deals/824161/",
+        "summary": "Um estudo da Similarweb indica que chatbots influenciam o início da jornada de compra, enquanto mecanismos tradicionais ainda são preferidos para preços e ofertas. A estratégia não deve escolher entre SEO e GEO: a marca precisa aparecer na recomendação inicial e manter páginas comparáveis, confiáveis e atualizadas para capturar a validação final."
+      },
+      {
+        "title": "Semântica visual entra no SEO: layout e componentes ajudam buscadores a entender a função da página",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/visual-semantics-topical-authority-482254",
+        "summary": "Uma análise de patentes, pesquisas e casos defende que hierarquia visual, cards, tabelas e elementos interativos participam da compreensão de documentos por buscadores. O ponto prático é não tratar SEO como texto isolado: design, HTML semântico e posicionamento do conteúdo central podem facilitar interpretação e diferenciar páginas com informação semelhante."
+      },
+      {
+        "title": "Publishers de nicho superam grandes portais em afinidade com audiências específicas",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/hidden-gem-publishers-outperform-major-media-audience-affinity-study-482143",
+        "summary": "Um estudo sobre afinidade de audiência mostra que veículos menores e especializados podem ter conexão mais forte com segmentos do que grandes marcas de mídia. Para planejamento de conteúdo, PR e parcerias, alcance bruto não deve ser o único critério; relevância temática e sobreposição com o público podem produzir distribuição mais qualificada."
+      },
+      {
+        "title": "Busca por IA pode ressuscitar conteúdo negativo antigo e mudar a gestão de reputação",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/ai-search-old-negative-content-new-life-482117",
+        "summary": "Respostas generativas podem combinar fontes antigas e trazer de volta episódios negativos que perderam destaque nos rankings tradicionais. Marcas precisam monitorar prompts e citações, manter páginas factuais atualizadas e corrigir inconsistências na origem; tentar apenas empurrar um link para baixo na SERP deixa de cobrir toda a superfície de reputação."
+      },
+      {
+        "title": "Descoberta de marca pode começar no TikTok e terminar no Google para validação",
+        "source": "Search Engine Land",
+        "date": "Jul 2026",
+        "url": "https://searchengineland.com/customer-discover-brand-tiktok-before-google-482388",
+        "summary": "A jornada moderna mistura descoberta emocional em vídeo curto com pesquisa posterior de validação, preço e prova no Google. Isso reforça que social e busca não devem ser avaliados como funis independentes: campanhas, conteúdo e páginas precisam usar mensagens coerentes e mensuração que reconheça assistências entre canais."
+      }
+    ],
+    "ia": [
+      {
+        "title": "OpenAI lança GPT-5.6 em três níveis e adiciona orquestração multiagente na Responses API",
+        "source": "OpenAI",
+        "date": "Jul 2026",
+        "url": "https://openai.com/index/gpt-5-6/",
+        "summary": "A família GPT-5.6 chegou com Sol, Terra e Luna, cobrindo diferentes relações de capacidade, velocidade e custo. Na API, a OpenAI adicionou chamada programática de ferramentas, cache explícito, raciocínio persistido e orquestração multiagente em beta. Times de marketing podem separar tarefas premium de processos de alto volume e controlar melhor custo por workflow."
+      },
+      {
+        "title": "ChatGPT Work executa projetos longos em apps e arquivos e entrega documentos, planilhas e sites",
+        "source": "OpenAI",
+        "date": "Jul 2026",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+        "summary": "A OpenAI apresentou o ChatGPT Work como agente capaz de reunir contexto, agir em ferramentas e transformar objetivos em entregáveis completos. Para marketing, os casos incluem briefing, análise, decks e operação recorrente; a adoção exige escopo de permissões, aprovação de ações importantes e revisão das fontes usadas no material final."
+      },
+      {
+        "title": "Busca do ChatGPT passa a encontrar conversas, projetos, imagens e documentos em um único lugar",
+        "source": "OpenAI Help Center",
+        "date": "Jul 2026",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "summary": "A OpenAI ampliou a busca do ChatGPT para localizar conteúdo em chats, projetos, imagens e arquivos, com filtros por tipo. O ganho para equipes é reduzir perda de contexto e duplicação de trabalho; para que isso funcione, ainda é importante nomear projetos, separar clientes e evitar concentrar informação sensível em ambientes sem política clara de acesso."
+      },
+      {
+        "title": "Claude Sonnet 5 melhora raciocínio, uso de ferramentas e trabalho agêntico com preço introdutório",
+        "source": "Anthropic",
+        "date": "Jun 2026",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "summary": "A Anthropic lançou o Sonnet 5 com avanços em raciocínio, coding, uso de ferramentas e tarefas profissionais, disponível no Claude, Code, Cowork e API. Para operações de marketing que automatizam pesquisa e produção, o modelo amplia as opções entre custo e capacidade; comparações devem usar tarefas reais e critérios de qualidade, não apenas benchmarks gerais."
+      },
+      {
+        "title": "Claude ganha painel de reflexão sobre padrões de uso, quiet hours e fluência em IA",
+        "source": "Anthropic",
+        "date": "Jul 2026",
+        "url": "https://www.anthropic.com/news/reflect-with-claude",
+        "summary": "Um novo recurso beta resume como a pessoa usa o Claude, mostra temas e padrões e permite configurar pausas e refletir sobre delegação. Para equipes, a ideia é útil como sinal de maturidade: medir adoção não apenas por volume de prompts, mas por capacidade de delegar, descrever, avaliar e assumir responsabilidade pelo resultado."
+      },
+      {
+        "title": "Claude Fable 5 volta a ficar disponível globalmente após suspensão ligada a controles de exportação",
+        "source": "Anthropic",
+        "date": "Jul 2026",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5",
+        "summary": "A Anthropic restabeleceu o acesso ao Fable 5 e Mythos 5 depois que controles de exportação que haviam causado a suspensão foram retirados. O episódio mostra que disponibilidade de modelos pode mudar por decisão regulatória, não só técnica; empresas devem evitar dependências sem fallback e registrar quais modelos sustentam workflows críticos."
+      },
+      {
+        "title": "Claude Tag transforma o assistente em membro de canais do Slack com memória e tarefas planejadas",
+        "source": "Anthropic",
+        "date": "Jun 2026",
+        "url": "https://www.anthropic.com/news/introducing-claude-tag",
+        "summary": "O Claude Tag entrou em beta para planos Team e Enterprise, permitindo adicionar o assistente a canais selecionados, conectar ferramentas e delegar tarefas publicamente. Para marketing e produto, isso facilita colaboração assíncrona; administradores precisam limitar canais, dados, gasto e ações permitidas, usando logs para auditar o que foi solicitado e executado."
+      },
+      {
+        "title": "Google lança Nano Banana 2 Lite e Gemini Omni Flash para pipelines visuais de alto volume",
+        "source": "Google DeepMind",
+        "date": "Jun 2026",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+        "summary": "O Nano Banana 2 Lite prioriza geração de imagem rápida e econômica, enquanto o Gemini Omni Flash leva vídeo e edição conversacional a APIs em preview. Para equipes criativas, o ganho está em prototipar e localizar mais variações; o processo deve manter comparação de qualidade, consistência de personagem, texto em imagem e custo total por asset aprovado."
+      },
+      {
+        "title": "Meta Muse Spark 1.1 chega via API paga e leva a empresa a competir no mercado de modelos",
+        "source": "Social Media Today",
+        "date": "Jul 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-launches-muse-spark-11/824905/",
+        "summary": "A Meta apresentou uma nova versão do Muse Spark e abriu acesso comercial para desenvolvedores, mudando de um modelo focado apenas nos próprios apps para uma oferta de plataforma. Para martech, surge uma alternativa integrada ao ecossistema Meta; antes de adotar, é preciso comparar qualidade, preços, termos de dados e portabilidade com outros provedores."
+      },
+      {
+        "title": "Claude Science reúne bases, notebooks e computação em um workbench com artefatos auditáveis",
+        "source": "Anthropic",
+        "date": "Jun 2026",
+        "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+        "summary": "A Anthropic lançou um ambiente que integra ferramentas de pesquisa, pacotes, código, figuras e manuscritos, preservando os artefatos usados no processo. Embora voltado a ciência, o princípio é relevante para análise de marketing: resultados ganham confiabilidade quando dados, transformações, gráficos e conclusões ficam conectados e reproduzíveis."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
+    "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+  ]
+}

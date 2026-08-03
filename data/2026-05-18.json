@@ -1,0 +1,372 @@
+{
+  "id": "2026-05-18",
+  "label": "18-24 mai/26",
+  "label_full": "18 a 24 de maio de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta aumenta janela de retencao de audiencias de compra para 730 dias em 18 de maio",
+        "source": "Good Morning / SocialBee",
+        "date": "May 20, 2026",
+        "url": "https://www.goodmorningco.com/blog/meta-ads-update-may-2026",
+        "summary": "A mudanca mais acionavel da semana em Meta Ads foi a expansao da retencao de audiencias baseadas em purchase event de 180 para 730 dias, efetiva em 18 de maio para contas elegiveis. A alteracao pode aumentar muito listas de retargeting e exclusao sem intervencao do anunciante. Para gestores de trafego, o ponto pratico e revisar cada custom audience de compra, reduzindo manualmente a janela quando a estrategia depende de compradores recentes ou quando listas antigas distorcem lances e frequencia."
+      },
+      {
+        "title": "Legacy Advantage+ Shopping e App Campaign APIs chegam ao prazo final de depreciacao em 19 de maio",
+        "source": "AdsUploader",
+        "date": "May 19, 2026",
+        "url": "https://adsuploader.com/blog/meta-ads-updates",
+        "summary": "O prazo de depreciacao das APIs legadas de Advantage+ Shopping Campaigns e Advantage+ App Campaigns chegou em 19 de maio. Ferramentas internas e plataformas de automacao que ainda criavam, duplicavam ou atualizavam campanhas por endpoints antigos precisam migrar para o setup Advantage+ mais novo. Para agencias e SaaS de midia, o risco nao e visual no Ads Manager, mas quebra operacional em automacoes, templates e fluxos de bulk edit ligados a campanhas de escala."
+      },
+      {
+        "title": "AI Business Assistant consolida presenca no Ads Manager, Business Suite e Business Support Home",
+        "source": "DataSlayer",
+        "date": "May 19, 2026",
+        "url": "https://www.dataslayer.ai/blog/meta-ai-business-assistant-marketing-reporting-2026",
+        "summary": "A cobertura de maio mostrou que o AI Business Assistant da Meta ja aparece como camada de ajuda dentro do Ads Manager, Meta Business Suite e Business Support Home. O assistente responde perguntas de conta, campanha e troubleshooting em linguagem natural, com relatos de alto volume de conversas semanais. Para reporting, isso muda a rotina de diagnostico: parte das perguntas operacionais passa a ser respondida dentro da plataforma, mas recomendacoes ainda precisam ser confrontadas com dados externos e contexto do negocio."
+      },
+      {
+        "title": "Meta passa a dar secao propria para Ads no status page a partir de 18 de maio",
+        "source": "Reddit r/FacebookAds",
+        "date": "May 18, 2026",
+        "url": "https://www.reddit.com/r/FacebookAds/comments/1tegzuj/meta_is_redesigning_their_status_page_on_may_18/",
+        "summary": "Operadores de Meta Ads notaram que a Meta passou a separar Ads como secao propria na pagina de status em 18 de maio, em vez de manter falhas enterradas em Business Tools. A mudanca nao resolve a recorrente falta de transparencia percebida pela comunidade, mas cria um ponto de monitoramento mais direto para Ads Manager, Marketing API e ferramentas comerciais. Para agencias, vale incluir o status page no checklist antes de diagnosticar quedas bruscas como problema de campanha."
+      },
+      {
+        "title": "Meta Ads AI Connectors permitem levar dados de campanhas para Claude e ChatGPT",
+        "source": "Social Media Today",
+        "date": "May 19, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-launches-ai-ad-connectors-that-work-with-outside-chatbots/819033/",
+        "summary": "A Meta abriu conectores de IA para que marcas e agencias levem dados de campanhas para assistentes externos como Claude e ChatGPT. A mudanca reconhece que muitos times ja padronizaram seus fluxos em LLMs fora do ecossistema Meta. O impacto pratico e acelerar analises, perguntas ad hoc e dashboards conversacionais sem exportacoes manuais. O cuidado e de governanca: qualquer conector que exponha dados de campanha precisa de controle de acesso, politica de cliente e revisao de privacidade."
+      },
+      {
+        "title": "AI agents para Meta Ads viram stack operacional, mas ainda exigem supervisao humana",
+        "source": "Admove",
+        "date": "May 18, 2026",
+        "url": "https://www.admove.ai/blog/meta-ai-agents-for-ads",
+        "summary": "Analises da semana mapearam a evolucao dos agentes de IA para Meta Ads: modelos internos como Andromeda e GEM, ferramentas nativas como Advantage+ e AI Business Assistant, conectores MCP e plataformas externas que prometem agentes autonomos. A leitura operacional e que o gestor esta migrando de executor para supervisor de sistemas. Ainda assim, decisao de budget, leitura de causa raiz e alinhamento com oferta continuam exigindo julgamento humano, especialmente quando a plataforma mistura automacao e reporting incompleto."
+      },
+      {
+        "title": "Relatorios semanais de Meta Ads precisam separar clique, engage-through e view apos mudancas de atribuicao",
+        "source": "Good Morning",
+        "date": "May 21, 2026",
+        "url": "https://goodmorningco.com/blog/weekly-meta-ads-report-fewer-clicks",
+        "summary": "Com as mudancas de atribuicao aplicadas em 2026, relatorios semanais podem mostrar queda aparente em cliques e mudanca em conversoes atribuidas sem que a campanha tenha piorado de fato. Likes, shares, comments, saves e visualizacoes engajadas de cinco segundos saem do bucket antigo de click-through e entram em engage-through. Para gestores, o ajuste correto e reconstruir templates de reporte com colunas novas, evitando cortar criativos saudaveis por comparacoes historicas incompatíveis."
+      },
+      {
+        "title": "Especificacoes de criativo para Meta Ads em 2026 reforcam disciplina de asset por placement",
+        "source": "Superscale",
+        "date": "May 19, 2026",
+        "url": "https://superscale.ai/learn/meta-ad-sizes",
+        "summary": "A atualizacao de especificacoes de Meta Ads para 2026 consolidou recomendacoes por Facebook Feed, Instagram Stories, Reels, video e placements de rede. Em um ambiente onde Advantage+ placements e recortes automaticos ganham peso, a qualidade dos assets originais continua determinante. Para times criativos, o efeito pratico e produzir variações 1:1, 4:5 e 9:16 de forma sistematica, com safe zones e legibilidade mobile, em vez de esperar que a plataforma conserte materiais ruins por IA."
+      },
+      {
+        "title": "Resumo de maio aponta seis mudancas de Meta Ads em IA, Pixel, criativo e retargeting",
+        "source": "Vizup",
+        "date": "May 21, 2026",
+        "url": "https://www.tryvizup.com/blog/meta-ads-updates-may-2026",
+        "summary": "O roundup de maio da Vizup agrupou mudancas em IA, Pixel, criativo, placements e retargeting, mostrando que a Meta esta movendo varias alavancas ao mesmo tempo. Para anunciantes, a dificuldade nao e entender uma feature isolada, mas priorizar o que exige acao imediata. Retencao de audiencia, Pixel/CAPI, qualidade de criativo e automacao Advantage+ devem virar checklist mensal, porque os ajustes podem alterar delivery, mensuracao e exclusoes sem parecerem grandes lancamentos."
+      },
+      {
+        "title": "Meta volta ao centro do mix com narrativa de receita publicitaria superando Google",
+        "source": "B2The7",
+        "date": "May 18, 2026",
+        "url": "https://www.b2the7.com/news-blog/marketing-trends-may-18-2026",
+        "summary": "A semana trouxe nova leitura de mercado posicionando a Meta como candidata a superar o Google em receita publicitaria digital, impulsionada por Reels, Threads, WhatsApp Business e automacao de anuncios. Mesmo que a disputa dependa de metodologia, o sinal para planejamento de midia e claro: Meta nao deve ser tratada apenas como canal social. Para e-commerce e geracao de demanda, a combinacao de criativo, creator ads, catalogo e IA reforca o papel da plataforma no budget de performance."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google Marketing Live 2026 concentra anuncios em IA para Search, YouTube, medicao e commerce",
+        "source": "Google Ads & Commerce Blog",
+        "date": "May 20, 2026",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-2026-collection/",
+        "summary": "O Google Marketing Live 2026 reuniu 13 anuncios oficiais em Ads e Commerce, com foco em IA aplicada a Search, YouTube, bidding, medicao e comercio agentico. A colecao deixa claro que o Google esta transformando suas campanhas em sistemas orientados por objetivos, dados proprietarios e agentes. Para profissionais de midia, o evento redefine prioridades: adotar AI Max com governanca, preparar dados first-party, revisar medicao e entender como inventario de IA entra no mix."
+      },
+      {
+        "title": "Novos formatos de Search Ads com Gemini levam anuncios para experiencias conversacionais",
+        "source": "Google Blog",
+        "date": "May 20, 2026",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads",
+        "summary": "O Google anunciou formatos de anuncios construidos com Gemini para a nova era da Busca, com experiencias mais conversacionais, orientacao de produto e explicacoes dentro do fluxo de pesquisa. Tambem aparecem native checkout para merchants do UCP e novas formas de conectar demanda a acao. Para anunciantes, a implicacao e que Search deixa de ser apenas query-texto-anuncio-link e passa a incluir recomendacoes, comparacoes e compra assistida em uma interface de IA."
+      },
+      {
+        "title": "AI Max ganha papel central em Search, Shopping e Travel com controles de marca e oferta",
+        "source": "Google Blog",
+        "date": "May 20, 2026",
+        "url": "https://blog.google/products/ads-commerce/ai-max-new-features/",
+        "summary": "O resumo pos-GML destacou a expansao do AI Max para Search, Shopping e Travel, incluindo Direct Offers, Business Agent for Leads e AI Brief para controle criativo em linguagem natural. A transicao sinaliza o fim gradual de fluxos manuais como Dynamic Search Ads. Para contas menores, o ganho e acesso a automacao mais sofisticada; o risco e perder visibilidade sobre queries, criativos e jornadas se o setup de dados, exclusions e briefing estiver fraco."
+      },
+      {
+        "title": "Ask Advisor unifica agente Gemini entre Ads, Analytics, Merchant Center e Google Marketing Platform",
+        "source": "Google Blog",
+        "date": "May 20, 2026",
+        "url": "https://blog.google/products/ads-commerce/ask-advisor",
+        "summary": "O Ask Advisor foi apresentado como um agente Gemini que atravessa Google Ads, Analytics, Merchant Center e Marketing Platform para responder perguntas, orientar setup e diagnosticar problemas. A promessa e reduzir atrito operacional entre plataformas que hoje exigem troca constante de telas. Para agencias, o impacto e acelerar troubleshooting e analise de performance, mas tambem reforca a necessidade de documentar hipoteses e decisoes para nao depender apenas das recomendacoes da propria plataforma."
+      },
+      {
+        "title": "Ads Advisor adiciona safety features para agentes que corrigem campanhas em tempo real",
+        "source": "Google Blog",
+        "date": "May 20, 2026",
+        "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+        "summary": "O Ads Advisor ganhou recursos de seguranca agentica para permitir que a IA recomende ou execute correcoes em campanhas com mais controle. O ponto importante nao e apenas automacao, mas automacao com limites: aprovacoes, guardrails e contexto de conta. Para gestores, isso desloca parte da rotina de otimizacao para revisao de propostas de agente. A vantagem e velocidade; o risco e aceitar mudancas que melhoram metricas de plataforma mas conflitam com margem, estoque ou estrategia comercial."
+      },
+      {
+        "title": "Asset Studio incorpora Gemini Omni para criacao multimodal de assets de campanha",
+        "source": "Google Blog",
+        "date": "May 20, 2026",
+        "url": "https://blog.google/products/ads-commerce/asset-studio-updates/",
+        "summary": "O Asset Studio foi atualizado com capacidades multimodais associadas ao Gemini Omni, ampliando a criacao e adaptacao de assets dentro do ecossistema Google Ads. Para times sem producao audiovisual dedicada, isso reduz custo de gerar variações por canal e formato. O desafio passa a ser diferenciar criativo, manter consistencia de marca e impedir que a otimizacao automatica produza materiais genericos demais para competir em YouTube, Demand Gen e Performance Max."
+      },
+      {
+        "title": "Meridian MMM chega ao Google Analytics 360 com Qualified Future Conversions",
+        "source": "Google Blog",
+        "date": "May 20, 2026",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-2026-turn-your-data-into-decisions/",
+        "summary": "O Google levou Meridian MMM para dentro do Analytics 360 e apresentou Qualified Future Conversions como nova camada de leitura para resultados futuros qualificados. A combinacao aponta para mensuracao menos dependente de cookies e atribuicao de ultimo clique. Para anunciantes com multiplos canais, o valor esta em aproximar modelagem de mix, experimentos e dados proprietarios dentro do mesmo stack. A contrapartida e maior dependencia do ecossistema Google para interpretar incrementalidade."
+      },
+      {
+        "title": "Universal Commerce Protocol avanca com Universal Cart, native checkout e Agent Payments Protocol",
+        "source": "Google Shopping Blog",
+        "date": "May 20, 2026",
+        "url": "https://blog.google/products-and-platforms/products/shopping/shopping-updates-google-marketing-live/",
+        "summary": "O Google expandiu o Universal Commerce Protocol com Universal Cart, native checkout e Agent Payments Protocol, aproximando busca, agentes de IA e pagamento. Para varejo, isso muda o ponto de conversao: o usuario pode comparar, decidir e comprar dentro de experiencias mediadas por IA. Profissionais de performance precisam tratar dados estruturados, feed, disponibilidade, identidade e checkout como infraestrutura de midia, nao apenas como operacao de e-commerce."
+      },
+      {
+        "title": "Demand Gen se expande para Google Maps e ganha novas ferramentas de creator partnerships no YouTube",
+        "source": "YouTube Blog",
+        "date": "May 20, 2026",
+        "url": "https://blog.google/products-and-platforms/products/youtube/youtube-demand-gen-updates/",
+        "summary": "O Demand Gen ganhou expansao para Google Maps e novas ferramentas de creator partnerships no YouTube, abrindo mais inventario de descoberta e influencia dentro do Google. A mudanca aproxima conteudo de criadores, discovery e intencao local. Para marcas com pontos fisicos, marketplaces ou distribuicao regional, Maps pode virar camada relevante de performance. Para creators, o Google tenta capturar parte do fluxo que hoje fica em TikTok, Instagram e afiliados."
+      },
+      {
+        "title": "Performance Max ganha reporting por canal como resposta a demanda historica por transparencia",
+        "source": "Google Blog / OuterBox",
+        "date": "May 20, 2026",
+        "url": "https://blog.google/products/ads-commerce/channel-performance-reporting-coming-to-performance-max/",
+        "summary": "Entre os destaques do Google Marketing Live 2026 esta a abertura de reporting por canal em Performance Max, uma das demandas mais antigas de anunciantes. A novidade ajuda a entender a distribuicao entre Search, YouTube, Display, Discover e outros inventarios sem desmontar campanhas. Para gestores, isso melhora auditoria e storytelling para clientes, mas nao substitui testes incrementais: saber onde apareceu e diferente de saber qual canal realmente gerou resultado incremental."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "ChatGPT Ads Manager ganha orcamentos diarios, geotargeting e CTAs dinamicos no beta",
+        "source": "PPC Land",
+        "date": "May 23, 2026",
+        "url": "https://ppc.land/chatgpt-ads-manager-gets-daily-budgets-geo-targeting-and-dynamic-ctas/",
+        "summary": "A OpenAI enviou atualizacao do ChatGPT Ads Manager Beta com tres mudancas operacionais: daily budgets, geotargeting e teste inicial de CTAs dinamicos. O produto passa a ficar mais parecido com uma plataforma de performance de verdade, nao apenas inventario experimental. Para compradores de midia, isso cria uma nova frente de teste com controle minimo viavel. Ainda faltam escala, benchmarks e padroes claros de atribuição, mas o canal deixou de ser apenas uma curiosidade."
+      },
+      {
+        "title": "ChatGPT Ads entra no radar de PPC com self-serve, CPC bidding e pixel de conversao",
+        "source": "Search Engine Journal",
+        "date": "May 20, 2026",
+        "url": "https://www.searchenginejournal.com/openai-launches-self-serve-ads-manager-for-chatgpt/573971/",
+        "summary": "A abertura do ChatGPT Ads Manager em beta para anunciantes dos EUA, com CPC bidding, pixel e Conversions API, continuou repercutindo no mercado durante a semana. O canal compete por budget de Search, Display e social, mas com contexto conversacional. Para PPC, a pergunta muda de se ChatGPT tera ads para como testar sem distorcer o mix: baixo budget, mensuracao separada e comparacao contra intent search sao os primeiros passos sensatos."
+      },
+      {
+        "title": "Ads em AI Mode e AI Overviews colocam AI Max e PMax dentro da nova busca do Google",
+        "source": "Reddit r/PPC",
+        "date": "May 21, 2026",
+        "url": "https://www.reddit.com/r/PPC/comments/1tju70g/google_io_2026_just_redrew_the_search_map_and/",
+        "summary": "A comunidade PPC discutiu como os anuncios em AI Mode e AI Overviews conectam Search, AI Max e PMax a uma interface de busca mais automatizada. O ponto pratico e que inventario novo pode aparecer sem a mesma granularidade de reporting que compradores esperam. Isso aumenta a importancia de exclusions, brand controls, incrementality tests e monitoramento de CPC. Para contas com metas agressivas, AI Mode pode ser oportunidade e fonte de desperdicio ao mesmo tempo."
+      },
+      {
+        "title": "Google Marketing Live reforca que media buying manual esta cedendo lugar a briefing e governanca de IA",
+        "source": "Reddit r/Google_Ads",
+        "date": "May 22, 2026",
+        "url": "https://www.reddit.com/r/Google_Ads/comments/1tkgu9o/key_highlights_on_google_ads_updates_from_google/",
+        "summary": "Discussoes da comunidade apos o GML apontaram que o trabalho de PPC esta migrando de controle manual de keywords e canais para briefing, dados, constraints e QA de sistemas automatizados. Recursos como AI Brief, journey-aware bidding e Demand Gen expandido reduzem tarefas manuais, mas aumentam a responsabilidade sobre inputs. O profissional de midia passa a escrever melhores instrucoes para a IA e a validar se as decisoes da plataforma fazem sentido para margem e funil."
+      },
+      {
+        "title": "Reddit aparece como canal de performance de alto ROI nos roundups de marketing da semana",
+        "source": "PPC Land / Reddit for Business",
+        "date": "May 23, 2026",
+        "url": "https://ppc.land/reddits-2026-ad-creative-study-what-actually-moves-conversion-rates/",
+        "summary": "O roundup semanal destacou Reddit como canal emergente de alto ROI para performance marketing, especialmente em nichos onde comunidades influenciam decisao de compra. O interesse cresce junto com a valorizacao de UGC e conteudo comunitario em respostas de IA e busca. Para anunciantes, Reddit exige abordagem diferente de Meta e Google: segmentacao contextual, criativos menos polidos, leitura de comunidade e cuidado para nao transformar conversa organica em anuncio intrusivo."
+      },
+      {
+        "title": "Social search ganha peso no topo do funil e pressiona alocacao entre paid social e paid search",
+        "source": "Marketing Agent Blog",
+        "date": "May 18, 2026",
+        "url": "https://marketingagent.blog/2026/05/18/top-daily-marketing-stories-today-may-18-2026/",
+        "summary": "A semana trouxe nova evidencia de que plataformas sociais estao virando canais primarios de descoberta de produtos, especialmente Facebook, Instagram, TikTok e Reddit. Para PPC, isso muda a divisao entre search intent e demand generation: parte da pesquisa do consumidor acontece antes do Google. A implicacao pratica e redistribuir budget para capturar descoberta, prova social e comunidades, medindo nao apenas last click, mas lift em branded search, retargeting e conversao assistida."
+      },
+      {
+        "title": "TikTok World e GML mostram corrida por plataformas que vendem criacao, entrega e checkout juntos",
+        "source": "Brainlabs",
+        "date": "May 18, 2026",
+        "url": "https://www.brainlabsdigital.com/tiktok-marketing-strategy-2026/",
+        "summary": "Os anuncios recentes de TikTok, Google e OpenAI mostram uma tendencia comum: plataformas querem controlar criacao de assets, entrega, medicao e transacao em um fluxo unico. Para gestores de trafego, isso melhora velocidade operacional, mas reduz comparabilidade entre canais. A decisao de PPC em 2026 passa por escolher quais walled gardens recebem dados proprietarios e como manter uma camada independente de medicao para evitar otimizar apenas para metricas nativas."
+      },
+      {
+        "title": "Creator partnerships entram no centro de campanhas de performance no YouTube e Demand Gen",
+        "source": "OuterBox",
+        "date": "May 20, 2026",
+        "url": "https://www.outerboxdesign.com/articles/digital-marketing/google-marketing-live-2026/",
+        "summary": "O Google reforcou creator partnerships como parte das campanhas de YouTube, Demand Gen e Performance Max. A mudanca aproxima influenciadores de estrutura de performance, usando assets de criadores em formatos compraveis e mensuraveis. Para PPC, isso reduz a separacao entre creator marketing e media buying. O desafio e operacional: negociar direitos de uso, medir incrementalidade e produzir criativos nativos suficientes para nao transformar criador em banner."
+      },
+      {
+        "title": "Native checkout em superficies de IA cria novo funil de performance sem landing page tradicional",
+        "source": "Tom's Guide / Google",
+        "date": "May 20, 2026",
+        "url": "https://www.tomsguide.com/tech-events/googles-new-universal-cart-uses-ai-to-track-deals-and-shop-across-apps",
+        "summary": "Com native checkout para merchants do Universal Commerce Protocol, o Google sinaliza um funil de performance em que clique, pagina de produto e checkout podem ser comprimidos dentro de experiencias de IA. Para PPC, isso altera o papel da landing page: dados de produto, feed, preco, estoque e identidade passam a ser a propria pagina. A oportunidade e reduzir atrito; o risco e perder controle de UX, upsell e captura de dados quando a conversao acontece fora do site."
+      },
+      {
+        "title": "Agencias precisam revisar credito de clique quando ads entram em respostas geradas por IA",
+        "source": "Reddit r/PPC",
+        "date": "May 21, 2026",
+        "url": "https://www.reddit.com/r/PPC/comments/1tjk78t/ads_on_google_ai_mode/",
+        "summary": "Profissionais de PPC discutiram a dificuldade de avaliar ads dentro de AI Mode e AI Overviews sem reporting separado suficiente. Quando o anuncio aparece em uma resposta gerada por IA, o caminho de decisao e menos comparavel ao Search classico. Isso complica pedidos de credito por clique invalido, auditoria de placement e avaliacao de qualidade de trafego. A recomendacao operacional e separar testes de AI Max, monitorar queries/termos disponiveis e exigir leitura incremental antes de escalar budget."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Google I/O transforma Search em AI Search e muda a estrategia de conteudo para marcas",
+        "source": "TechRadar",
+        "date": "May 22, 2026",
+        "url": "https://www.techradar.com/ai-platforms-assistants/google-search-is-now-ai-search-feels-like-a-digital-reimagining-of-dont-look-up-but-the-asteroid-is-reddit",
+        "summary": "A cobertura pos-I/O destacou a frase central da semana: Google Search is now AI Search. Para marketing digital, isso muda a funcao do conteudo. Nao basta ranquear uma pagina azul; marcas precisam ser entendidas, citadas e confiaveis dentro de respostas sintetizadas. A estrategia de conteudo passa a exigir autoridade de entidade, respostas claras, dados estruturados, presenca em fontes externas e medicao de visibilidade em AI Overviews e AI Mode."
+      },
+      {
+        "title": "May 2026 Core Update comeca durante a semana de maior pressao sobre AI Search",
+        "source": "Reddit / Google Search Community",
+        "date": "May 24, 2026",
+        "url": "https://www.reddit.com/r/DigitalMarketingHack/comments/1tlgmhe/google_just_released_the_may_2026_core_update/",
+        "summary": "A comunidade de SEO relatou o inicio do May 2026 Core Update em meio ao impacto do Google I/O e da expansao de AI Search. A combinacao aumenta volatilidade de ranking, AI Overview visibility e trafego organico ao mesmo tempo. Para marcas, a recomendacao e evitar mudancas reativas durante o rollout, monitorar segmentos por tipo de pagina e comparar queda de cliques com impressões e presenca em respostas de IA antes de concluir que o conteudo perdeu relevancia."
+      },
+      {
+        "title": "Meta research indica que social virou canal primario de descoberta de produtos",
+        "source": "Social Media Today / Meta",
+        "date": "May 20, 2026",
+        "url": "https://www.socialmediatoday.com/news/social-media-drives-consumer-discovery-per-meta/820437/",
+        "summary": "A pesquisa destacada pela Marketing Agent Blog aponta que Facebook e Instagram passaram a disputar ou superar Google como canais de descoberta de produtos em certas jornadas. Para estrategia digital, isso reforca que descoberta e pesquisa estao se fragmentando entre search, social, marketplaces e assistentes de IA. Marcas que ainda tratam social apenas como awareness perdem parte da demanda antes que ela vire busca ativa. Conteudo social, creator proof e paid social precisam entrar no planejamento de discovery."
+      },
+      {
+        "title": "State of Martech 2026 mostra stack estagnado em quantidade, mas reconfigurado por IA",
+        "source": "MarTech",
+        "date": "May 18, 2026",
+        "url": "https://martech.org/martech-2026-ai-drives-a-major-industry-reset/",
+        "summary": "O State of Martech 2026 mostrou crescimento quase plano no numero de ferramentas, mas uma mudanca profunda de valor: IA virou centro da reorganizacao do stack. Em vez de comprar mais plataformas, lideres precisam conectar dados, automacao e contexto para extrair retorno. Para marketing operations, a implicacao e revisar redundancias, integrações e ownership de dados antes de adicionar mais agentes. A vantagem competitiva passa a ser orquestracao, nao quantidade de SaaS."
+      },
+      {
+        "title": "CMOs destinam 15,3% do budget a IA, mas metade diz nao ter estrutura para executar estrategia",
+        "source": "MarTech / Gartner",
+        "date": "May 18, 2026",
+        "url": "https://martech.org/cmos-are-buying-ai-that-their-organization-isnt-ready-for/",
+        "summary": "A Gartner CMO Spend Survey citada pela MarTech indica que CMOs ja alocam em media 15,3% do budget de marketing para iniciativas de IA, mas muitos nao tem recursos, governanca ou maturidade operacional para transformar compra de ferramenta em resultado. Para lideres de marketing, o risco e confundir acesso a modelos com prontidao organizacional. O foco deve ir para processos, dados, treinamento e casos de uso com ROI mensuravel."
+      },
+      {
+        "title": "Shopify reporta trafego de AI search com conversao maior que organic search em recaps de e-commerce",
+        "source": "Reddit r/ecommerce",
+        "date": "May 18, 2026",
+        "url": "https://www.reddit.com/r/ecommerce/comments/1th2men/ecommerce_industry_news_recap_week_of_may_18th/",
+        "summary": "Recaps de e-commerce da semana destacaram dados iniciais do Shopify sugerindo que visitantes vindos de plataformas de AI search como ChatGPT, Perplexity, Gemini, Copilot e Claude convertem quase 50% melhor e trazem AOV 14% superior ao trafego organico tradicional. Mesmo exigindo cautela metodologica, o sinal e forte: AI search pode trazer menos volume, mas mais intencao. E-commerces devem separar esse canal no analytics e testar paginas preparadas para citacao por IA."
+      },
+      {
+        "title": "Estudo sobre AI Overviews mede qualidade de fontes, fidelidade de claims e impacto em publishers",
+        "source": "arXiv",
+        "date": "May 18, 2026",
+        "url": "https://arxiv.org/abs/2605.14021",
+        "summary": "O estudo sobre AI Overviews analisou mais de 55 mil queries e mostrou que respostas geradas concentram poder editorial, citam fontes com criterios diferentes do ranking classico e podem reduzir cliques para publishers. Para marketing de conteudo, isso reforca a necessidade de medir citacao, nao apenas ranking. Marcas precisam construir paginas que sustentem claims, usem estrutura clara e sejam citaveis, porque AI Overviews pode entregar a resposta sem enviar o usuario ao site."
+      },
+      {
+        "title": "Pesquisa sobre AI Search e Reddit avalia efeitos no ecossistema de conteudo online",
+        "source": "arXiv",
+        "date": "May 20, 2026",
+        "url": "https://arxiv.org/abs/2605.16428",
+        "summary": "Um estudo sobre AI Search e Reddit analisou como motores de busca com IA alteram trafego, comportamento de consumo e ecossistemas de conteudo. A relevancia para marketing esta na crescente importancia de comunidades e conteudo UGC como fonte para respostas geradas. Se Reddit, forums e comparativos sao citados por IAs, estrategia de marca precisa ir alem do blog corporativo, incluindo presenca reputacional em comunidades onde usuarios reais discutem produtos."
+      },
+      {
+        "title": "SEO Pulse aponta semana de 19-23 de maio como ponto de virada para SEO com Core Update e I/O",
+        "source": "Digital Applied",
+        "date": "May 24, 2026",
+        "url": "https://www.digitalapplied.com/blog/seo-pulse-may-24-core-update-io-impact-report",
+        "summary": "O SEO Pulse de 24 de maio classificou a semana de 19 a 23 como uma das mais importantes para SEO desde a consolidação do Helpful Content System, combinando Core Update, I/O, AI Mode e novas leituras de CTR. Para equipes de marketing, a leitura pratica e criar dashboard separado para branded queries, informational queries, AI Overview visibility e click-through. A queda de cliques pode vir de mudanca de SERP, nao necessariamente de perda de ranking."
+      },
+      {
+        "title": "AI search acelera mudanca de SEO para estrategia de entidade e distribuicao proprietaria",
+        "source": "Search Engine Journal",
+        "date": "May 22, 2026",
+        "url": "https://www.searchenginejournal.com/seo-pulse-google-launches-core-update-amid-i-o-ai-search-overhaul/575676/",
+        "summary": "A semana consolidou a ideia de que AI search transforma SEO em estrategia de entidade, reputacao e distribuicao proprietaria. Se a resposta gerada pode satisfazer o usuario sem clique, marcas precisam construir audiencia direta, newsletter, comunidade, social search e presenca em fontes confiaveis. O objetivo deixa de ser apenas atrair visitas e passa a ser aparecer na resposta, influenciar comparacoes e capturar demanda quando o usuario decide agir."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Gemini app evolui para ajuda proativa 24/7 com recursos agenticos no Google I/O",
+        "source": "Google Blog",
+        "date": "May 19, 2026",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+        "summary": "O Google apresentou a proxima evolucao do Gemini app com assistencia mais agentica, proativa e sempre disponivel. Para marketing, a mudanca importa porque assistentes deixam de ser apenas caixas de pergunta e passam a operar como camada persistente sobre pesquisa, agenda, documentos, compras e tarefas. A interface de descoberta e decisao fica mais mediada por agentes, o que muda como marcas precisam estruturar conteudo, ofertas e dados para serem entendidas por esses sistemas."
+      },
+      {
+        "title": "Gemini Omni transforma imagem, texto e contexto em video dentro do ecossistema Google",
+        "source": "TechRadar",
+        "date": "May 20, 2026",
+        "url": "https://www.techradar.com/ai-platforms-assistants/googles-new-gemini-omni-ai-can-turn-almost-anything-into-video",
+        "summary": "O Gemini Omni foi apresentado como modelo multimodal capaz de transformar diferentes entradas em video, com rollout previsto para Gemini app, Google Flow, YouTube Shorts e YouTube Create. Para times de marketing, isso encurta o caminho entre ideia, asset e distribuicao. O impacto pratico e maior volume de testes criativos para social, Shorts e ads. O risco e saturacao visual: quando todos geram video rapidamente, diferencicao passa a depender de conceito, narrativa e direcao criativa."
+      },
+      {
+        "title": "Google Flow ganha musica, edicao generativa e integracao mais forte com modelos de criacao",
+        "source": "Android Central",
+        "date": "May 19, 2026",
+        "url": "https://www.androidcentral.com/apps-software/ai/google-i-o-gets-into-a-flow-preps-flow-music-app-and-generative-editing-for-on-the-go",
+        "summary": "O Google expandiu o Flow com recursos de musica, edicao generativa e melhor integracao com modelos como Imagen, Veo e Gemini. Para criadores e marketers, Flow se aproxima de um workspace multimodal para produzir imagens, videos e audio em ciclos curtos. Isso reduz custo de prototipagem e abre caminho para campanhas com mais variacoes por publico. A exigencia passa a ser governanca de marca e revisao humana para evitar assets inconsistentes."
+      },
+      {
+        "title": "Gemini Spark aparece como agente pessoal persistente no pacote Google AI Ultra",
+        "source": "9to5Google",
+        "date": "May 19, 2026",
+        "url": "https://9to5google.com/2026/05/19/google-io-2026-news/",
+        "summary": "Entre os anuncios do I/O, o Gemini Spark foi posicionado como agente pessoal mais persistente, ligado ao novo pacote Google AI Ultra. Para profissionais de marketing, isso sinaliza uma nova camada de assistentes premium capazes de acompanhar tarefas, contexto e fluxos de trabalho ao longo do tempo. A implicacao e que decisao de compra, pesquisa competitiva e produtividade de equipes podem migrar para agentes que operam continuamente, nao apenas para prompts isolados."
+      },
+      {
+        "title": "Google I/O reforca Gemini em Search, Workspace, Android, YouTube e shopping",
+        "source": "WIRED",
+        "date": "May 19, 2026",
+        "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
+        "summary": "A cobertura da WIRED destacou que o Google esta espalhando Gemini por Search, Android, Workspace, YouTube, shopping e dispositivos. Para marketing e martech, a noticia e menos sobre um produto isolado e mais sobre distribuicao: o assistente do Google passa a estar em praticamente todos os pontos da jornada digital. Marcas precisam pensar em como seus dados, conteudos e ofertas aparecem quando a interface principal e um agente integrado ao sistema operacional do usuario."
+      },
+      {
+        "title": "ChatGPT cai no share de referrals enquanto Gemini, Perplexity e Copilot ganham espaco",
+        "source": "TechRadar / Statcounter",
+        "date": "May 18, 2026",
+        "url": "https://www.techradar.com/pro/new-figures-claim-chatgpt-usage-at-all-time-low-as-quitgpt-movement-dents-popularity-with-gemini-perplexity-and-copilot-all-stealing-market-share",
+        "summary": "Dados da Statcounter citados pela TechRadar indicaram que o ChatGPT caiu para seu menor share registrado de referrals de chatbots, enquanto Gemini, Perplexity e Copilot ganharam participacao. Para marketing, isso reforca que GEO e AI analytics nao podem ser desenhados para uma unica plataforma. E preciso monitorar quais assistentes geram trafego, quais citam a marca e quais aparecem em jornadas de compra diferentes."
+      },
+      {
+        "title": "Auditoria de chatbots como intermediarios de noticias mostra desafios de factualidade e fonte",
+        "source": "arXiv",
+        "date": "May 21, 2026",
+        "url": "https://arxiv.org/abs/2605.22785",
+        "summary": "Pesquisadores avaliaram chatbots comerciais como intermediarios de noticias, testando seis modelos em perguntas derivadas de reportagens da BBC. Para marketing, o estudo importa porque assistentes estao se tornando filtros de informacao para consumidores e decisores. Se respostas variam em factualidade, cobertura e citacao, marcas precisam monitorar como sao representadas por modelos diferentes e investir em fontes verificaveis que reduzam risco de resposta incorreta."
+      },
+      {
+        "title": "Estudo alerta para fontes sinteticas citadas por mecanismos de busca generativa",
+        "source": "arXiv",
+        "date": "May 22, 2026",
+        "url": "https://arxiv.org/abs/2605.23684",
+        "summary": "O estudo Synthetic Sources? auditou mecanismos de busca generativa como ChatGPT, Copilot, Gemini e Perplexity para identificar sinais de fontes geradas por IA sendo citadas. Para estrategias de GEO, o risco e serio: ecossistemas de resposta podem amplificar conteudo sintetico como se fosse evidencia. Marcas devem priorizar publicacoes auditaveis, autoria clara, dados originais e fontes humanas confiaveis para reduzir chance de serem substituidas por conteudo artificial de baixa qualidade."
+      },
+      {
+        "title": "Anthropic prepara Claude para pequenos negocios com conectores e workflows empresariais",
+        "source": "Axios",
+        "date": "May 19, 2026",
+        "url": "https://www.axios.com/2026/05/13/anthropic-claude-small-business-smb",
+        "summary": "A Anthropic avancou sua estrategia para pequenos negocios com Claude conectado a ferramentas como QuickBooks, PayPal, HubSpot, Canva, DocuSign, Google Workspace e Microsoft 365. Embora anunciado antes da semana, o tema ganhou tracao por mostrar a corrida por agentes de operacao empresarial. Para marketing, isso coloca IA diretamente em vendas, financeiro, criacao e CRM, reduzindo a separacao entre assistente generico e automacao de processos reais."
+      },
+      {
+        "title": "Resumo semanal de IA destaca Google I/O, queda de custos e nova cadencia de modelos Flash",
+        "source": "Digital Applied",
+        "date": "May 25, 2026",
+        "url": "https://www.digitalapplied.com/blog/ai-industry-weekly-recap-may-18-25-2026-8-stories",
+        "summary": "O recap semanal da Digital Applied destacou Google I/O, modelos Gemini Flash mais baratos, avancos em agentes e mudancas de preco e deploy no mercado de IA. Para times de marketing que usam IA em producao, a noticia pratica e que custo, latencia e capacidade mudam rapido demais para contratos e workflows ficarem estaticos. Vale revisar mensalmente modelos usados para classificacao, geracao de copy, analise de campanha e automacao operacional."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://blog.google/products/ads-commerce/google-marketing-live-2026-turn-your-data-into-decisions/",
+    "https://arxiv.org/abs/2605.14021",
+    "https://www.techradar.com/pro/new-figures-claim-chatgpt-usage-at-all-time-low-as-quitgpt-movement-dents-popularity-with-gemini-perplexity-and-copilot-all-stealing-market-share"
+  ]
+}

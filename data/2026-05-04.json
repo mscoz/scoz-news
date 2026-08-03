@@ -1,0 +1,256 @@
+{
+  "id": "2026-05-04",
+  "label": "4-10 mai/26",
+  "label_full": "4 a 10 de maio de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta lança AR ads globalmente para Instagram e Facebook Reels e Stories",
+        "source": "Social Media Examiner",
+        "date": "May 8, 2026",
+        "url": "https://www.socialmediaexaminer.com/facebook-updates-ads-promo-codes-monetization-and-more/",
+        "summary": "A Meta expandiu globalmente os anúncios de realidade aumentada (AR) para Instagram Reels, Facebook Reels e Facebook Stories. Os AR ads permitem que usuários experimentem produtos virtualmente antes de comprar — óculos, maquiagem, móveis — diretamente na interface do anúncio. O formato, antes disponível apenas para parceiros selecionados, abre novo canal de upper-funnel com alta taxa de interação para e-commerces de moda, beleza e casa."
+      },
+      {
+        "title": "Andromeda: o novo algoritmo de targeting da Meta que coloca o criativo no centro",
+        "source": "Social Media Examiner",
+        "date": "May 7, 2026",
+        "url": "https://www.socialmediaexaminer.com/how-to-prepare-for-a-changing-meta-ads-landscape/",
+        "summary": "O algoritmo Andromeda, introduzido pela Meta no final de 2024 e agora dominante nas entregas de 2026, inverteu a lógica de targeting: em vez do anunciante definir audiências, o Meta usa o criativo do anúncio para determinar quem deve vê-lo. O sistema analisa semântica, visual e contexto do criativo para encontrar usuários com maior probabilidade de conversão. A implicação prática é direta — quem controla o criativo controla o targeting. Testar ângulos, hooks e formatos distintos tornou-se a principal alavanca de otimização disponível ao anunciante."
+      },
+      {
+        "title": "Meta lança CAPI one-click: setup de Conversions API sem código para qualquer anunciante",
+        "source": "AdExchanger",
+        "date": "May 7, 2026",
+        "url": "https://www.adexchanger.com/platforms/meta-is-launching-an-easy-button-for-capi/",
+        "summary": "A Meta introduziu uma opção de implementação da Conversions API com um clique dentro do Events Manager, eliminando a complexidade técnica que tornava o CAPI inacessível para anunciantes sem equipe de desenvolvimento. O setup automático configura servidor, manutenção e enrichment de dados sem necessidade de código. A iniciativa mira principalmente PMEs — público que representa a maior parte da base da Meta — mas também libera recursos de engenharia em empresas maiores que mantinham integrações customizadas."
+      },
+      {
+        "title": "AI-powered Meta Pixel: enriquecimento automático de dados de produto e comportamento pós-clique",
+        "source": "AdExchanger",
+        "date": "May 7, 2026",
+        "url": "https://www.adexchanger.com/platforms/meta-is-launching-an-easy-button-for-capi/",
+        "summary": "A Meta adicionou capacidade de enriquecimento com IA ao Meta Pixel, que passa a extrair automaticamente informações de página e produto sem configuração manual. O recurso fornece ao sistema de leilão mais sinais sobre comportamento pós-clique, melhorando a qualidade da otimização de conversão — especialmente útil para lojas com catálogos grandes onde manter tags manuais por produto é operacionalmente inviável."
+      },
+      {
+        "title": "Meta Advantage+ Leads Campaigns disponível globalmente com verificação por SMS e e-mail corporativo",
+        "source": "Marketing Agent Blog / Swipe Insight",
+        "date": "May 6, 2026",
+        "url": "https://marketingagent.blog/2026/05/06/the-complete-roadmap-to-using-meta-advantage-in-2026/",
+        "summary": "A Meta expandiu globalmente as Advantage+ Leads Campaigns e adicionou dois novos mecanismos de verificação de lead: confirmação por SMS via número de telefone e validação por e-mail corporativo. Um terceiro método, verificação por endereço, está em teste. A combinação de automação de targeting com verificação de qualidade de lead endereça um dos principais problemas de campanhas de geração de leads: volume alto com baixa taxa de qualificação."
+      },
+      {
+        "title": "Meta substitui formatos Flexible e Collection por Format Display Options no Ads Manager",
+        "source": "Swipe Insight / Meta Ads Updates",
+        "date": "May 8, 2026",
+        "url": "https://web.swipeinsight.app/topics/meta-ads",
+        "summary": "O Meta Ads Manager passou a unificar os antigos formatos Flexible e Collection sob o novo sistema Format Display Options. No upload manual, os formatos disponíveis são Single image or video (até 10 arquivos de mídia, com opção de mostrar produtos ou links) e Carousel (cards exibidos como imagens/vídeos individuais ou tiles de coleção). A mudança simplifica a criação de anúncios mas exige adaptação dos fluxos de produção criativa que dependiam da lógica anterior."
+      },
+      {
+        "title": "Meta atualiza atribuição de vídeo: Engaged-through Views contabilizados após 5 segundos",
+        "source": "Swipe Insight / Meta Ads Updates",
+        "date": "May 6, 2026",
+        "url": "https://web.swipeinsight.app/topics/meta-ads",
+        "summary": "A Meta atualizou o critério de Engaged-through Views para vídeos: conversões passam a ser contabilizadas quando a visualização supera 5 segundos, antes do final do vídeo. O modelo também fica disponível para campanhas com objetivo de maximização de valor. A mudança cria uma quebra na série histórica de atribuição de vídeo — anunciantes devem ajustar benchmarks de CPA para campanhas de vídeo antes de tomar decisões de corte orçamentário com base em comparações de períodos anteriores."
+      },
+      {
+        "title": "Meta permite criar anúncios de live video diretamente no Ads Manager via Facebook Page",
+        "source": "Swipe Insight / SocialBee",
+        "date": "May 8, 2026",
+        "url": "https://socialbee.com/blog/facebook-updates/",
+        "summary": "A Meta lançou funcionalidade que permite criar anúncios de vídeo ao vivo diretamente no Ads Manager, vinculando transmissões ao vivo da Facebook Page como criativo de campanha. O recurso elimina a necessidade de ferramentas externas para impulsionar lives como anúncio. Para marcas que usam transmissões ao vivo como formato de conversão — lançamentos de produto, demonstrações, lives de vendas — a integração reduz fricção operacional e viabiliza ampliação de alcance pago durante a transmissão."
+      },
+      {
+        "title": "Meta lança métricas de WhatsApp Channel Follows para rastrear seguidores gerados por ads",
+        "source": "Swipe Insight / Meta Ads Updates",
+        "date": "May 7, 2026",
+        "url": "https://web.swipeinsight.app/topics/meta-ads",
+        "summary": "O Meta Ads Manager adicionou duas novas métricas: WhatsApp Channel Follows e seu custo por seguidor. As métricas permitem rastrear quantos usuários seguiram um canal do WhatsApp a partir de um anúncio — um objetivo crescente para marcas que usam o canal como hub de comunicação direta. A adição torna o crescimento de audiência no WhatsApp mensurável e comparável a outros objetivos de campanha como leads e cadastros."
+      },
+      {
+        "title": "Meta lança Advantage+ Campaign Experience como padrão para novas campanhas",
+        "source": "Marketing Agent Blog / Meta Business",
+        "date": "May 6, 2026",
+        "url": "https://marketingagent.blog/2026/05/06/the-complete-roadmap-to-using-meta-advantage-in-2026/",
+        "summary": "A Meta tornou o Advantage+ Campaign Experience o padrão para criação de novas campanhas no Ads Manager, com as ferramentas de automação do Advantage+ pré-selecionadas por padrão. Novos recursos incluem AI Dubbing para vídeos, geração de música por IA e geração de imagens baseada em persona. Anunciantes que preferem controle manual precisam agora optar ativamente por sair do modo automatizado, sinalizando o compromisso da Meta em migrar toda a base para fluxos de IA como default."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google Ads incorpora controles do Tag Manager diretamente na interface do Data Manager",
+        "source": "Search Engine Land",
+        "date": "May 8, 2026",
+        "url": "https://searchengineland.com/google-ads-surfaces-tag-manager-controls-inside-its-interface-476969",
+        "summary": "O Google Ads passou a exibir controles do Google Tag Manager dentro da seção Data Manager da plataforma, eliminando a necessidade de alternar entre ferramentas para configurar e depurar tags de conversão. A nova opção 'Manage', identificada por anunciantes em 8 de maio, abre a interface do GTM contextualizada sem sair do Google Ads. A mudança reduz fricção técnica especialmente para equipes menores sem suporte de desenvolvimento dedicado."
+      },
+      {
+        "title": "Google Ads unifica Enhanced Conversions em toggle único a partir de junho de 2026",
+        "source": "Search Engine Land",
+        "date": "May 7, 2026",
+        "url": "https://searchengineland.com/google-ads-simplifies-enhanced-conversions-into-a-single-switch-474101",
+        "summary": "O Google Ads está simplificando a configuração de Enhanced Conversions — que passará a ser ativada por um único toggle, sem necessidade de selecionar método (tag, API, etc.). A mudança, prevista para entrar em vigor em junho de 2026, reduz a complexidade de setup e pode aumentar a adoção da funcionalidade por anunciantes que evitavam a configuração técnica anterior. Recomenda-se verificar se as implementações existentes serão migradas automaticamente ou precisarão de ajuste manual."
+      },
+      {
+        "title": "Google AI Max para Search: targeting por intenção geográfica e brand exclusions chegam",
+        "source": "Search Engine Land",
+        "date": "May 9, 2026",
+        "url": "https://searchengineland.com/in-google-ads-automation-everything-is-a-signal-in-2026-468218",
+        "summary": "O AI Max para Search Campaigns ganhou duas funcionalidades muito aguardadas: geo-intent targeting, que entrega anúncios com base na intenção geográfica inferida pelo contexto da busca (não apenas localização do usuário), e brand exclusions, que impedem o sistema de exibir anúncios em buscas de termos de marca de concorrentes. As adições reduzem uma das principais objeções dos anunciantes à adoção do AI Max e aumentam o controle editorial sobre a entrega automatizada."
+      },
+      {
+        "title": "API do Google Ads migra para ciclo mensal de releases a partir de 2026",
+        "source": "Search Engine Land / SE Roundtable",
+        "date": "May 5, 2026",
+        "url": "https://searchengineland.com/google-ads-api-to-switch-to-a-monthly-release-cycle-461596",
+        "summary": "O Google Ads API migrou para um ciclo de lançamentos mensais em 2026, substituindo o esquema anterior de atualizações trimestrais. A mudança acelera o acesso a novos recursos via API, mas também exige que desenvolvedores e ferramentas de terceiros se adaptem a um ritmo mais rápido de manutenção. Agências que dependem de integrações customizadas precisam revisar seus processos de homologação de versão."
+      },
+      {
+        "title": "Google outlines AI-powered, agent-driven future for shopping and ads em 2026",
+        "source": "Search Engine Land",
+        "date": "May 6, 2026",
+        "url": "https://searchengineland.com/google-shares-whats-next-in-digital-advertising-and-commerce-in-2026-468995",
+        "summary": "O Google delineou sua visão para o futuro do advertising em 2026: AI Max para Search com targeting sem keywords entregando até 27% melhor que exact match, agentic commerce para compras mediadas por agentes de IA, e Meridian Studio para modelagem de mix de mídia. A empresa posiciona o movimento como migração de controle manual de campanhas para camadas de IA — com anunciantes definindo objetivos e a IA gerenciando execução. Para gestores de tráfego, o desafio é manter visibilidade e controle enquanto a automação avança."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "SEO em 2026: o novo objetivo é reconhecimento de marca, não apenas ranking",
+        "source": "Search Engine Land",
+        "date": "May 9, 2026",
+        "url": "https://searchengineland.com/seo-goal-recognition-476756",
+        "summary": "Com a expansão dos AI Overviews e a intermediação crescente de agentes de IA nas buscas, o Search Engine Land argumenta que o objetivo estratégico do SEO em 2026 mudou: não basta ranquear, é preciso ser reconhecido como fonte autoritative para que os modelos de IA citem e recomendem a marca. A lógica de construção de autoridade temática e presença em fontes de treinamento torna-se mais relevante que otimizações técnicas isoladas."
+      },
+      {
+        "title": "Microsoft lança AI Max para Bing Ads com targeting para compras mediadas por agentes de IA",
+        "source": "Search Engine Land",
+        "date": "May 6, 2026",
+        "url": "https://searchengineland.com/google-ads-niche-markets-467188",
+        "summary": "A Microsoft expandiu o AI Max para o Bing Ads com funcionalidades específicas para compras mediadas por agentes de IA — o canal onde assistentes como Copilot e ChatGPT fazem recomendações e potencialmente executam transações. Anunciantes podem agora licitar para posicionamento preferencial em queries geradas por agentes, um formato novo que ainda não tem benchmarks consolidados de CPA mas representa o próximo campo de disputa no search advertising."
+      },
+      {
+        "title": "Adthena lança ferramenta de conversão de Google Ads para ChatGPT",
+        "source": "Search Engine Land",
+        "date": "May 8, 2026",
+        "url": "https://searchengineland.com/adthena-launches-google-ads-to-chatgpt-conversion-tool-475672",
+        "summary": "A Adthena lançou uma ferramenta que converte estruturas de campanhas do Google Ads para formatos compatíveis com advertising no ChatGPT — incluindo adaptação de copy, targeting e estrutura de ad groups para o ambiente de anúncios da OpenAI. A ferramenta antecipa o crescimento do ChatGPT Ads como canal e reduz o trabalho manual de migração de campanhas entre plataformas."
+      },
+      {
+        "title": "LinkedIn lança Event Ads para sites externos disponível a todos os anunciantes",
+        "source": "Paid Search Association / LinkedIn Marketing",
+        "date": "May 6, 2026",
+        "url": "https://paidsearchassociation.substack.com/p/your-ppc-links-from-the-paid-search-eba",
+        "summary": "O LinkedIn tornou disponível para todos os anunciantes os Event Ads para sites externos, permitindo promover eventos hospedados fora da plataforma com o mesmo formato de anúncio nativo do LinkedIn. O recurso expande o alcance de eventos corporativos, webinars e conferências para a audiência B2B do LinkedIn sem exigir que o evento esteja cadastrado na plataforma. Para campanhas de geração de leads B2B, o formato combina segmentação precisa por cargo e indústria com call-to-action de inscrição direta."
+      },
+      {
+        "title": "First-party data torna-se o principal diferencial competitivo em performance marketing",
+        "source": "Propmark / RD Station",
+        "date": "May 7, 2026",
+        "url": "https://propmark.com.br/marketing-digital-vive-virada-estrutural-em-2026-com-pressao-por-roi-avanco-da-ia-e-queda-na-remuneracao-de-social-media/",
+        "summary": "Com o fim gradual dos cookies de terceiros e enrijecimento das regras de privacidade, first-party data tornou-se o principal ativo de diferenciação em performance marketing em 2026. Marcas com dados próprios bem estruturados — CRM, listas de e-mail, dados de comportamento on-site — têm vantagem direta em leilões por conta da qualidade do signal de conversão enviado para Google e Meta. O investimento em coleta, organização e ativação de dados próprios é agora tão estratégico quanto o investimento em mídia."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Meta lança User True Interest Survey para refinar algoritmo do Reels",
+        "source": "Social Media Examiner",
+        "date": "May 7, 2026",
+        "url": "https://www.socialmediaexaminer.com/facebooks-2026-rules-for-reach-relevance/",
+        "summary": "A Meta está testando o User True Interest Survey, mecanismo que apresenta uma pesquisa de satisfação de 1 a 5 estrelas após assistir a um Reel, pedindo ao usuário que avalie se o conteúdo corresponde aos seus interesses reais. O recurso resolve um ponto cego dos dados comportamentais: o tempo de visualização não distingue interesse genuíno de scroll automático. Criadores precisam produzir conteúdo que engaje intencionalmente — avaliações baixas penalizam a distribuição orgânica."
+      },
+      {
+        "title": "Meta dobra aposta em conteúdo original após Reels dobrar views no 2H 2025",
+        "source": "Social Media Examiner",
+        "date": "May 6, 2026",
+        "url": "https://www.socialmediaexaminer.com/facebook-ad-algorithm-changes-for-2026-what-marketers-need-to-know/",
+        "summary": "A Meta reportou que visualizações e tempo gasto em Reels no Facebook aproximadamente dobraram no segundo semestre de 2025. Em resposta, a plataforma está priorizando conteúdo original e matching de interesses no algoritmo. Criativos em formato Reels nativo — sem logotipos de terceiros ou marca d'água — tendem a receber distribuição preferencial orgânica. O dado é relevante para estratégias de conteúdo orgânico e planejamento de criação."
+      },
+      {
+        "title": "Meta Verified expande planos pagos com novos tiers para maior alcance de links",
+        "source": "Social Media Examiner",
+        "date": "May 5, 2026",
+        "url": "https://www.socialmediaexaminer.com/what-facebooks-new-link-rules-mean-for-your-2026-strategy/",
+        "summary": "A Meta está restringindo o alcance orgânico de posts com links externos enquanto promove o Meta Verified, com planos de US$ 14,99/mês até US$ 500/mês. A mudança pressiona criadores e marcas que dependem de posts com links para tráfego orgânico. A implicação estratégica é avaliar se o custo do Meta Verified se justifica frente ao alcance incremental, ou redirecionar esforço para formatos nativos que não sofrem penalidade de link."
+      },
+      {
+        "title": "Google Core Update de março 2026: 79,5% das URLs top-3 mudaram de posição",
+        "source": "Search Engine Land",
+        "date": "May 5, 2026",
+        "url": "https://searchengineland.com/march-2026-google-core-update-what-changed-474397",
+        "summary": "A análise pós-rollout do Google Core Update de março de 2026 revela volatilidade histórica: 79,5% das URLs nas posições top-3 mudaram de posição (ante 66,8% em dezembro de 2025) e 90,7% das URLs no top-10 foram impactadas. O padrão identificado favorece marcas fortes com dados próprios e conteúdo de valor direto à consulta, enquanto intermediários e sites agregadores sofreram perdas expressivas. Sites de nicho com autoridade temática consolidada foram os maiores beneficiados."
+      },
+      {
+        "title": "SEO em 2026: padrões mais altos, influência da IA e web ainda se adaptando",
+        "source": "Search Engine Land",
+        "date": "May 8, 2026",
+        "url": "https://searchengineland.com/seo-2026-higher-standards-ai-influence-web-catching-up-473540",
+        "summary": "O Search Engine Land publica análise abrangente do estado do SEO em 2026: o Google está elevando os padrões de qualidade em resposta ao volume crescente de conteúdo gerado por IA, enquanto os AI Overviews mudam o funil de busca ao responder diretamente perguntas informacionais. A web ainda está se adaptando — muitos sites não atualizaram suas estratégias de conteúdo para o novo contexto. Marcas que investiram em profundidade temática e autoridade de domínio estão saindo na frente."
+      },
+      {
+        "title": "Marketing digital 2026: virada estrutural com pressão por ROI e queda do social media tradicional",
+        "source": "Propmark",
+        "date": "May 6, 2026",
+        "url": "https://propmark.com.br/marketing-digital-vive-virada-estrutural-em-2026-com-pressao-por-roi-avanco-da-ia-e-queda-na-remuneracao-de-social-media/",
+        "summary": "O mercado de marketing digital brasileiro vive uma virada estrutural em 2026: pressão crescente por ROI mensurável, avanço da IA redefinindo produção de conteúdo e queda na remuneração de social media operacional. O papel do profissional de redes sociais migra do operacional para o estratégico — gestão de conteúdo puramente manual perde espaço para coordenação de fluxos com IA. Agências que não evoluírem o modelo de entrega enfrentarão compressão de margens."
+      },
+      {
+        "title": "Barbell content strategy: como combinar conteúdo ultracurto e ultraprofundo em 2026",
+        "source": "Nuvemshop / CRMBonus",
+        "date": "May 7, 2026",
+        "url": "https://www.nuvemshop.com.br/blog/tendencias-do-ecommerce/",
+        "summary": "Surge como tendência dominante de conteúdo em 2026 a 'barbell content strategy': combinação intencional de conteúdos muito curtos (Reels, shorts, Stories) para descoberta e aquisição de audiência com conteúdos muito profundos (artigos longos, vídeos de 20min+, documentos técnicos) para conversão e decisão. O meio do espectro — posts de 3 minutos e vídeos de 5 minutos — perde relevância por não entregar nem alcance de topo de funil nem autoridade de fundo de funil."
+      },
+      {
+        "title": "Social commerce avança em 2026 com TikTok e Instagram intensificando recomendações por IA",
+        "source": "TOTVS / Kantar",
+        "date": "May 9, 2026",
+        "url": "https://www.totvs.com/blog/marketing-e-vendas/tendencias-marketing-digital-ecommerce/",
+        "summary": "TikTok Shop e Instagram Shopping intensificaram o uso de algoritmos de IA para sugerir produtos baseados em comportamento, localização e interesses em tempo real, encurtando a jornada de compra para menos de 3 cliques em alguns formatos. O social commerce integrado — onde descoberta, consideração e transação ocorrem dentro da mesma plataforma — está se tornando o modelo padrão para categorias de impulso como moda, beleza e alimentos."
+      }
+    ],
+    "ia": [
+      {
+        "title": "IA domina o funil completo de marketing em 2026: da criação à conversão",
+        "source": "6i / Agência Novo Foco",
+        "date": "May 5, 2026",
+        "url": "https://www.6i.com.br/blog/marketing-digital-em-2026-o-que-muda-e-como-sua-empresa-deve-se-preparar",
+        "summary": "Em 2026, a IA está presente em cada etapa do funil de marketing: criação de criativos (imagens, vídeos, copy), segmentação de audiências (Advantage+, AI Max), otimização de lances (Smart Bidding), análise de performance e recomendações de ajuste. O modelo de trabalho nas agências migra de execução para supervisão — profissionais que souberem orquestrar fluxos de IA produtivamente terão vantagem competitiva crescente sobre quem ainda trabalha de forma majoritariamente manual."
+      },
+      {
+        "title": "WhatsApp com IA: chatbots LLM se tornam canal de conversão primário no Brasil",
+        "source": "Agência APE / Alura",
+        "date": "May 6, 2026",
+        "url": "https://www.agenciaape.com.br/como-ia-esta-transformando-marketing-digital/",
+        "summary": "Com 80% dos consumidores brasileiros usando WhatsApp como canal preferido de comunicação, os chatbots alimentados por LLMs tornaram-se assistentes de vendas 24/7 capazes de qualificar leads, responder objeções e fechar vendas sem intervenção humana. A qualidade do chatbot — personalidade, profundidade de conhecimento do produto, capacidade de negociação — tornou-se fator de conversão tão relevante quanto a landing page. Marcas que não integraram IA ao WhatsApp estão em desvantagem competitiva."
+      },
+      {
+        "title": "Performance Max usa IA para alocar budget automaticamente entre 6 canais do Google",
+        "source": "6i / Agência Novo Foco",
+        "date": "May 7, 2026",
+        "url": "https://agencianovofoco.com.br/tendencias-de-inteligencia-artificial-no-marketing-digital-o-que-esperar-para-2026-2/",
+        "summary": "O Performance Max em 2026 usa IA para alocar budget dinamicamente entre Search, Display, YouTube, Discover, Gmail e Maps em tempo real, baseando-se em sinais de intenção e probabilidade de conversão de cada usuário. O anunciante define o objetivo e o orçamento — a IA gerencia a distribuição. O novo relatório de asset performance por canal (disponível desde abril de 2026) finalmente permite identificar quais criativos performam em qual superfície."
+      },
+      {
+        "title": "LGPD e ética em IA: transparência de dados torna-se requisito competitivo em 2026",
+        "source": "Team Lewis / Scansource",
+        "date": "May 8, 2026",
+        "url": "https://www.teamlewis.com/pt/magazine/8-tendencias-de-inteligencia-artificial-2026/",
+        "summary": "Em 2026, a conformidade com LGPD e transparência no uso de IA em marketing deixaram de ser apenas obrigação legal e tornaram-se diferencial competitivo. Consumidores brasileiros estão mais atentos ao uso de seus dados, e marcas que comunicam claramente suas práticas de privacidade constroem maior confiança — especialmente relevante em campanhas de remarketing e personalização. Ferramentas de consent management e privacy-first analytics ganham adoção acelerada."
+      },
+      {
+        "title": "Mercado de IA em 2026: oportunidades de carreira e skills mais demandadas no marketing",
+        "source": "Alura",
+        "date": "May 9, 2026",
+        "url": "https://www.alura.com.br/artigos/mercado-de-ia",
+        "summary": "O mercado de trabalho em marketing digital no Brasil em 2026 premia quem combina conhecimento de plataformas de ads com capacidade de orquestrar fluxos de IA. As skills mais demandadas são: prompt engineering aplicado a copy e criativos, análise de dados com assistência de IA, configuração de automações em n8n e ferramentas similares, e compreensão de métricas de negócio além das métricas de plataforma. Profissionais que dominam apenas ferramentas nativas das plataformas estão sofrendo compressão salarial."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://www.adexchanger.com/platforms/meta-is-launching-an-easy-button-for-capi/",
+    "https://web.swipeinsight.app/topics/meta-ads",
+    "https://socialbee.com/blog/facebook-updates/",
+    "https://marketingagent.blog/2026/05/06/the-complete-roadmap-to-using-meta-advantage-in-2026/",
+    "https://www.socialmediaexaminer.com/facebook-ad-algorithm-changes-for-2026-what-marketers-need-to-know/",
+    "https://propmark.com.br/marketing-digital-vive-virada-estrutural-em-2026-com-pressao-por-roi-avanco-da-ia-e-queda-na-remuneracao-de-social-media/"
+  ]
+}

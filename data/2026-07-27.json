@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "id": "2026-07-27",
+  "label": "27/jul-02/ago",
+  "label_full": "27 de julho a 2 de agosto de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta prepara pequenas empresas para a temporada de festas com Insights, ferramentas de IA e playbook",
+        "source": "Meta for Business",
+        "date": "Jul 27, 2026",
+        "url": "https://www.facebook.com/business/news/2026-holiday-small-business",
+        "summary": "A Meta lançou o Holiday Insights Center, baseado em pesquisa com 14.473 compradores em 18 países, e um playbook com orientação para Advantage+, Pixel/CAPI, catálogos e Partnership Ads. O material é guidance e benchmark da própria plataforma, não lançamento de campanha."
+      },
+      {
+        "title": "Meta lança Graph API v26.0 e Marketing API v26.0 com mudanças para anúncios",
+        "source": "Meta for Developers",
+        "date": "Jul 29, 2026",
+        "url": "https://developers.facebook.com/blog/post/2026/07/29/introducing-graph-api-v26-and-marketing-api-v26/",
+        "summary": "A v26.0 amplia anúncios no WhatsApp Status, com carrossel de até dez cartões e otimização para conversões fora do site; remove o posicionamento do Instagram Explore Feed, impede novas criações de anúncios com enquetes e retira Stories do Messenger de novas configurações de API. A versão também remove campos de estimativa de entrega e exige advantage_audience explícito em novos conjuntos de categorias especiais restritas."
+      },
+      {
+        "title": "Meta destaca crescimento de receita publicitária e ganhos de IA, mas enfrenta dúvidas sobre investimento",
+        "source": "Marketing Dive",
+        "date": "Jul 30, 2026",
+        "url": "https://www.marketingdive.com/news/meta-touts-industry-leading-ad-revenue-growth-but-ai-unease-rises/826583/",
+        "summary": "A matéria sobre o segundo trimestre informa receita publicitária de US$ 59,4 bilhões, alta de 27%, e atribui ao Advantage+ um run rate anual de US$ 75 bilhões. Também aborda o Meta Generative Recommender, que combina conteúdo dos anúncios e preferências dos usuários, além de impressões 14% maiores e preço médio dos anúncios 12% maior. Embora venha de resultados trimestrais, o foco direto em ferramentas e performance de anúncios justifica a inclusão."
+      }
+    ],
+    "google": [
+      {
+        "title": "Prepare for the holiday season with July’s Demand Gen Drop",
+        "source": "Google",
+        "date": "Jul 29, 2026",
+        "url": "https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/",
+        "summary": "O Google apresentou o Demand Gen Drop de julho com Checkout Links em nove mercados, ajustes no tROAS para reduzir cautela excessiva no início das campanhas e reforços para product feeds e affiliate links. Nos Estados Unidos, a jornada também pode usar o Universal Commerce Protocol; o Google cita ganho médio de 6% em conversões com Checkout URLs em dados próprios de setembro de 2025, portanto o número não é benchmark independente."
+      },
+      {
+        "title": "Google Ads Editor Version 2.13 Is Now Available",
+        "source": "Search Engine Roundtable",
+        "date": "Jul 27, 2026",
+        "url": "https://www.seroundtable.com/google-ads-editor-version-2-13-41755.html",
+        "summary": "A versão 2.13 reúne 17 novidades, incluindo AI Max para Shopping, meta de retenção no PMax, atestação de IA e mudanças de lance; a criação de campanhas Video Action foi descontinuada."
+      },
+      {
+        "title": "Google Ads Household Income Exclusions For PMax",
+        "source": "Search Engine Roundtable",
+        "date": "Jul 27, 2026",
+        "url": "https://www.seroundtable.com/google-ads-household-income-exclusions-41753.html",
+        "summary": "Relato indica que exclusões de renda domiciliar apareceram no nível de campanha do Performance Max, com sete faixas; trata-se de observação reportada, não confirmação de lançamento amplo."
+      },
+      {
+        "title": "Google Ads Social Casino Games Ads",
+        "source": "Search Engine Roundtable",
+        "date": "Jul 28, 2026",
+        "url": "https://www.seroundtable.com/google-social-casino-games-ads-41763.html",
+        "summary": "A política do Google Ads começa a permitir gradualmente que alguns anunciantes de jogos de cassino social solicitem certificação; isso não significa aprovação universal imediata."
+      },
+      {
+        "title": "Google Ads Upload Image For AI-Generated Images",
+        "source": "Search Engine Roundtable",
+        "date": "Jul 28, 2026",
+        "url": "https://www.seroundtable.com/google-ads-ai-generated-images-upload-image-41766.html",
+        "summary": "O Google Ads permite enviar uma imagem de referência ao criar imagens geradas por IA, para orientar o estilo do resultado; a disponibilidade foi reportada como recurso observado."
+      },
+      {
+        "title": "Google Ads Budget Panel Added To PMax Campaigns",
+        "source": "Search Engine Roundtable",
+        "date": "Jul 29, 2026",
+        "url": "https://www.seroundtable.com/google-ads-budget-panel-41779.html",
+        "summary": "Documentação do Google descreve o Budget Panel para PMax e Demand Gen, com até três sugestões de orçamento diário e previsão de desempenho; a própria redação indica rollout gradual."
+      },
+      {
+        "title": "Google Ads Lead Journey Mapping",
+        "source": "Search Engine Roundtable",
+        "date": "Jul 29, 2026",
+        "url": "https://www.seroundtable.com/google-ads-lead-journey-mapping-41782.html",
+        "summary": "A ferramenta visual de arrastar e soltar mapeia etapas online e offline da jornada de leads e aponta lacunas de conversão; o anúncio subjacente já estava online desde pelo menos junho, portanto a novidade é uma reportagem sobre detalhes."
+      },
+      {
+        "title": "Google Ads Offline Conversions Using GBRAID URL Parameter",
+        "source": "Search Engine Roundtable",
+        "date": "Jul 30, 2026",
+        "url": "https://www.seroundtable.com/google-offline-conversions-gbraid-url-parameter-41792.html",
+        "summary": "Um novo documento de ajuda explica como usar o parâmetro gbraid, identificador com preservação de privacidade, na medição de conversões offline do Google Ads."
+      },
+      {
+        "title": "Google Shopping Ads AI-Generated Descriptions",
+        "source": "Search Engine Roundtable",
+        "date": "Jul 30, 2026",
+        "url": "https://www.seroundtable.com/google-shopping-ads-ai-generated-descriptions-41784.html",
+        "summary": "O Google está testando descrições geradas por IA em anúncios Shopping e de produto; deve ser descrito como teste, não como lançamento confirmado."
+      },
+      {
+        "title": "Google Ads Insights Carousel",
+        "source": "Search Engine Roundtable",
+        "date": "Jul 31, 2026",
+        "url": "https://www.seroundtable.com/google-ads-insights-carousel-41790.html",
+        "summary": "Relato mostra possível rollout de um carrossel ‘Top things to know today’ com vários cartões de insights automatizados; é observação/teste, sem confirmação de disponibilidade geral."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "Nielsen Launches Ad Intel AI: the Only Product of its Kind that Transforms Fragmented Ad Data into Actionable Intelligence",
+        "source": "Nielsen",
+        "date": "Jul 27, 2026",
+        "url": "https://www.nielsen.com/news-center/2026/nielsen-launches-ad-intel-ai-the-only-product-of-its-kind-that-transforms-fragmented-ad-data-into-actionable-intelligence/",
+        "summary": "A Nielsen lançou o Ad Intel AI, uma interface conversacional que reúne dados de 5,5 milhões de marcas e 4,6 milhões de anunciantes em 23 tipos de mídia e mais de 90 mercados para transformar perguntas em inteligência acionável."
+      },
+      {
+        "title": "Publisher Release Roundup: Copilot in Monetize gets an upgrade",
+        "source": "Microsoft Advertising",
+        "date": "Jul 30, 2026",
+        "url": "https://about.ads.microsoft.com/en/blog/post/july-2026/publisher-release-roundup-copilot-enhancements",
+        "summary": "A Microsoft colocou em open beta uma versão ampliada do Copilot em Monetize e Curate, agora apoiada por MCP para consultar deals, line items, reporting, inventário e histórico de mudanças. O recurso também ajuda em troubleshooting e forecasting dentro do fluxo de monetização para publishers."
+      },
+      {
+        "title": "Global Study: Poor-Quality AI Content Puts Brand Trust at Risk",
+        "source": "DoubleVerify",
+        "date": "Jul 29, 2026",
+        "url": "https://doubleverify.com/company/newsroom/global-study-quality-matters-most-as-ai-transforms-online-content-and-advertising",
+        "summary": "Estudo global da DoubleVerify ouviu 22 mil consumidores e 2.020 profissionais de marketing sobre conteúdo de baixa qualidade gerado por IA e seus efeitos na confiança da marca, com implicações para qualidade de mídia e brand safety."
+      },
+      {
+        "title": "Powering Smarter CTV Advertising with Adobe Advertising and Eyeota",
+        "source": "Eyeota",
+        "date": "Jul 30, 2026",
+        "url": "https://www.eyeota.com/blog/bringing-audience-intelligence-to-ctv-with-adobe-advertising-and-eyeota",
+        "summary": "A Eyeota e a Adobe Advertising combinaram IDs de CTV com privacidade, enriquecimento de audiência e ativação e mensuração entre canais, sem depender de cookies de terceiros."
+      },
+      {
+        "title": "IAB Tech Lab Releases AAMP 2.3, Bringing Enterprise-Grade Infrastructure and Privacy Diligence to Agentic Advertising",
+        "source": "IAB Tech Lab",
+        "date": "Jul 30, 2026",
+        "url": "https://www.prnewswire.com/news-releases/iab-tech-lab-releases-aamp-2-3--bringing-enterprise-grade-infrastructure-and-privacy-diligence-to-agentic-advertising-302838652.html",
+        "summary": "O IAB Tech Lab lançou o AAMP 2.3 com infraestrutura para implantação empresarial, gate de privacidade, guardrails de preço, integrações com Meta e Google Ad Manager e suporte a Agentic Audiences."
+      },
+      {
+        "title": "StackAdapt Introduces In-Platform Economic Impact Measurement to Help Marketers Prove Real-World ROI",
+        "source": "StackAdapt",
+        "date": "Jul 30, 2026",
+        "url": "https://www.morningstar.com/news/business-wire/20260730194026/stackadapt-introduces-in-platform-economic-impact-measurement-to-help-marketers-prove-real-world-roi",
+        "summary": "A StackAdapt lançou o Economic Impact Report, que conecta exposição a mídia a dados de transações da Affinity Solutions para ajudar anunciantes de viagens e destinos a medir impacto econômico e ROI no mundo real."
+      },
+      {
+        "title": "Experian & AUDIENCES Partner to Turn First-Party Customer Intelligence into Smarter Media Activation",
+        "source": "ExchangeWire",
+        "date": "Jul 30, 2026",
+        "url": "https://www.exchangewire.com/blog/2026/07/30/experian-audiences-partner-to-turn-first-party-customer-intelligence-into-smarter-media-activation/",
+        "summary": "Experian e AUDIENCES anunciaram ativação em nuvem que mantém os dados first-party no ambiente da marca e os conecta a search, social, mídia programática e CTV; a parceria tem validação inicial, não prova de escala."
+      },
+      {
+        "title": "ShowHeroes brings Whale TV homescreen ads to programmatic in 9 markets",
+        "source": "PPC Land",
+        "date": "Aug 1, 2026",
+        "url": "https://ppc.land/showheroes-brings-whale-tv-homescreen-ads-to-programmatic-in-9-markets/",
+        "summary": "A ShowHeroes tornou programaticamente disponível o inventário de anúncios da tela inicial da Whale TV em nove mercados, alcançando grupos da Europa e da América Latina e 47,5 milhões de televisores."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Platform properties roll out globally, plus a new social and video performance guide",
+        "source": "Google Search Central",
+        "date": "Jul 29, 2026",
+        "url": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
+        "summary": "O Google liberou globalmente as propriedades de plataforma no Search Console para medir como posts de Instagram, TikTok, X e YouTube aparecem no Search, Discover e News. O guia oficial mostra como analisar grupos de consultas, tendências, desempenho entre plataformas, formatos e otimizações de conteúdo."
+      },
+      {
+        "title": "NEW: Brand Affinity is Now Live in SparkToro Reports",
+        "source": "SparkToro",
+        "date": "Jul 28, 2026",
+        "url": "https://sparktoro.com/blog/new-brand-affinity-is-now-live-in-sparktoro-reports/",
+        "summary": "O SparkToro passou a incluir Brand Affinity nos relatórios de audiência, mostrando empresas, produtos e marcas familiares ou usadas pelo público. A atualização é prática para pesquisa de conteúdo, posicionamento, inteligência competitiva e preparação de pitches."
+      },
+      {
+        "title": "5 tips for building an effective brand presence on Threads",
+        "source": "Social Media Today",
+        "date": "Jul 27, 2026",
+        "url": "https://www.socialmediatoday.com/news/5-tips-for-building-an-effective-brand-presence-on-threads/824786/",
+        "summary": "O guia recomenda pesquisar tendências e formatos, mapear influenciadores, acompanhar discussões e usar o Insights do Threads para avaliar alcance, visualizações e interações. A aplicação é uma estratégia orgânica de presença e awareness, não compra de mídia."
+      },
+      {
+        "title": "7 tips for marketing on YouTube",
+        "source": "Social Media Today",
+        "date": "Jul 28, 2026",
+        "url": "https://www.socialmediatoday.com/news/7-tips-for-marketing-on-youtube/824789/",
+        "summary": "O artigo orienta marcas a pesquisar tendências no Google Trends, encontrar criadores, testar Shorts e avaliar YouTube Shopping antes de montar uma estratégia. Recomenda acompanhar o YouTube Studio e priorizar sinais ligados a resultado, não métricas de vaidade."
+      },
+      {
+        "title": "6 ways to build a brand on Pinterest",
+        "source": "Social Media Today",
+        "date": "Jul 28, 2026",
+        "url": "https://www.socialmediatoday.com/news/6-ways-to-build-a-brand-on-pinterest/824788/",
+        "summary": "A publicação recomenda usar Pinterest Trends e busca interna para mapear temas, formatos, palavras-chave e criadores, conectando a estratégia a momentos sazonais e descoberta de produtos. Também orienta analisar Insights e vendas; o foco é presença orgânica, embora mencione Promote a Pin como opção complementar."
+      },
+      {
+        "title": "Gap Inc. opens creator program to employees",
+        "source": "Retail Dive",
+        "date": "Jul 27, 2026",
+        "url": "https://www.retaildive.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826238/",
+        "summary": "A Gap abriu seu programa de creators para funcionários corporativos, de distribuição e de lojas, com regras de transparência e padrões de marca. O conteúdo pode cobrir newsletters, redes sociais, storytelling de produto e destaques de creators; a empresa diz que a iniciativa anterior alcançou quase 154 milhões de consumidores em cerca de 30 mil posts."
+      },
+      {
+        "title": "Kia takes a Reddit staple for a spin during WNBA All-Star Weekend",
+        "source": "Marketing Dive",
+        "date": "Jul 29, 2026",
+        "url": "https://www.marketingdive.com/news/kia-takes-a-reddit-staple-for-a-spin-during-wnba-all-star-weekend/826416/",
+        "summary": "A Kia adaptou o formato AMA do Reddit para um vídeo com a jogadora Chiney Ogwumike durante o All-Star da WNBA; perguntas pré-selecionadas eram respondidas enquanto ela jogava por uma doação. A ação gerou 61 mil visualizações e 354 upvotes em 72 horas e doou US$ 20 mil, um caso de conteúdo social com controle de marca e participação comunitária."
+      },
+      {
+        "title": "Google Page Indexing Report Delays Give Static Data",
+        "source": "Search Engine Roundtable",
+        "date": "Jul 28, 2026",
+        "url": "https://www.seroundtable.com/google-page-indexing-report-delays-static-data-41769.html",
+        "summary": "O relatório de indexação de páginas do Search Console vinha ficando sem pontos diários desde 11 de junho, agrupando dados em períodos semanais e atrasando diagnósticos. O problema importa para equipes de SEO e analytics porque mudanças recentes no site demoram mais para aparecer na leitura de cobertura."
+      },
+      {
+        "title": "Google Does Not Publish Search’s Precedence For Metadata During Conflicts",
+        "source": "Search Engine Roundtable",
+        "date": "Jul 29, 2026",
+        "url": "https://www.seroundtable.com/google-precedence-metadata-conflicts-41778.html",
+        "summary": "John Mueller disse que o Google não publica uma ordem fixa para reconciliar sinais de metadados conflitantes e que pesos e filtros mudam. A orientação prática é eliminar inconsistências entre redirects, canonicals e datas, em vez de tentar explorar uma precedência presumida."
+      },
+      {
+        "title": "Como marketers podem enfrentar o novo paradigma criativo com conteúdo conectado",
+        "source": "Marketing Dive",
+        "date": "Jul 27, 2026",
+        "url": "https://www.marketingdive.com/news/how-marketers-can-tackle-a-new-creative-paradigm-with-connected-content/826236/",
+        "summary": "Pesquisa da Omnicom Media Intelligence descreve conteúdo conectado como um modelo que integra sinais de consumidores, comércio, cultura e categoria numa criação contínua, em vez de adaptar mecanicamente uma peça central por canal. O estudo reporta que 80% consideram um anúncio ruim pior que nenhum; a recomendação é aproximar criação e mídia, auditar silos e adaptar conteúdo continuamente."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Algolia reforça Agent Studio com guardrails, controles de custo e descoberta conversacional para e-commerce",
+        "source": "CMSWire",
+        "date": "Jul 28, 2026",
+        "url": "https://www.cmswire.com/the-wire/algolia-brings-agentic-commerce-to-the-modern-storefront-giving-retailers-ai-shopping-experien-01/",
+        "summary": "A Algolia anunciou aprimoramentos do Agent Studio para agentic commerce: guardrails de entrada e saída, limites globais e por IP, teto de tokens, profundidade de conversa, domínios aprovados e sugestões de prompts e AI mode no desktop e mobile. Os recursos estão disponíveis para clientes, não são um teste."
+      },
+      {
+        "title": "Progress integra agentes de IA aos fluxos do CMS Sitefinity para acelerar produção de conteúdo",
+        "source": "Progress Software",
+        "date": "Jul 28, 2026",
+        "url": "https://investors.progress.com/news-releases/news-release-details/progress-software-introduces-ai-agents-built-cms-workflows",
+        "summary": "A Progress anunciou agentes nativos no Sitefinity Generative CMS para análise, otimização e revisão editorial, inteligência de página com conteúdo, metadados e SEO, aprendizado adaptativo, tratamento de conflitos e DX Assistant com perguntas naturais sobre conteúdo de baixo desempenho e gaps de SEO."
+      },
+      {
+        "title": "directree lança GEO Monitor para medir presença de marcas nas respostas de buscadores de IA",
+        "source": "MarTech Series",
+        "date": "Jul 29, 2026",
+        "url": "https://martechseries.com/predictive-ai/ai-platforms-machine-learning/directree-launches-geo-monitor-weekly-ai-visibility-tracking-for-software-vendors/",
+        "summary": "O GEO Monitor envia semanalmente perguntas de compradores sem citar a marca a ChatGPT, Perplexity, Gemini, Claude e Google AI Overviews e mostra menções, concorrentes e fontes citadas; o plano Pro inclui URLs de citação e gaps. O produto está disponível agora, com planos pagos e check gratuito."
+      },
+      {
+        "title": "Microsoft 365 Copilot adiciona aplicação de brand kit a criações visuais no Copilot Chat",
+        "source": "Microsoft Learn",
+        "date": "Jul 29, 2026",
+        "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+        "summary": "Nas notas de 29 de julho, o Copilot Chat passou a oferecer estilos e formatos visuais, como pôsteres, infográficos e imagens, e a aplicar automaticamente o brand kit da organização; a mesma seção registra geração de imagens MAI-Image-2-Efficient no PowerPoint. É um recurso de conteúdo de marca, não de plataforma de anúncios."
+      },
+      {
+        "title": "Gemini Drops de julho leva Gemini Spark ao mundo e amplia criação visual e integração com apps",
+        "source": "Google Blog",
+        "date": "Jul 31, 2026",
+        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/",
+        "summary": "O Google confirmou a expansão global do Gemini Spark, uso por voz no macOS para criar, editar, resumir e gerar visuais na janela ativa, novos modelos Flash, imagens personalizadas e integrações com Dropbox, Zillow Rentals e Viator. A disponibilidade varia: o Spark não está no EEE, Reino Unido, Suíça e Nigéria."
+      },
+      {
+        "title": "Solitics lança Saai, agente de IA para automação de jornadas de engajamento em bancos",
+        "source": "The Manila Times",
+        "date": "Jul 31, 2026",
+        "url": "https://www.manilatimes.net/2026/07/31/tmt-newswire/globenewswire/solitics-unveils-next-generation-agentic-ai-for-retail-banking-customer-engagement/2395998",
+        "summary": "A Solitics lançou Saai para equipes de marketing e produto de bancos: a partir de um objetivo em linguagem natural, gera jornada configurada com público, gatilhos, canais, mensagens e lógica para revisão e publicação, além de análise, otimização e lifecycle para onboarding, retenção e cross-sell. A promessa de integração completa em 45 dias é afirmação do fornecedor, não resultado independente."
+      },
+      {
+        "title": "Fushi Tech implementa Fynix AI Agent para atendimento omnichannel, agendamento e conversão de serviços",
+        "source": "The Manila Times",
+        "date": "Jul 31, 2026",
+        "url": "https://www.manilatimes.net/2026/07/31/tmt-newswire/pr-newswire/fushi-tech-rolls-out-ai-agents-for-overseas-merchants-transforming-customer-service-and-business-conversion/2396025",
+        "summary": "A Fushi anunciou o primeiro cliente internacional do Fynix, agente que unifica WhatsApp, Messenger, Instagram e TikTok, responde 24/7, encaminha casos complexos, consulta dados por filial, agenda serviços, envia lembretes e pede avaliações no Google; o painel acompanha consultas, conversão e lojas. É uma implementação inicial e primeiro cliente, portanto não prova escala."
+      }
+    ]
+  }
+}

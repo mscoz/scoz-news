@@ -1,0 +1,380 @@
+{
+  "id": "2026-06-29",
+  "label": "29 jun-5 jul/26",
+  "label_full": "29 de junho a 5 de julho de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta ativa taxas por localizacao para anuncios entregues no Reino Unido, Franca, Italia, Espanha, Austria e Turquia",
+        "source": "Meta for Business",
+        "date": "Jul 2026",
+        "url": "https://www.facebook.com/business/help/1238737454289085",
+        "summary": "A partir de 1 de julho, a Meta passa a aplicar taxas adicionais conforme o pais onde o anuncio e entregue, nao apenas conforme a sede do anunciante. Para contas que compram midia nesses mercados, a leitura pratica e revisar CPM, CPA e margem antes de escalar campanhas no terceiro trimestre."
+      },
+      {
+        "title": "Click-through muda de criterio e Meta separa engajamento em novo bucket de atribuicao",
+        "source": "Meta for Business",
+        "date": "Jul 2026",
+        "url": "https://www.facebook.com/business/news/click-attribution",
+        "summary": "A mudanca de atribuicao separa cliques em link de outros engajamentos que antecedem conversao. Dashboards que comparam resultados antes e depois da alteracao precisam de anotacao metodologica, porque parte da variacao pode ser classificacao de medicao, nao queda real de performance."
+      },
+      {
+        "title": "Threads Marketing API amplia suporte para app ads e moderacao de respostas em anuncios",
+        "source": "Meta Developers",
+        "date": "Jul 2026",
+        "url": "https://developers.facebook.com/blog/post/2026/03/25/marketing-api-latest-updates-for-ads-on-threads/",
+        "summary": "A API de Marketing do Threads ganhou suporte mais amplo para campanhas de app e ferramentas para visualizar, ocultar ou responder comentarios em anuncios. Para equipes com operacao por API, Threads fica menos experimental e mais gerenciavel dentro do fluxo de midia paga."
+      },
+      {
+        "title": "Meta reforca deprecacao de ASC e AAC antigos na Marketing API v25",
+        "source": "Meta Developers",
+        "date": "Jul 2026",
+        "url": "https://developers.facebook.com/blog/post/2026/02/13/asc-and-aac-deprecation-mapi-v25/",
+        "summary": "O movimento de deprecacao dos fluxos antigos de Advantage+ Shopping Campaigns e Advantage+ App Campaigns obriga ferramentas e scripts a migrarem para a nova estrutura de Advantage+. Quem ainda duplica ou atualiza campanhas por caminhos legados deve revisar integracoes antes que automacoes parem de funcionar."
+      },
+      {
+        "title": "Meta Marketing API v25 muda webhooks mTLS e exige revisao de integracoes",
+        "source": "Meta Developers",
+        "date": "Jul 2026",
+        "url": "https://developers.facebook.com/blog/post/2026/02/18/introducing-graph-api-v25-and-marketing-api-v25/",
+        "summary": "A versao v25 da API traz mudancas de certificado para webhooks mTLS e outras alteracoes de plataforma. O impacto e tecnico, mas afeta marketing: pipelines de lead, catalogo, evento e relatorio dependem dessas integracoes para que campanhas continuem otimizando com dados corretos."
+      },
+      {
+        "title": "Reels Trending Ads e criadores viram eixo central da oferta de anuncios da Meta",
+        "source": "Meta for Business",
+        "date": "Jul 2026",
+        "url": "https://www.facebook.com/business/news/meta-at-iab-newfronts-2025",
+        "summary": "A Meta continua empurrando anunciantes para inventario proximo de Reels, creators e momentos culturais. A implicacao para performance e clara: criativo nativo e parceria com creators deixam de ser apenas branding e passam a compor o plano de midia."
+      },
+      {
+        "title": "Meta conecta descoberta de produtos a IA e criadores no commerce discovery",
+        "source": "Meta for Business",
+        "date": "Jul 2026",
+        "url": "https://www.facebook.com/business/news/ai-and-creators-product-discovery",
+        "summary": "O pacote de descoberta de produtos com IA e criadores reforca a aposta da Meta em compra dentro do ambiente social. Para ecommerce, catalogo limpo, conteudo de creator e sinais de produto passam a trabalhar juntos na otimizacao de campanhas."
+      },
+      {
+        "title": "Meta cria ativações de futebol em Threads, Instagram, Facebook e WhatsApp",
+        "source": "Meta Newsroom",
+        "date": "Jun 2026",
+        "url": "https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/",
+        "summary": "As novas experiencias de futebol mostram como a Meta estrutura momentos culturais com recursos nativos de conversa, placar, comunidade e conteudo. Para marcas, a leitura e planejar criativos e placements em torno de picos culturais, nao apenas de calendario promocional."
+      },
+      {
+        "title": "Meta abre sistema de anuncios para conectores de IA como Claude e ChatGPT",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/meta-opens-its-ad-system-to-claude-and-chatgpt-with-new-ai-connectors/",
+        "summary": "A cobertura aponta conectores de IA capazes de operar campanhas, catalogos e sinais sem depender do caminho tradicional de credenciais de desenvolvedor. Se o rollout se consolidar, o trabalho de media buying se aproxima de um modelo assistido por agentes, com ganhos de velocidade e novos riscos de governanca."
+      },
+      {
+        "title": "Meta atualiza API para dar mais foco a targeting e placements orientados por IA",
+        "source": "Social Media Today",
+        "date": "Jun 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-marketing-api-ai-updates-targeting-placements/802412/",
+        "summary": "A atualizacao coloca mais peso em targeting, placements e testes automatizados pela IA da Meta. Para compradores de midia, o ponto e revisar se regras internas, nomenclatura e relatorios ainda refletem a logica real da plataforma."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google Ads API v24.2 libera segmentacao de Performance Max por rede e rotulos de conteudo sintetico",
+        "source": "PPC Land",
+        "date": "Jul 2026",
+        "url": "https://ppc.land/google-ads-api-v24-2-ai-transparency-and-pmax-segmentation-finally-arrive/",
+        "summary": "A versao 24.2 da API adiciona segmentacao por rede para Performance Max, rotulos de conteudo sintetico e novos recursos de aprovacao. Para analistas, a abertura de PMax por rede melhora diagnostico de onde a campanha entrega e reduz parte da caixa-preta operacional."
+      },
+      {
+        "title": "Google adia automigracao de Dynamic Search Ads para AI Max ate fevereiro de 2027",
+        "source": "Google Ads Developer Blog",
+        "date": "Jun 2026",
+        "url": "https://ads-developers.googleblog.com/2026/06/dynamic-search-ads-dsa-automigration.html",
+        "summary": "O prazo de migracao automatica de DSA para AI Max foi estendido. Isso da mais tempo para testar AI Max em Search, mas nao muda a direcao: contas com DSA precisam planejar transicao, revisar cobertura de paginas e comparar queries antes da migracao compulsoria."
+      },
+      {
+        "title": "Google confirma upgrade de Dynamic Search Ads para AI Max em Search",
+        "source": "Google Blog",
+        "date": "Jun 2026",
+        "url": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
+        "summary": "O AI Max sai da fase beta e passa a ser o caminho recomendado para substituir recursos legados de DSA. A mudanca reforca que campanhas de busca estao migrando de configuracao por termo e pagina para sistemas de IA que combinam targeting, criativo e landing pages."
+      },
+      {
+        "title": "Google Marketing Live 2026 concentra anuncios em IA, Asset Studio e comercio",
+        "source": "Google Blog",
+        "date": "Jun 2026",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-2026-collection/",
+        "summary": "A colecao oficial do Google Marketing Live 2026 consolida anuncios de IA para criativo, busca, comercio e mensuracao. Para times de marketing, o recado e alimentar os sistemas com assets, dados e objetivos claros, porque a plataforma esta absorvendo mais decisoes operacionais."
+      },
+      {
+        "title": "Google apresenta nova geracao de anuncios para a era de IA na Busca",
+        "source": "Google Blog",
+        "date": "Jun 2026",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+        "summary": "Os novos formatos de Search usam Gemini e incluem pilotos como Direct Offers. A mudanca desloca a busca paga de anuncios textuais isolados para experiencias mais assistivas, onde oferta, contexto e resposta gerada disputam a atencao do usuario."
+      },
+      {
+        "title": "AI Max ganha novos controles, Shopping, viagem e ferramenta AI Brief",
+        "source": "Google Blog",
+        "date": "Jun 2026",
+        "url": "https://blog.google/products/ads-commerce/ai-max-new-features/",
+        "summary": "Novos recursos de AI Max ampliam o uso em Shopping e formatos de viagem, alem de incluir o AI Brief para orientar mensagem e audiencia. O impacto pratico e que o anunciante ganha alguns controles de direcao, mas precisa escrever melhor o briefing estrategico para a IA."
+      },
+      {
+        "title": "Google recomenda tres estrategias de IA para marketing em 2026",
+        "source": "Google Blog",
+        "date": "Jun 2026",
+        "url": "https://blog.google/products/ads-commerce/ai-strategies-master-marketing-2026/",
+        "summary": "A orientacao oficial destaca uso de IA para criativo, dados e performance. O ponto operacional e simples: contas que tratam IA como botao isolado perdem eficiencia; contas que estruturam dados, criativos e objetivos juntos tendem a extrair mais das campanhas automatizadas."
+      },
+      {
+        "title": "Google reposiciona publicidade e comercio para experiencias mais fluidas e pessoais",
+        "source": "Google Blog",
+        "date": "Jun 2026",
+        "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/",
+        "summary": "A visao de 2026 do Google para ads e commerce enfatiza jornadas mais assistivas, pessoais e integradas. Para planejamento, isso pressiona marcas a conectar feed, conteudo, mensuracao e CRM em vez de operar Search, Shopping e video como silos separados."
+      },
+      {
+        "title": "Google Ads prepara ajuste de CPA minimo para campanhas com alvo muito baixo",
+        "source": "PPC Land",
+        "date": "Jul 2026",
+        "url": "https://ppc.land/google-ads-forces-some-cpas-to-double-starting-august-17/",
+        "summary": "A cobertura indica que campanhas com CPA alvo abaixo de certos limites podem sofrer ajuste a partir de agosto. Mesmo que a regra dependa de conta e mercado, a acao preventiva e revisar targets irreais, volume de conversao e elasticidade antes da mudanca afetar entrega."
+      },
+      {
+        "title": "Demand Gen passa a ter minimo diario de orcamento em Google Ads",
+        "source": "MediaPost",
+        "date": "Mar 2026",
+        "url": "https://www.mediapost.com/publications/article/413153/google-to-enforce-minimum-budget-for-demand-gen-bu.html",
+        "summary": "O minimo diario para Demand Gen pressiona contas muito pequenas a consolidar campanhas ou aumentar volume por estrutura. Para gestores, isso reduz testes fragmentados e favorece setups com verba suficiente para o algoritmo aprender."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "Microsoft Ads adiciona senioridade do LinkedIn ao targeting de Search e Audience",
+        "source": "Search Engine Land",
+        "date": "Jun 2026",
+        "url": "https://searchengineland.com/microsoft-ads-expands-linkedin-targeting-with-job-seniority-filters-480296",
+        "summary": "O Microsoft Advertising passou a permitir filtros por senioridade profissional do LinkedIn em campanhas de Search e Audience. Para B2B, isso abre segmentacao mais proxima de decisores sem depender apenas de keywords ou listas proprietarias."
+      },
+      {
+        "title": "Microsoft Advertising leva senioridade do LinkedIn para 29 mercados",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/microsoft-advertising-adds-job-seniority-to-linkedin-profile-targeting/",
+        "summary": "A cobertura detalha o uso de 10 niveis de senioridade em mercados selecionados. O impacto e tornar Microsoft Ads mais competitivo para lead gen B2B, principalmente quando Google Search esta caro e LinkedIn Ads tem CPC elevado."
+      },
+      {
+        "title": "Relatorio aponta LinkedIn com maior taxa de cliques invalidos por dolar de anuncio",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/linkedin-drives-the-most-bot-clicks-per-ad-dollar-new-report-finds/",
+        "summary": "A analise da Lunio citada pela cobertura aponta IVT elevado em LinkedIn e outros canais. Antes de cortar verba, a leitura correta e auditar qualidade de trafego, leads e conversoes por canal, separando volume aparente de valor real."
+      },
+      {
+        "title": "Ad tech enfrenta pressao de bots, esportes e IA na camada de confianca",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/ad-techs-trust-layer-fractures-as-sports-budgets-bots-and-ai-reshape-media/",
+        "summary": "O roundup mostra como certificacoes, trafego invalido, CTV politico e orcamentos esportivos estao mudando o risco de compra de midia. Para PPC, brand safety e qualidade de inventario precisam entrar no checklist de performance, nao ficar apenas com o time de branding."
+      },
+      {
+        "title": "Agentes de ad tech tentam ocupar a camada de compra de midia",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/agentic-ad-tech-tries-to-take-over-the-buying-layer-as-ai-search-budgets-surge/",
+        "summary": "A cobertura conecta agentes de IA, programmatic e crescimento de AI search. O efeito esperado e mais automacao entre briefing, compra e otimizacao; o risco e perder controle se objetivos, exclusoes e limites de marca nao estiverem bem definidos."
+      },
+      {
+        "title": "Previsao de gasto em anuncios de IA reduz expectativas para ChatGPT ads",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/ai-ad-spend-forecast-cuts-chatgpt-down-to-size/",
+        "summary": "Estimativas de mercado colocam limites para o tamanho inicial de anuncios em chatbots. Para planejadores, isso sugere testar o canal cedo, mas sem deslocar verba grande antes de haver inventario, mensuracao e controle comparaveis aos canais maduros."
+      },
+      {
+        "title": "Microsoft adiciona metas de cliente e automacao em Performance Max",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/microsoft-adds-customer-goals-and-automation-across-performance-max/",
+        "summary": "As novidades de PMax no Microsoft Advertising reforcam a competicao com Google em campanhas automatizadas multicanal. Para contas que ja usam Microsoft como canal incremental, vale testar PMax com metas claras e comparar qualidade de lead, nao apenas CPA."
+      },
+      {
+        "title": "Google Marketing Live 2026 consolida Ask Advisor, Universal Cart e AI Mode ads",
+        "source": "PPC Land",
+        "date": "Jun 2026",
+        "url": "https://ppc.land/google-marketing-live-2026-every-announcement-that-actually-matters/",
+        "summary": "A leitura de PPC Land destaca os anuncios mais relevantes do GML para compra de midia: novos formatos em AI Mode, Universal Cart e mensuracao com Meridian. O impacto e uma busca paga menos baseada em keyword isolada e mais conectada a jornada completa."
+      },
+      {
+        "title": "Google detalha erros comuns de anunciantes com Smart Bidding em 2026",
+        "source": "PPC Land",
+        "date": "Mar 2026",
+        "url": "https://ppc.land/googles-smart-bidding-secrets-what-advertisers-get-wrong-in-2026/",
+        "summary": "As recomendacoes sobre Smart Bidding reforcam problemas recorrentes: alvo apertado demais, pouca conversao, mudancas frequentes e sinal ruim. O trabalho do gestor vira menos mexer em lance e mais criar condicoes para o algoritmo aprender corretamente."
+      },
+      {
+        "title": "Safari continua removendo GCLID e pressiona tracking server-side",
+        "source": "PPC Land",
+        "date": "Apr 2026",
+        "url": "https://ppc.land/safari-is-quietly-killing-your-gclid-and-here-is-the-fix/",
+        "summary": "A remocao de identificadores pelo Safari afeta atribuicao e importacao de conversoes. A resposta pratica e revisar tagging, first-party tracking, enhanced conversions e rotinas server-side antes que perda de sinal pareca queda de campanha."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Cloudflare cria novas regras para controlar acesso de empresas de IA a conteudo",
+        "source": "MarTech",
+        "date": "Jul 2026",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "summary": "A cobertura de martech destaca politicas e ferramentas da Cloudflare para dar mais controle a publishers sobre acesso por IA. Para marketing de conteudo, isso afeta descoberta, citacao por modelos e acordos entre marcas, publishers e plataformas de IA."
+      },
+      {
+        "title": "Meta e Google crescem receita de anuncios com IA, mas o cenario competitivo segue incerto",
+        "source": "Marketing Dive",
+        "date": "Apr 2026",
+        "url": "https://www.marketingdive.com/news/meta-google-ad-revenues-soar-thanks-to-ai-but-big-picture-is-blurry/818932/",
+        "summary": "A analise de resultados mostra que IA ajuda as plataformas a vender e otimizar mais midia, mas tambem aumenta gasto de infraestrutura e risco competitivo. Para marcas, a implicacao e nao confundir crescimento das plataformas com garantia de eficiencia incremental para cada anunciante."
+      },
+      {
+        "title": "Tendencias de marketing digital em 2026 conectam IA, busca e social",
+        "source": "AZ Big Media",
+        "date": "Jun 2026",
+        "url": "https://azbigmedia.com/business/marketing/digital-marketing-trends-2026-how-ai-search-and-social-will-reshape-growth/",
+        "summary": "O panorama reforca a fragmentacao da descoberta entre mecanismos de busca, IA generativa, social e video. Planejamento de crescimento precisa tratar visibilidade como ecossistema, combinando SEO, midia paga, conteudo, dados first-party e comunidade."
+      },
+      {
+        "title": "Meta Pocket testa miniapps e jogos gerados por prompt como novo formato social",
+        "source": "TechCrunch",
+        "date": "Jul 2026",
+        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+        "summary": "O Pocket permite criar experiencias interativas por texto, segundo a cobertura. Mesmo que ainda experimental, aponta para uma social media mais interativa, onde conteudo de marca pode virar ferramenta, jogo ou utilitario simples em vez de post estatico."
+      },
+      {
+        "title": "Marketing com IA semanal destaca Salesforce, Pomelli e automacao de marca",
+        "source": "Marketing with AI",
+        "date": "Jul 2026",
+        "url": "https://getmarketingwithai.substack.com/p/marketing-with-ai-weekly-roundup-97e",
+        "summary": "O roundup mostra ferramentas de IA caminhando para construir identidade, site e ativos de marca com menos trabalho manual. Para equipes enxutas, a oportunidade e acelerar rascunhos; o risco e padronizar demais a comunicacao se nao houver direcao editorial forte."
+      },
+      {
+        "title": "Conair acelera uso de video ads gerados por IA em teste de producao",
+        "source": "Marketing Dive",
+        "date": "Jul 2026",
+        "url": "https://www.marketingdive.com/news/why-conair-is-moving-fast-to-adopt-ai-driven-video-ads/824270/",
+        "summary": "O caso mostra IA reduzindo tempo de producao em criativos de video, com revisao humana ainda necessaria. Para marcas, o ganho nao e substituir estrategia, mas aumentar volume de testes sem multiplicar custo de producao."
+      },
+      {
+        "title": "Cannes mostra OpenAI e Anthropic mais presentes nas conversas praticas de marca",
+        "source": "Ad Age",
+        "date": "Jun 2026",
+        "url": "https://adage.com/events-awards/cannes-lions/aa-ai-openai-anthropic-microsoft-brand-usage-2026/",
+        "summary": "A presenca de laboratorios de IA em Cannes indica que a tecnologia saiu do experimento e entrou na pauta de operacao de marketing. O foco passa de demonstracoes chamativas para workflows, governanca, brand safety e eficiencia de producao."
+      },
+      {
+        "title": "L Oreal reforca motor de conteudo generativo com novo acordo com OpenAI",
+        "source": "Digiday",
+        "date": "Jun 2026",
+        "url": "https://digiday.com/marketing/loreal-accelerates-generative-ai-content-engine-with-fresh-openai-deal/",
+        "summary": "O movimento da L Oreal sinaliza que grandes marcas estao internalizando motores de conteudo com IA. Para concorrentes menores, a resposta precisa ser processo: biblioteca de claims, guidelines, aprovacao rapida e mensuracao criativa."
+      },
+      {
+        "title": "Hootsuite consolida tendencias sociais de 2026 com IA e cultura em alta velocidade",
+        "source": "Hootsuite",
+        "date": "Jun 2026",
+        "url": "https://www.hootsuite.com/research/social-trends",
+        "summary": "O relatorio de tendencias sociais reforca que IA, cultura participativa e mudancas rapidas de plataforma moldam o calendario de conteudo. Times precisam de rituais de resposta mais curtos e criterios claros para decidir quando entrar ou ignorar uma trend."
+      },
+      {
+        "title": "DataReportal aponta escala de uso de IA como mudanca estrutural no comportamento digital",
+        "source": "DataReportal",
+        "date": "Oct 2025",
+        "url": "https://datareportal.com/reports/digital-2026-one-billion-people-using-ai",
+        "summary": "O relatorio sobre mais de um bilhao de usuarios de IA contextualiza por que busca, conteudo e atendimento estao mudando. Mesmo sendo uma referencia anterior, continua util para planejamento: IA virou ambiente de descoberta, nao apenas ferramenta interna."
+      }
+    ],
+    "ia": [
+      {
+        "title": "OpenAI descreve abordagem para publicidade e acesso mais amplo ao ChatGPT",
+        "source": "OpenAI",
+        "date": "Jun 2026",
+        "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
+        "summary": "A pagina oficial explica a direcao de testes de publicidade em planos gratuitos e Go, com enfase em acesso e controles. Para marketing, o ponto e acompanhar formatos, segmentacao e politicas antes de tratar ChatGPT como canal de midia previsivel."
+      },
+      {
+        "title": "MarketingProfs resume noticias de IA da semana de 3 de julho",
+        "source": "MarketingProfs",
+        "date": "Jul 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/55197/ai-update-july-3-2026-ai-news-and-views-from-the-past-week",
+        "summary": "O roundup semanal concentra mudancas recentes de IA relevantes para marketing, produto e conteudo. Serve como radar para separar lancamentos com impacto operacional de ruido de plataforma."
+      },
+      {
+        "title": "MarketingProfs aponta expansao da estrategia de anuncios da OpenAI",
+        "source": "MarketingProfs",
+        "date": "Jun 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/55130/ai-update-june-26-2026-ai-news-and-views-from-the-past-week",
+        "summary": "A edicao de 26 de junho destaca OpenAI expandindo a frente de publicidade em IA conversacional. Para anunciantes, a oportunidade e contexto de alta intencao; a incerteza e como mensurar influencia dentro de conversas."
+      },
+      {
+        "title": "Adobe expande Creative Agent no Firefly e apps da Creative Cloud",
+        "source": "Adobe News",
+        "date": "Jun 2026",
+        "url": "https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion",
+        "summary": "A Adobe amplia capacidades agenticas em Firefly, Photoshop, Premiere e Creative Cloud. Para marketing, isso aproxima criacao, edicao e variacao de assets em um fluxo unico, reduzindo atrito entre ideia, prototipo e versao final."
+      },
+      {
+        "title": "Meta Pocket leva geracao de experiencias interativas por prompt para o consumidor",
+        "source": "TechCrunch",
+        "date": "Jul 2026",
+        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+        "summary": "A geracao de mini jogos e experiencias por prompt mostra uma direcao importante para ferramentas criativas: usuarios nao pedem apenas texto ou imagem, mas objetos interativos. Isso pode mudar formatos de campanha, lead magnets e conteudo social."
+      },
+      {
+        "title": "Memeburn compara ferramentas de design com IA em 2026 por caso de uso",
+        "source": "Memeburn",
+        "date": "Jul 2026",
+        "url": "https://memeburn.com/best-ai-design-tools/",
+        "summary": "O comparativo de ferramentas de design com IA ajuda a escolher plataforma por uso: imagens, branding, UI, websites e marketing. Para times de performance, a decisao correta depende do gargalo real: volume de variacoes, qualidade visual ou consistencia de marca."
+      },
+      {
+        "title": "TechRadar atualiza lista ampla de ferramentas de IA para trabalho e criacao",
+        "source": "TechRadar",
+        "date": "Apr 2026",
+        "url": "https://www.techradar.com/best/best-ai-tools",
+        "summary": "A lista testada de ferramentas de IA cobre geracao de imagem, email, chatbots, automacao e produtividade. E util como referencia de stack, mas deve ser validada contra privacidade, custo e integracao antes de entrar em operacao de cliente."
+      },
+      {
+        "title": "OpenAI expande funcoes ligadas a formatos de anuncio e contratacoes de engenharia",
+        "source": "LetsDataScience",
+        "date": "Jul 2026",
+        "url": "https://letsdatascience.com/news/openai-expands-chatgpt-ad-formats-and-engineering-hiring-70c5d956",
+        "summary": "A cobertura de vagas e formatos sugere investimento continuado em infraestrutura de anuncios. Isso nao confirma produto final amplo, mas e um sinal para acompanhar criterios de inventario, creative policy e mensuracao em ChatGPT."
+      },
+      {
+        "title": "Google usa anuncio com Gemini no Dia da Independencia e reacende debate sobre IA em campanhas",
+        "source": "Techbuzz",
+        "date": "Jul 2026",
+        "url": "https://www.techbuzz.ai/articles/google-s-ai-powered-july-4th-ad-sparks-debate-on-history-and-tech",
+        "summary": "A reacao ao comercial mostra o risco cultural de usar IA em narrativas sensiveis. Para marcas, a licao e testar nao so qualidade visual, mas interpretacao historica, tom e adequacao antes de publicar criativos gerados por IA."
+      },
+      {
+        "title": "Coursera atualiza guia de ferramentas de IA para produtividade no trabalho",
+        "source": "Coursera",
+        "date": "Mar 2026",
+        "url": "https://www.coursera.org/articles/ai-tools-for-work",
+        "summary": "O guia organiza ferramentas de IA para produtividade, colaboracao e geracao de conteudo. Para marketing, funciona como checklist de capacitacao: cada ferramenta precisa ter caso de uso, politica de dados e criterio de qualidade, nao apenas adocao por novidade."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://blog.google/products/ads-commerce/google-marketing-live-2026-collection/",
+    "https://blog.google/products/ads-commerce/ai-max-new-features/",
+    "https://searchengineland.com/microsoft-ads-expands-linkedin-targeting-with-job-seniority-filters-480296",
+    "https://ppc.land/linkedin-drives-the-most-bot-clicks-per-ad-dollar-new-report-finds/",
+    "https://ppc.land/ad-techs-trust-layer-fractures-as-sports-budgets-bots-and-ai-reshape-media/",
+    "https://ppc.land/ai-ad-spend-forecast-cuts-chatgpt-down-to-size/",
+    "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+    "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
+    "https://www.marketingprofs.com/opinions/2026/55130/ai-update-june-26-2026-ai-news-and-views-from-the-past-week",
+    "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "https://www.techradar.com/best/best-ai-tools"
+  ]
+}

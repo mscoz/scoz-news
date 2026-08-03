@@ -1,0 +1,201 @@
+{
+  "id": "2026-04-27",
+  "label": "27 abr-3 mai/26",
+  "label_full": "27 de abril a 3 de maio de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Threads Ads expande globalmente para todas as contas a partir de 28 de abril",
+        "source": "Meta Newsroom / SocialBee",
+        "date": "Apr 28, 2026",
+        "url": "https://socialbee.com/blog/facebook-updates/",
+        "summary": "A Meta concluiu a expansão global dos anúncios no Threads para todas as contas de anunciantes a partir de 28 de abril de 2026. O placement, disponível desde o início do ano apenas em mercados selecionados, abre novo inventário com audiência crescente e menor concorrência de leilão em comparação a Instagram e Facebook. Campanhas de awareness e consideração são as mais favorecidas na fase inicial de adoção."
+      },
+      {
+        "title": "Meta lança AI Connectors para integrar ferramentas externas de IA ao Ads Manager",
+        "source": "Digiday / Meta Business",
+        "date": "Apr 29, 2026",
+        "url": "https://digiday.com/marketing/meta-opens-its-ad-ecosystem-to-third-party-ai-tools/",
+        "summary": "A Meta abriu seu ecossistema publicitário para ferramentas de IA de terceiros através dos Meta Ads AI Connectors, permitindo que plataformas externas de criação de criativos, otimização de copy e analise de performance se integrem diretamente ao Ads Manager via API. A iniciativa visa acelerar a automação de fluxos criativos sem forcar anunciantes a depender exclusivamente das ferramentas nativas da Meta. Integrações iniciais ja disponíveis com parceiros de geracao de imagem e video com IA."
+      },
+      {
+        "title": "Meta expande AI Business Assistant do Ads Manager para todos os anunciantes globalmente",
+        "source": "Swipe Insight / Meta Ads Updates",
+        "date": "Apr 30, 2026",
+        "url": "https://web.swipeinsight.app/topics/meta-ads",
+        "summary": "O assistente de IA do Meta Ads Manager saiu de beta e esta disponível para todos os anunciantes e agências ao redor do mundo. O recurso usa Llama para interpretar dados da conta e gerar recomendações contextualizadas diretamente na interface — respondendo perguntas sobre performance, sugerindo ajustes e explicando variacoes de métricas em linguagem natural. A qualidade das respostas depende do volume histórico de dados disponível na conta."
+      },
+      {
+        "title": "Mudancas de atribuicao de Link Clicks e Engage-Through Views em videos entram em vigor",
+        "source": "Almcorp / DOJO AI",
+        "date": "May 1, 2026",
+        "url": "https://almcorp.com/blog/meta-ad-attribution-changes-2026/",
+        "summary": "As alteracoes nas regras de atribuicao de Link Clicks e Engage-Through Views anunciadas pela Meta em abril passam a valer em maio de 2026. Conversoes atribuídas a visualizacoes de video de 1 dia tendem a cair nos relatórios, criando uma quebra de série histórica para campanhas de video. Anunciantes que comparam períodos anteriores precisam recalibrar benchmarks e revisar metas de CPA antes de tomar decisoes de corte orcamentário."
+      },
+      {
+        "title": "Meta reporta receita de US$ 42,3 bilhões no Q1 2026 — crescimento de 16% ano a ano",
+        "source": "Meta Investor Relations / Marketing Dive",
+        "date": "Apr 30, 2026",
+        "url": "https://www.marketingdive.com/news/meta-to-surpass-google-in-digital-ad-revenue-for-first-time-emarketer/817384/",
+        "summary": "A Meta divulgou resultados do primeiro trimestre de 2026 com receita de US$ 42,3 bilhoes, alta de 16% sobre Q1 2025. O crescimento foi impulsionado por aumento de preco médio por anúncio (+10%) e volume de impressoes (+7%), com Reels e Threads sendo os principais vetores de expansao de inventário. O eMarketer projeta que a Meta superará o Google em receita publicitária global pela primeira vez em 2026."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google Marketing Live 2026: AI Max, agentic commerce e nova era do YouTube Ads",
+        "source": "Google Blog / Search Engine Land",
+        "date": "May 1, 2026",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-2026-turn-your-data-into-decisions/",
+        "summary": "O Google Marketing Live 2026, realizado em 20 de maio, concentrou anúncios em AI Max for Search, agentic commerce e performance em YouTube. O AI Max introduz targeting sem keywords com entrega de ate 27% melhor que exact match, alem de brand exclusions e geo-intent targeting. O evento marcou o posicionamento do Google de migrar controle manual de campanha para camadas de IA, com Meridian Studio para modelagem de mix de mídia e experimentos GeoX."
+      },
+      {
+        "title": "Google Ads limita acesso a dados granulares a 37 meses a partir de junho de 2026",
+        "source": "PPC Land / PPC News Feed",
+        "date": "May 1, 2026",
+        "url": "https://ppc.land/google-ads-cuts-granular-data-access-to-37-months-starting-june-2026/",
+        "summary": "A partir de junho de 2026, o Google Ads limitará o acesso a dados granulares de campanha a uma janela de 37 meses, tornando dados anteriores inacessíveis via interface e APIs. Métricas de alcance e frequência terao janela ainda menor, de 36 meses. Anunciantes e agências com análises históricas longas devem exportar e arquivar dados antes da data de corte para nao perder séries históricas relevantes para modelagem de sazonalidade."
+      },
+      {
+        "title": "Google lanca AI Brief para guiar campanhas AI Max com instrucoes em linguagem natural",
+        "source": "PPC News Feed / Google Ads Help",
+        "date": "May 1, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-05/data-retention-update-google-ads/",
+        "summary": "O Google lancou o AI Brief, recurso que permite anunciantes guiar campanhas AI Max por meio de instrucoes em linguagem natural baseadas em Gemini. O briefing define tom de voz, temas a evitar, produtos prioritários e contexto de negócio, direcionando a IA na geracao automática de criativos e selecao de audiências. A ferramenta representa a camada mais explícita de controle editorial disponível em campanhas totalmente automatizadas do Google."
+      },
+      {
+        "title": "Performance Max exibe relatórios de asset performance separados por canal de entrega",
+        "source": "Swipe Insight / Google Ads Updates",
+        "date": "Apr 29, 2026",
+        "url": "https://web.swipeinsight.app/topics/google-ads",
+        "summary": "O Google expandiu os relatórios de performance de assets no Performance Max para detalhar resultados por canal — Search, YouTube, Display, Discover e Gmail — separadamente. Antes, os dados de criativos eram agregados sem distincao de onde cada asset tinha sido entregue. A mudanca permite identificar quais criativos performam melhor em cada superfície e otimizar o mix sem necessidade de separar campanhas por canal."
+      },
+      {
+        "title": "Google Ads adiciona disclaimers de texto obrigatórios para anunciantes de industrias reguladas",
+        "source": "PPC News Feed / Google Ads Updates",
+        "date": "May 1, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-05/data-retention-update-google-ads/",
+        "summary": "A partir de maio de 2026, o Google Ads passou a exigir disclaimers de texto em anúncios de setores regulados como saúde, financas e servicos jurídicos. Os avisos sao adicionados automaticamente pelo sistema quando o anúncio é classificado nessas categorias. Anunciantes dos setores afetados devem monitorar se os disclaimers gerados automaticamente estao alinhados com os requisitos regulatórios locais."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "OpenAI lanca ChatGPT Workspace Agents com integracao a Slack, Gmail e Salesforce",
+        "source": "Marketing Code / OpenAI",
+        "date": "Apr 28, 2026",
+        "url": "https://www.marketingcode.com/chatgpt-workspace-agents-contractor-industry-shift-may-2026/",
+        "summary": "O ChatGPT Workspace Agents, aberto a todos os planos Business e Enterprise a partir de 6 de maio, permite construir agentes autônomos que operam Slack, Salesforce, Gmail e calendários via linguagem natural. Para equipes de marketing, o impacto é a automacao de fluxos de reporte, briefings e atualizacao de CRM sem desenvolvimento técnico. O modelo de agente-as-coworker comeca a substituir tarefas de coordenacao operacional repetitivas."
+      },
+      {
+        "title": "Meta projeta superar Google em receita publicitária global em 2026 pela primeira vez",
+        "source": "eMarketer / Marketing Dive",
+        "date": "May 2, 2026",
+        "url": "https://www.marketingdive.com/news/meta-to-surpass-google-in-digital-ad-revenue-for-first-time-emarketer/817384/",
+        "summary": "O eMarketer projeta que a Meta gerará US$ 243,46 bilhoes em receita publicitária global em 2026, superando o Google com US$ 239,54 bilhoes — a primeira inversao desse ranking na história. O crescimento da Meta é atribuído à expansao de inventário no Reels, Threads e WhatsApp Business, enquanto o Google enfrenta pressao no Search com o avanco das interfaces de IA como destino de pesquisa. A mudanca tem implicacoes diretas para alocacao de budget entre plataformas."
+      },
+      {
+        "title": "Microsoft lanca AI Max para Bing Ads com targeting para compras mediadas por agentes de IA",
+        "source": "Search Engine Land / Accelerated Digital Media",
+        "date": "Apr 30, 2026",
+        "url": "https://www.accelerateddigitalmedia.com/insights/meta-and-googles-latest-advertising-updates-hint-theyre-mostly-ai-related/",
+        "summary": "A Microsoft lancou o AI Max para o Bing Ads com foco em capturar audiências em cenários onde agentes de IA realizam buscas em nome dos usuários. A ferramenta inclui targeting específico para fluxos de compra mediados por Copilot e outros assistentes, posicionando o Bing como canal de interceptacao no funil de decisao agêntico. Anunciantes com presenca no Microsoft Ads devem avaliar a adocao para nao perderem visibilidade nesse canal emergente."
+      },
+      {
+        "title": "Benchmarks PPC maio 2026: CPC médio no Google Search sobe para US$ 5,26",
+        "source": "PPC News Feed / Mean CEO Blog",
+        "date": "May 1, 2026",
+        "url": "https://blog.mean.ceo/google-ads-news-may-2026/",
+        "summary": "Os dados de benchmarks PPC de maio de 2026 indicam CPC médio de US$ 5,26 no Google Search, alta de cerca de 25% sobre os US$ 4,22 reportados no inicio do ano. O aumento reflete maior competicao no leilao com anunciantes menores habilitados por automacao. Setores como saúde, financas e jurídico lideram os CPCs mais altos, e páginas de destino fracas com ofertas genéricas estao sendo penalizadas com Quality Score mais baixo."
+      },
+      {
+        "title": "TikTok lidera crescimento em receita de ads com alta de 64% — US$ 38,9 bilhões em 2026",
+        "source": "Paid Search Association / affinco",
+        "date": "Apr 30, 2026",
+        "url": "https://paidsearch.org/top-ppc-news-parade-april-24-to-may-1-2026/",
+        "summary": "O TikTok registrou crescimento de 64% em receita publicitária em 2026, atingindo US$ 38,9 bilhões e consolidando-se como a plataforma de maior crescimento entre os grandes players de mídia paga. O shoppable social ads — formato que combina entretenimento com transação dentro do feed — já representa 34,7% de todas as conversões em social PPC. Para gestores de tráfego, o dado reforça a necessidade de incluir TikTok no mix de mídia, especialmente para marcas com público entre 18-35 anos."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Creator economy atinge US$ 44 bilhoes em 2026 com marcas migrando para parcerias continuas",
+        "source": "AdAge / Midia Market",
+        "date": "Apr 28, 2026",
+        "url": "https://adage.com/trends-predictions/business-forecast/aa-influencer-marketing-creator-economy-predictions-2026/",
+        "summary": "O mercado global de creator economy deve atingir US$ 44 bilhoes em 2026, crescimento de 19% sobre 2025. A principal mudanca estrutural é a migracao de campanhas pontuais para parcerias de longo prazo com redes de nano e micro-influenciadores. O modelo de influence commerce — onde o criador vende enquanto produz conteúdo — está se consolidando como alternativa ao post patrocinado isolado, com métricas de conversao direta substituindo alcance como KPI principal."
+      },
+      {
+        "title": "Brasil é o 2º maior mercado de influenciadores do mundo com 4,4 milhoes de criadores no Instagram",
+        "source": "E-Commerce Brasil / BrandLovrs",
+        "date": "Apr 29, 2026",
+        "url": "https://www.ecommercebrasil.com.br/noticias/creator-economy-brasil-e-2o-maior-mercado-de-influenciadores-do-mundo",
+        "summary": "O Brasil ocupa a segunda posicao global em volume de influenciadores, com 4,4 milhoes de criadores ativos no Instagram e participacao de 10,2% do total mundial. O mercado brasileiro se diferencia pelo alto grau de criatividade com operacoes mais enxutas que o modelo norte-americano. Para anunciantes, isso representa uma base ampla de parceiros acessíveis com custos por contato menores que em mídia tradicional, mas exige processos robustos de selecao e medicao de resultados."
+      },
+      {
+        "title": "HubSpot lanca Prospecting Agent e AEO no Spring 2026 Spotlight",
+        "source": "MarketingProfs / HubSpot",
+        "date": "May 1, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54640/ai-update-may-1-2026-ai-news-and-views-from-the-past-week",
+        "summary": "O HubSpot Spring 2026 Spotlight trouxe o Prospecting Agent, que automatiza pesquisa, qualificacao e sequências de outreach para vendas, e o HubSpot AEO (Answer Engine Optimization), focado em otimizar conteúdo para visibilidade em respostas de IA como ChatGPT e Gemini. A plataforma passa a tratar engines de IA como canal de aquisicao orgânica ao lado de SEO tradicional. A atualizacao é relevante para times que usam HubSpot como hub central de operacoes de marketing e vendas."
+      },
+      {
+        "title": "Instagram consolida shares por DM como principal sinal de ranqueamento em 2026",
+        "source": "Insightful Post / Social Skinny",
+        "date": "Apr 30, 2026",
+        "url": "https://www.insightfulpost.com/social-media-algorithm-changes-2026/",
+        "summary": "O algoritmo do Instagram em 2026 priorizou shares por mensagem direta como o sinal de engajamento mais valorizado para distribuicao de conteúdo, acima de curtidas e comentários. Conteúdo que as pessoas enviam para amigos pelo DM recebe boost desproporcional no alcance orgânico. Para marcas e criadores, a implicacao prática é criar conteúdo explicitamente shareável — util, engraçado, surpreendente ou muito específico para um nicho — em vez de otimizar apenas para interacoes públicas."
+      },
+      {
+        "title": "HubSpot lança Prospecting Agent e AEO no Spring 2026 Spotlight",
+        "source": "MarketingProfs / HubSpot",
+        "date": "May 1, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54640/ai-update-may-1-2026-ai-news-and-views-from-the-past-week",
+        "summary": "O HubSpot Spring 2026 Spotlight trouxe o Prospecting Agent, que automatiza pesquisa, qualificacao e sequências de outreach para vendas, e o HubSpot AEO (Answer Engine Optimization), focado em otimizar conteúdo para visibilidade em respostas de IA como ChatGPT e Gemini. A plataforma passa a tratar engines de IA como canal de aquisicao orgânica ao lado de SEO tradicional. A atualizacao é relevante para times que usam HubSpot como hub central de operacoes de marketing e vendas."
+      }
+    ],
+    "ia": [
+      {
+        "title": "OpenAI confirma anúncios no ChatGPT com rótulo sponsored e opcao sem anúncios para pagantes",
+        "source": "MarketingProfs / OpenAI",
+        "date": "May 1, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54640/ai-update-may-1-2026-ai-news-and-views-from-the-past-week",
+        "summary": "A OpenAI confirmou a introducao de anúncios no ChatGPT, rotulados como sponsored e integrados ao contexto da conversa. Planos pagos terao opcao de experiência sem anúncios. O movimento transforma o ChatGPT em canal de mídia paga com audiência de 300 milhoes de usuários semanais. Empresas como Adthena ja desenvolvem ferramentas para converter campanhas do Google Ads em formatos compatíveis com a plataforma, sinalizando que o canal deve escalar rapidamente."
+      },
+      {
+        "title": "Google Cloud lanca Gemini Enterprise Agent Platform com integracao nativa a Salesforce e ServiceNow",
+        "source": "MarketingProfs / Google Cloud",
+        "date": "Apr 24, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54640/ai-update-may-1-2026-ai-news-and-views-from-the-past-week",
+        "summary": "O Google Cloud lancou a Gemini Enterprise Agent Platform com conectores nativos para Salesforce, ServiceNow e Oracle, permitindo que agentes de IA executem tarefas cruzadas entre sistemas empresariais sem desenvolvimento customizado. Para equipes de marketing e vendas, a plataforma viabiliza automacao de fluxos complexos — atualizacao de CRM pós-campanha, geracao de relatórios e qualificacao de leads — com nível de supervisao humana configurável."
+      },
+      {
+        "title": "Plataformas de IA geram 1,1 bilhao de visitas de referência por mês — Gemini cresce 388% em 12 meses",
+        "source": "MarketingProfs / SparkToro",
+        "date": "Apr 28, 2026",
+        "url": "https://www.marketingprofs.com/opinions/2026/54640/ai-update-may-1-2026-ai-news-and-views-from-the-past-week",
+        "summary": "Plataformas de IA ja geram mais de 1,1 bilhao de visitas de referência por mês, com o Gemini crescendo 388% em 12 meses. O dado consolida a IA generativa como canal de descoberta real, nao apenas como ferramenta de produtividade. Marcas que nao investem em visibilidade em ambientes de IA estao ausentes de um canal onde uma parcela crescente dos consumidores inicia sua jornada de pesquisa."
+      },
+      {
+        "title": "Microsoft e OpenAI encerram exclusividade de cloud — modelos OpenAI chegam a AWS e Google Cloud",
+        "source": "TechRadar / Arahi AI",
+        "date": "May 1, 2026",
+        "url": "https://www.arahi.ai/ai-agent-news/ai-assistant-news-updates-2026",
+        "summary": "Microsoft e OpenAI reformularam o acordo de parceria, encerrando a exclusividade que restringia os modelos OpenAI ao Azure como único provedor de cloud. A OpenAI passa a distribuir seus modelos via Amazon AWS e Google Cloud. Para profissionais de marketing que constroem stacks sobre APIs de LLM, o fim da exclusividade tende a pressionar precos para baixo e ampliar opcoes de fornecedores, reduzindo o risco de dependência de um único provedor."
+      },
+      {
+        "title": "GPT-5.5 posicionado pela OpenAI como fundacao para economia movida por agentes autônomos",
+        "source": "TechRadar / OpenAI",
+        "date": "Apr 30, 2026",
+        "url": "https://www.techradar.com/ai-platforms-assistants/5-predictions-for-ai-in-2026-whats-next-for-chatgpt-gemini-and-you",
+        "summary": "A OpenAI está posicionando o GPT-5.5 como fundacao de uma economia orientada a agentes, onde modelos executam tarefas complexas de forma autônoma, nao apenas respondem perguntas. A mudanca de paradigma afeta diretamente como ferramentas de marketing sao construídas e como gestores de tráfego pago devem pensar automacao. O nível de intervencao humana necessário em campanhas tende a se concentrar em estratégia e revisao, nao em execucao rotineira."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://socialbee.com/blog/facebook-updates/",
+    "https://web.swipeinsight.app/topics/meta-ads",
+    "https://almcorp.com/blog/meta-ad-attribution-changes-2026/",
+    "https://web.swipeinsight.app/topics/google-ads",
+    "https://ppcnewsfeed.com/ppc-news/2026-05/data-retention-update-google-ads/",
+    "https://www.marketingdive.com/news/meta-to-surpass-google-in-digital-ad-revenue-for-first-time-emarketer/817384/",
+    "https://www.marketingprofs.com/opinions/2026/54640/ai-update-may-1-2026-ai-news-and-views-from-the-past-week"
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "id": "2026-03-30",
+  "label": "30 mar-5 abr/26",
+  "label_full": "30 de março a 5 de abril de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta migra contas de alto volume para faturamento mensal obrigatório a partir de 1 de abril",
+        "source": "Three Chapter Media",
+        "date": "Apr 01, 2026",
+        "url": "https://www.threechaptermedia.com/blog/meta-ads-billing-changes-2026",
+        "summary": "A Meta encerrou o uso de cartão de crédito para contas de maior volume de gasto e agências que gerenciam múltiplos clientes no Business Manager. A partir de 1 de abril, essas contas operam por faturamento mensal ou débito direto. O impacto prático inclui ciclos de cobrança diferentes e necessidade de renegociar fluxo de caixa com clientes que reembolsam gasto em ads."
+      },
+      {
+        "title": "Creative Fatigue e Similarity Score chegam ao Ads Manager como indicadores padrão de gestão de criativos",
+        "source": "AdMetrics",
+        "date": "Mar 31, 2026",
+        "url": "https://www.admetrics.io/en/post/meta-creative-fatigue-and-similarity-score-complete-guide",
+        "summary": "O Ads Manager passou a exibir dois novos indicadores: Creative Fatigue, que sinaliza quando uma audiência está sobreexposta a um anúncio, e Similarity Score, que detecta criativos visualmente ou conceitualmente semelhantes concorrendo entre si. O algoritmo Andromeda usa esses sinais para elevar CPMs de criativos considerados repetitivos. Com ciclos de fadiga encurtando para 2-3 semanas, a frequência de renovação de criativos precisa aumentar."
+      },
+      {
+        "title": "Image-to-Video: ferramenta da Meta converte até 20 imagens de produto em vídeos multi-cena automaticamente",
+        "source": "ALM Corp",
+        "date": "Apr 01, 2026",
+        "url": "https://almcorp.com/blog/meta-iab-newfronts-2026-reels-trending-ads-creator-discovery-threads-video-ads/",
+        "summary": "Anunciada nos NewFronts, a ferramenta Image-to-Video aceita até 20 fotos de produto e gera vídeos com múltiplas cenas otimizados para Facebook e Instagram. Testes internos reportam CTR 10% maior em comparação com criativos estáticos nas mesmas campanhas. Para anunciantes de e-commerce sem estrutura de produção de vídeo, é a rota de menor atrito para criar assets de vídeo."
+      },
+      {
+        "title": "UGC-style Ads com avatares de IA e voiceover translation: criativos estilo criador sem depender de criador real",
+        "source": "ALM Corp",
+        "date": "Apr 01, 2026",
+        "url": "https://almcorp.com/blog/meta-iab-newfronts-2026-reels-trending-ads-creator-discovery-threads-video-ads/",
+        "summary": "A Meta apresentou nos NewFronts ferramentas que geram vídeos estilo UGC usando avatares de IA com voiceover traduzido automaticamente para múltiplos idiomas. O objetivo é escalar produção de conteúdo parecido com o de criadores sem contratos individuais de influenciadores. A qualidade ainda precisa de avaliação prática, mas representa uma aposta direta no formato de criativo que melhor performa em Reels e Stories."
+      },
+      {
+        "title": "Reels Trending Ads: Meta permite associar campanhas a momentos culturais de alto engajamento em tempo real",
+        "source": "The Keyword / ALM Corp",
+        "date": "Apr 01, 2026",
+        "url": "https://almcorp.com/blog/meta-iab-newfronts-2026-reels-trending-ads-creator-discovery-threads-video-ads/",
+        "summary": "Os Reels Trending Ads posicionam anúncios ao lado de conteúdo que está ganhando tração orgânica em determinado momento. Marcas conseguem aparecer junto a tendências culturais específicas sem precisar criar conteúdo sobre elas. A abordagem é similar ao placement contextual do TikTok Pulse, mas aplicada ao ecossistema de Reels do Meta."
+      },
+      {
+        "title": "65% dos anunciantes da Meta já escalam campanhas via Advantage+, segundo dados internos do Q1 2026",
+        "source": "Meta / AdTaxi",
+        "date": "Apr 02, 2026",
+        "url": "https://www.adtaxi.com/blog/metas-ai-advertising-plans-what-to-expect-in-2026-and-how-to-prepare/",
+        "summary": "A Meta reportou que 65% dos anunciantes ativos já usam Advantage+ como principal mecanismo de escala de campanhas. O número reflete tanto a adoção voluntária quanto a migração forçada de formatos legados. Para equipes que ainda operam com segmentação e formatos manuais, o dado sinaliza que a plataforma está construindo produto cada vez mais voltado para o fluxo automatizado."
+      },
+      {
+        "title": "Conversão automática de catálogos de produto em vídeos de anúncio via Advantage+ Creative agora disponível",
+        "source": "Meta",
+        "date": "Apr 01, 2026",
+        "url": "https://about.fb.com/news/2026/01/2026-ai-drives-performance/",
+        "summary": "A Meta lançou a conversão automática de feeds de catálogo em vídeos de anúncio usando ferramentas Advantage+ Creative. O sistema transforma dados estruturados de produto, imagens e preços em clips prontos para Reels, Stories e Feed. Para lojistas com catálogos grandes e sem equipe de produção, elimina uma barreira prática de entrada em formatos de vídeo."
+      },
+      {
+        "title": "Meta testa campanhas totalmente automatizadas por IA em beta: anunciante informa URL e budget, IA executa o restante",
+        "source": "AdTaxi",
+        "date": "Apr 03, 2026",
+        "url": "https://www.adtaxi.com/blog/metas-ai-advertising-plans-what-to-expect-in-2026-and-how-to-prepare/",
+        "summary": "Em fase de beta, a Meta testa um modo de campanha onde o anunciante fornece apenas a URL do negócio e o orçamento. A IA cuida de criativo, segmentação, placement e lances. O rollout amplo está previsto para o segundo semestre de 2026. A direção sinaliza que o papel do gestor de mídia na plataforma migra de configuração para revisão e curadoria de resultados."
+      },
+      {
+        "title": "Andromeda encurta ciclos de fadiga criativa para 2-3 semanas, ante 4+ semanas com o algoritmo anterior",
+        "source": "Anchour / Zentric Digital",
+        "date": "Mar 31, 2026",
+        "url": "https://www.anchour.com/articles/meta-ads-2026-playbook/",
+        "summary": "O algoritmo Andromeda atinge a audiência com mais velocidade do que o sistema anterior, o que faz criativos entrarem em fadiga em cerca de 2-3 semanas contra 4+ semanas antes. A mudança exige que equipes de criação e mídia trabalhem em ciclos menores e com maior volume de variações ativas. Anunciantes que mantinham o mesmo criativo por mais de um mês já relatam queda de performance mais rápida do que esperavam."
+      },
+      {
+        "title": "Voiceover translation automático em vídeos de anúncio: Advantage+ Creative gera dublagens em múltiplos idiomas",
+        "source": "Meta",
+        "date": "Apr 02, 2026",
+        "url": "https://about.fb.com/news/2026/01/2026-ai-drives-performance/",
+        "summary": "A Meta expandiu o Advantage+ Creative com geração automática de voiceover em diferentes idiomas para vídeos de anúncio. O sistema adapta a narração sem exigir produção adicional. Para marcas que operam em múltiplos mercados, reduz o custo de adaptação de assets de vídeo para públicos de países com idiomas diferentes."
+      }
+    ],
+    "google": [
+      {
+        "title": "AI Max text guidelines disponíveis para todos os anunciantes de Search: controle de copy gerado por IA agora é padrão",
+        "source": "Google / ALM Corp",
+        "date": "Apr 01, 2026",
+        "url": "https://almcorp.com/blog/google-ads-updates-2026/",
+        "summary": "O recurso de text guidelines do AI Max saiu do beta e chegou para todos os anunciantes com campanhas de Search ativas. Com ele, é possível definir diretrizes de tom e exemplos aprovados para limitar como a IA adapta copy em cada busca. Para marcas que enfrentavam inconsistências na geração automática de anúncios, é o primeiro mecanismo nativo de controle de voz no nível de campanha."
+      },
+      {
+        "title": "Shopping Ads no AI Mode do Google: listings patrocinados surgem abaixo das recomendações de produto geradas por IA",
+        "source": "groas.ai",
+        "date": "Apr 02, 2026",
+        "url": "https://groas.ai/post/google-ads-updates-april-2026----everything-that-changed-this-month",
+        "summary": "O Google começou a exibir listings patrocinados de varejistas abaixo das recomendações orgânicas de produto no AI Mode, identificados como Sponsored. O formato captura o momento em que o usuário está avaliando opções, concentrando intenção de compra. O rollout ainda é limitado, mas sinaliza que o inventário de ads no AI Mode está se expandindo além do formato de texto."
+      },
+      {
+        "title": "Customer Match via Google Ads API bloqueado para tokens inativos a partir de 1 de abril: migração para Data Manager API",
+        "source": "ALM Corp",
+        "date": "Apr 01, 2026",
+        "url": "https://almcorp.com/blog/google-ads-updates-2026/",
+        "summary": "A partir de 1 de abril, o Google bloqueou uploads de Customer Match via Google Ads API para tokens sem uso nos últimos 180 dias. A operação migra para o Data Manager API, com correspondência confidencial e criptografia aprimorada. Times de CRM e operações de first-party data precisam validar a integração antes que campanhas dependentes de Customer Match sejam impactadas."
+      },
+      {
+        "title": "Smart Bidding Exploration: +18% em categorias únicas de query convertendo e +19% em conversões totais, em média",
+        "source": "Google / Yellow Jack Media",
+        "date": "Mar 31, 2026",
+        "url": "https://www.yellowjackmedia.com/google-ads-in-2026-how-ai-max-performance-max-and-smart-bidding-are-changing-ppc-forever/",
+        "summary": "O Google divulgou dados de performance do Smart Bidding Exploration mostrando que campanhas com o recurso ativo registram em média 18% mais categorias únicas de queries gerando conversão e 19% mais conversões totais. O recurso expande o alcance além das keywords cadastradas de forma controlada pelo modelo de lances. Para contas em fase de escala, é um ponto de alavancagem sem exigir reestruturação de campanha."
+      },
+      {
+        "title": "Performance Max: canal-level reporting disponível diretamente na interface do Google Ads pela primeira vez",
+        "source": "ALM Corp",
+        "date": "Apr 02, 2026",
+        "url": "https://almcorp.com/blog/google-ads-performance-max-2026-strategy-guide/",
+        "summary": "O PMax passou a exibir relatórios por canal individual diretamente na interface do Google Ads, sem necessidade de acesso via API. Gestores agora veem como o budget está sendo alocado entre Search, YouTube, Display, Gmail, Discover e Maps a partir do painel padrão. Era uma das demandas mais frequentes de times que precisavam justificar distribuição de gasto para clientes."
+      },
+      {
+        "title": "Google atualiza diretrizes de conteúdo para categorias sensíveis: penalidades mais severas para farmacêuticos, crypto e apostas",
+        "source": "groas.ai",
+        "date": "Apr 01, 2026",
+        "url": "https://groas.ai/post/google-ads-updates-april-2026----everything-that-changed-this-month",
+        "summary": "O Google revisou as políticas de conteúdo para anúncios em três categorias de alto risco: farmacêuticos, criptomoedas e apostas. Violações nas novas diretrizes resultam em suspensões mais rápidas, sem o período de notificação estendido que existia anteriormente. Anunciantes nessas categorias precisam revisar criativos e páginas de destino antes de qualquer novo rollout de campanha."
+      },
+      {
+        "title": "BatchJobService: limite de requisição na Google Ads API sobe de 10,48 MB para 41,94 MB",
+        "source": "groas.ai",
+        "date": "Mar 31, 2026",
+        "url": "https://groas.ai/post/google-ads-updates-april-2026----everything-that-changed-this-month",
+        "summary": "A Google Ads API aumentou o limite de tamanho de requisição no BatchJobService de cerca de 10,48 MB para 41,94 MB. A mudança permite enviar assets maiores, como imagens em alta resolução, em menos chamadas de API. Para times com integrações de upload em lote, reduz o número de requisições necessárias e simplifica pipelines de criação de assets em escala."
+      },
+      {
+        "title": "Lookalike user lists no Demand Gen: verificação de unicidade obrigatória a partir de 30 de abril para evitar duplicatas",
+        "source": "groas.ai",
+        "date": "Apr 02, 2026",
+        "url": "https://groas.ai/post/google-ads-updates-april-2026----everything-that-changed-this-month",
+        "summary": "A partir de 30 de abril, o Google passará a aplicar verificação de unicidade em Lookalike user lists dentro de campanhas Demand Gen, impedindo a criação de listas duplicadas. Times que gerenciam audiências programaticamente via API precisam revisar a lógica de criação de listas antes do prazo para evitar erros que bloqueiem uploads."
+      },
+      {
+        "title": "Offline Conversion Import ganha infraestrutura aprimorada em abril: menos erros de atribuição expirada e importações mais flexíveis",
+        "source": "groas.ai",
+        "date": "Apr 01, 2026",
+        "url": "https://groas.ai/post/google-ads-updates-april-2026----everything-that-changed-this-month",
+        "summary": "O Google implementou melhorias de infraestrutura no Offline Conversion Import ao longo de abril, reduzindo erros por eventos expirados e flexibilizando a importação entre contas. As mudanças não quebram integrações existentes, mas times que dependem de conversão offline para Smart Bidding devem monitorar a qualidade dos dados nas próximas semanas para confirmar estabilidade."
+      },
+      {
+        "title": "Google Ads Editor 2.12: novos recursos para Performance Max, Demand Gen e orçamentos totais",
+        "source": "ALM Corp",
+        "date": "Apr 03, 2026",
+        "url": "https://almcorp.com/blog/google-ads-editor-2-12-new-features-2026/",
+        "summary": "A versão 2.12 do Google Ads Editor trouxe capacidades expandidas para edição offline de Performance Max e Demand Gen, além de suporte para orçamentos totais de campanha. Para times que gerenciam contas grandes e dependem do Editor para operações em lote, a atualização reduz a necessidade de alternar para a interface web em fluxos específicos de PMax."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "Fospha State of Retail Commerce 2026: Reddit Ads registra ROAS de 82% para varejistas no mix de mídia",
+        "source": "Fospha",
+        "date": "Apr 03, 2026",
+        "url": "https://almcorp.com/blog/digital-marketing-news-march-21-31-2026/",
+        "summary": "O relatório State of Retail Commerce 2026 da Fospha apontou que varejistas que incluem Reddit Ads no mix de mídia registram até 82% de ROAS atribuído ao canal. O dado reposiciona o Reddit como plataforma de performance para e-commerce, não apenas de awareness. Com CPMs historicamente mais baixos que Meta e Google, o canal representa uma entrada competitiva para testes de diversificação de budget."
+      },
+      {
+        "title": "\"Strategy is the new keyword\": performance em paid search agora é determinada por qualidade de sinal, não por listas de palavras-chave",
+        "source": "Search Engine Land",
+        "date": "Apr 02, 2026",
+        "url": "https://searchengineland.com/strategy-new-keyword-paid-search-performance-473398",
+        "summary": "Análise do Search Engine Land argumenta que o diferencial de performance em campanhas de busca paga deixou de ser a seleção de keywords e passou a ser a qualidade dos sinais que alimentam o algoritmo: dados de conversão, criativos, estrutura de páginas de destino e estratégia de lances. O AI Max lê a página de destino para determinar quais queries casar e quais headlines gerar, tornando a qualidade do site um fator direto de competitividade no leilão."
+      },
+      {
+        "title": "ChatGPT Ads self-serve entra em vigor em abril: plataforma deixa de ser invite-only com pilotos internacionais simultâneos",
+        "source": "Search Engine Land",
+        "date": "Apr 01, 2026",
+        "url": "https://searchengineland.com/chatgpt-hits-100-million-in-ad-revenue-and-is-opening-self-serve-access-in-april-472797",
+        "summary": "O acesso self-serve para anúncios no ChatGPT abriu em abril, encerrando o modelo exclusivo de piloto com agências selecionadas. Anunciantes de qualquer porte podem agora criar campanhas diretamente na plataforma. Em paralelo, a OpenAI iniciou pilotos internacionais no Canadá, Austrália e Nova Zelândia. Para quem quer testar o canal antes da concorrência escalar, a janela de entrada com menos disputa está se abrindo."
+      },
+      {
+        "title": "Final URL Expansion no AI Max: IA seleciona a landing page mais relevante por query sem necessidade de override manual",
+        "source": "Search Engine Land",
+        "date": "Apr 02, 2026",
+        "url": "https://searchengineland.com/strategy-new-keyword-paid-search-performance-473398",
+        "summary": "Com o AI Max ativado, o Google usa o Final URL Expansion para redirecionar usuários para a página que o modelo considera mais relevante para cada query específica, mesmo que seja diferente da URL configurada no anúncio. Para anunciantes com sites bem estruturados, o recurso pode aumentar relevância e conversão. Para sites com problemas de arquitetura, pode direcionar tráfego para páginas subótimas."
+      },
+      {
+        "title": "Microsoft Shopping testa mais posições pagas nas SERPs do Bing: sightings de expansão de inventário premium",
+        "source": "Search Engine Land",
+        "date": "Apr 02, 2026",
+        "url": "https://searchengineland.com/chatgpt-hits-100-million-in-ad-revenue-and-is-opening-self-serve-access-in-april-472797",
+        "summary": "Profissionais de PPC reportaram avistamentos de posições pagas adicionais nos resultados de Shopping do Bing durante a primeira semana de abril. O rollout não foi confirmado oficialmente pela Microsoft. Se expandido, mais slots pagos podem pressionar a visibilidade orgânica de produtos nos resultados de Shopping do Bing e elevar CPCs no canal."
+      },
+      {
+        "title": "Vibe marketing como metodologia de PPC: IA conversacional substitui parte do planejamento e análise manual de campanhas",
+        "source": "blog.mean.ceo",
+        "date": "Apr 01, 2026",
+        "url": "https://blog.mean.ceo/vibemarketing-news-april-2026/",
+        "summary": "O conceito de vibe marketing, que envolve uso de IA conversacional para briefing, análise iterativa e decisão de ajuste de campanhas, está sendo adotado por equipes de PPC como metodologia de trabalho. Em vez de navegar por relatórios, gestores descrevem o problema em linguagem natural e pedem à IA para identificar padrões e sugerir ajustes. A prática reduz tempo de análise, mas transfere à IA parte da responsabilidade de interpretação dos dados."
+      },
+      {
+        "title": "Performance Max com relatórios de canal na interface: fim da dependência de API para entender distribuição de spend",
+        "source": "ALM Corp",
+        "date": "Apr 02, 2026",
+        "url": "https://almcorp.com/blog/google-ads-performance-max-2026-strategy-guide/",
+        "summary": "O Google liberou os relatórios de canal do Performance Max diretamente na interface, sem exigir acesso via API v23. Gestores veem agora quanto do budget está sendo consumido por Search, YouTube, Display, Gmail, Discover e Maps a partir do painel padrão. A visibilidade maior facilita decisões de ajuste de canal e conversas de transparência com clientes sobre alocação de gasto."
+      },
+      {
+        "title": "Customer Match migrado para Data Manager API: operações de first-party data em anúncios entram em nova fase de governança",
+        "source": "ALM Corp",
+        "date": "Apr 01, 2026",
+        "url": "https://almcorp.com/blog/google-ads-updates-2026/",
+        "summary": "Com o bloqueio do Customer Match via Google Ads API para tokens inativos, times de paid media que dependem de listas de CRM para segmentação precisam confirmar que a integração foi migrada para o Data Manager API. O novo sistema adiciona correspondência confidencial e controles de privacidade mais robustos. A mudança sinaliza a direção do Google para tornar o uso de dados first-party em anúncios mais auditável."
+      },
+      {
+        "title": "LinkedIn Thought Leader Ads se expande para vídeo: conteúdo de executivos pode ser impulsionado em formato de vídeo",
+        "source": "blog.mean.ceo",
+        "date": "Apr 03, 2026",
+        "url": "https://blog.mean.ceo/adtech-news-april-2026/",
+        "summary": "O LinkedIn expandiu o formato Thought Leader Ads para vídeo, permitindo que empresas impulsionem publicações em vídeo de executivos e colaboradores como anúncios. O formato preserva o contexto de conteúdo orgânico de pessoa física, que tende a ter maior taxa de engajamento do que anúncios de marca. Para estratégias B2B, abre uma alternativa com menor fricção de atenção do que formatos tradicionais da plataforma."
+      },
+      {
+        "title": "TikTok Shop Ads integra checkout nativo com Shopify para campanhas de Q2: compra concluída dentro do app sem redirecionamento",
+        "source": "blog.mean.ceo",
+        "date": "Apr 02, 2026",
+        "url": "https://blog.mean.ceo/adtech-news-april-2026/",
+        "summary": "O TikTok ampliou a integração de TikTok Shop Ads com Shopify para campanhas do segundo trimestre, permitindo que o usuário conclua a compra dentro do app sem ser redirecionado para uma página externa. Para anunciantes de e-commerce com lojas no Shopify, o checkout nativo elimina um passo de atrito que historicamente reduz taxas de conversão em mobile."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Google March 2026 Core Update ainda em rollout na primeira semana de abril: sites aguardam estabilização de rankings",
+        "source": "Search Engine Land",
+        "date": "Apr 02, 2026",
+        "url": "https://searchengineland.com/google-march-2026-core-update-rolling-out-now-472759",
+        "summary": "O Core Update de março, iniciado em 27 de março, estava em rollout ativo na primeira semana de abril. Dados preliminares confirmam quedas de 60-80% de tráfego para sites de conteúdo gerado por IA sem curadoria. O Google recomenda aguardar a estabilização completa antes de tomar decisões de ajuste de conteúdo, já que oscilações durante o rollout não representam o resultado final."
+      },
+      {
+        "title": "Google corrige bug de dados de impressão no Search Console: erro retroativo desde maio de 2025 em processo de correção",
+        "source": "Optimixed",
+        "date": "Apr 04, 2026",
+        "url": "https://www.optimixed.com/seo-daily-news-recaps-for-friday-april-4-2026/",
+        "summary": "O Google confirmou que um problema de logging causou dados incorretos de impressão no Search Console desde 13 de maio de 2025. A correção foi aplicada e os dados históricos estão sendo atualizados progressivamente. Times de SEO que usam dados de impressão para benchmark de performance e análise de CTR precisam reavaliar relatórios gerados com base nesses dados."
+      },
+      {
+        "title": "AI Mode do Google ultrapassa 75 milhões de usuários diários: pressão sobre tráfego informacional orgânico aumenta",
+        "source": "Google / ALM Corp",
+        "date": "Apr 02, 2026",
+        "url": "https://almcorp.com/blog/digital-marketing-news-march-21-31-2026/",
+        "summary": "Com o AI Mode disponível em mais de 200 países e mais de 75 milhões de usuários diários, a quantidade de buscas que retornam respostas diretas sem clique cresce de forma consistente. Análise da Seer Interactive com 3.119 queries mostrou queda de 61% no CTR orgânico em SERPs com AI Overviews. Para equipes de conteúdo, o foco precisa mudar de ranqueamento de posição para presença como fonte citada pela IA."
+      },
+      {
+        "title": "Criadores de conteúdo como canal de performance: micro-influenciadores de nicho ganham espaço no planejamento de mídia",
+        "source": "blog.mean.ceo",
+        "date": "Apr 01, 2026",
+        "url": "https://blog.mean.ceo/social-media-marketing-news-april-2026/",
+        "summary": "Marcas estão realocando parte do budget de awareness para partnerships com micro-criadores que têm audiências de nicho com alta taxa de engajamento. O movimento é reforçado pelo lançamento de ferramentas de matching automatizado de criadores pela YouTube e outras plataformas. Para equipes de marketing, a tendência exige integrar planejamento de influenciadores ao calendário de mídia paga, não tratá-los como ações isoladas."
+      },
+      {
+        "title": "GEO (Generative Engine Optimization) recebe alocação formal de budget em empresas de médio e grande porte",
+        "source": "Search Engine Land",
+        "date": "Apr 03, 2026",
+        "url": "https://searchengineland.com/7-focus-areas-as-ai-transforms-search-and-the-customer-journey-in-2026-464068",
+        "summary": "Times de marketing estão incluindo GEO como linha de budget separada em Q1 2026, dedicada a otimizar presença em respostas de IAs generativas. A disciplina engloba estrutura semântica de conteúdo, citabilidade e dados estruturados voltados para como LLMs interpretam e referenciam páginas. Uma marca reportou aumento de 10% no budget de conteúdo alocado exclusivamente para GEO no trimestre."
+      },
+      {
+        "title": "Barbell content strategy surge como resposta ao AI Mode: conteúdo ultra-curto para descoberta e conteúdo profundo para decisão",
+        "source": "Marketer Milk",
+        "date": "Apr 01, 2026",
+        "url": "https://www.marketermilk.com/blog/seo-trends-2026",
+        "summary": "Estrategistas de conteúdo estão adotando a barbell content strategy: produzir intencionalmente conteúdos muito curtos para descoberta por algoritmos sociais e IA, e conteúdos muito profundos para usuários em fase de decisão. O meio do funil, alvo histórico do SEO tradicional, está sendo drenado pelo AI Mode e pelas respostas diretas dos modelos de linguagem."
+      },
+      {
+        "title": "Social commerce em expansão: checkout nativo no TikTok Shop e Instagram encurtam jornada de compra para zero redirecionamentos",
+        "source": "blog.mean.ceo",
+        "date": "Apr 02, 2026",
+        "url": "https://blog.mean.ceo/social-media-marketing-news-april-2026/",
+        "summary": "O avanço do checkout nativo no TikTok Shop e no Instagram está eliminando o redirecionamento para páginas externas no processo de compra. Para marcas de e-commerce, a jornada encurtada reduz atrito e tende a melhorar taxas de conversão em mobile. A integração com Shopify em ambas as plataformas facilita a operação para quem já usa o sistema como back-end de loja."
+      },
+      {
+        "title": "Dados first-party como pré-requisito de operação: mudanças no Google e Meta aceleram migração de stacks de dados",
+        "source": "ALM Corp",
+        "date": "Apr 01, 2026",
+        "url": "https://almcorp.com/blog/google-ads-updates-2026/",
+        "summary": "O bloqueio do Customer Match via API legada do Google e os avanços das políticas de privacidade da Meta estão acelerando a migração de times de marketing para stacks de dados first-party. Empresas que ainda dependem de integrações legadas ou de dados de terceiros para segmentação enfrentam janela de adaptação cada vez menor antes que as restrições impactem a performance de campanhas."
+      },
+      {
+        "title": "Email marketing mantém liderança de ROI em 2026: IA deve gerir 75% das operações de estratégia até dezembro",
+        "source": "Hostinger",
+        "date": "Apr 02, 2026",
+        "url": "https://www.hostinger.com/tutorials/email-marketing-statistics",
+        "summary": "Email marketing segue como o canal de maior retorno sobre investimento em marketing digital em 2026, com abertura predominantemente via mobile. Pesquisa com especialistas aponta que 89% esperam que IA assuma 75% das operações de estratégia de email ao longo do ano, cobrindo segmentação, timing e personalização. O papel do profissional migra para curadoria de dados e validação de estratégia."
+      },
+      {
+        "title": "Vídeo como fator de engajamento em SEO 2026: tempo de visualização ganha peso em rankings orgânicos",
+        "source": "Webestrategica",
+        "date": "Apr 03, 2026",
+        "url": "https://webestrategica.com.br/cinco-tendencias-de-marketing-para-2026-mudam-foco-de-seo-e-conteudo/",
+        "summary": "Dados de rastreamento de SERPs mostram que páginas com vídeos incorporados registram tempo de permanência mais alto, o que tem correlação crescente com rankings em 2026. A tendência empurra equipes de conteúdo a integrar produção de vídeo curto ao workflow de SEO, não como ação separada. Ferramentas de geração de vídeo por IA, como Veo e Sora, estão reduzindo a barreira de custo para essa integração."
+      }
+    ],
+    "ia": [
+      {
+        "title": "OpenAI lança GPT-5.4 com janela de contexto de 1 milhão de tokens e execução autônoma de workflows multi-etapas",
+        "source": "Crescendo AI",
+        "date": "Apr 01, 2026",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "O GPT-5.4 expande o contexto para 1 milhão de tokens e introduz a capacidade de executar de forma autônoma workflows que atravessam múltiplos sistemas de software sem intervenção humana. A OpenAI posiciona o modelo como salto de IA como ferramenta de chat para IA como coworker digital autônomo. Para equipes de marketing que gerenciam operações em múltiplas plataformas, o avanço representa um vetor novo de automação de tarefas recorrentes."
+      },
+      {
+        "title": "Google lança Gemma 4: família de modelos open-weight com licença Apache 2.0 para uso comercial sem restrições",
+        "source": "Crescendo AI",
+        "date": "Apr 02, 2026",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "O Google lançou o Gemma 4, família de modelos de IA de código aberto licenciados sob Apache 2.0, disponíveis para uso comercial. O lançamento reforça a aposta do Google na corrida de modelos open-source, onde Meta e Mistral já competem. Para times de marketing que constroem ferramentas internas com LLMs, ampliam as opções de base sem custo de licença."
+      },
+      {
+        "title": "Google Veo 3.1 Lite: geração de vídeo por texto ou imagem com custo inferior a 50% do Veo 3.1 Fast",
+        "source": "Crescendo AI",
+        "date": "Apr 02, 2026",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "O Veo 3.1 Lite é uma versão mais econômica do modelo de geração de vídeo do Google, com custo menor que a metade da camada Veo 3.1 Fast e sem redução significativa de velocidade. Para equipes de criação de conteúdo que testam vídeo gerado por IA em escala, o custo menor permite rodar mais variações antes de escolher o criativo de veiculação."
+      },
+      {
+        "title": "Bluesky lança Attie: assistente de IA baseado no Claude da Anthropic para criação de feeds sociais e apps por linguagem natural",
+        "source": "Crescendo AI",
+        "date": "Apr 01, 2026",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "O Bluesky lançou o Attie, um assistente de IA standalone baseado no Claude da Anthropic, que permite criar feeds sociais personalizados e eventualmente desenvolver aplicativos dentro do ecossistema Bluesky usando linguagem natural. Para a Anthropic, é mais uma integração comercial de destaque. O produto sinaliza que curadoria de feed por IA vai se tornar mais comum nas plataformas descentralizadas."
+      },
+      {
+        "title": "BrandCommsAI lança plataforma agêntica nos EUA para gestão de campanhas com agentes de IA autônomos",
+        "source": "MarTech",
+        "date": "Apr 02, 2026",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "summary": "A BrandCommsAI lançou nos EUA uma plataforma de gestão de publicidade baseada em agentes de IA autônomos que executam tarefas de marketing e tomam decisões estratégicas de campanhas sem configuração manual contínua. O produto mira agências e equipes de marketing de médio porte que buscam automação além dos recursos nativos das plataformas de ads."
+      },
+      {
+        "title": "Contentsquare lança agente de IA para rastrear jornadas de usuários em sites, apps e interfaces de chat com LLMs",
+        "source": "MarTech",
+        "date": "Apr 03, 2026",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "summary": "O agente de IA lançado pela Contentsquare monitora interações de usuários em websites, aplicativos mobile e interfaces conversacionais baseadas em LLMs, consolidando os dados em uma visão unificada de jornada. Para equipes de growth e UX que precisam entender como usuários navegam entre canais tradicionais e interfaces de IA, amplia a cobertura de analytics sem integrações separadas."
+      },
+      {
+        "title": "L'Oréal incorpora IA generativa ao workflow diário de marketing para adaptação de assets em múltiplos mercados",
+        "source": "MarTech",
+        "date": "Apr 01, 2026",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "summary": "A L'Oréal formalizou o uso de IA generativa como parte da operação diária de marketing, utilizando as ferramentas para adaptar assets visuais e vídeos para diferentes plataformas sociais e mercados regionais. A empresa é uma das primeiras grandes marcas de consumo a tornar isso público como prática de produção regular. O modelo envolve IA para variação de formato e localização de conteúdo, com curadoria humana na aprovação final."
+      },
+      {
+        "title": "Meta reporta CTR 10% maior em vídeos gerados por IA a partir de imagem única nos testes beta dos NewFronts",
+        "source": "ALM Corp",
+        "date": "Apr 01, 2026",
+        "url": "https://almcorp.com/blog/meta-iab-newfronts-2026-reels-trending-ads-creator-discovery-threads-video-ads/",
+        "summary": "Durante os NewFronts, a Meta reportou que testes beta de anúncios em vídeo gerados a partir de uma única imagem resultaram em 10% a mais de CTR do que criativos estáticos nas mesmas campanhas. O modelo usa IA para animar a imagem, adicionar movimento de câmera e sincronizar com fundo sonoro. É a versão mais acessível da aposta da empresa em video ads automatizados para o segundo semestre."
+      },
+      {
+        "title": "IA generativa para publicidade: ad spend impulsionado por IA projetado para crescer 63% e atingir US$57 bilhões em 2026",
+        "source": "Mobile Marketing Reads",
+        "date": "Apr 02, 2026",
+        "url": "https://mobilemarketingreads.com/newfronts-2026/",
+        "summary": "Projeções de mercado apontam crescimento de 63% no ad spend gerenciado por IA ao longo de 2026, chegando a US$57 bilhões globalmente. O número engloba otimização automatizada de lances, geração de criativos por modelos generativos e alocação de budget por sistemas preditivos. Com Meta, Google e OpenAI acelerando a automação das suas plataformas, a IA passou a ser a camada padrão de operação de mídia paga."
+      },
+      {
+        "title": "Marketing automation: 89% dos especialistas projetam IA gerindo 75% das operações de estratégia de email até o final de 2026",
+        "source": "Hostinger",
+        "date": "Apr 02, 2026",
+        "url": "https://www.hostinger.com/tutorials/email-marketing-statistics",
+        "summary": "Pesquisa com especialistas de marketing digital indica que 89% acreditam que a IA vai assumir 75% das operações de estratégia de email marketing ao longo de 2026, abrangendo segmentação de listas, timing de envio e personalização de conteúdo. O dado reflete tanto a maturidade das ferramentas atuais quanto a pressão por escalabilidade em canais de alta frequência como email."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://almcorp.com/blog/meta-iab-newfronts-2026-reels-trending-ads-creator-discovery-threads-video-ads/",
+    "https://www.adtaxi.com/blog/metas-ai-advertising-plans-what-to-expect-in-2026-and-how-to-prepare/",
+    "https://about.fb.com/news/2026/01/2026-ai-drives-performance/",
+    "https://almcorp.com/blog/google-ads-updates-2026/",
+    "https://groas.ai/post/google-ads-updates-april-2026----everything-that-changed-this-month",
+    "https://almcorp.com/blog/google-ads-editor-2-12-new-features-2026/",
+    "https://searchengineland.com/strategy-new-keyword-paid-search-performance-473398",
+    "https://searchengineland.com/chatgpt-hits-100-million-in-ad-revenue-and-is-opening-self-serve-access-in-april-472797",
+    "https://almcorp.com/blog/google-ads-performance-max-2026-strategy-guide/",
+    "https://blog.mean.ceo/adtech-news-april-2026/",
+    "https://searchengineland.com/google-march-2026-core-update-rolling-out-now-472759",
+    "https://almcorp.com/blog/digital-marketing-news-march-21-31-2026/",
+    "https://searchengineland.com/7-focus-areas-as-ai-transforms-search-and-the-customer-journey-in-2026-464068",
+    "https://blog.mean.ceo/social-media-marketing-news-april-2026/",
+    "https://www.hostinger.com/tutorials/email-marketing-statistics",
+    "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+    "https://mobilemarketingreads.com/newfronts-2026/"
+  ]
+}
