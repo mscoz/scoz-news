@@ -299,6 +299,29 @@ class ArchiveContractTests(unittest.TestCase):
 
             self.assertEqual(len(archive.to_render_data()["weeks"]), 1)
 
+    def test_allows_portuguese_title_with_unrecognized_verb_and_product_name(
+        self,
+    ) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            write_week(
+                root,
+                "2026-07-27",
+                {
+                    "google": [
+                        item(
+                            "Microsoft integra Copilot em campanhas Performance Max",
+                            "Jul 27, 2026",
+                            "https://example.com/performance-max",
+                        )
+                    ]
+                },
+            )
+
+            archive = load_archive(root, as_of=date(2026, 8, 3))
+
+            self.assertEqual(len(archive.to_render_data()["weeks"]), 1)
+
     def test_rejects_an_edition_without_the_canonical_categories(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)

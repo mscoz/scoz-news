@@ -39,9 +39,8 @@ PORTUGUESE_EDITORIAL_PATTERN = re.compile(
 
 def _looks_like_untranslated_english(text: object) -> bool:
     value = str(text)
-    return bool(ENGLISH_EDITORIAL_PATTERN.search(value)) and not bool(
-        PORTUGUESE_EDITORIAL_PATTERN.search(value)
-    )
+    english_evidence = len(ENGLISH_EDITORIAL_PATTERN.findall(value))
+    return english_evidence >= 2 and not PORTUGUESE_EDITORIAL_PATTERN.search(value)
 
 
 class ArchiveError(ValueError):
