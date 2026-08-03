@@ -706,6 +706,17 @@ def _build_html(data, logo_b64):
     const nextTheme = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
     applyTheme(nextTheme, true);
   }});
+  const WEEK_STORAGE_KEY = 'scoz-news-week';
+  const TAB_STORAGE_KEY = 'scoz-news-tab';
+  function readStoredPreference(key) {{
+    try {{ return localStorage.getItem(key); }}
+    catch (_) {{ return null; }}
+  }}
+  function storePreference(key, value) {{
+    try {{ localStorage.setItem(key, value); }}
+    catch (_) {{}}
+  }}
+
 
   const allItems = [...document.querySelectorAll('.acc-item')];
   const tabPanels = [...document.querySelectorAll('.tab-panel')];
@@ -742,6 +753,7 @@ def _build_html(data, logo_b64):
     }});
     document.querySelectorAll('.bg-cat').forEach(bg => bg.classList.remove('active'));
     document.getElementById('bg-' + btn.dataset.tab)?.classList.add('active');
+    storePreference(TAB_STORAGE_KEY, btn.dataset.tab);
     applyFilters();
     if (focus) btn.focus();
   }}
@@ -784,22 +796,30 @@ def _build_html(data, logo_b64):
   }}
 
   const allWeeks = [...new Set(allItems.map(item => normalizeWeekId(item.dataset.week)))].sort().reverse();
-  let currentWeek = allWeeks[0] || 'all';
+  const storedWeek = readStoredPreference(WEEK_STORAGE_KEY);
+  let currentWeek = storedWeek === 'all' || allWeeks.includes(storedWeek)
+    ? storedWeek
+    : allWeeks[0] || 'all';
   const pillsEl = document.getElementById('week-pills');
-  allWeeks.slice(0, 4).forEach((week, index) => {{
+  allWeeks.slice(0, 4).forEach(week => {{
+    const active = week === currentWeek;
     const pill = document.createElement('button');
-    pill.type = 'button'; pill.className = 'week-pill' + (index === 0 ? ' active' : '');
+    pill.type = 'button'; pill.className = 'week-pill' + (active ? ' active' : '');
     pill.dataset.week = week; pill.textContent = fmtWeek(week);
-    pill.setAttribute('aria-pressed', String(index === 0));
+    pill.setAttribute('aria-pressed', String(active));
     pillsEl.appendChild(pill);
   }});
   const archivePill = document.createElement('button');
-  archivePill.type = 'button'; archivePill.className = 'week-pill'; archivePill.dataset.week = 'all';
-  archivePill.textContent = 'Arquivo'; archivePill.setAttribute('aria-pressed', 'false');
+  archivePill.type = 'button'; archivePill.className = 'week-pill' + (currentWeek === 'all' ? ' active' : ''); archivePill.dataset.week = 'all';
+  archivePill.textContent = 'Arquivo'; archivePill.setAttribute('aria-pressed', String(currentWeek === 'all'));
   pillsEl.appendChild(archivePill);
   pillsEl.addEventListener('click', e => {{
     const pill = e.target.closest('.week-pill');
-    if (pill) {{ currentWeek = pill.dataset.week; applyFilters(); }}
+    if (pill) {{
+      currentWeek = pill.dataset.week;
+      storePreference(WEEK_STORAGE_KEY, currentWeek);
+      applyFilters();
+    }}
   }});
 
   const panelWeekDividers = new Map();
@@ -929,7 +949,11 @@ def _build_html(data, logo_b64):
     if (!isOpen) setItemOpen(item, true);
   }});
 
-  applyFilters();
+  const storedTab = readStoredPreference(TAB_STORAGE_KEY);
+  const initialTab = tabButtons.find(button => button.dataset.tab === storedTab)
+    || tabButtons.find(button => button.classList.contains('active'));
+  if (initialTab) activateTab(initialTab);
+  else applyFilters();
 </script>
 </body>
 </html>"""
