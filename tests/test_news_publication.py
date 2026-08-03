@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from build_html import publish_outputs
+from news_publication import Publication, prepare_publication
 
 
 class PublicationContractTests(unittest.TestCase):
@@ -17,12 +17,10 @@ class PublicationContractTests(unittest.TestCase):
             cache_path.write_text('{"previous": true}', encoding="utf-8")
 
             with self.assertRaises(TypeError):
-                publish_outputs(
-                    html_path,
-                    "publicação nova",
-                    cache_path,
-                    {"invalid": object()},
-                )
+                Publication(
+                    html="publicação nova",
+                    cache={"invalid": object()},
+                ).write(html_path, cache_path)
 
             self.assertEqual(
                 html_path.read_text(encoding="utf-8"),
@@ -47,14 +45,15 @@ class PublicationContractTests(unittest.TestCase):
                     raise OSError("falha simulada")
                 real_replace(source, destination)
 
-            with patch("build_html.os.replace", side_effect=fail_html_commit):
+            with patch(
+                "news_publication.os.replace",
+                side_effect=fail_html_commit,
+            ):
                 with self.assertRaisesRegex(OSError, "falha simulada"):
-                    publish_outputs(
-                        html_path,
-                        "publicação nova",
-                        cache_path,
-                        {"previous": False},
-                    )
+                    Publication(
+                        html="publicação nova",
+                        cache={"previous": False},
+                    ).write(html_path, cache_path)
 
             self.assertEqual(
                 html_path.read_text(encoding="utf-8"),
@@ -64,6 +63,39 @@ class PublicationContractTests(unittest.TestCase):
                 cache_path.read_text(encoding="utf-8"),
                 '{"previous": true}',
             )
+
+    def test_prepares_html_and_cache_from_the_same_validated_data(self) -> None:
+        data = {
+            "weeks": [
+                {
+                    "id": "2026-07-27",
+                    "items": {
+                        "meta": [
+                            {
+                                "title": "Notícia única",
+                                "source": "Fonte",
+                                "date": "Jul 27, 2026",
+                                "url": "https://example.com/noticia",
+                                "summary": "Resumo verificado.",
+                            }
+                        ],
+                        "google": [],
+                        "ppc": [],
+                        "mkt": [],
+                        "ia": [],
+                    },
+                }
+            ]
+        }
+
+        publication = prepare_publication(data)
+
+        self.assertIn("Notícia única", publication.html)
+        self.assertEqual(publication.cache["last_week_id"], "2026-07-27")
+        self.assertEqual(
+            publication.cache["seen_urls"],
+            ["https://example.com/noticia"],
+        )
 
 
 if __name__ == "__main__":
