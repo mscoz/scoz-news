@@ -235,6 +235,70 @@ class ArchiveContractTests(unittest.TestCase):
             ):
                 load_archive(root, as_of=date(2026, 8, 3))
 
+
+    def test_rejects_an_untranslated_english_title(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            write_week(
+                root,
+                "2026-07-27",
+                {
+                    "google": [
+                        item(
+                            "Google Ads Editor Version 2.13 Is Now Available",
+                            "Jul 27, 2026",
+                            "https://example.com/editor",
+                        )
+                    ]
+                },
+            )
+
+            with self.assertRaisesRegex(
+                ArchiveError,
+                "2026-07-27.json: title must be written in PT-BR",
+            ):
+                load_archive(root, as_of=date(2026, 8, 3))
+
+    def test_rejects_an_untranslated_english_summary(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            news = item(
+                "Google apresenta nova versão do editor",
+                "Jul 27, 2026",
+                "https://example.com/editor",
+            )
+            news["summary"] = (
+                "Google launches a new editor version with campaign improvements."
+            )
+            write_week(root, "2026-07-27", {"google": [news]})
+
+            with self.assertRaisesRegex(
+                ArchiveError,
+                "2026-07-27.json: summary must be written in PT-BR",
+            ):
+                load_archive(root, as_of=date(2026, 8, 3))
+
+    def test_allows_product_names_inside_portuguese_editorial_text(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            write_week(
+                root,
+                "2026-07-27",
+                {
+                    "google": [
+                        item(
+                            "Google Ads testa carrossel de insights automatizados",
+                            "Jul 27, 2026",
+                            "https://example.com/insights",
+                        )
+                    ]
+                },
+            )
+
+            archive = load_archive(root, as_of=date(2026, 8, 3))
+
+            self.assertEqual(len(archive.to_render_data()["weeks"]), 1)
+
     def test_rejects_an_edition_without_the_canonical_categories(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)

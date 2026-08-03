@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from copy import deepcopy
 import json
+import re
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -13,6 +14,34 @@ CATEGORY_IDS = ("meta", "google", "ppc", "mkt", "ia")
 MIN_ITEMS_PER_CATEGORY = 10
 REQUIRED_ITEM_FIELDS = {"title", "source", "date", "url", "summary"}
 SCHEMA_CUTOVER_ID = "2026-07-27"
+
+ENGLISH_EDITORIAL_PATTERN = re.compile(
+    r"\b(?:"
+    r"adds|ads|and|available|brand|brings|building|carousel|content|conversions|"
+    r"data|descriptions|effective|for|from|gets|global|guide|help|image|impact|"
+    r"insights|intelligence|introduces|launches|marketing|measurement|new|now|"
+    r"only|partner|performance|poor|powering|prepare|privacy|program|quality|"
+    r"release|reports|risk|rollout|smarter|study|the|tips|to|transforms|upgrade|"
+    r"using|version|ways|with"
+    r")\b",
+    re.IGNORECASE,
+)
+PORTUGUESE_EDITORIAL_PATTERN = re.compile(
+    r"\b(?:"
+    r"adiciona|amplia|anuncia|apresenta|atualiza|aos|começa|como|com|cria|das|"
+    r"destaca|dos|enfrenta|entre|estudo|ganha|inclui|lança|leva|mais|marca|"
+    r"mede|melhora|nova|novo|para|permite|podem|publica|remove|resumo|sem|"
+    r"testa|traz|usa|versão|verificado"
+    r")\b|[áàâãéêíóôõúç]",
+    re.IGNORECASE,
+)
+
+
+def _looks_like_untranslated_english(text: object) -> bool:
+    value = str(text)
+    return bool(ENGLISH_EDITORIAL_PATTERN.search(value)) and not bool(
+        PORTUGUESE_EDITORIAL_PATTERN.search(value)
+    )
 
 
 class ArchiveError(ValueError):
@@ -109,6 +138,11 @@ def load_archive(data_dir: str | Path, *, as_of: date | None = None) -> Archive:
                         raise ArchiveError(
                             f"{path.name}: news item fields must be {expected_fields}"
                         )
+                    for field in ("title", "summary"):
+                        if _looks_like_untranslated_english(item[field]):
+                            raise ArchiveError(
+                                f"{path.name}: {field} must be written in PT-BR"
+                            )
                     published_label = item.get("date", "")
                     try:
                         published = datetime.strptime(
