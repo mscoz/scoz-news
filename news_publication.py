@@ -62,6 +62,8 @@ SVG_SPRITE = """<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
   <symbol id="icon-xmark" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12"/></symbol>
   <symbol id="icon-chevron" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m19 9-7 7-7-7"/></symbol>
   <symbol id="icon-expand-all" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m4.5 5.25 7.5 7.5 7.5-7.5m-15 6 7.5 7.5 7.5-7.5"/></symbol>
+  <symbol id="icon-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.75"/><path stroke-linecap="round" d="M12 2.25v2.1M12 19.65v2.1M21.75 12h-2.1M4.35 12h-2.1M18.895 5.105l-1.485 1.485M6.59 17.41l-1.485 1.485M18.895 18.895l-1.485-1.485M6.59 6.59 5.105 5.105"/></symbol>
+  <symbol id="icon-moon" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M20.1 15.45A8.4 8.4 0 0 1 8.55 3.9 8.4 8.4 0 1 0 20.1 15.45Z"/></symbol>
 </svg>"""
 
 def svg_icon(name, width, height, stroke_width="1.5"):
@@ -75,6 +77,8 @@ SVG_SEARCH   = svg_icon("search", 16, 16)
 SVG_XMARK    = svg_icon("xmark", 14, 14, "2")
 SVG_CHEVRON  = svg_icon("chevron", 14, 14, "2")
 SVG_EXP_ALL  = svg_icon("expand-all", 11, 11)
+SVG_SUN      = svg_icon("sun", 16, 16)
+SVG_MOON     = svg_icon("moon", 16, 16)
 
 # ── Category config ───────────────────────────────────────────────────────────
 CATEGORIES = [
@@ -287,23 +291,84 @@ def _build_html(data, logo_b64):
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..125,300..900&display=swap" rel="stylesheet">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%2322181C'/%3E%3Ctext x='12' y='47' font-family='Arial Black,sans-serif' font-size='42' fill='%23A5F1E6'%3ES%3C/text%3E%3C/svg%3E">
+  <script>
+    (() => {{
+      try {{
+        const storedTheme = localStorage.getItem('scoz-news-theme');
+        if (storedTheme === 'light') document.documentElement.dataset.theme = 'light';
+      }} catch (_) {{}}
+    }})();
+  </script>
   <style>
     :root {{
-      --bg:     #22181C;
-      --text:   #F4F4F9;
-      --muted:  #B7B0AC;
+      color-scheme: dark;
+      --bg: #22181C;
+      --text: #F4F4F9;
+      --muted: #B7B0AC;
+      --text-soft: rgba(255,255,255,.72);
+      --text-faint: rgba(255,255,255,.55);
+      --summary: #C6C0BD;
       --accent: #A5F1E6;
+      --accent-rgb: 165,241,230;
+      --success: #4ADE80;
+      --success-rgb: 74,222,128;
+      --error: #FFB4AB;
+      --error-rgb: 255,180,171;
       --border: rgba(255,255,255,.08);
+      --border-strong: rgba(255,255,255,.16);
+      --header-bg: rgba(24,20,22,.34);
+      --tabs-bg: rgba(29,24,27,.40);
+      --week-bg: rgba(37,30,34,.46);
+      --control-bg: rgba(255,255,255,.05);
+      --control-hover: rgba(255,255,255,.08);
+      --control-border: rgba(255,255,255,.18);
+      --search-bg: rgba(42,34,38,.82);
+      --category-layer-opacity: 1;
+      --logo-filter: none;
       --radius: 10px;
       --surface: #2A2226;
       --surface-strong: #33292E;
       --focus: #D7FFF9;
       --ease-out: cubic-bezier(.22,1,.36,1);
-      --meta:   #0EA5E9;
+      --meta: #0EA5E9;
       --google: #34A853;
-      --ppc:    #8B5CF6;
-      --mkt:    #F59E0B;
-      --ia:     #EA4335;
+      --ppc: #8B5CF6;
+      --mkt: #F59E0B;
+      --ia: #EA4335;
+    }}
+    :root[data-theme="light"] {{
+      color-scheme: light;
+      --bg: #F2EDE3;
+      --text: #2B2521;
+      --muted: #6D645C;
+      --text-soft: rgba(43,37,33,.76);
+      --text-faint: rgba(43,37,33,.62);
+      --summary: #554D47;
+      --accent: #17685E;
+      --accent-rgb: 23,104,94;
+      --success: #18794E;
+      --success-rgb: 24,121,78;
+      --error: #B42318;
+      --error-rgb: 180,35,24;
+      --border: rgba(66,54,45,.12);
+      --border-strong: rgba(66,54,45,.22);
+      --header-bg: rgba(247,242,233,.88);
+      --tabs-bg: rgba(242,236,225,.86);
+      --week-bg: rgba(235,227,214,.88);
+      --control-bg: rgba(255,252,246,.72);
+      --control-hover: rgba(255,252,246,.96);
+      --control-border: rgba(66,54,45,.20);
+      --search-bg: rgba(255,252,246,.90);
+      --category-layer-opacity: .18;
+      --logo-filter: brightness(0) saturate(100%);
+      --surface: #F8F4EC;
+      --surface-strong: #FFFDF8;
+      --focus: #0D6C61;
+      --meta: #087BA9;
+      --google: #26753D;
+      --ppc: #6E49BE;
+      --mkt: #925800;
+      --ia: #B63A32;
     }}
     *,*::before,*::after {{ box-sizing:border-box; margin:0; padding:0 }}
     .sr-only {{
@@ -323,6 +388,7 @@ def _build_html(data, logo_b64):
       font-family: 'Archivo', -apple-system, BlinkMacSystemFont, sans-serif;
       min-height: 100vh;
       line-height: 1.6;
+      transition: background-color .24s var(--ease-out), color .24s var(--ease-out);
     }}
     button, input {{ font: inherit; }}
     :focus-visible {{ outline: 3px solid var(--focus); outline-offset: 3px; }}
@@ -333,41 +399,52 @@ def _build_html(data, logo_b64):
     }}
     .bg-base {{
       background-image:
-        radial-gradient(ellipse 1600px 1200px at 82% 12%, rgba(165,241,230,.16) 0%, rgba(165,241,230,.05) 38%, transparent 60%),
-        radial-gradient(ellipse 1200px 900px at 14% 88%, rgba(165,241,230,.10) 0%, transparent 60%);
+        radial-gradient(ellipse 1600px 1200px at 82% 12%, rgba(var(--accent-rgb),.16) 0%, rgba(var(--accent-rgb),.05) 38%, transparent 60%),
+        radial-gradient(ellipse 1200px 900px at 14% 88%, rgba(var(--accent-rgb),.10) 0%, transparent 60%);
     }}
     .bg-cat {{ opacity: 0; transition: opacity .3s var(--ease-out); }}
-    .bg-cat.active {{ opacity: 1; }}
+    .bg-cat.active {{ opacity: var(--category-layer-opacity); }}
     {category_bg_css}
 
     /* ── Header ──────────────────────────────────────────── */
     header {{
       position: relative; z-index: 1;
-      background: rgba(24,20,22,.34);
-      border-bottom: 1px solid rgba(255,255,255,.1);
+      background: var(--header-bg);
+      border-bottom: 1px solid var(--border);
       padding: 18px 40px;
       display: flex; align-items: center; justify-content: space-between; gap: 16px;
     }}
-    .header-left {{ display: flex; align-items: center; gap: 18px; }}
-    .header-logo img {{ display: block; height: 28px; width: auto; }}
+    .header-left {{ display: flex; align-items: center; gap: 18px; min-width: 0; }}
+    .header-logo img {{ display: block; height: 28px; width: auto; filter: var(--logo-filter); }}
     .header-brand-copy {{
-      border-left: 1px solid rgba(255,255,255,.16); padding-left: 18px;
-      color: rgba(255,255,255,.78); font-size: .78rem; font-weight: 650;
+      border-left: 1px solid var(--border-strong); padding-left: 18px;
+      color: var(--text-soft); font-size: .78rem; font-weight: 650;
       letter-spacing: .01em; line-height: 1.3; white-space: nowrap;
     }}
     .badge {{
-      background: rgba(165,241,230,.10); border: 1px solid rgba(165,241,230,.28);
+      background: rgba(var(--accent-rgb),.10); border: 1px solid rgba(var(--accent-rgb),.28);
       color: var(--accent); padding: 4px 14px; border-radius: 20px;
       font-size: .7rem; font-weight: 600; letter-spacing: .15px; white-space: nowrap;
     }}
-    .header-meta {{ font-size: .78rem; color: var(--muted); }}
-    .header-meta strong {{ color: rgba(255,255,255,.72); font-weight: 600; }}
+    .header-meta {{ display:flex; align-items:center; gap:14px; font-size: .78rem; color: var(--muted); }}
+    .header-meta strong {{ color: var(--text-soft); font-weight: 600; }}
+    .theme-toggle {{
+      display:flex; align-items:center; justify-content:center; width:44px; min-height:44px;
+      flex:0 0 44px; border-radius:8px; border:1px solid var(--control-border);
+      background:var(--control-bg); color:var(--text-soft); cursor:pointer;
+      transition:color .18s var(--ease-out), background .18s var(--ease-out), border-color .18s var(--ease-out);
+    }}
+    .theme-toggle:hover {{ color:var(--accent); background:var(--control-hover); border-color:rgba(var(--accent-rgb),.42); }}
+    .theme-toggle .theme-icon {{ display:flex; }}
+    .theme-toggle .theme-icon-moon {{ display:none; }}
+    :root[data-theme="light"] .theme-toggle .theme-icon-sun {{ display:none; }}
+    :root[data-theme="light"] .theme-toggle .theme-icon-moon {{ display:flex; }}
 
     /* ── Tabs ─────────────────────────────────────────────── */
     .tabs-wrapper {{
       position: relative; z-index: 1;
-      background: rgba(29,24,27,.40);
-      border-bottom: 1px solid rgba(255,255,255,.09);
+      background: var(--tabs-bg);
+      border-bottom: 1px solid var(--border);
       padding: 8px 40px; display: flex; gap: 6px; overflow-x: auto;
       scrollbar-width: none; scroll-snap-type: x proximity;
     }}
@@ -380,15 +457,15 @@ def _build_html(data, logo_b64):
       transition: color .18s var(--ease-out), background .18s var(--ease-out), border-color .18s var(--ease-out);
     }}
     .tab-dot {{ width: 6px; height: 6px; border-radius: 50%; background: currentColor; opacity: .3; flex-shrink: 0; transition: opacity .18s; }}
-    .tab-btn:hover {{ color: var(--text); border-color: rgba(255,255,255,.1); }}
+    .tab-btn:hover {{ color: var(--text); border-color: var(--border); }}
     .tab-btn.active .tab-dot {{ opacity: 1; }}
     {category_tab_css}
 
     /* ── Week bar ─────────────────────────────────────────── */
     .week-bar {{
       position: relative; z-index: 1;
-      background: rgba(37,30,34,.46);
-      border-bottom: 1px solid rgba(255,255,255,.08);
+      background: var(--week-bg);
+      border-bottom: 1px solid var(--border);
       padding: 8px 40px; display: grid; grid-template-columns: auto minmax(0,1fr) minmax(240px,340px);
       align-items: center; gap: 12px; overflow: hidden;
     }}
@@ -397,21 +474,21 @@ def _build_html(data, logo_b64):
     .week-pills::-webkit-scrollbar {{ display:none; }}
     .week-pill {{
       min-height: 44px; font-size: .78rem; font-weight: 600; padding: 6px 12px; border-radius: 7px;
-      border: 1px solid rgba(255,255,255,.07); background: transparent; color: var(--muted);
+      border: 1px solid var(--border); background: transparent; color: var(--muted);
       cursor: pointer; transition: color .15s var(--ease-out), background .15s var(--ease-out), border-color .15s var(--ease-out);
       white-space: nowrap; scroll-snap-align:start;
     }}
-    .week-pill:hover {{ color: var(--text); border-color: rgba(255,255,255,.16); }}
-    .week-pill.active {{ background: rgba(165,241,230,.10); border-color: rgba(165,241,230,.28); color: var(--accent); }}
+    .week-pill:hover {{ color: var(--text); border-color: var(--border-strong); }}
+    .week-pill.active {{ background: rgba(var(--accent-rgb),.10); border-color: rgba(var(--accent-rgb),.32); color: var(--accent); }}
 
     /* ── Search bar ───────────────────────────────────────── */
     .search-bar {{
       display: flex; align-items: center; gap: 10px;
       min-height: 44px; margin-bottom: 0; padding: 2px 8px 2px 12px;
-      background: rgba(42,34,38,.82); border: 1px solid rgba(255,255,255,.14);
-      border-radius: 8px; transition: border-color .2s var(--ease-out);
+      background: var(--search-bg); border: 1px solid var(--control-border);
+      border-radius: 8px; transition: border-color .2s var(--ease-out), background .2s var(--ease-out);
     }}
-    .search-bar:focus-within {{ border-color: rgba(255,255,255,.2); }}
+    .search-bar:focus-within {{ border-color: rgba(var(--accent-rgb),.58); }}
     .search-icon {{ color: var(--muted); flex-shrink: 0; display: flex; }}
     #news-search {{
       flex: 1; background: none; border: none; outline: none;
@@ -433,28 +510,28 @@ def _build_html(data, logo_b64):
     .tab-panel.active {{ display: block; }}
 
     /* ── Panel hero header ───────────────────────────────── */
-    .panel-header {{ padding: 52px 0 28px; border-bottom: 1px solid rgba(255,255,255,.07); margin-bottom: 8px; }}
+    .panel-header {{ padding: 52px 0 28px; border-bottom: 1px solid var(--border); margin-bottom: 8px; }}
     .cat-hero-title {{ font-size: clamp(2.5rem, 5vw, 3.8rem); font-weight: 850; font-stretch: 82%; letter-spacing: -.035em; line-height: 1; margin-bottom: 18px; text-wrap:balance; }}
     .cat-hero-bottom {{ display: flex; align-items: center; gap: 14px; }}
-    .panel-count {{ font-size: .85rem; color: rgba(255,255,255,.55); }}
+    .panel-count {{ font-size: .85rem; color: var(--text-faint); }}
     .panel-count strong {{ font-weight: 700; color: var(--text); font-size: 1rem; }}
     .btn-expand-all {{
       display: flex; align-items: center; gap: 5px;
-      background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.12);
+      background: var(--control-bg); border: 1px solid var(--control-border);
       min-height: 44px; color: var(--muted); font-size: .78rem; font-weight: 600;
       padding: 7px 13px; border-radius: 7px; cursor: pointer; transition: all .15s var(--ease-out); margin-left: auto;
     }}
-    .btn-expand-all:hover {{ color: var(--text); border-color: rgba(255,255,255,.22); background: rgba(255,255,255,.08); }}
+    .btn-expand-all:hover {{ color: var(--text); border-color: var(--border-strong); background: var(--control-hover); }}
 
     /* ── Accordion ───────────────────────────────────────── */
     .acc-list {{ display: flex; flex-direction: column; gap: 0; padding-top: 4px; }}
     .acc-item {{
-      background: transparent; border: 0; border-bottom: 1px solid rgba(255,255,255,.1);
+      background: transparent; border: 0; border-bottom: 1px solid var(--border);
       border-radius: 0; overflow: hidden; content-visibility: auto; contain-intrinsic-size: 78px;
       transition: background .2s var(--ease-out), border-color .2s var(--ease-out);
     }}
-    .acc-list > .acc-item:first-of-type {{ border-top: 1px solid rgba(255,255,255,.1); }}
-    .acc-item:hover {{ background: rgba(var(--cat-rgb),.045); border-color: rgba(255,255,255,.16); }}
+    .acc-list > .acc-item:first-of-type {{ border-top: 1px solid var(--border); }}
+    .acc-item:hover {{ background: rgba(var(--cat-rgb),.045); border-color: var(--border-strong); }}
     .acc-item.open {{
       background: rgba(var(--cat-rgb),.075);
       border-color: rgba(var(--cat-rgb),.42);
@@ -471,43 +548,43 @@ def _build_html(data, logo_b64):
     .acc-item.open .acc-num, .acc-trigger:hover .acc-num {{ color: var(--text); }}
     .acc-info {{ flex: 1; min-width: 0; }}
     .acc-title {{ font-size: .96rem; font-weight: 650; color: var(--text); line-height: 1.42; display: block; margin-bottom: 6px; letter-spacing: -.012em; text-wrap:pretty; transition: color .15s; }}
-    .acc-trigger:hover .acc-title {{ color: #fff; }}
+    .acc-trigger:hover .acc-title {{ color: var(--text); }}
     .acc-meta {{ display: flex; align-items: center; gap: 7px; flex-wrap: wrap; }}
     .source-dot {{ width: 5px; height: 5px; border-radius: 50%; flex-shrink: 0; background: currentColor; opacity: .6; }}
-    .source-tag {{ font-size: .75rem; font-weight: 650; color: rgba(255,255,255,.7); white-space: nowrap; }}
-    .acc-date {{ font-size: .75rem; color: rgba(255,255,255,.58); }}
+    .source-tag {{ font-size: .75rem; font-weight: 650; color: var(--text-soft); white-space: nowrap; }}
+    .acc-date {{ font-size: .75rem; color: var(--text-faint); }}
     .acc-actions {{ display: flex; align-items: center; gap: 6px; flex-shrink: 0; }}
     .btn-link {{
       display: flex; align-items: center; gap: 5px;
       min-height:44px; font-size: .78rem; font-weight: 620; padding: 7px 12px; border-radius: 6px;
       text-decoration: none; white-space: nowrap;
-      border: 1px solid rgba(255,255,255,.18); color: rgba(255,255,255,.65);
-      background: rgba(255,255,255,.05); transition: all .15s; font-family: inherit;
+      border: 1px solid var(--control-border); color: var(--text-soft);
+      background: var(--control-bg); transition: all .15s; font-family: inherit;
     }}
-    .btn-link:hover {{ color: var(--accent); border-color: rgba(165,241,230,.45); background: rgba(165,241,230,.08); }}
+    .btn-link:hover {{ color: var(--accent); border-color: rgba(var(--accent-rgb),.45); background: rgba(var(--accent-rgb),.08); }}
     .btn-copy {{
       display: flex; align-items: center; justify-content: center;
-      width:44px; min-height:44px; padding: 0; border-radius: 6px; border: 1px solid rgba(255,255,255,.18);
-      color: rgba(255,255,255,.55); background: rgba(255,255,255,.05); cursor: pointer; transition: all .15s;
+      width:44px; min-height:44px; padding: 0; border-radius: 6px; border: 1px solid var(--control-border);
+      color: var(--text-faint); background: var(--control-bg); cursor: pointer; transition: all .15s;
     }}
-    .btn-copy:hover {{ color: var(--text); border-color: rgba(255,255,255,.28); background: rgba(255,255,255,.08); }}
-    .btn-copy.copied {{ color: #22C55E; border-color: rgba(34,197,94,.3); }}
-    .btn-copy.copy-error {{ color: #FFB4AB; border-color: rgba(255,180,171,.45); }}
+    .btn-copy:hover {{ color: var(--text); border-color: var(--border-strong); background: var(--control-hover); }}
+    .btn-copy.copied {{ color: var(--success); border-color: rgba(var(--success-rgb),.36); }}
+    .btn-copy.copy-error {{ color: var(--error); border-color: rgba(var(--error-rgb),.42); }}
     .btn-copy .icon-copy {{ display: flex; }}
     .btn-copy .icon-check {{ display: none; }}
     .btn-copy.copied .icon-copy {{ display: none; }}
     .btn-copy.copied .icon-check {{ display: flex; }}
     .acc-chevron {{ color: var(--muted); transition: transform .2s var(--ease-out), color .15s; flex-shrink: 0; display: flex; align-items: center; }}
-    .acc-item.open .acc-chevron {{ transform: rotate(180deg); color: rgba(255,255,255,.55); }}
+    .acc-item.open .acc-chevron {{ transform: rotate(180deg); color: var(--text-faint); }}
     .acc-body {{ overflow: hidden; }}
-    .acc-body-inner {{ padding: 0 18px 18px 56px; border-top: 1px solid rgba(255,255,255,.06); }}
-    .acc-body-inner p {{ max-width:72ch; font-size: .92rem; color: #C6C0BD; line-height: 1.75; padding-top: 16px; text-wrap:pretty; }}
+    .acc-body-inner {{ padding: 0 18px 18px 56px; border-top: 1px solid var(--border); }}
+    .acc-body-inner p {{ max-width:72ch; font-size: .92rem; color: var(--summary); line-height: 1.75; padding-top: 16px; text-wrap:pretty; }}
     .week-divider {{
-      padding:28px 8px 10px; color:rgba(255,255,255,.72); font-size:.86rem; font-weight:720;
-      border-bottom:1px solid rgba(255,255,255,.16);
+      padding:28px 8px 10px; color:var(--text-soft); font-size:.86rem; font-weight:720;
+      border-bottom:1px solid var(--border-strong);
     }}
     .empty-state {{
-      margin-top:20px; padding:28px; border:1px dashed rgba(255,255,255,.2); border-radius:8px;
+      margin-top:20px; padding:28px; border:1px dashed var(--border-strong); border-radius:8px;
       color:var(--muted); text-align:center;
     }}
     .empty-state strong, .empty-state span {{ display:block; }}
@@ -515,13 +592,13 @@ def _build_html(data, logo_b64):
 
     /* ── Footer ──────────────────────────────────────────── */
     footer {{
-      border-top: 1px solid rgba(255,255,255,.06);
+      border-top: 1px solid var(--border);
       padding: 22px 40px; display: flex; align-items: center; justify-content: center; gap: 16px; flex-wrap: wrap;
     }}
     .footer-text {{ font-size: .7rem; color: var(--muted); text-align: center; }}
     .footer-text strong {{ color: var(--accent); font-weight: 600; }}
     .footer-logo {{ opacity: .3; }}
-    .footer-logo img {{ display: block; height: 16px; width: auto; }}
+    .footer-logo img {{ display: block; height: 16px; width: auto; filter: var(--logo-filter); }}
 
     /* ── Responsive ──────────────────────────────────────── */
     @media (max-width: 640px) {{
@@ -534,7 +611,7 @@ def _build_html(data, logo_b64):
         padding-left: 12px; max-width: 190px; white-space: normal;
         font-size: .875rem; line-height: 1.25;
       }}
-      .header-meta {{ display: none; }}
+      .header-meta-copy {{ display: none; }}
       .week-bar {{ grid-template-columns:1fr; gap:8px; padding-top:8px; padding-bottom:10px; }}
       .week-label {{ display:none; }}
       .search-bar {{ grid-row:1; width:100%; }}
@@ -570,7 +647,13 @@ def _build_html(data, logo_b64):
     <h1 class="sr-only">SCOZ News</h1>
     <div class="header-brand-copy">News - O boletim semanal da preguiça</div>
   </div>
-  <div class="header-meta">Próxima atualização: <strong>{next_update}</strong></div>
+  <div class="header-meta">
+    <span class="header-meta-copy">Próxima atualização: <strong>{next_update}</strong></span>
+    <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Usar tema claro" aria-pressed="false" title="Usar tema claro">
+      <span class="theme-icon theme-icon-sun">{SVG_SUN}</span>
+      <span class="theme-icon theme-icon-moon">{SVG_MOON}</span>
+    </button>
+  </div>
 </header>
 
 <div class="tabs-wrapper" id="tabs" role="tablist" aria-label="Categorias de notícias">
@@ -602,6 +685,28 @@ def _build_html(data, logo_b64):
 </footer>
 
 <script>
+  const THEME_STORAGE_KEY = 'scoz-news-theme';
+  const themeToggle = document.getElementById('theme-toggle');
+  function applyTheme(theme, persist = false) {{
+    const light = theme === 'light';
+    document.documentElement.dataset.theme = light ? 'light' : 'dark';
+    const actionLabel = light ? 'Usar tema escuro' : 'Usar tema claro';
+    if (themeToggle) {{
+      themeToggle.setAttribute('aria-pressed', String(light));
+      themeToggle.setAttribute('aria-label', actionLabel);
+      themeToggle.title = actionLabel;
+    }}
+    if (persist) {{
+      try {{ localStorage.setItem(THEME_STORAGE_KEY, light ? 'light' : 'dark'); }}
+      catch (_) {{}}
+    }}
+  }}
+  applyTheme(document.documentElement.dataset.theme === 'light' ? 'light' : 'dark');
+  themeToggle?.addEventListener('click', () => {{
+    const nextTheme = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
+    applyTheme(nextTheme, true);
+  }});
+
   const allItems = [...document.querySelectorAll('.acc-item')];
   const tabPanels = [...document.querySelectorAll('.tab-panel')];
   const panelItems = new Map(tabPanels.map(panel => [panel, [...panel.querySelectorAll('.acc-item')]]));
