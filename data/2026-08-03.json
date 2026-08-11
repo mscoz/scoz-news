@@ -1,0 +1,368 @@
+{
+  "schema_version": 1,
+  "id": "2026-08-03",
+  "label": "03-09/ago",
+  "label_full": "3 a 9 de agosto de 2026",
+  "items": {
+    "meta": [
+    {
+      "title": "Meta começa a aceitar stablecoins como forma de pagamento em anúncios",
+      "source": "Social Media Today",
+      "date": "Aug 04, 2026",
+      "url": "https://www.socialmediatoday.com/news/meta-ads-introduces-stablecoin-payment-options/827034/",
+      "summary": "A Meta passou a aceitar carteiras de USDC de provedores parceiros para pagamentos de anúncios. A disponibilidade e as condições variam por mercado, então a mudança deve ser conferida na conta antes de alterar o fluxo financeiro."
+    },
+    {
+      "title": "Meta adiciona incentivos para assinantes pagos",
+      "source": "Social Media Today",
+      "date": "Aug 09, 2026",
+      "url": "https://www.socialmediatoday.com/news/meta-adds-more-incentives-for-paying-users/827393/",
+      "summary": "Assinantes do Meta One receberam ferramentas adicionais de crescimento e seguidores. O movimento reforça a expansão dos recursos pagos para criadores, mas não equivale a uma garantia de crescimento orgânico."
+    },
+    {
+      "title": "Edits ganha novos recursos experimentais de edição de vídeo",
+      "source": "Social Media Today",
+      "date": "Aug 09, 2026",
+      "url": "https://www.socialmediatoday.com/news/meta-adds-more-experimental-edits-features-to-its-beta-tab/827395/",
+      "summary": "A aba beta do Edits recebeu curvas de velocidade, correção de cor, pastas e camadas ajustáveis. São testes de produto que podem acelerar a produção, mas ainda não devem ser tratados como disponibilidade estável para todos."
+    },
+    {
+      "title": "YouTube amplia afiliados de Shopping para o Reino Unido",
+      "source": "Social Media Today",
+      "date": "Aug 06, 2026",
+      "url": "https://www.socialmediatoday.com/news/youtube-expands-shopping-affiliate-program-to-the-uk/827294/",
+      "summary": "Criadores britânicos passaram a poder marcar produtos de varejistas como Wayfair e Currys no programa de afiliados. A expansão abre uma frente comercial adicional, condicionada às regras regionais e à elegibilidade do canal."
+    },
+    {
+      "title": "TikTok e Disney ampliam parceria de conteúdo para criadores",
+      "source": "Social Media Today",
+      "date": "Aug 05, 2026",
+      "url": "https://www.socialmediatoday.com/news/tiktok-partners-with-disney/827168/",
+      "summary": "A parceria permite que criadores usem personagens e conteúdos de Pixar, Marvel e Star Wars em experiências do TikTok. Para marcas, o caso mostra como licenciamento e participação de fãs podem alimentar formatos nativos de vídeo."
+    },
+    {
+      "title": "Pinterest atribui melhora no segundo trimestre ao uso de IA",
+      "source": "Social Media Today",
+      "date": "Aug 04, 2026",
+      "url": "https://www.socialmediatoday.com/news/pinterest-leans-on-ai-to-drive-improved-performance-in-q2/827033/",
+      "summary": "O Pinterest reportou avanço de audiência e destacou o papel da IA na performance do segundo trimestre. O crescimento não foi uniforme entre regiões, por isso a leitura deve separar alcance, uso e resultado comercial."
+    },
+    {
+      "title": "Reddit apresenta insights de marketing para marcas de beleza",
+      "source": "Social Media Today",
+      "date": "Aug 04, 2026",
+      "url": "https://www.socialmediatoday.com/news/reddit-offers-marketing-insights-for-beauty-brands/827023/",
+      "summary": "Um novo relatório do Reddit explora individualidade, descoberta e maquiagem experimental. É uma fonte de sinais culturais para planejamento, não uma prova de que toda tendência observada na comunidade tenha escala de mercado."
+    },
+    {
+      "title": "WhatsApp atualiza os grupos com enquetes, alertas e chats paralelos",
+      "source": "Meta Newsroom",
+      "date": "Aug 04, 2026",
+      "url": "https://about.fb.com/news/2026/08/were-upgrading-your-whatsapp-group-chats/",
+      "summary": "A Meta anunciou enquetes, menções a todos e a criação de chats a partir de grupos existentes. A atualização é relevante para comunidades e atendimento, mas não cria por si só um novo formato de anúncio."
+    },
+    {
+      "title": "X altera parâmetros do programa de remuneração de criadores",
+      "source": "Social Media Today",
+      "date": "Aug 08, 2026",
+      "url": "https://www.socialmediatoday.com/news/x-updates-creator-revenue-share-parameters/827391/",
+      "summary": "O X anunciou mudanças no Original Creator Rewards, com rollout indicado para setembro. Criadores e marcas devem acompanhar critérios, elegibilidade e calendário antes de projetar receita ou alcance."
+    },
+    {
+      "title": "LinkedIn ajusta o feed para estimular respostas e comentários",
+      "source": "Social Media Today",
+      "date": "Aug 09, 2026",
+      "url": "https://www.socialmediatoday.com/news/linkedin-updates-feed-display-to-drive-more-post-replies-and-comments/827394/",
+      "summary": "O LinkedIn alterou a exibição e a relevância de comentários para favorecer discussões no feed. A consequência prática é revisar perguntas, respostas e sinais de conversa, sem confundir interação com geração de demanda."
+    }
+  ],
+    "google": [
+    {
+      "title": "Google testa hyperlinks clicáveis nas descrições de anúncios Search",
+      "source": "Search Engine Land",
+      "date": "Aug 05, 2026",
+      "url": "https://searchengineland.com/google-tests-clickable-hyperlinks-in-search-ad-descriptions-484288",
+      "summary": "Um teste relatado pelo veículo transforma termos da descrição em links para a mesma página de destino. O Google não confirmou rollout geral; a pauta deve ser tratada como experimento, não como novo formato disponível."
+    },
+    {
+      "title": "Busca paga pode virar vantagem para aparecer em buscas com IA",
+      "source": "Search Engine Land",
+      "date": "Aug 05, 2026",
+      "url": "https://searchengineland.com/paid-search-ai-search-advantage-484301",
+      "summary": "A análise propõe usar dados de termos, anúncios e páginas de destino para entender a linguagem da busca com IA. É uma hipótese estratégica útil para testes, mas não prova que mídia paga cause posicionamento ou citação orgânica."
+    },
+    {
+      "title": "Algumas campanhas Search serão atualizadas automaticamente para AI Max",
+      "source": "Search Engine Land",
+      "date": "Aug 06, 2026",
+      "url": "https://searchengineland.com/google-to-auto-upgrade-some-search-campaigns-to-ai-max-484428",
+      "summary": "Campanhas elegíveis com ativos criados automaticamente ou broad match poderão migrar para AI Max a partir de setembro. A ação prática é auditar configurações e controles antes da data, sem assumir migração universal."
+    },
+    {
+      "title": "Google publica orientação para metas pay-per-lead em Performance Max",
+      "source": "Search Engine Land",
+      "date": "Aug 05, 2026",
+      "url": "https://searchengineland.com/google-releases-help-doc-for-performance-max-pay-per-lead-goals-484297",
+      "summary": "A cobertura registra um novo documento de ajuda para metas de pagamento por lead em Performance Max. A adoção exige conferir elegibilidade, medição e diferença em relação a uma conversão tradicional."
+    },
+    {
+      "title": "Google explica o que muda no Smart Bidding para campanhas limitadas",
+      "source": "Search Engine Land",
+      "date": "Aug 06, 2026",
+      "url": "https://searchengineland.com/google-explains-what-advertisers-should-expect-from-smart-bidding-changes-484410",
+      "summary": "A cobertura explica a mudança prevista para agosto em campanhas limitadas por orçamento: o alvo de CPA ou ROAS passa a ser a principal alavanca. É preparação operacional, não resultado já observado em todas as contas."
+    },
+    {
+      "title": "A armadilha de capturar demanda que encarece a busca",
+      "source": "Search Engine Land",
+      "date": "Aug 06, 2026",
+      "url": "https://searchengineland.com/demand-capture-trap-making-search-more-expensive-484402",
+      "summary": "A análise discute como capturar demanda sem diferenciar intenção pode elevar custos e piorar a eficiência. A recomendação é separar descoberta, consideração e conversão com métricas e páginas adequadas a cada estágio."
+    },
+    {
+      "title": "Dados de busca ajudam a encontrar categorias emergentes",
+      "source": "Search Engine Land",
+      "date": "Aug 06, 2026",
+      "url": "https://searchengineland.com/spot-emerging-category-search-data-484393",
+      "summary": "O artigo propõe observar dados de pesquisa para detectar categorias em formação antes de transformar a tendência em plano de conteúdo ou mídia. O sinal deve ser cruzado com vendas, margem e capacidade operacional."
+    },
+    {
+      "title": "Como reduzir o risco de SEO diante das mudanças do Google",
+      "source": "Search Engine Land",
+      "date": "Aug 05, 2026",
+      "url": "https://searchengineland.com/guide/de-risk-and-futre-proof-seo-for-google-changes",
+      "summary": "O guia reúne práticas de resiliência para mudanças de busca e reforça estrutura, qualidade e acompanhamento. É uma pauta de processo, não evidência de uma alteração específica do ranking ocorrida na semana."
+    },
+    {
+      "title": "Contexto de negócio altera recomendações feitas por sistemas de IA",
+      "source": "Search Engine Land",
+      "date": "Aug 07, 2026",
+      "url": "https://searchengineland.com/business-context-changes-ai-recommendations-484459",
+      "summary": "A análise discute como contexto, evidência e posicionamento podem mudar recomendações geradas por IA. Isso orienta a organização de informações da empresa, mas não garante menção, ranking ou geração de leads."
+    },
+    {
+      "title": "Google Ads API v21 começa a falhar após o sunset de 5 de agosto",
+      "source": "Google Ads Developer Blog",
+      "date": "Aug 05, 2026",
+      "url": "https://ads-developers.googleblog.com/2026/06/google-ads-api-v21-sunset-reminder.html",
+      "summary": "A versão v21 da API entrou em sunset e as requisições começaram a falhar em 5 de agosto. Integrações, scripts e conectores que referenciam explicitamente a versão antiga precisam migrar para uma versão mais nova."
+    }
+  ],
+    "ppc": [
+    {
+      "title": "ChatGPT Ads avança com oCPC, matching avançado e carrosséis de produtos",
+      "source": "Search Engine Land",
+      "date": "Aug 07, 2026",
+      "url": "https://searchengineland.com/chatgpt-ads-rolls-out-ocpc-campaigns-aam-and-product-carousels-484494",
+      "summary": "A matéria relata novos recursos de compra e mensuração em anúncios do ChatGPT. Como é cobertura setorial, confirmar disponibilidade, mercados, consentimento e requisitos antes de transformar o relato em orientação operacional."
+    },
+    {
+      "title": "Fossil usa IA para identificar perfis de público em campanha",
+      "source": "Marketing Dive",
+      "date": "Aug 06, 2026",
+      "url": "https://www.marketingdive.com/news/fossil-ads-using-ai-to-identify-target-profiles-earn-588m-impressions/827148/",
+      "summary": "Um estudo de caso da Fossil descreve uma campanha que usou IA para identificar perfis e alcançou 58,8 milhões de impressões. O resultado é de uma campanha passada e deve ser atribuído ao caso, sem extrapolar para outras contas."
+    },
+    {
+      "title": "IAB propõe uma forma de medir visibilidade de marca em plataformas de IA",
+      "source": "Marketing Dive",
+      "date": "Aug 03, 2026",
+      "url": "https://www.marketingdive.com/news/iab-shares-playbook-for-measuring-brand-visibility-in-ai-powered-platforms/826830/",
+      "summary": "O IAB compartilhou um playbook para discutir medição de visibilidade de marca em superfícies de IA. A pauta ajuda a estruturar o problema, mas não substitui definição de métrica, fonte e reconciliação com conversões."
+    },
+    {
+      "title": "Snapchat oferece integração de anúncios com assistentes de IA de terceiros",
+      "source": "Social Media Today",
+      "date": "Aug 04, 2026",
+      "url": "https://www.socialmediatoday.com/news/snapchat-offers-third-party-ai-ad-integration/827026/",
+      "summary": "Um servidor MCP conecta campanhas promocionais do Snapchat a Claude, ChatGPT e Gemini. A pauta é relevante para automação, mas exige verificar permissões, dados compartilhados e limites da integração antes de usar em produção."
+    },
+    {
+      "title": "Goldfish combina nostalgia com mensagem de produto melhorado",
+      "source": "Marketing Dive",
+      "date": "Aug 03, 2026",
+      "url": "https://www.marketingdive.com/news/goldfish-blends-nostalgia-with-better-for-you-messaging-in-new-ads/826760/",
+      "summary": "A campanha usa nostalgia para comunicar uma proposta de produto com percepção de maior bem-estar. O caso mostra uma combinação de memória de marca e benefício funcional, sem provar efeito de vendas por si só."
+    },
+    {
+      "title": "Stanley cria personagem de caixa de ferramentas para falar com a construção",
+      "source": "Marketing Dive",
+      "date": "Aug 04, 2026",
+      "url": "https://www.marketingdive.com/news/stanley-introduces-wisecracking-toolbox-character-amid-construction-slowdow/826897/",
+      "summary": "A Stanley lançou uma personagem bem-humorada para uma campanha em um momento de desaceleração da construção. A estratégia usa entretenimento para humanizar uma categoria funcional e ampliar a lembrança do produto."
+    },
+    {
+      "title": "Coca-Cola pede que consumidores desconectem para uma refeição de qualidade",
+      "source": "Marketing Dive",
+      "date": "Aug 04, 2026",
+      "url": "https://www.marketingdive.com/news/coke-asks-busy-gen-z-millennials-to-log-off-for-quality-meal-time/826933/",
+      "summary": "A Coca-Cola construiu uma mensagem para Gen Z e millennials em torno de desligar o celular durante a refeição. O caso explora tensão cultural entre conveniência digital e presença, com execução ligada ao contexto de consumo."
+    },
+    {
+      "title": "Domino’s paga clientes para testar aplicativo e site relançados",
+      "source": "Marketing Dive",
+      "date": "Aug 03, 2026",
+      "url": "https://www.marketingdive.com/news/dominos-pays-diners-to-beta-test-its-relaunched-website-app/826846/",
+      "summary": "A Domino’s transformou clientes em participantes pagos de um teste beta do site e do aplicativo relançados. O formato aproxima pesquisa de experiência e campanha, mas o incentivo precisa ser separado de satisfação ou conversão espontânea."
+    },
+    {
+      "title": "Disney e TikTok aproximam compartilhamento de conteúdo e fandom",
+      "source": "Marketing Dive",
+      "date": "Aug 05, 2026",
+      "url": "https://www.marketingdive.com/news/disney-tiktok-partner-on-content-sharing-as-creators-fuel-fandom/827054/",
+      "summary": "A parceria amplia o compartilhamento de conteúdo da Disney no TikTok enquanto criadores ajudam a alimentar comunidades de fãs. Para mídia e conteúdo, o caso reforça a importância de direitos, participação e formatos nativos."
+    },
+    {
+      "title": "Snap registra alta moderada de usuários e receita no segundo trimestre",
+      "source": "Social Media Today",
+      "date": "Aug 03, 2026",
+      "url": "https://www.socialmediatoday.com/news/snap-posts-modest-q2-user-and-revenue-increases/826907/",
+      "summary": "A Snap reportou aumento de usuários ativos diários e de receita de anúncios, com desempenho regional desigual. O dado é corporativo e não deve ser convertido automaticamente em expectativa de performance para qualquer anunciante."
+    }
+  ],
+    "mkt": [
+    {
+      "title": "Pinterest recomenda lançar campanhas de fim de ano mais cedo",
+      "source": "Social Media Today",
+      "date": "Aug 03, 2026",
+      "url": "https://www.socialmediatoday.com/news/pinterest-tells-brands-to-launch-holiday-campaigns-early/826898/",
+      "summary": "O Pinterest diz que usuários começam a planejar compras de fim de ano já em setembro e recomenda ações de funil completo com antecedência. A decisão deve considerar estoque, margem e calendário real de cada operação."
+    },
+    {
+      "title": "Snapchat tenta ensinar marcas a construir humor",
+      "source": "Marketing Dive",
+      "date": "Aug 06, 2026",
+      "url": "https://www.marketingdive.com/news/sociable-snapchat-tries-to-teach-brands-to-be-funny/827235/",
+      "summary": "O Snapchat lançou uma iniciativa para orientar marcas sobre humor e linguagem da plataforma. A pauta lembra que tom nativo depende de contexto e teste, não de copiar memes sem entender a comunidade."
+    },
+    {
+      "title": "YouTube adiciona modo de treino para lives verticais",
+      "source": "Social Media Today",
+      "date": "Aug 09, 2026",
+      "url": "https://www.socialmediatoday.com/news/youtube-adds-vertical-livestream-practice-mode/827392/",
+      "summary": "O YouTube passou a oferecer modo de prática para lives verticais e insights automáticos de Shorts antes da publicação. O recurso reduz risco de estreia, mas não substitui roteiro, moderação e acompanhamento de audiência."
+    },
+    {
+      "title": "Meta é multada em US$ 567 milhões por falhas na proteção de adolescentes",
+      "source": "Social Media Today",
+      "date": "Aug 06, 2026",
+      "url": "https://www.socialmediatoday.com/news/meta-fined-567m-for-failing-to-protect-teens/827298/",
+      "summary": "A cobertura relata uma decisão do Novo México contra a Meta relacionada à proteção de adolescentes. É uma notícia jurídica baseada em fonte secundária; não se deve inferir impacto regulatório global a partir desse caso isolado."
+    },
+    {
+      "title": "Express recupera estética Y2K em campanha de moda e música",
+      "source": "Marketing Dive",
+      "date": "Aug 03, 2026",
+      "url": "https://www.marketingdive.com/news/express-nods-to-its-y2k-heyday-in-campaign-that-unites-fashion-music/826684/",
+      "summary": "A Express recuperou referências dos anos 2000 e uniu moda e música para reativar memória de marca. O caso é um exemplo de nostalgia com execução cultural, não uma fórmula universal de campanha."
+    },
+    {
+      "title": "Reddit amplia teste de ferramentas de moderação",
+      "source": "Social Media Today",
+      "date": "Aug 05, 2026",
+      "url": "https://www.socialmediatoday.com/news/reddit-expands-test-of-moderation-tools/827171/",
+      "summary": "O Reddit ampliou o teste do Rules Hub com IA e de restrições de acesso para usuários não autenticados. A mudança afeta governança de comunidades, descoberta de conteúdo e a forma como marcas avaliam ambientes seguros."
+    },
+    {
+      "title": "WhatsApp atualiza enquetes, alertas e chats paralelos",
+      "source": "Social Media Today",
+      "date": "Aug 04, 2026",
+      "url": "https://www.socialmediatoday.com/news/whatsapp-updates-polls-alerts-and-side-chats/827028/",
+      "summary": "A atualização reúne novas enquetes, alertas e chats paralelos no WhatsApp. Para atendimento e comunidades, vale testar organização e notificações sem presumir que o recurso esteja disponível de forma idêntica em todas as contas."
+    },
+    {
+      "title": "Google passa a reconhecer certificação para anúncios de telemedicina na Espanha",
+      "source": "PPC Land",
+      "date": "Aug 05, 2026",
+      "url": "https://ppc.land/google-opens-spain-telemedicine-ads-to-legitscript-holders-from-aug-5/",
+      "summary": "A política passou a reconhecer a certificação LegitScript para provedores de telemedicina na Espanha em 5 de agosto. É uma mudança localizada e regulada: certificação não equivale a aprovação automática da campanha."
+    },
+    {
+      "title": "Meta torna o AI Developer Assistant o principal caminho de suporte",
+      "source": "Social Media Today",
+      "date": "Aug 04, 2026",
+      "url": "https://www.socialmediatoday.com/news/meta-makes-ai-developer-assistant-its-primary-support-option/827032/",
+      "summary": "A Meta passou a destacar seu assistente de IA como caminho principal de suporte para desenvolvedores. A mudança indica automação do atendimento técnico, mas equipes ainda precisam preservar logs, documentação e escalonamento humano."
+    },
+    {
+      "title": "Instagram compartilha um fluxo de cinco etapas para criar vídeos",
+      "source": "Social Media Today",
+      "date": "Aug 05, 2026",
+      "url": "https://www.socialmediatoday.com/news/instagram-shares-tips-on-video-creation/827172/",
+      "summary": "O Instagram recomendou um fluxo com gancho, ritmo, texto e elementos visuais, leitura de dados e ajustes rápidos. É orientação da própria plataforma; serve como hipótese de produção, não como garantia de alcance."
+    }
+  ],
+    "ia": [
+    {
+      "title": "Anthropic melhora as salvaguardas biológicas do Fable 5",
+      "source": "Anthropic",
+      "date": "Aug 07, 2026",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "summary": "A Anthropic afirma que ajustou os controles para reduzir falsos positivos em perguntas de biologia e preservar respostas de fallback em casos de maior risco. A empresa relata redução de cerca de 85% em testes; o número deve ser atribuído a ela."
+    },
+    {
+      "title": "Mariano-Florentino Cuéllar entra na Anthropic como Chief Global Affairs Officer",
+      "source": "Anthropic",
+      "date": "Aug 04, 2026",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "summary": "A Anthropic anunciou Cuéllar como seu primeiro responsável global por relações governamentais. A nomeação reforça a pauta de regulação e governança de IA, sem permitir inferir efeitos políticos não declarados pela empresa."
+    },
+    {
+      "title": "Estudo discute se a IA agêntica empodera usuários ou cria enclausuramento",
+      "source": "arXiv",
+      "date": "Aug 06, 2026",
+      "url": "https://arxiv.org/abs/2608.06510",
+      "summary": "O artigo analisa como agentes de IA, APIs e protocolos de governança podem ampliar autonomia ou concentrar controle. É uma contribuição acadêmica para debate, não uma evidência de que um produto específico produza um desses efeitos."
+    },
+    {
+      "title": "Pesquisa identifica assinaturas linguísticas próprias em modelos de linguagem",
+      "source": "arXiv",
+      "date": "Aug 06, 2026",
+      "url": "https://arxiv.org/abs/2608.06589",
+      "summary": "O trabalho propõe que modelos exibem padrões linguísticos relativamente identificáveis, descritos como idioletos. As implicações para detecção e perícia ainda dependem da avaliação e replicação da pesquisa."
+    },
+    {
+      "title": "Argus propõe um runtime de agentes para tarefas de longo horizonte",
+      "source": "arXiv",
+      "date": "Aug 05, 2026",
+      "url": "https://arxiv.org/abs/2608.05144",
+      "summary": "O artigo apresenta um runtime persistente com gerente, planejador, engenheiro e revisor, além de mecanismos de verificação. Resultados de benchmark são alegações do próprio trabalho e precisam ser comparados com avaliações independentes."
+    },
+    {
+      "title": "As plataformas conseguem reduzir o conteúdo artificial de baixa qualidade?",
+      "source": "Social Media Today",
+      "date": "Aug 05, 2026",
+      "url": "https://www.socialmediatoday.com/news/can-the-apps-stop-ai-slop/827170/",
+      "summary": "A análise examina medidas de plataformas para limitar conteúdo gerado por IA de baixa qualidade. A pauta interessa a marcas porque volume automatizado pode afetar confiança, distribuição e ambiente de comentários."
+    },
+    {
+      "title": "Seis perspectivas sobre geração de demanda em buscas com IA",
+      "source": "Search Engine Land",
+      "date": "Aug 07, 2026",
+      "url": "https://searchengineland.com/perspectives-demand-generation-ai-search-484450",
+      "summary": "A matéria reúne perspectivas sobre geração de demanda quando a descoberta acontece dentro de respostas de IA. O ponto central é separar presença, consideração e conversão, sem tratar citação como atribuição individual."
+    },
+    {
+      "title": "Estudo investiga cliques em resultados que geram AI Overview",
+      "source": "arXiv",
+      "date": "Aug 05, 2026",
+      "url": "https://arxiv.org/abs/2608.04831",
+      "summary": "Um estudo com participantes nos Estados Unidos analisa comportamentos após resultados com AI Overview e relata poucos cliques nas fontes citadas. A conclusão pertence ao estudo e não deve ser generalizada para todos os mercados ou jornadas."
+    },
+    {
+      "title": "Meta explica por que constrói seus próprios data centers de IA",
+      "source": "Meta Newsroom",
+      "date": "Aug 06, 2026",
+      "url": "https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers/",
+      "summary": "A Meta descreveu a estratégia de infraestrutura própria para sustentar modelos e produtos de IA. A pauta conecta capacidade computacional, velocidade de produto e possíveis efeitos indiretos sobre anúncios e ferramentas de criadores."
+    },
+    {
+      "title": "Guia de CMO discute a relação entre marcas e máquinas",
+      "source": "Marketing Dive",
+      "date": "Aug 06, 2026",
+      "url": "https://www.marketingdive.com/news/a-cmos-guide-to-machine-relations/826421/",
+      "summary": "O texto de opinião propõe pensar a relação entre marcas e sistemas de IA como uma nova camada de comunicação. As recomendações devem ser lidas como perspectiva do autor, não como consenso ou regra de otimização."
+    }
+    ]
+  }
+}
