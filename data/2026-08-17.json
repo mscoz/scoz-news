@@ -1,0 +1,368 @@
+{
+  "schema_version": 1,
+  "id": "2026-08-17",
+  "label": "17-23/ago",
+  "label_full": "17 a 23 de agosto de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta lança a Meta Startup School para apoiar startups em estágio inicial",
+        "source": "Meta Newsroom",
+        "date": "Aug 19, 2026",
+        "url": "https://about.fb.com/news/2026/08/launching-meta-startup-school-to-accelerate-growth-for-early-stage-startups/",
+        "summary": "A Meta lançou a Meta Startup School, programa voltado a fundadores de startups em estágio inicial, com conteúdo, orientação e conexão com especialistas. A iniciativa amplia a presença da empresa no ecossistema empreendedor, mas não prova impacto comercial para os participantes. Para marketing, o ponto é acompanhar como a Meta quer ocupar a jornada de crescimento de novos negócios."
+      },
+      {
+        "title": "Meta anuncia formação gratuita para profissionais da era da IA",
+        "source": "Meta Newsroom",
+        "date": "Aug 18, 2026",
+        "url": "https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/",
+        "summary": "A Meta apresentou a America’s Workforce Academy, iniciativa sem custo e sem exigência de experiência anterior para formar profissionais em ofícios ligados à expansão de data centers e infraestrutura de IA. O programa conecta tecnologia e capacitação, mas os resultados de empregabilidade ainda precisam ser acompanhados. A notícia sinaliza investimento de longo prazo em oferta de talentos."
+      },
+      {
+        "title": "Edits recebe melhorias de gestão de projetos e recursos de IA",
+        "source": "Social Media Today",
+        "date": "Aug 20, 2026",
+        "url": "https://www.socialmediatoday.com/news/edits-gets-improved-project-management-and-ai-features/828464/",
+        "summary": "O Edits ganhou melhorias para organizar projetos e novos recursos baseados em inteligência artificial. A atualização pode reduzir etapas no fluxo de produção de vídeos curtos dentro do ecossistema da Meta, mas disponibilidade e qualidade variam por conta e região. Equipes devem testar o recurso em um projeto controlado antes de mudar o processo inteiro."
+      },
+      {
+        "title": "Instagram reforça a importância das legendas nos vídeos",
+        "source": "Social Media Today",
+        "date": "Aug 23, 2026",
+        "url": "https://www.socialmediatoday.com/news/instagram-stresses-the-importance-of-captions/828554/",
+        "summary": "O Instagram voltou a destacar o uso de legendas em vídeos, reforçando acessibilidade e compreensão sem áudio. A recomendação é editorial e não garante distribuição maior, mas pode melhorar a clareza da mensagem em ambientes de rolagem rápida. Para marcas, vale revisar legibilidade, idioma e sincronização antes de publicar novas peças."
+      },
+      {
+        "title": "Meta remove a opção de excluir posicionamentos de anúncios",
+        "source": "Social Media Today",
+        "date": "Aug 20, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-removes-option-to-exclude-ad-placements/828461/",
+        "summary": "A Meta começou a remover a possibilidade de excluir manualmente alguns posicionamentos de anúncios, ampliando a dependência da automação da plataforma. A mudança reduz controle direto sobre onde a mensagem aparece e exige mais atenção a criativos, brand safety e relatórios por posicionamento. Não é motivo para concluir perda de qualidade sem dados da conta."
+      },
+      {
+        "title": "Meta AI chega ao Mac",
+        "source": "Social Media Today",
+        "date": "Aug 19, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-ai-launches-for-mac/828347/",
+        "summary": "A Meta lançou o Meta AI para Mac, levando o assistente a uma superfície de uso mais próxima do trabalho diário em computador. A novidade pode aumentar frequência e contexto de uso, mas recursos e disponibilidade ainda dependem do mercado e da versão do aplicativo. Para times de conteúdo, o valor deve ser validado em tarefas reais, não apenas pela novidade do canal."
+      },
+      {
+        "title": "Meta adiciona assistente de IA para donos de pequenas empresas",
+        "source": "Social Media Today",
+        "date": "Aug 19, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-adds-ai-powered-assistant-for-smb-owners/828344/",
+        "summary": "A Meta apresentou um assistente de IA para proprietários de pequenas empresas, com foco em perguntas, recomendações e tarefas de marketing. A promessa é reduzir trabalho operacional, mas respostas automáticas ainda precisam de revisão e não substituem dados comerciais. O uso mais seguro é começar com rascunhos e diagnósticos, mantendo aprovação humana para ações públicas."
+      },
+      {
+        "title": "Meta destaca oportunidades crescentes para marcas no esporte feminino",
+        "source": "Social Media Today",
+        "date": "Aug 19, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-highlights-rising-brand-opportunities-in-womens-sports/828348/",
+        "summary": "A Meta destacou o crescimento do interesse de marcas por esportes femininos e apresentou oportunidades de associação em seus canais. O argumento aponta uma janela cultural e comercial, mas não informa retorno garantido para cada patrocínio ou campanha. A decisão deve considerar audiência, afinidade, direitos de uso e resultado incremental por mercado."
+      },
+      {
+        "title": "Análise aponta que os custos reais de IA da Meta são maiores que o divulgado",
+        "source": "Social Media Today",
+        "date": "Aug 17, 2026",
+        "url": "https://www.socialmediatoday.com/news/metas-true-ai-costs-exceed-previous-accounts/828097/",
+        "summary": "Uma análise discutiu como os custos de infraestrutura e operação de IA da Meta podem superar estimativas anteriores, considerando data centers, chips e energia. O texto é uma leitura editorial, não um balanço auditado. Para anunciantes, a implicação é acompanhar como investimentos em IA podem influenciar produtos, preços, automação e prioridades da plataforma."
+      },
+      {
+        "title": "Como as plataformas sociais medem visualizações de vídeo",
+        "source": "Social Media Today",
+        "date": "Aug 19, 2026",
+        "url": "https://www.socialmediatoday.com/news/how-social-platforms-measure-video-views/828349/",
+        "summary": "O artigo comparou como plataformas sociais definem e contabilizam visualizações de vídeo. As diferenças de janela, reprodução automática e critérios de contagem tornam comparações diretas arriscadas. Para relatórios, o caminho é registrar a definição de cada rede, manter o mesmo período e complementar views com retenção, cliques, leads e resultado comercial."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google amplia testes e planejamento para AI Max",
+        "source": "Google Ads & Commerce",
+        "date": "Aug 20, 2026",
+        "url": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/",
+        "summary": "O Google anunciou testes A/B para comparar orçamentos e metas de retorno em várias campanhas Search, além de controles de marca, localização e novas sugestões do Performance Planner. A evolução facilita experimentar AI Max, mas não substitui uma hipótese e um grupo de controle. O efeito deve ser medido por margem, leads qualificados ou receita, conforme o objetivo."
+      },
+      {
+        "title": "Google contextualiza as mudanças de Smart Bidding para campanhas limitadas por orçamento",
+        "source": "Search Engine Land",
+        "date": "Aug 17, 2026",
+        "url": "https://searchengineland.com/smx-now-the-target-bidding-apocalypse-and-how-weve-been-here-before-484627",
+        "summary": "A Search Engine Land contextualizou as mudanças de Smart Bidding que começaram em 17 de agosto para campanhas limitadas por orçamento. A cobertura destaca o efeito sobre Target CPA e Target ROAS e recomenda entender a alteração antes de reagir. Na prática, revise metas, orçamento e ciclo de conversão antes de atribuir qualquer variação ao leilão."
+      },
+      {
+        "title": "Google Ads API v25.1 é anunciada",
+        "source": "Google Ads Developer Blog",
+        "date": "Aug 19, 2026",
+        "url": "https://ads-developers.googleblog.com/2026/08/announcing-v251-of-google-ads-api.html",
+        "summary": "O Google anunciou a versão 25.1 da Google Ads API, com mudanças de recursos e compatibilidade para integrações de gestão e mensuração. A atualização exige conferir bibliotecas, campos e testes antes de trocar a versão em produção. O ganho prático depende dos endpoints usados pela operação; não é necessário migrar sem uma demanda técnica concreta."
+      },
+      {
+        "title": "Google Ads prepara uma base mais forte para geração de leads B2B",
+        "source": "Search Engine Land",
+        "date": "Aug 19, 2026",
+        "url": "https://searchengineland.com/google-ads-stronger-foundation-b2b-lead-gen-485288",
+        "summary": "A análise reuniu avanços do Google Ads para B2B, como conexões com CRM, importação de conversões offline e recursos de jornada. O ponto central é otimizar para etapas mais próximas da venda, não apenas para preenchimento de formulário. A recomendação é validar sinais no CRM e começar com testes controlados, pois várias funções ainda estão em expansão."
+      },
+      {
+        "title": "Performance Max usará IA generativa para adaptar vídeos",
+        "source": "Search Engine Land",
+        "date": "Aug 17, 2026",
+        "url": "https://searchengineland.com/google-ads-will-use-generative-ai-to-resize-performance-max-video-ads-485252",
+        "summary": "O Google passou a usar IA generativa para criar proporções adicionais de vídeos de Performance Max a partir de ativos existentes. Isso pode reduzir trabalho de adaptação e aumentar cobertura de formatos, mas também amplia o risco de cortes, enquadramentos ou mensagens inadequadas. Revise visualmente as versões produzidas antes de confiar a entrega à automação."
+      },
+      {
+        "title": "Google prepara dados de produto para o período de festas",
+        "source": "Google Ads & Commerce",
+        "date": "Aug 19, 2026",
+        "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-merchant-center-holidays/",
+        "summary": "O Google publicou orientações para deixar dados de produto prontos para o período de festas no Merchant Center. A preparação envolve títulos, disponibilidade, preço, promoções e qualidade do feed. É uma recomendação operacional, não uma promessa de venda; o efeito depende de estoque, margem, prazo de entrega e consistência entre catálogo e site."
+      },
+      {
+        "title": "Google mostra campanhas criativas feitas com Flow para pequenos negócios",
+        "source": "Google Ads & Commerce",
+        "date": "Aug 19, 2026",
+        "url": "https://blog.google/products/ads-commerce/the-small-brief/",
+        "summary": "O Google mostrou três campanhas produzidas com acesso amplo ao Flow, sua ferramenta de criação audiovisual com IA, para ilustrar aplicações em pequenos negócios. Os exemplos ajudam a entender possibilidades de produção, mas são demonstrações selecionadas e não estudos de incremento. Use-os como referência de processo e teste o efeito real por conceito, formato e público."
+      },
+      {
+        "title": "Google Ads testa Enhanced Matching para Customer Match",
+        "source": "Search Engine Land",
+        "date": "Aug 19, 2026",
+        "url": "https://searchengineland.com/google-ads-tests-enhanced-matching-for-customer-match-485490",
+        "summary": "A Search Engine Land relatou um teste de Enhanced Matching para Customer Match, que pode ampliar listas próprias com sinais de publishers sob consentimento. A disponibilidade parece limitada e os detalhes públicos ainda são insuficientes para tratar o recurso como rollout geral. Valide elegibilidade, consentimento e match rate antes de considerar qualquer uso operacional."
+      },
+      {
+        "title": "Google Ads API v25.1 amplia medição e insights",
+        "source": "Search Engine Land",
+        "date": "Aug 19, 2026",
+        "url": "https://searchengineland.com/google-ads-api-v25-1-expands-measurement-and-insights-485535",
+        "summary": "A cobertura da versão 25.1 destacou expansões em medição e insights disponíveis pela API do Google Ads. O avanço pode apoiar relatórios e automações mais detalhados, mas não corrige nomenclatura, tracking ou reconciliação comercial ruins. Integrações devem mapear campos afetados, testar respostas e manter uma versão anterior até validar os dados."
+      },
+      {
+        "title": "Google atualiza ferramentas de estudo no Search com IA",
+        "source": "Google Search",
+        "date": "Aug 19, 2026",
+        "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+        "summary": "O Google anunciou novas formas de usar Search e IA para estudar, incluindo apoio a materiais, perguntas de acompanhamento e organização de sessões. A notícia mostra a busca incorporando fluxos mais longos e contextuais. Para marketing, a leitura útil é acompanhar como usuários formulam necessidades e como respostas de IA mudam descoberta, consideração e cliques."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "ChatGPT recebe mais cliques pagos vindos do Google que outros destinos relevantes",
+        "source": "Search Engine Land",
+        "date": "Aug 17, 2026",
+        "url": "https://searchengineland.com/chatgpt-draws-more-paid-clicks-from-google-than-any-other-top-destination-485246",
+        "summary": "Uma análise da iPullRank, baseada em 13,1 bilhões de eventos de busca, apontou que o ChatGPT recebeu uma proporção de cliques pagos do Google maior que outros destinos analisados. A amostra não revela custo, conversão ou incrementalidade. O sinal mais seguro é que busca e descoberta por IA já fazem parte da mesma jornada para alguns usuários."
+      },
+      {
+        "title": "Ginny Marvin reforça que fundamentos de PPC continuam importantes",
+        "source": "Search Engine Land",
+        "date": "Aug 17, 2026",
+        "url": "https://searchengineland.com/ginny-marvin-on-smart-bidding-ai-and-why-ppc-fundamentals-still-matter-485132",
+        "summary": "Em entrevista, a representante de Google Ads Ginny Marvin comentou a mudança de lances de 17 de agosto, a importância das metas e os limites de ferramentas de IA. A orientação prática é entender a alteração antes de reagir, ligar otimização ao objetivo de negócio e testar com método. CPC isolado não deve decidir o sucesso da conta."
+      },
+      {
+        "title": "Google muda a otimização de conversões por visualização no Demand Gen",
+        "source": "Search Engine Land",
+        "date": "Aug 17, 2026",
+        "url": "https://searchengineland.com/google-updates-demand-gen-view-through-conversion-optimization-485127",
+        "summary": "O Google está reposicionando a otimização por conversão de visualização no Demand Gen para vídeo, ampliando o inventário e tornando a opção padrão em novas campanhas. Vídeos no Display também passam a usar CPM nesse contexto. A mudança pede revisão de configuração, janela de conversão e leitura de resultado assistido antes de comparar períodos."
+      },
+      {
+        "title": "Teste de US$ 113 mil questiona quanto do paid search era incremental",
+        "source": "Search Engine Land",
+        "date": "Aug 17, 2026",
+        "url": "https://searchengineland.com/paid-search-test-organic-traffic-485023",
+        "summary": "Um experimento de 13 semanas pausou cerca de US$ 113 mil por mês em paid search e observou recuperação de parte da receita por orgânico e direto. O estudo sugere que grande parcela do gasto de marca defendia cliques que já poderiam ocorrer, mas é um caso específico. A decisão correta exige teste de incrementalidade próprio, não cópia automática."
+      },
+      {
+        "title": "Meta AI passa a analisar e otimizar campanhas Meta Ads",
+        "source": "Search Engine Land",
+        "date": "Aug 20, 2026",
+        "url": "https://searchengineland.com/meta-ai-can-now-analyze-and-optimize-meta-ads-campaigns-485588",
+        "summary": "A Meta passou a permitir que o Meta AI analise campanhas, criativos, públicos e orçamentos e gere relatórios com contexto do Google Workspace. A automação pode reduzir trabalho manual, mas a recomendação vem da mesma plataforma que recebe a verba. Antes de aplicar mudanças, valide margem, qualidade, incrementalidade e objetivo de negócio."
+      },
+      {
+        "title": "Google Ads pode melhorar a qualidade de leads com dados do CRM",
+        "source": "Search Engine Land",
+        "date": "Aug 20, 2026",
+        "url": "https://searchengineland.com/measure-lead-quality-google-ads-485451",
+        "summary": "A análise propõe conectar o CRM ao Google Ads, definir o que é lead qualificado e enviar sinais de valor para otimização. O princípio evita que a plataforma busque apenas volume de formulário. A implementação exige guardar identificadores, acompanhar o funil e confirmar se existe volume suficiente antes de usar lances baseados em valor."
+      },
+      {
+        "title": "Microsoft publica documentação da Conversions API",
+        "source": "Search Engine Land",
+        "date": "Aug 18, 2026",
+        "url": "https://searchengineland.com/microsoft-advertising-publishes-conversions-api-documentation-485356",
+        "summary": "A Microsoft publicou documentação da Conversions API em beta, permitindo enviar eventos online e offline diretamente dos sistemas do anunciante. A alternativa reduz dependência de rastreamento no navegador, mas aumenta a responsabilidade por identidade, deduplicação e qualidade do evento. Implemente apenas depois de definir fonte, campos e regra de reconciliação."
+      },
+      {
+        "title": "ChatGPT Ads se expandem para 31 países europeus",
+        "source": "Search Engine Land",
+        "date": "Aug 19, 2026",
+        "url": "https://searchengineland.com/chatgpt-ads-are-expanding-to-31-european-countries-485468",
+        "summary": "A OpenAI anunciou expansão do ChatGPT Ads para 31 países europeus, com compra inicial por equipe comercial, agências e parceiros de tecnologia. Os anúncios ficam separados das respostas e não usam conversas dos usuários para segmentação, segundo a empresa. O canal merece teste exploratório, mas escala, acesso e mensuração ainda estão em formação."
+      },
+      {
+        "title": "Microsoft Advertising leva AI Max globalmente para campanhas Search",
+        "source": "Search Engine Land",
+        "date": "Aug 19, 2026",
+        "url": "https://searchengineland.com/microsoft-advertising-rolls-out-ai-max-globally-for-search-campaigns-485530",
+        "summary": "A Microsoft começou a distribuir globalmente o AI Max para Search, reunindo correspondência ampliada, geração de texto e expansão dinâmica de URL. O pacote permanece opcional e inclui regras, relatórios e experimentos, mas muda a relação entre consulta, anúncio e página. Teste com exclusões, URLs aprovadas e conversões confiáveis antes de ampliar."
+      },
+      {
+        "title": "Microsoft retirará o Max CPC de novas campanhas automatizadas",
+        "source": "Search Engine Land",
+        "date": "Aug 20, 2026",
+        "url": "https://searchengineland.com/microsoft-advertising-removes-max-cpc-from-new-standalone-bidding-campaigns-485598",
+        "summary": "A Microsoft informou que, a partir de 1º de outubro, novas campanhas com algumas estratégias automatizadas não poderão definir limite de Max CPC. Campanhas existentes mantêm o controle por enquanto. A mudança torna metas, orçamento e qualidade dos sinais mais importantes; use experimentos para medir o efeito antes de lançar estruturas novas no período de festas."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Marcas ajustam o marketing de volta às aulas para consumidores focados em valor",
+        "source": "Marketing Dive",
+        "date": "Aug 18, 2026",
+        "url": "https://www.marketingdive.com/news/brands-shake-up-back-to-school-marketing-to-reach-hyper-value-seekers/827821/",
+        "summary": "A Marketing Dive mostrou como varejistas estão antecipando campanhas de volta às aulas, combinando ofertas, criadores e presença em múltiplos canais para alcançar consumidores mais sensíveis a preço. O artigo cita uma estimativa de queda real de 6% no gasto da temporada. A implicação é planejar mensagem e calendário com margem, não só aumentar mídia."
+      },
+      {
+        "title": "Liquid Death e Garage Beer usam humor para falar de data centers de IA",
+        "source": "Marketing Dive",
+        "date": "Aug 18, 2026",
+        "url": "https://www.marketingdive.com/news/liquid-death-and-garage-beer-take-on-ai-data-centers-with-pee/827879/",
+        "summary": "Liquid Death e Garage Beer lançaram, com Jason Kelce, uma campanha de humor sobre o consumo de água por data centers de IA. O vídeo leva o tema técnico para a cultura popular e para canais sociais e connected TV. O caso mostra uma abordagem de atenção, mas não informa resultado incremental de venda ou mudança de opinião."
+      },
+      {
+        "title": "StarKist concentra marketing em uma agência para ganhar agilidade",
+        "source": "Marketing Dive",
+        "date": "Aug 17, 2026",
+        "url": "https://www.marketingdive.com/news/why-starkist-chose-to-consolidate-its-marketing-at-one-agency/827873/",
+        "summary": "A StarKist escolheu a Tombras como agência de registro para integrar estratégia, criação, mídia, social, mensuração e SEO. A marca busca atualizar o papel do mascote Charlie e se posicionar como proteína conveniente. A decisão reduz fragmentação, mas exige governança clara para evitar dependência e avaliar o impacto por canal."
+      },
+      {
+        "title": "JCPenney parodia varejistas de desconto em campanha de bem-estar",
+        "source": "Marketing Dive",
+        "date": "Aug 17, 2026",
+        "url": "https://www.marketingdive.com/news/jcpenney-parodies-off-price-retailers-with-wellness-themed-campaign/827878/",
+        "summary": "A JCPenney criou uma campanha que parodia a linguagem de retiros de bem-estar para falar de promoções e preço. A ideia usa humor e uma tensão cultural conhecida para diferenciar a oferta no período de volta às aulas. O resultado não deve ser presumido pela atenção; é preciso medir tráfego, conversão, margem e retenção."
+      },
+      {
+        "title": "Chipotle amplia estratégia para a Geração Alpha com Salish Matter",
+        "source": "Marketing Dive",
+        "date": "Aug 19, 2026",
+        "url": "https://www.marketingdive.com/news/chipotle-broadens-gen-alpha-marketing-strategy-with-salish-matter-collab/828178/",
+        "summary": "A Chipotle fechou parceria com a criadora Salish Matter para levar um pedido personalizado ao menu infantil, em sua primeira grande ação com um criador dessa faixa. A marca tenta conectar produto, conteúdo e influência familiar. O ponto de atenção é separar alcance de preferência real, acompanhando vendas incrementais e resposta dos responsáveis."
+      },
+      {
+        "title": "Amazon e Nike lideram preferência em lares com adolescentes da Geração Alpha",
+        "source": "Marketing Dive",
+        "date": "Aug 17, 2026",
+        "url": "https://www.marketingdive.com/news/amazon-nike-reign-supreme-with-gen-alpha-teens-report/827946/",
+        "summary": "Pesquisa HarrisX e Allison Worldwide apontou Amazon e Nike como marcas fortes em lares com adolescentes da Geração Alpha, enquanto mães aparecem como influenciadoras relevantes das preferências. A amostra tem 705 adolescentes e 750 pais. Para mídia, o sinal é tratar adolescente e comprador como papéis distintos, não escolher um único canal."
+      },
+      {
+        "title": "Nuuly aposta em microdrama social para a campanha de outono",
+        "source": "Marketing Dive",
+        "date": "Aug 20, 2026",
+        "url": "https://www.marketingdive.com/news/why-nuuly-is-betting-on-a-microdrama-for-its-social-first-fall-campaign/828301/",
+        "summary": "A Nuuly lançou uma série de 12 episódios sobre relacionamentos para sua campanha social-first de outono, com a marca aparecendo dentro da narrativa. A estratégia busca combater fadiga publicitária e aumentar compartilhamento em TikTok, Reels e Shorts. O indicador principal é entretenimento e propagação, portanto venda imediata não resume o teste."
+      },
+      {
+        "title": "Criadores dizem que adequação à marca importa mais que número de seguidores",
+        "source": "Marketing Dive",
+        "date": "Aug 21, 2026",
+        "url": "https://www.marketingdive.com/news/creator-fit-beats-follower-count-for-brands-heres-what-the-numbers-say/828421/",
+        "summary": "Pesquisa CreatorIQ apontou que adequação e segurança da parceria pesam mais para marcas que o número de seguidores, embora seguidores ainda influenciem remuneração. O levantamento ouviu 5.095 pessoas em 100 regiões. Para campanhas, a seleção deve considerar comunidade, contexto, conteúdo e resultado, não apenas tamanho da audiência."
+      },
+      {
+        "title": "Xero escolhe a Argonaut para sua maior campanha global de marca",
+        "source": "MediaPost",
+        "date": "Aug 20, 2026",
+        "url": "https://www.mediapost.com/publications/article/417378/xero-taps-argonaut-for-global-brand-refresh-ad-ca.html",
+        "summary": "A Xero escolheu a Argonaut como agência criativa líder para uma campanha global baseada em dados e IA, com expansão relevante nos Estados Unidos e outros mercados. O movimento busca unificar marca e escala. Como o investimento ainda é plano de campanha, não há evidência de retorno; acompanhe alcance qualificado, consideração e aquisição separadamente."
+      },
+      {
+        "title": "Under Armour encerra parceria com The Rock durante revisão de marketing",
+        "source": "Retail Dive",
+        "date": "Aug 17, 2026",
+        "url": "https://www.retaildive.com/news/under-armour-dwayne-the-rock-johnson-end-partnership/828020/",
+        "summary": "A Under Armour encerrou a parceria de uma década com Dwayne Johnson e a linha Project Rock, após também se afastar de Steph Curry. A empresa descreveu o momento como ajuste de marketing e já testa novos embaixadores. O caso mostra que associação de celebridade precisa continuar ligada a produto, estratégia e retorno, não apenas notoriedade."
+      }
+    ],
+    "ia": [
+      {
+        "title": "OpenAI publica novas ideias de política para a era da inteligência",
+        "source": "OpenAI",
+        "date": "Aug 17, 2026",
+        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age/",
+        "summary": "A OpenAI publicou propostas de política pública para a chamada era da inteligência, incluindo ideias sobre adoção, segurança e distribuição dos benefícios da IA. O texto é posição institucional, não consenso regulatório. Para empresas, o valor está em acompanhar temas que podem influenciar regras, investimento, trabalho e expectativas de uso responsável."
+      },
+      {
+        "title": "OpenAI discute desenvolvimento de modelos diante de capacidades cibernéticas críticas",
+        "source": "OpenAI",
+        "date": "Aug 18, 2026",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+        "summary": "A OpenAI discutiu como equilibrar ritmo de desenvolvimento de modelos com capacidades cibernéticas cada vez mais fortes. A publicação reforça avaliação, salvaguardas e decisões graduais quando o risco pode mudar rapidamente. A implicação prática é exigir revisão de acesso, monitoramento e resposta a incidentes em usos corporativos sensíveis."
+      },
+      {
+        "title": "OpenAI apresenta a visão de Intelligence Age",
+        "source": "OpenAI",
+        "date": "Aug 20, 2026",
+        "url": "https://openai.com/index/introducing-intelligence-age/",
+        "summary": "A OpenAI apresentou sua visão de Intelligence Age e descreveu como sistemas cada vez mais capazes podem apoiar trabalho, pesquisa e decisões. O material combina visão estratégica e posicionamento da empresa, portanto não é uma previsão independente. Para planejamento, use-o como sinal de direção de produto e não como prova de impacto já realizado."
+      },
+      {
+        "title": "Stampli reduz horas de lançamento usando ChatGPT Work",
+        "source": "OpenAI",
+        "date": "Aug 20, 2026",
+        "url": "https://openai.com/index/stampli/",
+        "summary": "Um estudo de caso da OpenAI relata que a Stampli reduziu em 68% o tempo de lançamento ao usar ChatGPT Work em tarefas de produto e operação. O número é uma declaração do cliente em material da fornecedora, não um experimento independente. A lição aplicável é mapear tarefas repetitivas e medir tempo, qualidade e retrabalho antes de escalar."
+      },
+      {
+        "title": "Notas de versão do ChatGPT adicionam mudanças de produto em agosto",
+        "source": "OpenAI Help Center",
+        "date": "Aug 21, 2026",
+        "url": "https://help.openai.com/en/articles/6825453-gpt-4",
+        "summary": "As notas de versão registraram atualizações de agosto no ChatGPT, incluindo melhorias de experiência, recursos de projeto e mudanças de disponibilidade. Cada item depende de plano, região e rollout. Para equipes, registre versão e permissões antes de alterar processos, porque uma função visível em uma conta pode ainda não existir em outra."
+      },
+      {
+        "title": "Google DeepMind revisita 15 anos de pesquisa de IA em jogos",
+        "source": "Google DeepMind",
+        "date": "Aug 21, 2026",
+        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+        "summary": "O Google DeepMind revisitou avanços de pesquisa em jogos, de Atari e Go a StarCraft e EVE Online, e descreveu agentes que podem apoiar criação e testes de games. O texto é uma visão de pesquisa, não uma promessa de produto pronto. O sinal estratégico é a evolução de agentes gerais em ambientes complexos e verificáveis."
+      },
+      {
+        "title": "Gemma ultrapassa 1 bilhão de downloads",
+        "source": "Google DeepMind",
+        "date": "Aug 20, 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/",
+        "summary": "O Google informou que a família de modelos abertos Gemma ultrapassou 1 bilhão de downloads e destacou usos em pesquisa, saúde e dispositivos restritos. Download não equivale a uso ativo, qualidade ou adoção comercial, e os exemplos são selecionados pela própria empresa. Para desenvolvedores, o ponto é avaliar ecossistema, custo e governança local."
+      },
+      {
+        "title": "Google oferece um ano de plano de IA para estudantes",
+        "source": "Google Gemini",
+        "date": "Aug 19, 2026",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+        "summary": "O Google anunciou um ano gratuito de planos Google AI para estudantes elegíveis e novos recursos de estudo no Gemini. A oferta varia por país, plano e critérios de elegibilidade, com cobrança após o período se não houver cancelamento. A notícia amplia aquisição de usuários, mas não demonstra retenção ou uso educacional de longo prazo."
+      },
+      {
+        "title": "Waymo leva Gemini aos veículos Ojai",
+        "source": "Google Gemini",
+        "date": "Aug 19, 2026",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/",
+        "summary": "A Waymo integrou Gemini aos veículos Ojai como assistente de voz para passageiros, com ações como controlar o ambiente e obter informações sobre o trajeto. O assistente fica separado do sistema de direção, segundo o Google. O caso ilustra IA contextual em produto físico, mas sua utilidade e segurança devem ser avaliadas no uso real."
+      },
+      {
+        "title": "Google amplia personalização do Search, Discover e News",
+        "source": "Google Search",
+        "date": "Aug 20, 2026",
+        "url": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
+        "summary": "O Google adicionou controles para priorizar fontes preferidas no Search e nos resultados de IA, além de opções de personalização no Discover e no News. A atualização dá mais peso à relação entre fonte, confiança e contexto de consulta. Para marcas e publishers, o efeito deve ser medido por presença qualificada e tráfego, não presumido a partir da configuração."
+      }
+    ]
+  }
+}

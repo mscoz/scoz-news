@@ -1,0 +1,368 @@
+{
+  "schema_version": 1,
+  "id": "2026-08-24",
+  "label": "24-30/ago",
+  "label_full": "24 a 30 de agosto de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Edits lança festival para destacar criadores da Índia",
+        "source": "Meta Newsroom",
+        "date": "Aug 24, 2026",
+        "url": "https://about.fb.com/news/2026/08/introducing-the-edits-film-festival-to-spotlight-indias-emerging-creator-talent/",
+        "summary": "A Meta anunciou o Edits Film Festival para dar visibilidade a talentos emergentes da Índia e estimular a criação de vídeos no aplicativo Edits. O programa combina descoberta de criadores e promoção de produto, mas não garante alcance ou contratação para quem participar. Para marcas, vale observar formatos nativos e direitos de uso antes de associar campanhas ao festival."
+      },
+      {
+        "title": "WhatsApp ganha novos recursos de segurança de conta",
+        "source": "Meta Newsroom",
+        "date": "Aug 25, 2026",
+        "url": "https://about.fb.com/news/2026/08/new-account-security-features-for-whatsapp/",
+        "summary": "A Meta anunciou novas proteções para contas do WhatsApp, com foco em sinais de comportamento suspeito e prevenção de tomada de conta. A atualização pode reduzir risco para usuários e empresas, mas não substitui autenticação, treinamento e processos internos. Negócios que usam WhatsApp para atendimento devem revisar recuperação de acesso e dispositivos autorizados."
+      },
+      {
+        "title": "Meta fecha acordo com procuradores sobre proteção de adolescentes",
+        "source": "Meta Newsroom",
+        "date": "Aug 26, 2026",
+        "url": "https://about.fb.com/news/2026/08/agreement-with-state-attorneys-general-supporting-teens/",
+        "summary": "A Meta anunciou um acordo com procuradores-gerais estaduais dos Estados Unidos para ampliar medidas de proteção a adolescentes em suas plataformas. O acordo inclui restrições de uso e mudanças de experiência, com possível efeito sobre alcance e segmentação de públicos jovens. A aplicação deve ser acompanhada por país, idade, campanha e política vigente."
+      },
+      {
+        "title": "Meta explica o sistema de resfriamento fechado usado em IA",
+        "source": "Meta Newsroom",
+        "date": "Aug 27, 2026",
+        "url": "https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai/",
+        "summary": "A Meta explicou como sistemas de resfriamento em circuito fechado ajudam a reduzir o uso de água em instalações de IA. O conteúdo descreve infraestrutura e eficiência operacional da empresa, não um resultado independente de sustentabilidade. A notícia importa porque energia, água e capacidade de data center influenciam custo e ritmo de expansão de produtos de IA."
+      },
+      {
+        "title": "Instagram lança promoção conectada à TV",
+        "source": "Social Media Today",
+        "date": "Aug 26, 2026",
+        "url": "https://www.socialmediatoday.com/news/instagram-launches-connected-tv-promotion/828903/",
+        "summary": "O Instagram lançou uma promoção conectada à TV para divulgar criadores e estimular descoberta entre telas. A iniciativa reforça a tentativa de ligar conteúdo social a consumo de vídeo em ambientes maiores, mas não traz prova de aumento de conversão. Marcas devem tratar o formato como teste de alcance e frequência, com medição separada por tela."
+      },
+      {
+        "title": "Meta testa resposta automática por mensagem em comentários de anúncios",
+        "source": "Social Media Today",
+        "date": "Aug 25, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-tests-auto-dm-response-for-instagram-ad-comments/828791/",
+        "summary": "A Meta começou a testar respostas automáticas por mensagem direta para comentários em anúncios do Instagram. O recurso pode acelerar atendimento e captura de intenção, mas aumenta o risco de resposta inadequada ou repetitiva. Antes de ativar, defina perguntas frequentes, limites, roteamento para humanos e uma forma de auditar conversas e leads."
+      },
+      {
+        "title": "Instagram lança First Draft para criação de Reels",
+        "source": "Social Media Today",
+        "date": "Aug 25, 2026",
+        "url": "https://www.socialmediatoday.com/news/instagram-launches-first-draft-for-reels/828789/",
+        "summary": "O Instagram lançou o First Draft para ajudar criadores a iniciar Reels e organizar ideias de vídeo. A ferramenta reduz o atrito da primeira versão, mas não substitui conceito, revisão de marca ou adequação ao público. Para equipes, o ganho deve ser avaliado por velocidade de produção e qualidade final, não por volume de rascunhos publicados."
+      },
+      {
+        "title": "Nova Zelândia apresenta restrições para adolescentes em redes sociais",
+        "source": "Social Media Today",
+        "date": "Aug 24, 2026",
+        "url": "https://www.socialmediatoday.com/news/new-zealand-introduces-teen-social-media-restrictions/828662/",
+        "summary": "A Nova Zelândia apresentou restrições de acesso de adolescentes a redes sociais, ampliando a pressão regulatória sobre plataformas e anunciantes. O texto descreve uma iniciativa local, não uma regra global já aplicada. Marcas que segmentam jovens devem acompanhar idade, consentimento, inventário permitido e mudanças de elegibilidade em cada mercado."
+      },
+      {
+        "title": "Meta conclui acordo de US$ 18 bilhões em processo sobre adolescentes",
+        "source": "Social Media Today",
+        "date": "Aug 26, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-settles-landmark-lawsuit-for-18b/828900/",
+        "summary": "A Meta concordou em pagar cerca de US$ 18 bilhões para encerrar um processo movido por procuradores estaduais dos Estados Unidos sobre efeitos de seus produtos em adolescentes. O acordo também envolve mudanças de experiência, segundo a cobertura. O número é o valor informado para o acordo e não deve ser confundido com uma perda de receita publicitária já medida."
+      },
+      {
+        "title": "Como o acordo da Meta pode afetar o marketing em redes sociais",
+        "source": "Social Media Today",
+        "date": "Aug 27, 2026",
+        "url": "https://www.socialmediatoday.com/news/how-will-metas-settlement-impact-social-media/829033/",
+        "summary": "A análise discutiu possíveis efeitos do acordo da Meta sobre uso por adolescentes, feeds, notificações e segmentação de publicidade. Parte do impacto ainda depende de implementação e orientação regulatória. Para planejamento, mantenha públicos jovens separados, monitore entrega por idade e não projete queda de performance sem observar dados da própria conta."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google amplia Demand Gen com recursos de mensagens, viagens e vídeo por IA",
+        "source": "Google Ads & Commerce",
+        "date": "Aug 27, 2026",
+        "url": "https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/",
+        "summary": "O Google anunciou novas funções no Demand Gen, incluindo teste de conversas por mensagens, ofertas de viagem mais personalizadas e criação multimodal de vídeo no Asset Studio. A plataforma diz que melhorias anteriores elevaram conversões ou valor de conversão em média, com base em dados internos. A decisão deve usar teste e resultado comercial próprio."
+      },
+      {
+        "title": "Google lança desafio com projetos de IA para impacto social",
+        "source": "Google AI",
+        "date": "Aug 24, 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/",
+        "summary": "O Google apresentou os vencedores do Gemma 4 Good Challenge, que pediu soluções com modelos abertos para problemas humanos e sociais. Os projetos ilustram usos possíveis, mas seleção em um desafio não prova adoção ou impacto em escala. Para empresas, o ponto é avaliar casos concretos, dados, custo de operação e responsabilidade antes de replicar."
+      },
+      {
+        "title": "Google Play prepara showcase da Gamescom com experiências e prêmios",
+        "source": "Google Play",
+        "date": "Aug 25, 2026",
+        "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-gamescom-takeover-rewards/",
+        "summary": "O Google Play anunciou uma ativação na Gamescom com caça ao tesouro, torneios, avatares e mais de 53 mil prêmios, além de experiências para jogos em várias telas. O caso combina evento físico, comunidade e participação digital. Para marcas, a lição é desenhar uma jornada integrada e medir envolvimento e ação separadamente."
+      },
+      {
+        "title": "Google oferece treinamento gratuito de IA e carreira em Delaware",
+        "source": "Google",
+        "date": "Aug 25, 2026",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/",
+        "summary": "O Google e o estado de Delaware anunciaram acesso sem custo a cursos de IA e certificados profissionais, incluindo marketing digital e e-commerce. A iniciativa amplia capacitação, mas a taxa de resultado citada é autorrelatada para concluintes de programas da empresa. O valor prático depende de conclusão, aplicação no trabalho e demanda local por essas competências."
+      },
+      {
+        "title": "Google Search adiciona recursos de IA para planejar decoração de casa",
+        "source": "Google Search",
+        "date": "Aug 25, 2026",
+        "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+        "summary": "O Google mostrou novos fluxos do Search para visualizar móveis, identificar itens com Lens, receber orientação por vídeo e acompanhar preços em projetos de decoração. A atualização liga inspiração a comparação e compra dentro da busca. Para varejo, o ponto é manter imagens, dados de produto e preço consistentes, sem tratar a função como garantia de venda."
+      },
+      {
+        "title": "Google conecta Maps, Search e Gemini ao planejamento de parques nacionais",
+        "source": "Google Maps",
+        "date": "Aug 24, 2026",
+        "url": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/",
+        "summary": "O Google apresentou formas de usar Search, Maps e Gemini para descobrir parques, montar roteiros e obter ajuda durante atividades ao ar livre. O exemplo mostra a integração entre descoberta, planejamento e contexto local. Para negócios de turismo, dados de presença, avaliações e disponibilidade ganham peso em jornadas que começam com uma pergunta."
+      },
+      {
+        "title": "Google orienta uso da ditadura inteligente no Gemini para macOS",
+        "source": "Google Gemini",
+        "date": "Aug 25, 2026",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/",
+        "summary": "O Gemini para macOS passou a oferecer ditado inteligente que transforma fala em texto revisado e formatado na janela em uso. O recurso pode reduzir esforço em rascunhos e notas, mas exige cuidado com dados sensíveis e conferência do resultado. Para equipes, comece com tarefas de baixo risco e defina quando a transcrição deve ser revisada."
+      },
+      {
+        "title": "Google coloca Pixel 11 e Pixel Watch 5 à venda",
+        "source": "Google Devices",
+        "date": "Aug 25, 2026",
+        "url": "https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/",
+        "summary": "O Google iniciou a venda dos telefones Pixel 11 e do Pixel Watch 5, destacando câmeras, saúde, GPS e recursos de Gemini. O anúncio é de produto e disponibilidade, com preços e mercados que podem variar. Para marketing, a janela traz novos ativos e intenção de compra, mas desempenho precisa ser medido por oferta, região e conversão."
+      },
+      {
+        "title": "Google adiciona Expert Intelligence ao Gemini Notebook",
+        "source": "Google Gemini Notebook",
+        "date": "Aug 27, 2026",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
+        "summary": "O Gemini Notebook passou a permitir incorporar conteúdo de autores, publicações e especialistas, incluindo títulos comprados, em fluxos de estudo e análise. A função aproxima IA de fontes selecionadas, mas não elimina a necessidade de conferir citações e direitos de uso. Para pesquisa, registrar origem e versão do material continua essencial."
+      },
+      {
+        "title": "Google debate IA, propriedade intelectual e direitos de criadores",
+        "source": "Google",
+        "date": "Aug 26, 2026",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/",
+        "summary": "O Google publicou uma fala sobre IA, propriedade intelectual, opt-out de conteúdo e proteção contra réplicas digitais enganosas. O texto é posição institucional e não substitui lei ou parecer jurídico. Para marketing e conteúdo, reforça a necessidade de rastrear direitos, origem de ativos, consentimento e uso de ferramentas de geração."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "ChatGPT Ads adiciona lances automáticos e segmentação de plataforma",
+        "source": "Search Engine Land",
+        "date": "Aug 24, 2026",
+        "url": "https://searchengineland.com/chatgpt-ads-adds-automated-bidding-platform-targeting-485707",
+        "summary": "O ChatGPT Ads começou a adicionar lances automatizados, controles de plataforma e recursos para ampliar gestão de campanhas. A evolução aproxima o produto de uma operação de mídia mais tradicional, mas acesso, volume e mensuração ainda estão em expansão. Testes devem começar com objetivo, orçamento e eventos de conversão bem definidos."
+      },
+      {
+        "title": "Google unifica Google tag e Tag Manager com eventos sem código",
+        "source": "Search Engine Land",
+        "date": "Aug 24, 2026",
+        "url": "https://searchengineland.com/google-unifies-google-tag-and-tag-manager-adds-no-code-event-tracking-485688",
+        "summary": "O Google anunciou uma integração maior entre Google tag e Tag Manager, com criação de eventos sem código e gestão mais centralizada. A promessa é reduzir atrito de implementação, mas configurações fáceis também podem criar eventos duplicados ou mal definidos. Faça inventário, teste com ambiente controlado e valide no GA4 e no CRM."
+      },
+      {
+        "title": "Google amplia categorias do Local Services Ads antes da migração",
+        "source": "Search Engine Land",
+        "date": "Aug 24, 2026",
+        "url": "https://searchengineland.com/google-expands-local-services-ads-categories-ahead-of-migration-485695",
+        "summary": "O Google expandiu categorias elegíveis do Local Services Ads e tornou classificações de restaurantes, automóveis e beleza mais específicas antes da migração para Google Ads. A granularidade pode melhorar o encaixe entre serviço e intenção, mas não garante leads melhores. Empresas locais devem revisar categoria, perfil, cobertura e qualidade de contato."
+      },
+      {
+        "title": "Local Services Ads passará a cobrar algumas ligações perdidas",
+        "source": "Search Engine Land",
+        "date": "Aug 25, 2026",
+        "url": "https://searchengineland.com/google-local-services-ads-will-charge-for-some-missed-calls-starting-oct-1-485798",
+        "summary": "A partir de 1º de outubro, algumas ligações perdidas e chamadas posteriores no Local Services Ads poderão ser cobradas quando atenderem aos critérios de lead válido. O novo limite considera ligações com mais de 20 segundos em horário comercial, com exceções de roteamento. Resposta, fila e atendimento passam a afetar diretamente o custo de mídia."
+      },
+      {
+        "title": "Google amplia reservas diretas no Local Services Ads",
+        "source": "Search Engine Land",
+        "date": "Aug 25, 2026",
+        "url": "https://searchengineland.com/google-expands-direct-booking-for-local-services-ads-485807",
+        "summary": "O Google ampliou reservas diretas do Local Services Ads para mais de 500 parceiros, contra cerca de 20 antes, conectando links de agendamento do Perfil da Empresa aos anúncios. Reservas passam a aparecer como leads pagos. Negócios devem conferir custo, qualidade, agenda e preferências de parceiro antes de considerar a função como ganho líquido."
+      },
+      {
+        "title": "Google testa controle de prioridade de canais no Performance Max",
+        "source": "Search Engine Land",
+        "date": "Aug 25, 2026",
+        "url": "https://searchengineland.com/google-tests-channel-prioritization-controls-for-performance-max-485825",
+        "summary": "O Google está testando ajustes positivos ou negativos para influenciar a prioridade de Search, YouTube, Display, Discover, Gmail e Maps no Performance Max. O controle não fixa percentuais de orçamento e ainda está em alpha. A leitura deve incluir contribuição de jornada, não só CPA atribuído ao canal, antes de reduzir inventário."
+      },
+      {
+        "title": "Otimização de mídia paga pode trabalhar contra o resultado do negócio",
+        "source": "Search Engine Land",
+        "date": "Aug 25, 2026",
+        "url": "https://searchengineland.com/paid-media-optimization-working-against-you-485720",
+        "summary": "A análise alerta que CPC, CTR e CPA baixos podem esconder leads fracos, tráfego acidental ou menor contribuição para receita. A recomendação é acompanhar qualificação no CRM, venda, margem e valor de vida junto das métricas da plataforma. O princípio é evitar cortes por eficiência aparente sem entender o denominador e o estágio do funil."
+      },
+      {
+        "title": "Google Ads passa a mostrar desempenho de títulos de produto gerados por IA",
+        "source": "Search Engine Land",
+        "date": "Aug 26, 2026",
+        "url": "https://searchengineland.com/google-ads-adds-reporting-for-ai-generated-product-titles-485887",
+        "summary": "O Google Ads começou a exibir um relatório com títulos de produto personalizados por IA, lado a lado com os títulos originais e seus dados de impressão, clique, CTR, custo e CPC. A visibilidade ajuda a auditar o que o consumidor viu. Lojas devem revisar títulos, feed e desempenho antes de concluir que a automação melhorou vendas."
+      },
+      {
+        "title": "Google prepara migração de Display para Demand Gen",
+        "source": "Search Engine Land",
+        "date": "Aug 27, 2026",
+        "url": "https://searchengineland.com/moving-google-display-demand-gen-485895",
+        "summary": "A migração de campanhas Display para Demand Gen traz inventário e criação com IA, mas remove ou altera controles, formatos, lances e ajustes disponíveis. A ferramenta preserva parte do histórico recente, porém pode haver oscilação. Planeje antes do período forte, registre o controle e compare desempenho com a mesma meta."
+      },
+      {
+        "title": "Demand Gen ganha mensagens, recursos de viagem e vídeo por IA",
+        "source": "Search Engine Land",
+        "date": "Aug 27, 2026",
+        "url": "https://searchengineland.com/google-expands-demand-gen-with-messaging-ads-travel-tools-and-ai-video-creation-486030",
+        "summary": "A atualização do Demand Gen inclui teste de mensagens em anúncios do YouTube, ofertas e atividades de viagem mais relevantes e criação de vídeo horizontal e vertical no Asset Studio. O pacote encurta o caminho entre descoberta e contato, mas a qualidade do lead ainda precisa de validação. Meça conversa, venda e custo por oportunidade, não apenas conversão da plataforma."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Starbucks pergunta se Pumpkin Spice Latte é básico com Martha Stewart",
+        "source": "Marketing Dive",
+        "date": "Aug 27, 2026",
+        "url": "https://www.marketingdive.com/news/is-starbucks-pumpkin-spice-latte-basic-martha-stewart-answers-in-new-ad/828848/",
+        "summary": "A Starbucks usou Martha Stewart para responder à provocação de que o Pumpkin Spice Latte seria “básico”, transformando uma conversa recorrente em peça de humor para a temporada. A estratégia explora memória cultural e personalidade, mas atenção não equivale a tráfego ou venda incremental. O efeito deve ser comparado por loja, audiência e período."
+      },
+      {
+        "title": "Dr Pepper explica como a campanha Fansville mantém relevância",
+        "source": "Marketing Dive",
+        "date": "Aug 27, 2026",
+        "url": "https://www.marketingdive.com/news/how-dr-peppers-fansville-campaign-stays-relevant-and-drives-outcomes/828824/",
+        "summary": "A Dr Pepper detalhou como Fansville usa sinais de consumidores, parceiros de mídia e capacidades próprias para manter uma plataforma de campanha ligada ao futebol universitário. O caso combina entretenimento, dados e distribuição, mas resultados apresentados pela marca não são prova universal. A lição é conectar conceito criativo a sinais de negócio e contexto cultural."
+      },
+      {
+        "title": "United leva programa de fantasy football da ESPN para dentro de um voo",
+        "source": "Marketing Dive",
+        "date": "Aug 26, 2026",
+        "url": "https://www.marketingdive.com/news/why-united-helped-broadcast-espns-fantasy-football-show-live-from-the-sky/828739/",
+        "summary": "A United transmitiu um programa de fantasy football da ESPN a bordo de um voo para demonstrar o Wi-Fi Starlink e criar um momento de marca ligado ao esporte. A ativação combina prova de produto, entretenimento e conteúdo social. O caso é forte em atenção, mas exige medir lembrança, uso do serviço e conversão além das visualizações."
+      },
+      {
+        "title": "Athleta revisa narrativa de marca com propósito mais forte",
+        "source": "Marketing Dive",
+        "date": "Aug 25, 2026",
+        "url": "https://www.marketingdive.com/news/how-athleta-is-revamping-its-brand-narrative-with-bolder-purpose/828620/",
+        "summary": "A Athleta lançou a campanha “My World. My Rules.” para iniciar uma revisão de marca com foco em mulheres, narrativa visual e presença social. A estratégia busca recuperar crescimento depois de iniciativas anteriores com pouco efeito. O ponto de decisão é acompanhar mudança de percepção e venda, sem confundir propósito declarado com impacto comprovado."
+      },
+      {
+        "title": "Meta pode mudar o ambiente de marketing após acordo sobre adolescentes",
+        "source": "Marketing Dive",
+        "date": "Aug 28, 2026",
+        "url": "https://www.marketingdive.com/news/sociable-how-will-metas-settlement-impact-social-media/829045/",
+        "summary": "A coluna Sociable analisou possíveis efeitos do acordo da Meta sobre limites de uso, feeds, notificações e publicidade para adolescentes nos Estados Unidos. A leitura combina fatos do acordo com interpretação sobre confiança e engajamento, portanto parte do impacto ainda é hipótese. Marcas devem monitorar idade, entrega e políticas antes de alterar públicos."
+      },
+      {
+        "title": "Meta elimina opção de excluir alguns posicionamentos de anúncios",
+        "source": "Marketing Dive",
+        "date": "Aug 27, 2026",
+        "url": "https://www.marketingdive.com/news/sociable-meta-removes-option-to-exclude-ad-placements/828941/",
+        "summary": "A coluna Sociable relatou que a Meta está removendo a opção de excluir alguns posicionamentos e deixando a distribuição mais dependente de automação. A mudança reduz controle manual, mas não prova queda de brand safety ou performance. O trabalho prático é auditar posicionamentos, criativos, inventário e resultados depois da alteração."
+      },
+      {
+        "title": "Fanta transforma campanha de Halloween em universo recorrente",
+        "source": "Marketing Dive",
+        "date": "Aug 27, 2026",
+        "url": "https://www.marketingdive.com/news/how-fantas-haunted-universe-helps-turn-halloween-into-a-platform/828481/",
+        "summary": "A Fanta apresentou Haunted Universe, uma propriedade de entretenimento com personagens, histórias, embalagem e experiências para transformar Halloween em plataforma recorrente. O artigo cita uso de IA na produção e planos em 50 mercados. A ambição é grande, mas números de impressão não demonstram sozinhos aumento de vendas ou valor de marca."
+      },
+      {
+        "title": "Ann Taylor prepara retorno de marca com campanha integrada e Substack",
+        "source": "Marketing Dive",
+        "date": "Aug 24, 2026",
+        "url": "https://www.marketingdive.com/news/ann-taylor-stages-a-brand-comeback-with-substack-fall-fashion-blitz/828397/",
+        "summary": "A Ann Taylor lançou “This Is Ann”, sua primeira grande campanha integrada em quase uma década, com conteúdo, mídia, pop-up e uma estratégia de comunidade no Substack. A marca tenta atualizar sua relação com mulheres que equilibram trabalho, família e vida social. O resultado deve ser avaliado por consideração, clientes novos e recorrência."
+      },
+      {
+        "title": "Pizza Hut usa quarterbacks e troca temporariamente o nome para Hut",
+        "source": "Marketing Dive",
+        "date": "Aug 25, 2026",
+        "url": "https://www.marketingdive.com/news/pizza-hut-ads-celebrate-quarterbacks-as-chain-drops-pizza-from-name/828530/",
+        "summary": "A Pizza Hut lançou campanha de futebol americano com Josh Allen e passou a usar temporariamente o nome Hut, ligando o trocadilho ao chamado de quarterbacks. A ação combina valor, cultura esportiva, social e promoção. Para medir efeito, separe alcance e lembrança de marca de tráfego, pedidos e rentabilidade da oferta."
+      },
+      {
+        "title": "Wendy’s contrata ex-CMO do McDonald’s para liderar crescimento",
+        "source": "Restaurant Dive",
+        "date": "Aug 24, 2026",
+        "url": "https://www.restaurantdive.com/news/wendys-hires-ex-mcdonalds-cmo-as-chief-marketing-customer-growth-officer/828593/",
+        "summary": "A Wendy’s nomeou Tariq Hassan para um cargo novo de marketing e crescimento do cliente, após seis trimestres de queda nas vendas mesmas lojas. A mudança tenta ligar marketing, digital, inovação de menu e fidelidade à recuperação do negócio. Nomear liderança é sinal de direção, não evidência de resultado; a execução ainda precisa ser medida."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Gemini Omni 1.1 Flash amplia controle sobre vídeo generativo",
+        "source": "Google DeepMind",
+        "date": "Aug 27, 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+        "summary": "O Google apresentou Gemini Omni 1.1 Flash, atualização para desenvolvedores com extensão de cenas, interpolação entre quadros inicial e final e saída em 4K. O modelo amplia controle do processo audiovisual, mas disponibilidade, custo e consistência ainda dependem do uso. Produção de marca deve incluir revisão humana, direitos e teste de continuidade."
+      },
+      {
+        "title": "Google DeepMind testa avaliações duplo-cegas para sistemas de IA",
+        "source": "Google DeepMind",
+        "date": "Aug 27, 2026",
+        "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+        "summary": "O Google DeepMind anunciou um piloto de avaliações duplo-cegas para reduzir vieses na comparação de sistemas de IA. A proposta separa identidade do modelo e resultado observado em uma etapa de avaliação mais controlada. O método pode melhorar confiança em benchmarks, mas um piloto não substitui testes de segurança, contexto e desempenho real."
+      },
+      {
+        "title": "Google lança Gemini 3.5 Transcribe para transcrição inteligente",
+        "source": "Google DeepMind",
+        "date": "Aug 26, 2026",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+        "summary": "O Google lançou Gemini 3.5 Transcribe, modelo de fala para texto que busca lidar melhor com ruído, jargão e limpeza de hesitações em tempo real. A ferramenta pode apoiar atendimento, reuniões e conteúdo, mas transcrição não é sinônimo de registro correto. Dados sensíveis, idioma, revisão e retenção precisam ser definidos antes do uso em produção."
+      },
+      {
+        "title": "Gemini Live recebe recursos para transformar voz em ações",
+        "source": "Google Gemini",
+        "date": "Aug 26, 2026",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+        "summary": "O Gemini Live passou a oferecer funções como Personal Intelligence, Daily Brief, Spark e gestão de caixa de entrada por voz, com tarefas que podem continuar em segundo plano. A evolução aproxima assistente e agente, aumentando o valor e o risco de ações automáticas. Use permissões restritas, revisão e trilhas de auditoria em fluxos de trabalho."
+      },
+      {
+        "title": "Gemini ganha novos usos em Google Workspace para volta às aulas",
+        "source": "Google Workspace",
+        "date": "Aug 26, 2026",
+        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+        "summary": "O Google mostrou usos de Gemini no Workspace para organizar semestre, resumir notas, criar apresentações, montar guias e automatizar tarefas de reunião. O conteúdo é orientação do fornecedor e a disponibilidade varia por plano, idioma e país. A aplicação segura exige revisão de materiais gerados e cuidado com dados pessoais e institucionais."
+      },
+      {
+        "title": "Anthropic financia avaliações independentes sobre impacto da IA no bem-estar",
+        "source": "Anthropic",
+        "date": "Aug 25, 2026",
+        "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+        "summary": "A Anthropic anunciou um programa de US$ 5 milhões para financiar pesquisa independente sobre como sistemas de IA afetam o bem-estar dos usuários. A empresa também publicou critérios para avaliações mais rigorosas, incluindo contexto e conversas longas. O apoio pode ampliar evidência pública, mas os resultados ainda serão produzidos pelos projetos selecionados."
+      },
+      {
+        "title": "Claude in Chrome fica disponível de forma geral em planos pagos",
+        "source": "Claude by Anthropic",
+        "date": "Aug 26, 2026",
+        "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+        "summary": "A Anthropic tornou Claude in Chrome disponível nos planos pagos e ampliou ações autônomas no navegador, com classificadores para checar segurança e alinhamento à solicitação. O recurso pode atuar em páginas, formulários e sistemas legados, mas prompt injection continua sendo risco. Limite domínios, permissões e ações antes de usar com contas reais."
+      },
+      {
+        "title": "Anthropic amplia apoio a cientistas com acesso subsidiado ao Claude",
+        "source": "Anthropic",
+        "date": "Aug 27, 2026",
+        "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+        "summary": "A Anthropic anunciou 10 mil vagas gratuitas ou subsidiadas por um ano para cientistas e ampliou seu programa de IA para ciência. A iniciativa busca apoiar pesquisa com ferramentas auditáveis e créditos de computação, mas não garante resultado científico. Organizações devem manter revisão especializada, reprodutibilidade e controle sobre dados e conclusões."
+      },
+      {
+        "title": "OpenAI publica decisão sobre Cursor após aquisição pela SpaceX",
+        "source": "OpenAI",
+        "date": "Aug 28, 2026",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+        "summary": "A OpenAI publicou sua decisão sobre o Cursor após a aquisição pela SpaceX, descrevendo implicações para acesso, relacionamento e uso de seus modelos. O texto é posição da empresa e deve ser lido junto de contratos e disponibilidade real. Para times técnicos, vale mapear dependências de fornecedor e evitar assumir continuidade sem confirmação operacional."
+      },
+      {
+        "title": "Gemini Notebook passa a usar limites de computação mais flexíveis",
+        "source": "Google Gemini Notebook",
+        "date": "Aug 28, 2026",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/",
+        "summary": "O Google anunciou limites de uso mais flexíveis no Gemini Notebook, considerando complexidade, tamanho da conversa, fontes e recursos usados, com renovação em ciclos menores. A mudança dá mais controle, mas pode tornar custo e capacidade menos intuitivos. Equipes devem acompanhar consumo, prioridade e avisos antes de incorporar o produto a prazos críticos."
+      }
+    ]
+  }
+}
