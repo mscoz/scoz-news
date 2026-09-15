@@ -1,0 +1,392 @@
+{
+  "schema_version": 1,
+  "id": "2026-08-31",
+  "label": "31/ago-06/set",
+  "label_full": "31 de agosto a 6 de setembro de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta Startup School começa a primeira turma na Índia",
+        "source": "Meta Newsroom",
+        "date": "Sep 1, 2026",
+        "url": "https://about.fb.com/news/2026/08/launching-meta-startup-school-to-accelerate-growth-for-early-stage-startups/",
+        "summary": "A primeira turma da Meta Startup School começou na Índia com apoio a 200 marcas de consumo em estágio inicial. O programa combina educação sobre ferramentas da Meta, orientação de agências e contato com investidores; é uma iniciativa de ecossistema, não uma promessa de resultado comercial."
+      },
+      {
+        "title": "Meta mostra o laboratório de infraestrutura que sustenta sua IA",
+        "source": "Meta Newsroom",
+        "date": "Sep 1, 2026",
+        "url": "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/amp/",
+        "summary": "A Meta apresentou seu laboratório de infraestrutura em Menlo Park e os equipamentos usados para desenvolver a próxima geração de sistemas de IA. O material é institucional, mas ajuda a acompanhar como capacidade computacional, custo e velocidade de produto condicionam a expansão de ferramentas para negócios."
+      },
+      {
+        "title": "WhatsApp começa a oferecer pagamento de contas na Índia",
+        "source": "Meta Newsroom",
+        "date": "Sep 3, 2026",
+        "url": "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
+        "summary": "O WhatsApp começou a liberar pagamentos de contas na Índia, com acesso a 22.722 empresas de 30 categorias por meio da rede Bharat Connect. A expansão aproxima conversa, serviço e transação no mesmo ambiente, mas o lançamento é gradual e restrito ao mercado indiano neste momento."
+      },
+      {
+        "title": "Instagram troca o rótulo de perfis de IA e reduz alcance sem identificação",
+        "source": "Social Media Today",
+        "date": "Aug 31, 2026",
+        "url": "https://www.socialmediatoday.com/news/instagram-updates-tags-for-ai-profiles/829235/",
+        "summary": "O Instagram passou a chamar de “perfil gerado por IA” a identificação de contas que apresentam personagens artificiais e informou que pode limitar o alcance de perfis que não exibem o rótulo. Para marcas e creators, transparência sobre origem e operação do conteúdo passa a fazer parte do planejamento editorial."
+      },
+      {
+        "title": "Snapchat cria ativações de Harry Potter com lentes e experiências físicas",
+        "source": "Social Media Today",
+        "date": "Sep 1, 2026",
+        "url": "https://www.socialmediatoday.com/news/snapchat-introduces-harry-potter-themed-activations/829382/",
+        "summary": "O Snapchat lançou 12 lentes de realidade aumentada, itens temáticos para chats e ativações com Snap Mirrors para promover a nova série de Harry Potter. O caso combina produto, fandom e experiência presencial meses antes da estreia, sem apresentar prova independente de conversão."
+      },
+      {
+        "title": "TikTok amplia parceria com a NFL e cria novos espaços para marcas",
+        "source": "Social Media Today",
+        "date": "Sep 2, 2026",
+        "url": "https://www.socialmediatoday.com/news/tiktok-signs-multiyear-nfl-deal/829506/",
+        "summary": "O TikTok assinou uma parceria plurianual com a NFL para ampliar hubs de dias de jogo, destaques e conteúdos de arquivo. A plataforma também anunciou oportunidades ligadas ao Pulse Premiere, transformando a cobertura esportiva em inventário de conteúdo e publicidade ao longo do ano."
+      },
+      {
+        "title": "LinkedIn intensifica combate a perfis e comentários inautênticos",
+        "source": "Social Media Today",
+        "date": "Sep 1, 2026",
+        "url": "https://www.socialmediatoday.com/news/linkedin-increases-push-against-inauthentic-activity/829385/",
+        "summary": "Dados de transparência do LinkedIn indicaram alta de 46% nas ações contra atividade inautêntica no primeiro semestre de 2026. A plataforma também reportou 56,5 milhões de usuários ativos na União Europeia; membros cadastrados e usuários ativos são métricas diferentes e não devem ser comparados diretamente."
+      },
+      {
+        "title": "YouTube atualiza controles de conteúdo patrocinado e afiliados locais",
+        "source": "Social Media Today",
+        "date": "Sep 3, 2026",
+        "url": "https://www.socialmediatoday.com/news/youtube-updates-branded-content-sourcing-and-disclosures/829643/",
+        "summary": "O YouTube começou a testar varejistas locais para produtos marcados por afiliados e atualizou rótulos, restrições por idade e região e detecção automática de conteúdo patrocinado. A mudança pode facilitar conformidade e conversão local, mas o teste não altera vídeos com a configuração de colocação paga."
+      },
+      {
+        "title": "TikTok adiciona comentários por voz, enquetes e carrosséis de fotos",
+        "source": "Social Media Today",
+        "date": "Sep 3, 2026",
+        "url": "https://www.socialmediatoday.com/news/tiktok-adds-voice-notes-and-image-carousels-in-comments/829640/",
+        "summary": "O TikTok começou a liberar comentários de voz de até 60 segundos, enquetes para creators e respostas com até nove fotos. Os formatos ampliam as superfícies de participação em vídeos, mas também exigem moderação e critérios próprios para interpretar engajamento."
+      },
+      {
+        "title": "X torna o X Money o único meio de pagamento para creators nos EUA",
+        "source": "Social Media Today",
+        "date": "Sep 2, 2026",
+        "url": "https://www.socialmediatoday.com/news/x-money-will-be-the-only-payout-option-for-us-creators/829514/",
+        "summary": "O X passou a pagar creators americanos dos programas de recompensas e assinaturas por meio do X Money. A mudança liga monetização de conteúdo e carteira digital, mas só afeta os Estados Unidos; participantes de outros países continuam usando o Stripe."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google começa a migrar campanhas elegíveis para AI Max",
+        "source": "Google Ads & Commerce",
+        "date": "Sep 1, 2026",
+        "url": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
+        "summary": "O Google iniciou a atualização automática de campanhas Search que usam correspondência ampla no nível da campanha ou determinados ativos criados automaticamente para o AI Max. A migração ocorre em ondas até o fim de setembro; campanhas DSA legadas têm cronograma próprio e não devem ser tratadas como encerradas imediatamente."
+      },
+      {
+        "title": "Google leva geração avançada de imagens e análise de vídeo ao Gemini",
+        "source": "Social Media Today",
+        "date": "Sep 1, 2026",
+        "url": "https://www.socialmediatoday.com/news/google-rolls-out-new-ai-image-and-video-tools/829381/",
+        "summary": "O Google adicionou o recurso Pics, baseado no Nano Banana, e uma função de compreensão agentiva de vídeo ao pacote AI Pro. As ferramentas podem apoiar criação e análise de peças, mas disponibilidade, custos e qualidade variam por plano e ainda pedem revisão humana."
+      },
+      {
+        "title": "Google testa anúncios de Search com correspondência exata e de frase no AI Mode",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 4, 2026",
+        "url": "https://www.seroundtable.com/google-ads-serving-restrictive-match-types-ai-mode-42024.html",
+        "summary": "O Google confirmou um pequeno experimento em que campanhas Search tradicionais com palavras-chave de correspondência exata ou de frase podem aparecer no AI Mode quando há intenção direta. O teste não equivale a uma abertura geral nem elimina o papel de AI Max e Performance Max para consultas conversacionais."
+      },
+      {
+        "title": "Waze Ads chega a mercados fora dos Estados Unidos",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 4, 2026",
+        "url": "https://www.seroundtable.com/google-expands-waze-ads-42018.html",
+        "summary": "A documentação do Google Ads passou a listar Waze Ads em 42 países, incluindo Brasil, Portugal e outros mercados da América Latina e Europa. A disponibilidade depende de campanhas Performance Max com objetivos de loja e de elegibilidade local; expansão de países não garante escala de inventário."
+      },
+      {
+        "title": "Google testa sitelinks recolhidos que podem ser expandidos",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 4, 2026",
+        "url": "https://www.seroundtable.com/google-ads-collapsing-sitelinks-42014.html",
+        "summary": "O Google testou uma apresentação de anúncios em que sitelinks ficam recolhidos por padrão e um indicador permite abrir as opções restantes. O formato pode alterar a distribuição de cliques entre títulos e extensões, mas a observação ainda é um teste de interface."
+      },
+      {
+        "title": "Google Ads volta a exibir recomendações descartadas em algumas contas",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 4, 2026",
+        "url": "https://www.seroundtable.com/google-ads-dismissed-recommendations-42016.html",
+        "summary": "Anunciantes relataram que recomendações marcadas como descartadas voltaram a aparecer no Google Ads. O comportamento pode confundir auditorias de conta e priorização de tarefas; recomendações automáticas devem ser avaliadas pelo objetivo de negócio, não aceitas por pontuação de otimização."
+      },
+      {
+        "title": "Merchant Center amplia o relatório de desempenho em buscas com IA",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 3, 2026",
+        "url": "https://www.seroundtable.com/google-expands-merchant-center-ai-performance-insights-42005.html",
+        "summary": "O Google ampliou para Austrália, Canadá, Índia e Nova Zelândia os insights de desempenho do Merchant Center ligados a termos e intenções de busca com IA. O recurso melhora visibilidade de descoberta, mas não substitui a reconciliação com cliques, receita e dados de margem do varejista."
+      },
+      {
+        "title": "Google Ads mostra status de reavaliação em anúncios",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 3, 2026",
+        "url": "https://www.seroundtable.com/google-ads-under-re-review-status-41976.html",
+        "summary": "Algumas contas passaram a exibir um status de reavaliação para anúncios que já estavam em análise ou aprovados. O sinal indica que a elegibilidade pode mudar durante a revisão; equipes devem acompanhar entrega, política e alterações de criativo antes de concluir que houve reprovação definitiva."
+      },
+      {
+        "title": "Google detalha conversões por telefone e importação de conversões offline",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 3, 2026",
+        "url": "https://www.seroundtable.com/google-ads-phone-call-offline-conversions-42000.html",
+        "summary": "Novos detalhes de documentação esclarecem como o Google Ads trata conversões por chamada telefônica e dados de conversão offline. O avanço é relevante para negócios locais e B2B, mas qualidade de CRM, consentimento, identificadores e janela de importação continuam determinantes para a utilidade do sinal."
+      },
+      {
+        "title": "Google Ads começa a pré-preencher grupos de recursos com ativos gerados",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 2, 2026",
+        "url": "https://www.seroundtable.com/google-ads-pre-fill-asset-groups-41993.html",
+        "summary": "O Google começou a testar grupos de recursos de Performance Max pré-preenchidos com ativos gerados. A automação reduz trabalho inicial, mas aumenta a necessidade de checar claims, enquadramento, direitos e consistência com a página de destino antes da publicação."
+      },
+      {
+        "title": "Google identifica trechos de anúncios gerados a partir de avaliações",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 1, 2026",
+        "url": "https://www.seroundtable.com/google-ads-ai-generated-store-rating-reviews-41983.html",
+        "summary": "O Google passou a testar a identificação de uma seção “O que os clientes adoram”, gerada a partir de avaliações de lojas, em resultados patrocinados. O rótulo melhora transparência sobre automação, mas anunciantes devem revisar a origem, atualidade e representatividade das avaliações."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "ChatGPT Ads alcança US$ 1 bilhão em receita anualizada e se expande globalmente",
+        "source": "OpenAI",
+        "date": "Aug 31, 2026",
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+        "summary": "A OpenAI afirmou que ChatGPT Ads chegou a uma receita anualizada de US$ 1 bilhão em menos de 200 dias e abriu compra direta em mercados da Europa, Índia, Oriente Médio e Norte da África. A expansão inclui CPC, otimização por resultado, feeds de produto e Conversions API; os números de performance são relatos da própria empresa."
+      },
+      {
+        "title": "FTC e 22 estados processam Amazon por suposta sobretaxa oculta em anúncios",
+        "source": "Federal Trade Commission",
+        "date": "Aug 31, 2026",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme",
+        "summary": "A FTC e procuradores-gerais de 22 estados alegaram que a Amazon alterou suas regras de leilão e aplicou uma “soft reserve” não divulgada, fazendo anunciantes pagarem mais que o preço determinado pela concorrência. É uma acusação em processo, não uma conclusão judicial; o caso reforça a importância de transparência de leilão e auditoria de custo."
+      },
+      {
+        "title": "Microsoft torna o AI Max para Search disponível em escala global",
+        "source": "Microsoft Advertising",
+        "date": "Aug 31, 2026",
+        "url": "https://about.ads.microsoft.com/en/blog/post/august-2026/ai-max-for-search-and-other-product-news-for-august-2026",
+        "summary": "A Microsoft resumiu a disponibilidade geral do AI Max para campanhas Search e adicionou fluxos de MCP, pré-visualização de anúncios, experimentos de uplift e relatórios de termos ao produto. A suíte automatiza correspondência, texto e URL final, então o teste deve começar com exclusões de marca, metas claras e revisão de consultas."
+      },
+      {
+        "title": "OpenAI amplia ChatGPT Ads e adiciona controles de audiência e medição",
+        "source": "Search Engine Land",
+        "date": "Sep 4, 2026",
+        "url": "https://searchengineland.com/openai-expands-chatgpt-ads-globally-and-builds-out-its-ad-stack-487125",
+        "summary": "A expansão internacional do ChatGPT Ads veio acompanhada de ferramentas para públicos personalizados, conversões, pacing, relatórios e criação de campanhas. A novidade amplia o conjunto de canais disponíveis para mídia conversacional, mas acesso, inventário e resultados ainda dependem do país e do estágio de rollout."
+      },
+      {
+        "title": "Google pode limitar veiculação sem reprovar o anúncio",
+        "source": "Search Engine Land",
+        "date": "Sep 4, 2026",
+        "url": "https://searchengineland.com/limited-ad-serving-google-ads-486730",
+        "summary": "A análise descreveu o status Limited Ad Serving, que reduz a entrada de uma conta em determinados leilões sem necessariamente suspender ou reprovar seus anúncios. A orientação operacional é revisar verificação do anunciante, palavras-chave de marca, landing pages e documentação de autorização antes de escalar investimento."
+      },
+      {
+        "title": "Snapchat libera Unified Attribution para todos os anunciantes",
+        "source": "Social Media Today",
+        "date": "Aug 31, 2026",
+        "url": "https://www.socialmediatoday.com/news/snapchat-expands-unified-attribution-to-all-advertisers/829236/",
+        "summary": "O Snapchat ampliou para todos os anunciantes globais a integração de métricas da plataforma com dados de AppsFlyer e Adjust. A visão unificada pode aproximar instalação, onboarding e compra do relatório de mídia, mas continua dependente de definição de eventos e da qualidade do parceiro de mensuração."
+      },
+      {
+        "title": "Reddit testa objetivo de visualização engajada por 15 segundos",
+        "source": "Social Media Today",
+        "date": "Sep 1, 2026",
+        "url": "https://www.socialmediatoday.com/news/reddit-launches-15-second-video-views-ad-goal/829375/",
+        "summary": "O Reddit lançou em beta um objetivo de visualização engajada por 15 segundos, complementar ao objetivo de seis segundos, e ofereceu testes divididos entre as duas opções. O formato serve a trailers, demonstrações e depoimentos, mas a métrica deve ser ligada a retenção, ação e negócio final."
+      },
+      {
+        "title": "Microsoft anuncia finalistas de seus prêmios de parceiros de publicidade",
+        "source": "Microsoft Advertising",
+        "date": "Sep 2, 2026",
+        "url": "https://about.ads.microsoft.com/en/blog/post/september-2026/announcing-the-2026-microsoft-advertising-partner-awards-finalists-north-america",
+        "summary": "A Microsoft anunciou finalistas de seus prêmios de parceiros na América do Norte, destacando trabalhos de IA, integração de dados, gaming e campanhas omnicanal. O anúncio é reconhecimento institucional e não benchmark independente; serve como sinal de quais competências a plataforma está valorizando no ecossistema."
+      },
+      {
+        "title": "Amazon responde à acusação da FTC sobre leilões de publicidade",
+        "source": "TechRadar",
+        "date": "Sep 1, 2026",
+        "url": "https://www.techradar.com/pro/amazon-hit-by-lawsuit-from-ftc-and-22-states-claiming-ad-price-rigging-to-the-tune-of-usd20-billion-over-seven-years",
+        "summary": "A cobertura reuniu a acusação da FTC de que a Amazon teria usado um participante artificial e uma reserva não divulgada para elevar preços de anúncios, além da resposta da empresa de que o regulador interpretou mal o leilão. O caso ainda está em disputa e não deve ser convertido em conclusão sobre todas as campanhas."
+      },
+      {
+        "title": "Google mantém a cobrança de anúncios como prioridade nos remédios antitruste",
+        "source": "Associated Press",
+        "date": "Sep 2, 2026",
+        "url": "https://apnews.com/article/d294d31fee27c45b14d5ce2196cdd80a",
+        "summary": "Um juiz federal americano determinou mudanças no negócio de publicidade digital do Google, mas rejeitou a separação estrutural pedida pelo governo. A decisão inicial ainda não detalhava todos os remédios; para anunciantes, o efeito concreto depende do texto final e da implementação."
+      },
+      {
+        "title": "OpenAI abre compra direta de anúncios em mais de 40 países",
+        "source": "OpenAI",
+        "date": "Sep 4, 2026",
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+        "summary": "A OpenAI informou que ChatGPT Ads já estava disponível em mais de 40 países e que o Ads Manager seria aberto a anunciantes de Europa, Índia, Oriente Médio e Norte da África. A expansão reduz barreiras de entrada, mas disponibilidade regional e sinais de conversão continuam sujeitos às regras do produto."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Austrália estuda permitir que usuários desativem a ordenação algorítmica",
+        "source": "Social Media Today",
+        "date": "Aug 31, 2026",
+        "url": "https://www.socialmediatoday.com/news/australia-considers-algorithm-opt-out-laws/829243/",
+        "summary": "O governo australiano passou a discutir opções para que usuários controlem ou desativem a amplificação algorítmica em redes sociais. A proposta ainda está em consulta e poderia mudar alcance, recomendação e consumo de conteúdo; não é uma regra global nem uma alteração imediata de entrega."
+      },
+      {
+        "title": "Pinterest marca a próxima apresentação anual para anunciantes",
+        "source": "Social Media Today",
+        "date": "Aug 31, 2026",
+        "url": "https://www.socialmediatoday.com/news/pinterest-sets-date-for-annual-marketing-showcase/829137/",
+        "summary": "O Pinterest marcou para 17 de setembro seu evento Pinterest Presents, com atualizações de produto, tendências de uso e boas práticas para marcas. A plataforma afirma ter 640 milhões de usuários ativos mensais; esse número é declaração da própria empresa e não mede sozinho oportunidade ou retorno de campanha."
+      },
+      {
+        "title": "X registra nova queda de usuários ativos na União Europeia",
+        "source": "Social Media Today",
+        "date": "Sep 1, 2026",
+        "url": "https://www.socialmediatoday.com/news/x-continues-to-lose-eu-users/829384/",
+        "summary": "A atualização de transparência digital do X mostrou nova queda de usuários na União Europeia, enquanto estimativas externas também apontam divergência em relação aos números divulgados pela empresa. Para marcas, a decisão de manter presença deve considerar audiência ativa, segurança e resultado, não apenas usuários cadastrados."
+      },
+      {
+        "title": "YouTube permite controlar a TV pelo celular durante a reprodução",
+        "source": "Social Media Today",
+        "date": "Sep 2, 2026",
+        "url": "https://www.socialmediatoday.com/news/youtube-adds-mobile-phone-controls-for-ctv/829505/",
+        "summary": "O YouTube atualizou a experiência de Connected TV para permitir comentários, inscrições, descrições e envio de vídeos usando o celular, sem exigir a mesma rede Wi-Fi. A melhoria reduz atrito em telas grandes; anunciantes devem continuar separando alcance, atenção e ação por dispositivo."
+      },
+      {
+        "title": "Pinterest usa bem-estar de adolescentes como posicionamento de marca",
+        "source": "Social Media Today",
+        "date": "Sep 2, 2026",
+        "url": "https://www.socialmediatoday.com/news/pinterest-promotes-its-role-in-teen-well-being/829504/",
+        "summary": "O Pinterest publicou um relatório sobre uso adolescente, controles de feed e estímulos para sair da plataforma e realizar atividades no mundo físico. A narrativa reforça diferenciação de marca e segurança, mas os dados são apresentados pela própria empresa e não provam causalidade sobre bem-estar."
+      },
+      {
+        "title": "TikTok transforma a parceria com a NFL em estratégia de narrativa contínua",
+        "source": "Social Media Today",
+        "date": "Sep 2, 2026",
+        "url": "https://www.socialmediatoday.com/news/tiktok-signs-multiyear-nfl-deal/829506/",
+        "summary": "A nova parceria do TikTok com a NFL prevê hubs de jogos, destaques e arquivo para manter a conversa esportiva ativa durante todo o ano. Para marketing, o caso mostra como direitos, creators e comunidades podem criar calendário de conteúdo além do evento principal."
+      },
+      {
+        "title": "LinkedIn relaciona conteúdo especialista e credibilidade à próxima geração de compradores",
+        "source": "Social Media Today",
+        "date": "Sep 3, 2026",
+        "url": "https://www.socialmediatoday.com/news/linkedin-shares-insights-into-younger-professionals/829515/",
+        "summary": "Uma pesquisa do LinkedIn com mais de 18 mil profissionais apontou que credibilidade de marca e vozes especialistas são importantes para conectar empresas a públicos mais jovens. O estudo é autorrelatado pela plataforma; a aplicação prática é testar formatos e mensagens, não assumir que um canal substitui todos os demais."
+      },
+      {
+        "title": "X atrela pagamentos de creators à adoção de sua carteira digital",
+        "source": "Social Media Today",
+        "date": "Sep 2, 2026",
+        "url": "https://www.socialmediatoday.com/news/x-money-will-be-the-only-payout-option-for-us-creators/829514/",
+        "summary": "Ao tornar o X Money obrigatório para pagamentos de creators nos Estados Unidos, o X aproximou distribuição de conteúdo, monetização e serviços financeiros. A decisão pode afetar confiança e adesão de creators; o impacto em alcance ou publicidade ainda não foi medido."
+      },
+      {
+        "title": "Google inicia ciclo de atualização automática do AI Max em Search",
+        "source": "Google Ads & Commerce",
+        "date": "Sep 1, 2026",
+        "url": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
+        "summary": "A mudança de campanhas legadas para AI Max altera como consultas, textos e páginas de destino podem ser escolhidos a partir de sinais de intenção. Para estratégia de aquisição, vale revisar cobertura de termos, exclusões de marca, páginas prioritárias e janela de aprendizado antes do período de maior investimento."
+      },
+      {
+        "title": "Google enfrenta remédios comportamentais em seu negócio de ad tech",
+        "source": "Associated Press",
+        "date": "Sep 2, 2026",
+        "url": "https://apnews.com/article/d294d31fee27c45b14d5ce2196cdd80a",
+        "summary": "A decisão de um tribunal americano preservou a estrutura do negócio de publicidade do Google, mas ordenou mudanças de comportamento após a condenação antitruste. O texto completo dos remédios ainda seria divulgado; publishers e anunciantes devem acompanhar efeitos em leilões, interoperabilidade e transparência."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Google adiciona o Pics e compreensão agentiva de vídeo ao pacote de IA",
+        "source": "Social Media Today",
+        "date": "Sep 1, 2026",
+        "url": "https://www.socialmediatoday.com/news/google-rolls-out-new-ai-image-and-video-tools/829381/",
+        "summary": "O Pics usa o modelo Nano Banana para geração e edição de imagens, enquanto a compreensão agentiva de vídeo extrai pessoas, objetos e contexto de gravações. Para marketing, são ferramentas de prototipação e análise; direitos, factualidade e revisão seguem sob responsabilidade da equipe."
+      },
+      {
+        "title": "Gemini 3.8 Flash chega ao AI Mode, mas apresenta falha de citações",
+        "source": "Search Engine Land",
+        "date": "Sep 3, 2026",
+        "url": "https://searchengineland.com/google-to-fix-citation-bug-with-gemini-3-8-flash-in-ai-mode-487612",
+        "summary": "O Google confirmou que o Gemini 3.8 Flash no AI Mode estava com problemas para exibir links e citações e prometeu uma correção. O episódio reforça que respostas de IA precisam ser conferidas antes de virar fonte de conteúdo, recomendação ou decisão de campanha."
+      },
+      {
+        "title": "Anthropic esclarece o que a marca d’água de IA significa para conteúdo",
+        "source": "Search Engine Land",
+        "date": "Sep 1, 2026",
+        "url": "https://searchengineland.com/anthropic-ai-watermarking-content-seo-486286",
+        "summary": "Uma análise discutiu a marca d’água associada a conteúdos gerados por ferramentas da Anthropic e separou transparência de qualidade editorial. Para times de conteúdo, o risco principal continua sendo publicar material incorreto, repetitivo ou sem valor original, não apenas a presença de um sinal técnico."
+      },
+      {
+        "title": "Agentes de IA mudam o papel de estrategistas de conteúdo",
+        "source": "Search Engine Land",
+        "date": "Sep 2, 2026",
+        "url": "https://searchengineland.com/guide/content-creation-to-orchestration-the-new-ai-content-strategist",
+        "summary": "O artigo descreveu a passagem de uma rotina centrada em produzir peças para outra centrada em orquestrar dados, ferramentas, revisão e distribuição com agentes. A mudança pode aumentar velocidade, mas também torna governança, contexto e responsabilidade de aprovação mais importantes."
+      },
+      {
+        "title": "OpenAI conecta anúncios conversacionais a contexto sem expor conversas privadas",
+        "source": "OpenAI",
+        "date": "Aug 31, 2026",
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+        "summary": "Ao expandir ChatGPT Ads, a OpenAI afirmou que o sistema usa o contexto da conversa para relevância, mantém anúncios separados das respostas e não entrega conversas privadas aos anunciantes. É uma descrição de produto da empresa; equipes devem verificar consentimento, controles regionais e contrato antes de ativar dados."
+      },
+      {
+        "title": "Microsoft leva o MCP de publicidade a fluxos com Copilot e outros assistentes",
+        "source": "Microsoft Advertising",
+        "date": "Aug 31, 2026",
+        "url": "https://about.ads.microsoft.com/en/blog/post/august-2026/ai-max-for-search-and-other-product-news-for-august-2026",
+        "summary": "O servidor MCP da Microsoft Advertising passou a conectar dados de contas a assistentes como Microsoft 365 Copilot, ChatGPT e Claude para relatórios, auditorias e pesquisa de palavras-chave. A automação reduz troca de abas, mas o acesso a dados de campanha precisa de permissões, escopo e trilha de revisão."
+      },
+      {
+        "title": "Google passa a usar IA para criar variações de vídeo no Search",
+        "source": "Social Media Today",
+        "date": "Sep 1, 2026",
+        "url": "https://www.socialmediatoday.com/news/google-rolls-out-new-ai-image-and-video-tools/829381/",
+        "summary": "A cobertura reuniu os novos recursos de imagem e compreensão de vídeo do Google e seus possíveis usos em criação e análise de campanhas. O benefício está em acelerar versões e leitura de ativos, não em autorizar publicação automática sem checagem de marca, direitos e mensagem."
+      },
+      {
+        "title": "Microsoft conecta o MCP de publicidade a assistentes de IA",
+        "source": "Microsoft Advertising",
+        "date": "Sep 1, 2026",
+        "url": "https://about.ads.microsoft.com/en/blog/post/august-2026/ai-max-for-search-and-other-product-news-for-august-2026",
+        "summary": "O servidor MCP da Microsoft Advertising conecta dados de contas a assistentes como Copilot, ChatGPT e Claude para relatórios, auditorias e pesquisa de palavras-chave. A automação reduz troca de abas, mas o acesso a dados de campanha precisa de permissões, escopo e trilha de revisão."
+      },
+      {
+        "title": "Microsoft amplia fluxos de análise de publicidade com IA",
+        "source": "Microsoft Advertising",
+        "date": "Aug 31, 2026",
+        "url": "https://about.ads.microsoft.com/en/blog/post/august-2026/ai-max-for-search-and-other-product-news-for-august-2026",
+        "summary": "A Microsoft descreveu novos fluxos para usar MCP, Copilot e automações em relatórios, auditorias e pesquisa de palavras-chave. A direção favorece produtividade, mas equipes devem manter permissões mínimas, revisão humana e rastreabilidade para evitar alterações indevidas em campanhas."
+      },
+      {
+        "title": "A OpenAI descreve o avanço do Ads Manager para pequenas empresas",
+        "source": "OpenAI",
+        "date": "Sep 4, 2026",
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+        "summary": "A OpenAI afirmou que pequenas e médias empresas já representam uma parcela material do negócio de ChatGPT Ads e que o Ads Manager facilita acesso a compra, audiência, feeds e mensuração. A descrição é da própria fornecedora e não substitui teste de custo, alcance ou retorno em cada conta."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://about.fb.com/news/2026/08/launching-meta-startup-school-to-accelerate-growth-for-early-stage-startups/",
+    "https://apnews.com/article/d294d31fee27c45b14d5ce2196cdd80a",
+    "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
+    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+    "https://about.ads.microsoft.com/en/blog/post/august-2026/ai-max-for-search-and-other-product-news-for-august-2026",
+    "https://www.socialmediatoday.com/news/google-rolls-out-new-ai-image-and-video-tools/829381/",
+    "https://www.socialmediatoday.com/news/tiktok-signs-multiyear-nfl-deal/829506/",
+    "https://www.socialmediatoday.com/news/x-money-will-be-the-only-payout-option-for-us-creators/829514/"
+  ]
+}

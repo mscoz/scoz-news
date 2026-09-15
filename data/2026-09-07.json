@@ -1,0 +1,400 @@
+{
+  "schema_version": 1,
+  "id": "2026-09-07",
+  "label": "07-13/set",
+  "label_full": "7 a 13 de setembro de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta lança Muse, seu agente pessoal de IA",
+        "source": "Meta Newsroom",
+        "date": "Sep 8, 2026",
+        "url": "https://about.fb.com/br/news/2026/09/conheca-o-muse-o-primeiro-agente-de-ia-pessoal-do-mundo-feito-para-todos/",
+        "summary": "A Meta lançou o Muse como agente pessoal capaz de sugerir ideias, acompanhar objetivos e executar tarefas em segundo plano. O produto amplia a presença de IA no cotidiano e pode influenciar descoberta e compra, mas a página não demonstra desempenho comercial independente."
+      },
+      {
+        "title": "Meta começa a testar Community Notes na América Latina",
+        "source": "Social Media Today",
+        "date": "Sep 10, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-expands-community-notes-to-latin-america/830128/",
+        "summary": "A Meta iniciou testes de Community Notes em 16 países latino-americanos, incluindo Brasil, Argentina, Chile, Colômbia e México. A publicação de uma nota depende de consenso entre colaboradores de visões diferentes; o teste pode alterar contexto, moderação e risco de conteúdo para marcas."
+      },
+      {
+        "title": "Instagram permite adicionar posts marcados à grade do perfil",
+        "source": "Social Media Today",
+        "date": "Sep 10, 2026",
+        "url": "https://www.socialmediatoday.com/news/instagram-lets-users-add-tagged-posts-to-profile-grids/830126/",
+        "summary": "O Instagram passou a oferecer a opção de adicionar à grade do perfil um post em que a pessoa foi marcada. A função facilita colaborações e amplia a apresentação de conteúdo compartilhado, mas não garante alcance adicional nem substitui acordos de uso de imagem."
+      },
+      {
+        "title": "Chefe do Instagram alerta para efeitos de eliminar algoritmos de recomendação",
+        "source": "Social Media Today",
+        "date": "Sep 10, 2026",
+        "url": "https://www.socialmediatoday.com/news/instagram-chief-warns-against-eliminating-algorithms/830130/",
+        "summary": "Adam Mosseri afirmou que um feed sem ordenação algorítmica poderia reduzir interesse, alcance e descoberta de creators. A fala ocorre durante debate regulatório na Austrália e representa a posição de um executivo da plataforma, não uma previsão independente sobre comportamento de usuários."
+      },
+      {
+        "title": "Meta destaca recursos de criação para vídeos feitos com seus óculos de IA",
+        "source": "Social Media Today",
+        "date": "Sep 13, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-highlights-creation-tools-for-ai-glasses/830238/",
+        "summary": "A Meta mostrou recursos como Spin View, Multi-Cam e edição específica para vídeos capturados com seus óculos de IA. A promoção busca diferenciar o produto para creators, mas ocorre em meio a preocupações de privacidade e não apresenta impacto medido sobre vendas."
+      },
+      {
+        "title": "Snapchat leva anúncios dinâmicos de produto para mensagens diretas",
+        "source": "Social Media Today",
+        "date": "Sep 10, 2026",
+        "url": "https://www.socialmediatoday.com/news/snapchat-expands-dynamic-product-ads-to-sponsored-snaps/830124/",
+        "summary": "O Snapchat lançou o Commerce Power Pack e passou a testar anúncios dinâmicos de produto em Sponsored Snaps dentro do Chat. A novidade aproxima catálogo, conversa e compra, mas o uso de mensagens como superfície publicitária precisa ser avaliado contra relevância e tolerância do público."
+      },
+      {
+        "title": "Snapchat propõe publicidade generativa baseada em sinais de comunidade",
+        "source": "Social Media Today",
+        "date": "Sep 9, 2026",
+        "url": "https://www.socialmediatoday.com/news/snap-ceo-discusses-ad-development-and-ai/829986/",
+        "summary": "Em carta pelo aniversário de 15 anos da Snap, Evan Spiegel descreveu a intenção de usar modelos multimodais para recomendar produtos a partir de sinais da comunidade e facilitar parcerias com creators. É uma visão estratégica da empresa, ainda sem especificação de produto ou prova independente de incrementalidade."
+      },
+      {
+        "title": "Pinterest usa tendências de homens para orientar conteúdo e comércio",
+        "source": "Social Media Today",
+        "date": "Sep 9, 2026",
+        "url": "https://www.socialmediatoday.com/news/pinterest-shares-insights-into-mens-trends/829990/",
+        "summary": "O Pinterest publicou tendências de busca entre homens, com crescimento em hobbies, esportes, cuidados pessoais, decoração e moda. Os sinais podem inspirar planejamento de conteúdo e produtos, mas são dados da própria plataforma e não equivalem a previsão de conversão."
+      },
+      {
+        "title": "LinkedIn aponta credibilidade e especialistas como ponte para a geração Z",
+        "source": "Social Media Today",
+        "date": "Sep 8, 2026",
+        "url": "https://www.socialmediatoday.com/news/linkedin-shares-insights-into-younger-professionals/829515/",
+        "summary": "Pesquisa do LinkedIn com mais de 18 mil profissionais indicou que muitos jovens hesitam em fazer conexões e que credibilidade, especialistas e vídeo curto pesam na relação com marcas. O estudo é uma pesquisa da própria plataforma e deve orientar hipóteses, não substituir teste de audiência."
+      },
+      {
+        "title": "X passa a oferecer códigos numéricos privados para iniciar DMs",
+        "source": "Social Media Today",
+        "date": "Sep 10, 2026",
+        "url": "https://www.socialmediatoday.com/news/x-rolls-out-number-code-access-for-dms/830129/",
+        "summary": "O X começou a liberar códigos numéricos privados de dez dígitos para que pessoas iniciem mensagens diretas sem conexão prévia. A função amplia descoberta e contato, mas para marcas exige atenção a consentimento, spam, identidade e moderação de atendimento."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google lança novas ferramentas de dados e medição para a era da IA",
+        "source": "Google Ads & Commerce",
+        "date": "Sep 10, 2026",
+        "url": "https://blog.google/products/ads-commerce/data-strength-updates/",
+        "summary": "O Google anunciou integrações ampliadas do Data Manager, a métrica Data Strength Uplift e o Meridian GeoX para experimentos geográficos. A proposta conecta dados próprios, modelagem e causalidade; as métricas são mais úteis quando combinadas com CRM, margem e testes de incremento."
+      },
+      {
+        "title": "Google Ads começa a exibir painéis de análise feitos por IA",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 8, 2026",
+        "url": "https://www.seroundtable.com/google-ads-ai-dashboards-live-42031.html",
+        "summary": "Alguns anunciantes passaram a ver painéis do Google Ads que transformam perguntas em relatórios visuais e resumos gerados por IA. O recurso pode acelerar diagnóstico, mas não elimina a necessidade de validar filtros, atribuição, período e definição dos KPIs."
+      },
+      {
+        "title": "Merchant Center amplia insights sobre termos e intenções de busca com IA",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 7, 2026",
+        "url": "https://www.seroundtable.com/google-expands-merchant-center-ai-performance-insights-42005.html",
+        "summary": "O Merchant Center ampliou a disponibilidade de insights de desempenho ligados a consultas de IA e termos de busca. O relatório ajuda a investigar como produtos aparecem em jornadas assistidas, mas não mede sozinho vendas incrementais nem substitui análise de produto e estoque."
+      },
+      {
+        "title": "Campanhas Search tradicionais entram em teste no AI Mode",
+        "source": "Search Engine Land",
+        "date": "Sep 7, 2026",
+        "url": "https://searchengineland.com/google-tests-traditional-search-campaigns-in-ai-mode-487199",
+        "summary": "O Google está testando anúncios de campanhas Search com correspondência exata e de frase no AI Mode quando a intenção é clara. A experiência pode dar mais alcance a campanhas existentes, mas está limitada a um experimento e não representa elegibilidade geral."
+      },
+      {
+        "title": "Google Analytics lança painéis personalizáveis com edição por arrastar",
+        "source": "Search Engine Land",
+        "date": "Sep 11, 2026",
+        "url": "https://searchengineland.com/google-analytics-launches-customizable-dashboards-488343",
+        "summary": "O Google Analytics lançou dashboards com grade editável, cartões de KPI, tabelas, gráficos, funis e publicação na navegação de relatórios. A função centraliza acompanhamento, mas limitações de acesso, segmentos e API precisam ser consideradas na governança do relatório."
+      },
+      {
+        "title": "Pesquisa com profissionais coloca intenção e links entre os sinais mais valorizados",
+        "source": "Search Engine Land",
+        "date": "Sep 9, 2026",
+        "url": "https://searchengineland.com/google-top-ranking-factors-survey-131-seo-professionals-487723",
+        "summary": "Uma pesquisa da Zyppy com 131 profissionais colocou correspondência de intenção, backlinks e qualidade de conteúdo entre os fatores mais valorizados pelos respondentes. É percepção de especialistas, não confirmação de pesos do algoritmo; serve como hipótese para auditoria e priorização."
+      },
+      {
+        "title": "Anunciantes relatam créditos do Google Ads revogados após o gasto",
+        "source": "Search Engine Land",
+        "date": "Sep 11, 2026",
+        "url": "https://searchengineland.com/advertisers-report-google-ads-credits-being-revoked-after-spending-488330",
+        "summary": "Anunciantes relataram que créditos promocionais do Google Ads foram retirados depois que o gasto já havia ocorrido. O caso reforça a necessidade de guardar termos, elegibilidade, datas e comprovantes de crédito antes de incorporá-lo ao orçamento de aquisição."
+      },
+      {
+        "title": "Google Ads atualiza recursos para medir vendas em lojas físicas",
+        "source": "Search Engine Land",
+        "date": "Sep 8, 2026",
+        "url": "https://searchengineland.com/google-ads-adds-new-tools-to-drive-and-measure-in-store-sales-487439",
+        "summary": "O Google anunciou Local Customer Optimization para Performance Max com objetivos de loja e Store Sales no Data Manager para conectar CRM ou planilhas. A combinação aproxima intenção local e receita offline, mas depende de dados confiáveis e de uma definição consistente de venda."
+      },
+      {
+        "title": "Google Ads expande o relatório de vendas de produtos e promoções",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 7, 2026",
+        "url": "https://www.seroundtable.com/google-shopping-ads-sold-last-week-42039.html",
+        "summary": "O Google começou a testar indicadores de unidades vendidas na semana anterior em anúncios de Shopping. O dado pode apoiar leitura de demanda e urgência promocional, mas é preciso separar volume informado pela plataforma de margem, estoque e atribuição no comércio próprio."
+      },
+      {
+        "title": "Google testa promoções automatizadas para anúncios de Shopping",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 7, 2026",
+        "url": "https://www.seroundtable.com/google-ads-automated-promotions-42006.html",
+        "summary": "O Google passou a testar um fluxo de promoções automatizadas para campanhas de Shopping. A função pode reduzir tempo de configuração, mas exige conferência de regras comerciais, datas, estoque, preço final e compatibilidade entre feed e página de produto."
+      },
+      {
+        "title": "AI Overviews podem concentrar cliques e reduzir impressões de Shopping",
+        "source": "Search Engine Land",
+        "date": "Sep 7, 2026",
+        "url": "https://searchengineland.com/ai-overviews-may-be-affecting-shopping-ad-ctr-and-impressions-487265",
+        "summary": "Uma análise de dados de campanhas observou CTR de Shopping maior ao lado de impressões menores e levantou a hipótese de que AI Overviews estejam filtrando parte das consultas. A relação causal não foi provada; relatórios devem acompanhar impressões, cliques, receita e margem juntos."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "Amazon testa compra de ChatGPT Ads por meio do Amazon DSP",
+        "source": "Search Engine Land",
+        "date": "Sep 10, 2026",
+        "url": "https://searchengineland.com/amazon-pilots-chatgpt-ads-through-its-dsp-488026",
+        "summary": "A Amazon iniciou um piloto que permite a anunciantes do Amazon DSP comprar inventário do ChatGPT Ads nos Estados Unidos, com opções de CPC, CPM e anúncios baseados em feed de produtos. A Amazon gerencia compra e otimização, enquanto a OpenAI mantém a decisão de entrega dentro do ChatGPT."
+      },
+      {
+        "title": "Microsoft vai retirar o limite de CPC máximo de novas campanhas automatizadas",
+        "source": "Search Engine Land",
+        "date": "Sep 8, 2026",
+        "url": "https://searchengineland.com/microsoft-advertising-removes-max-cpc-from-new-standalone-bidding-campaigns-485598",
+        "summary": "A Microsoft anunciou que novas campanhas com determinadas estratégias automáticas deixarão de aceitar Max CPC a partir de 1º de outubro, preservando o controle em campanhas existentes por enquanto. A mudança desloca proteção de clique para orçamento, tCPA, tROAS e regras de valor."
+      },
+      {
+        "title": "Análise aponta possível pressão das AI Overviews sobre impressões de Shopping",
+        "source": "Search Engine Land",
+        "date": "Sep 7, 2026",
+        "url": "https://searchengineland.com/ai-overviews-may-be-affecting-shopping-ad-ctr-and-impressions-487265",
+        "summary": "Dados de milhares de campanhas sugeriram uma combinação de CTR crescente e impressões menores em Shopping, possivelmente por seleção mais restrita de consultas com anúncios. É uma hipótese da análise, não uma conclusão do Google; decisões de verba devem esperar validação própria."
+      },
+      {
+        "title": "Google adiciona otimização local e importação de vendas de loja",
+        "source": "Search Engine Land",
+        "date": "Sep 8, 2026",
+        "url": "https://searchengineland.com/google-ads-adds-new-tools-to-drive-and-measure-in-store-sales-487439",
+        "summary": "Novos recursos do Google Ads tentam ligar investimento local a vendas offline: um toggle prioriza consumidores próximos e o Data Manager recebe dados de CRM ou Google Sheets. A proposta facilita mensuração, mas o resultado depende de correspondência de clientes, cobertura geográfica e qualidade do caixa."
+      },
+      {
+        "title": "Google testa painéis de análise em linguagem natural para anunciantes",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 8, 2026",
+        "url": "https://searchengineland.com/google-ads-ai-dashboards-start-appearing-in-advertiser-accounts-487457",
+        "summary": "Os painéis de IA permitem pedir visualizações e resumos em linguagem natural dentro do Google Ads. A comodidade pode acelerar leitura de desempenho, mas o analista ainda precisa confirmar definição de conversão, atribuição, janela e filtros antes de mexer no orçamento."
+      },
+      {
+        "title": "Microsoft coloca a medição de resultado no centro do fim do Max CPC",
+        "source": "Search Engine Land",
+        "date": "Sep 8, 2026",
+        "url": "https://searchengineland.com/microsoft-advertising-removes-max-cpc-from-new-standalone-bidding-campaigns-485598",
+        "summary": "A retirada planejada do Max CPC nas novas campanhas da Microsoft reforça a preferência por lances guiados por conversão e valor. Antes de perder o controle manual, anunciantes devem testar limites, qualidade de sinal e sazonalidade em uma parcela da conta."
+      },
+      {
+        "title": "TikTok rejeita anúncios da Meta sobre o acordo de segurança de adolescentes",
+        "source": "Search Engine Land",
+        "date": "Sep 11, 2026",
+        "url": "https://searchengineland.com/tiktok-rejects-meta-ads-pushing-rivals-to-join-child-safety-settlement-488324",
+        "summary": "O TikTok rejeitou anúncios da Meta que pressionavam a plataforma e o YouTube a aderir a medidas de segurança para adolescentes, classificando a campanha como conteúdo político. O episódio mostra como política de anúncios, reputação e disputa regulatória podem limitar até campanhas de grandes plataformas."
+      },
+      {
+        "title": "Google mede a mudança no tamanho das consultas depois do AI Mode",
+        "source": "Search Engine Land",
+        "date": "Sep 11, 2026",
+        "url": "https://searchengineland.com/google-ads-data-shows-query-length-shift-post-ai-mode-458162",
+        "summary": "Uma análise de dados até agosto de 2026 encontrou maior participação de consultas longas e específicas em impressões e conversões, enquanto termos curtos perderam espaço. A mudança sugere revisar cobertura sem abandonar controle de intenção; o estudo não prova que o AI Mode seja a única causa."
+      },
+      {
+        "title": "Google torna o Ads AI Dashboard uma nova camada de operação de mídia",
+        "source": "Search Engine Land",
+        "date": "Sep 8, 2026",
+        "url": "https://searchengineland.com/google-ads-ai-dashboards-live-487987",
+        "summary": "A análise do lançamento dos painéis de IA do Google Ads destacou a possibilidade de gerar relatórios visuais e resumos por prompt. A funcionalidade reduz navegação, mas não deve transformar explicações do modelo em diagnóstico causal sem conferência no dado bruto."
+      },
+      {
+        "title": "Google Ads atualiza a estratégia para campanhas com orçamento limitado",
+        "source": "Search Engine Land",
+        "date": "Sep 9, 2026",
+        "url": "https://searchengineland.com/googles-target-bidding-shake-up-why-ppc-marketers-have-been-here-before-487704",
+        "summary": "Uma análise comparou as mudanças recentes de lances baseados em meta com ciclos anteriores de automação do Google Ads. A recomendação é separar alteração de algoritmo de variação normal, documentar metas e observar conversões qualificadas antes de reagir com cortes ou expansão."
+      },
+      {
+        "title": "Google abre caminho para conectar publicidade a vendas físicas",
+        "source": "Search Engine Land",
+        "date": "Sep 8, 2026",
+        "url": "https://searchengineland.com/google-ads-adds-new-tools-to-drive-and-measure-in-store-sales-487439",
+        "summary": "A nova conexão entre campanhas locais e vendas de loja cria uma ponte operacional entre mídia, navegação e caixa. Para redes de varejo, o ganho potencial está em medir valor offline; a implantação deve começar com uma região ou grupo de lojas que permita comparação."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Google diz que mudanças da DMA degradaram a qualidade da busca na Europa",
+        "source": "Search Engine Land",
+        "date": "Sep 8, 2026",
+        "url": "https://searchengineland.com/google-says-dma-changes-eu-resulted-in-worse-degradation-of-search-quality-ever-487340",
+        "summary": "O Google afirmou que mudanças feitas para cumprir a Lei de Mercados Digitais levaram à maior degradação observada em qualidade de resultados na União Europeia. A afirmação é da empresa e está inserida em disputa regulatória; publishers devem medir visibilidade e tráfego próprios, não inferir efeito geral."
+      },
+      {
+        "title": "Pesquisa da Orbit aponta piora de desempenho de marketing de conteúdo",
+        "source": "Search Engine Land",
+        "date": "Sep 10, 2026",
+        "url": "https://searchengineland.com/content-marketing-success-falls-survey-488049",
+        "summary": "Na pesquisa anual da Orbit Media com 1.042 profissionais, 14% disseram obter resultados fortes com blogs, enquanto o uso de IA superou 92%. O estudo relacionou melhores resultados a pesquisa de palavras-chave, especialistas, pesquisa original, edição humana e análise; é dado autorrelatado."
+      },
+      {
+        "title": "Profissionais de SEO priorizam intenção, links e conteúdo original",
+        "source": "Search Engine Land",
+        "date": "Sep 9, 2026",
+        "url": "https://searchengineland.com/google-top-ranking-factors-survey-131-seo-professionals-487723",
+        "summary": "Uma pesquisa com 131 especialistas apontou intenção de busca, backlinks relevantes e qualidade de conteúdo entre os sinais mais valorizados. O resultado é percepção de mercado, não documentação do algoritmo; a aplicação mais segura é usar os fatores como checklist de hipótese."
+      },
+      {
+        "title": "Guia de orçamento de SEO recomenda investir em expertise e mensuração",
+        "source": "Search Engine Land",
+        "date": "Sep 3, 2026",
+        "date": "Sep 11, 2026",
+        "url": "https://searchengineland.com/google-analytics-launches-customizable-dashboards-488343",
+        "summary": "Um guia de orçamento propôs redistribuir investimento de conteúdo commodity para especialistas, pesquisa original, autoridade e métricas de visibilidade em IA. A recomendação é diagnosticar o próprio setor antes de mover verba e separar KPIs de SEO, GEO e marca."
+      },
+      {
+        "title": "LinkedIn diz que credibilidade de marca supera visibilidade para jovens compradores",
+        "source": "Social Media Today",
+        "date": "Sep 8, 2026",
+        "url": "https://www.socialmediatoday.com/news/linkedin-shares-insights-into-younger-professionals/829515/",
+        "summary": "O LinkedIn relatou que 73% dos respondentes consideram credibilidade de marca cada vez mais importante e que vozes especialistas influenciam a conexão com públicos jovens. A leitura é direcional e baseada em pesquisa da plataforma; deve ser cruzada com dados de marca e pipeline."
+      },
+      {
+        "title": "Pinterest renomeia objetivos de campanha para aproximá-los de metas de negócio",
+        "source": "Social Media Today",
+        "date": "Sep 8, 2026",
+        "url": "https://www.socialmediatoday.com/news/pinterest-renames-campaign-objectives-to-simplify-ad-focus/829869/",
+        "summary": "O Pinterest passou a usar nomes como Leads, Sales e Consideration em diferentes contextos, substituindo parte da nomenclatura anterior. A plataforma diz que a mudança não altera desempenho; na operação, a clareza só ajuda se objetivo, evento e relatório estiverem alinhados."
+      },
+      {
+        "title": "Pinterest apresenta tendências de busca masculinas para o calendário editorial",
+        "source": "Social Media Today",
+        "date": "Sep 9, 2026",
+        "url": "https://www.socialmediatoday.com/news/pinterest-shares-insights-into-mens-trends/829990/",
+        "summary": "As tendências divulgadas pelo Pinterest incluem retiros, padel, marcenaria, decoração, cuidados pessoais e moda. O material pode alimentar pautas e produtos sazonais, mas crescimento de busca não é sinônimo de demanda ou venda e precisa ser testado no mercado-alvo."
+      },
+      {
+        "title": "Instagram transforma posts marcados em superfície adicional de colaboração",
+        "source": "Social Media Today",
+        "date": "Sep 10, 2026",
+        "url": "https://www.socialmediatoday.com/news/instagram-lets-users-add-tagged-posts-to-profile-grids/830126/",
+        "summary": "A nova opção de adicionar posts marcados à grade amplia a vida útil de colaborações e conteúdos de creators. Para marcas, o benefício potencial está em facilitar prova social e distribuição compartilhada, sempre com autorização, identificação e acompanhamento de tráfego."
+      },
+      {
+        "title": "Austrália volta a discutir o fim da ordenação algorítmica como padrão",
+        "source": "Social Media Today",
+        "date": "Sep 8, 2026",
+        "url": "https://www.socialmediatoday.com/news/will-removing-algorithmic-sorting-improve-social-media/829868/",
+        "summary": "A discussão australiana sobre feeds cronológicos ganhou força como possível teste de política para reduzir amplificação emocional. A proposta ainda não é regra; equipes de social devem acompanhar alcance, frequência e dependência de recomendação antes de alterar o calendário."
+      },
+      {
+        "title": "YouTube expande o recurso Watch With para mais creators",
+        "source": "Social Media Today",
+        "date": "Sep 8, 2026",
+        "url": "https://www.socialmediatoday.com/news/instagram-chief-warns-against-eliminating-algorithms/830130/",
+        "summary": "O YouTube ampliou o Watch With, formato de comentários e reação em tempo real associado a transmissões. A função pode fortalecer comunidades em torno de eventos, mas o valor para marcas depende de adequação do creator, direitos de transmissão e medição de atenção além da visualização."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Muse chega como agente pessoal da Meta para tarefas e recomendações",
+        "source": "Meta Newsroom",
+        "date": "Sep 8, 2026",
+        "url": "https://about.fb.com/br/news/2026/09/conheca-o-muse-o-primeiro-agente-de-ia-pessoal-do-mundo-feito-para-todos/",
+        "summary": "O Muse combina conversa, sugestões proativas, memória de objetivos e tarefas em segundo plano em um agente pessoal da Meta. O lançamento interessa a marketing por aproximar recomendação e ação, mas requer atenção a privacidade, consentimento e limites entre assistência e publicidade."
+      },
+      {
+        "title": "OpenAI apresenta GPT-6 Astra como modelo voltado a trabalho profissional",
+        "source": "OpenAI",
+        "date": "Sep 8, 2026",
+        "url": "https://openai.com/index/the-work-now-within-reach/",
+        "summary": "A OpenAI descreveu o GPT-6 Astra como avanço para uso profissional, com foco em navegação, uso de computador, engenharia e ciência. A página é posicionamento institucional e não avaliação independente; aplicações de marketing devem começar por tarefas controladas e critérios de qualidade."
+      },
+      {
+        "title": "Meta destaca recursos de criação para vídeos feitos com seus óculos de IA",
+        "source": "Social Media Today",
+        "date": "Sep 13, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-highlights-creation-tools-for-ai-glasses/830238/",
+        "summary": "A Meta destacou recursos para transformar gravações dos óculos de IA em vídeos mais fáceis de editar e compartilhar. A evolução aproxima captura, edição e publicação, mas o ganho para marcas depende de qualidade criativa, consentimento e contexto de uso."
+      },
+      {
+        "title": "Snapchat descreve anúncios generativos alimentados por modelos multimodais",
+        "source": "Social Media Today",
+        "date": "Sep 9, 2026",
+        "url": "https://www.socialmediatoday.com/news/snap-ceo-discusses-ad-development-and-ai/829986/",
+        "summary": "O Snapchat descreveu uma direção para anúncios generativos apoiados por modelos multimodais e sinais de comunidade. A promessa é acelerar variações e relevância, mas exige controles para evitar repetição, problemas de segurança e criativos sem identidade."
+      },
+      {
+        "title": "Claude pode acelerar auditorias de conversão sem substituir julgamento",
+        "source": "Search Engine Land",
+        "date": "Sep 10, 2026",
+        "url": "https://searchengineland.com/how-to-use-claude-to-run-a-stronger-cro-audit-488019",
+        "summary": "Um guia mostrou como usar Claude para organizar dados de CRO, encontrar padrões e preparar hipóteses de teste. A ferramenta não prova causa nem entende sozinha restrições comerciais; alterações de experiência, oferta e tracking ainda precisam de revisão e experimento."
+      },
+      {
+        "title": "OpenAI restringe anúncios de ferramentas de IA concorrentes no ChatGPT, segundo análise",
+        "source": "Search Engine Land",
+        "date": "Sep 10, 2026",
+        "url": "https://searchengineland.com/openai-blocks-rival-ai-tools-ads-chatgpt-488012",
+        "summary": "Uma reportagem afirmou que a OpenAI estaria impedindo ferramentas de IA concorrentes de anunciar no ChatGPT. A informação é baseada em apuração de mercado e não em uma política pública detalhada; anunciantes devem confirmar elegibilidade e não tratar o relato como regra para todos os setores."
+      },
+      {
+        "title": "Google conecta Data Manager, experimentos e modelagem com assistência de IA",
+        "source": "Google Ads & Commerce",
+        "date": "Sep 10, 2026",
+        "url": "https://blog.google/products/ads-commerce/data-strength-updates/",
+        "summary": "As atualizações do Google combinam ativação de dados próprios, métrica de força de dados, auditoria assistida no Meridian e experimentos geográficos. A direção é usar IA para reduzir trabalho técnico, mas decisões de investimento continuam exigindo desenho causal e dados de negócio."
+      },
+      {
+        "title": "Snapchat descreve anúncios generativos alimentados por modelos multimodais",
+        "source": "Social Media Today",
+        "date": "Sep 9, 2026",
+        "url": "https://www.socialmediatoday.com/news/snap-ceo-discusses-ad-development-and-ai/829986/",
+        "summary": "Evan Spiegel afirmou que modelos multimodais podem transformar sinais de comunidade em recomendações de produtos e novas formas de publicidade. A ideia ainda é estratégica; relevância, privacidade, explicabilidade e controle de frequência serão determinantes antes de qualquer escala."
+      },
+      {
+        "title": "Google Ads começa a gerar painéis de análise em linguagem natural",
+        "source": "Search Engine Land",
+        "date": "Sep 8, 2026",
+        "url": "https://searchengineland.com/google-ads-ai-dashboards-start-appearing-in-advertiser-accounts-487457",
+        "summary": "Os painéis com IA do Google Ads começam a transformar perguntas em visualizações e resumos de desempenho. Isso reduz trabalho operacional, mas a interpretação ainda precisa conferir janela, atribuição e qualidade dos dados antes de orientar investimento."
+      },
+      {
+        "title": "Google Analytics transforma dados de marketing em painéis editáveis",
+        "source": "Search Engine Land",
+        "date": "Sep 11, 2026",
+        "url": "https://searchengineland.com/google-analytics-launches-customizable-dashboards-488343",
+        "summary": "Os novos painéis personalizáveis do Google Analytics prometem organizar indicadores com edição mais simples e assistência de IA. A facilidade pode melhorar a rotina de análise, mas só é útil quando definições, filtros, atribuição e governança de acesso permanecem explícitos."
+      }
+    ]
+  },
+  "repeat_url_overrides": [
+    "https://about.fb.com/br/news/2026/09/conheca-o-muse-o-primeiro-agente-de-ia-pessoal-do-mundo-feito-para-todos/",
+    "https://blog.google/products/ads-commerce/data-strength-updates/",
+    "https://searchengineland.com/ai-overviews-may-be-affecting-shopping-ad-ctr-and-impressions-487265",
+    "https://searchengineland.com/google-ads-adds-new-tools-to-drive-and-measure-in-store-sales-487439",
+    "https://searchengineland.com/google-ads-ai-dashboards-start-appearing-in-advertiser-accounts-487457",
+    "https://searchengineland.com/google-analytics-launches-customizable-dashboards-488343",
+    "https://searchengineland.com/google-top-ranking-factors-survey-131-seo-professionals-487723",
+    "https://searchengineland.com/microsoft-advertising-removes-max-cpc-from-new-standalone-bidding-campaigns-485598",
+    "https://www.seroundtable.com/google-expands-merchant-center-ai-performance-insights-42005.html",
+    "https://www.socialmediatoday.com/news/instagram-chief-warns-against-eliminating-algorithms/830130/",
+    "https://www.socialmediatoday.com/news/instagram-lets-users-add-tagged-posts-to-profile-grids/830126/",
+    "https://www.socialmediatoday.com/news/linkedin-shares-insights-into-younger-professionals/829515/",
+    "https://www.socialmediatoday.com/news/meta-highlights-creation-tools-for-ai-glasses/830238/",
+    "https://www.socialmediatoday.com/news/pinterest-shares-insights-into-mens-trends/829990/",
+    "https://www.socialmediatoday.com/news/snap-ceo-discusses-ad-development-and-ai/829986/"
+  ]
+}
