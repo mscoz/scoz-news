@@ -1,0 +1,369 @@
+{
+  "schema_version": 1,
+  "id": "2026-09-14",
+  "label": "14-20/set",
+  "label_full": "14 a 20 de setembro de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Meta lança o Meta One, assinatura com recursos de IA para Instagram, Facebook e WhatsApp",
+        "source": "Meta Newsroom",
+        "date": "Sep 15, 2026",
+        "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
+        "summary": "A Meta apresentou o Meta One, serviço de assinatura em camadas para Instagram, Facebook, WhatsApp e Meta AI, com planos individuais a partir de US$ 2,99 por mês e níveis para criadores e empresas de US$ 14,99 a US$ 499 ou mais. A empresa informa mais de 50 recursos e 15 milhões de assinaturas e testes ativos; os números são da própria Meta e a disponibilidade varia por região e aplicativo."
+      },
+      {
+        "title": "Meta lança pacotes pagos Meta One for Business para perfis profissionais",
+        "source": "Social Media Today",
+        "date": "Sep 15, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-launches-meta-one-for-business-add-on-packages/830469/",
+        "summary": "Segundo a cobertura, os pacotes vão de US$ 14,99 a US$ 499 por mês e incluem monitoramento de concorrentes no Instagram, histórico de insights ampliado, agendamento avançado e um assistente de IA para atendimento. O número de links permitidos em posts e Reels do Instagram cresce conforme o nível, de modo que a assinatura deve ser avaliada pelo uso real dessas funções."
+      },
+      {
+        "title": "Facebook limita posts com link de Páginas que não assinam o Meta One for Business",
+        "source": "Social Media Today",
+        "date": "Sep 17, 2026",
+        "url": "https://www.socialmediatoday.com/news/facebook-pages-get-charged-for-link-posts/830743/",
+        "summary": "Gestores relataram avisos de que suas Páginas poderiam publicar apenas dois posts com link por mês sem assinatura, em ampliação de um teste iniciado em dezembro de 2025; Páginas de publishers ficam fora da regra. A própria Meta mostra que links já respondem por parcela pequena do conteúdo mais visto, o que limita o impacto para quem depende de alcance orgânico, mas exige revisar a estratégia de tráfego."
+      },
+      {
+        "title": "Meta publica guias de planejamento para as compras de fim de ano de 2026",
+        "source": "Social Media Today",
+        "date": "Sep 17, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-shares-holiday-2026-planning-guides/830741/",
+        "summary": "A Meta divulgou materiais para marcas e agências, incluindo visão geral sobre IA, guia criativo e um manual para pequenas empresas com dados de pesquisa de presentes e compras no app. A cobertura mostra os guias sobretudo em imagens, sem detalhar recomendações; as estatísticas são da plataforma e devem ser conferidas nos documentos originais."
+      },
+      {
+        "title": "Meta lança WhatsApp Business Tools MCP para conectar ferramentas de IA de terceiros",
+        "source": "Social Media Today",
+        "date": "Sep 16, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-adds-simplified-third-party-ai-support-to-whatsapp/830617/",
+        "summary": "O recurso permite que marcas usem ferramentas de IA de sua escolha para configurar perfis de agentes e criar templates de marketing no WhatsApp a partir de pedidos em linguagem natural. A proposta reduz a necessidade de código, mas a cobertura não detalha preço, regras de implantação nem desempenho, e atendimento automatizado continua exigindo revisão e consentimento."
+      },
+      {
+        "title": "Meta lança o Muse para Mac e abre conectores para aplicativos de terceiros",
+        "source": "Social Media Today",
+        "date": "Sep 20, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-expands-muse-agent-connections-launches-muse-for-mac/830852/",
+        "summary": "A Meta lançou uma versão do agente Muse para Mac, capaz de organizar arquivos e resumir mensagens com permissão do usuário, e os Muse Connectors, que permitem a desenvolvedores integrar seus apps. Usuários relataram que o agente lê mensagens diretas e sugere ações; a Meta diz que isso só ocorre com autorização, e o tema segue sensível para privacidade."
+      },
+      {
+        "title": "Threads amplia ferramentas de divulgação de podcasts para criadores",
+        "source": "Social Media Today",
+        "date": "Sep 16, 2026",
+        "url": "https://www.socialmediatoday.com/news/threads-adds-more-podcast-promotion-features/830614/",
+        "summary": "O Threads passou a oferecer banners de podcast em perfis e posts, seletor de episódios, cartões de convidado e transcrição, lembretes de novos episódios e Podcast Insights com cliques e salvamentos. As novidades ajudam a testar o Threads como canal de distribuição, mas a cobertura não traz dados de resultado."
+      },
+      {
+        "title": "Snap abre pré-venda dos óculos AR Specs por cerca de US$ 2.195",
+        "source": "Social Media Today",
+        "date": "Sep 16, 2026",
+        "url": "https://www.socialmediatoday.com/news/snap-launches-ar-specs/830613/",
+        "summary": "A Snap iniciou a pré-venda nos EUA, França e Reino Unido, com envios previstos para outubro de 2026, e apresenta o serviço de IA Specs Intelligence. A cobertura questiona se haverá demanda de consumidores pelo preço e pelo campo de visão limitado, então o impacto para anunciantes ainda é incerto."
+      },
+      {
+        "title": "Pinterest anuncia anúncios de busca visual e ferramenta de IA para redecorar ambientes",
+        "source": "Social Media Today",
+        "date": "Sep 17, 2026",
+        "url": "https://www.socialmediatoday.com/news/pinterest-announces-visual-search-ads-and-an-ai-restyle-feature/830737/",
+        "summary": "No evento Pinterest Presents, a plataforma apresentou anúncios dentro de resultados de busca visual, com beta em mercados selecionados nas próximas semanas, e o Restyle, que usa IA para gerar variações de decoração nos EUA e no Canadá. Também citou Priority Products e testes A/B nas campanhas Performance+; são anúncios da empresa, sem resultados independentes."
+      },
+      {
+        "title": "LinkedIn testa aba Network com conteúdo apenas de conexões e seguidos",
+        "source": "Social Media Today",
+        "date": "Sep 20, 2026",
+        "url": "https://www.socialmediatoday.com/news/linkedin-tests-network-tab-to-encourage-engagement-among-connections/830853/",
+        "summary": "O LinkedIn testa uma aba com feed formado só por pessoas que o usuário segue ou com quem se conecta, em resposta a pods de engajamento e excesso de conteúdo gerado por IA. A cobertura lembra que testes anteriores de feeds alternativos não avançaram, então o efeito sobre alcance de páginas de marca ainda é incerto."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google amplia ferramentas de comércio agêntico e insights de IA do Merchant Center para o fim de ano",
+        "source": "Google Blog",
+        "date": "Sep 16, 2026",
+        "url": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/",
+        "summary": "O Google tornou os insights de desempenho em IA do Merchant Center disponíveis em cinco países, abriu um beta do Business Agent em anúncios do YouTube para varejistas dos EUA e atualizou o hub do Universal Commerce Protocol com transferência de carrinho e testes de checkout. A empresa cita ganho médio de 5% em conversão para quem adota boas práticas de feed; é alegação do Google, sem auditoria independente."
+      },
+      {
+        "title": "Google Ads testa Product Value Optimization para direcionar lances aos produtos mais importantes",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 14, 2026",
+        "url": "https://www.seroundtable.com/google-ads-product-value-optimization-42071.html",
+        "summary": "O beta permite criar ajustes de valor por produto ou atributo para orientar os lances automáticos em Performance Max e Shopping segundo lucro, sell-through sazonal ou best-sellers. É um beta ainda visível para poucas contas; os ajustes devem refletir margem real e ser testados antes de ampliar."
+      },
+      {
+        "title": "Google Ads exibe relatório que compara o gasto do anunciante com o de negócios semelhantes",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 16, 2026",
+        "url": "https://www.seroundtable.com/google-ads-spend-benchmarks-report-competitors-42097.html",
+        "summary": "Um anunciante identificou, na visão geral da conta, um relatório que compara gasto e cliques semanais com um grupo de pares definido pelo Google, usando setor e local de veiculação. O especialista que o encontrou alerta que a decisão de verba deve seguir margem e lucratividade, não o gasto médio dos pares."
+      },
+      {
+        "title": "Performance Max ganha opção de enviar cliques ao Perfil da Empresa em vez do site",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 15, 2026",
+        "url": "https://www.seroundtable.com/google-ads-pmax-options-42087.html",
+        "summary": "Uma conta passou a exibir a pergunta sobre onde as pessoas devem ir após o clique, com a alternativa de uma página hospedada pelo Google baseada no Perfil da Empresa, com medição de conversão incorporada. O relato é de uma conta isolada e descreve uma expansão discreta; elegibilidade e impacto no desempenho ainda não foram detalhados."
+      },
+      {
+        "title": "Google testa anúncios em formato de link de texto dentro do AI Mode",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 15, 2026",
+        "url": "https://www.seroundtable.com/google-ai-mode-text-link-ads-42082.html",
+        "summary": "Usuários viram anúncios com texto de link rotulados como Sponsored acima da resposta gerada pela IA, parecidos com resultados orgânicos. É um experimento sem confirmação de lançamento amplo, e a cobertura levanta dúvidas sobre cliques e transparência."
+      },
+      {
+        "title": "Google detalha beta de conversões de várias fontes via Data Manager",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 16, 2026",
+        "url": "https://www.seroundtable.com/google-ads-multi-source-conversions-42080.html",
+        "summary": "Um novo documento de ajuda descreve como ligar conversões do site a fontes de back-end, como CRM ou banco de pedidos, para recuperar eventos perdidos pela tag e ajustar valores. O recurso está em beta; a qualidade da integração e das regras de deduplicação determinará o ganho de medição."
+      },
+      {
+        "title": "Google publica documentação sobre compartilhamento de audiências de commerce no Google Ads",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 18, 2026",
+        "url": "https://www.seroundtable.com/google-ads-commerce-audience-sharing-42109.html",
+        "summary": "O documento explica como parceiros de commerce, como varejistas e marketplaces, podem compartilhar segmentos de dados próprios com anunciantes parceiros. A ressalva é que o tráfego das campanhas que usam essa audiência só pode ser direcionado ao site do parceiro de commerce, o que limita o uso para marcas que vendem em outros canais."
+      },
+      {
+        "title": "Google testa Sponsored Places que se expandem ao passar o mouse na Busca",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 17, 2026",
+        "url": "https://www.seroundtable.com/expandable-google-sponsored-places-42081.html",
+        "summary": "Um profissional de busca identificou anúncios Sponsored Places que aumentam de tamanho quando o cursor passa sobre eles nos resultados. É um teste, sem confirmação de lançamento, escopo ou métricas."
+      },
+      {
+        "title": "Google lança métricas de anúncios no Chrome User Experience Report",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 15, 2026",
+        "url": "https://www.seroundtable.com/google-ad-metrics-crux-42093.html",
+        "summary": "O CrUX passou a oferecer, em caráter experimental, contagem, densidade e peso de anúncios, em rede e CPU, pela API, pela History API e pela ferramenta CrUX Vis. Os dados ajudam a avaliar o impacto de anúncios na experiência de páginas, mas ainda não apareciam para todos os sites durante os testes."
+      },
+      {
+        "title": "Primeiros dados mostram CPCs maiores em campanhas com orçamento limitado após a atualização de lances",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 15, 2026",
+        "url": "https://www.seroundtable.com/data-google-ads-aug17-bidding-update-42086.html",
+        "summary": "Análise de Mike Ryan, divulgada na rede X, indica que campanhas com lances por meta e orçamento limitado tiveram CPCs maiores depois da mudança de 17 de agosto, enquanto campanhas sem limite de orçamento ganharam acesso a inventário antes suprimido. São dados iniciais de uma análise e devem ser comparados com a conta de cada anunciante."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "OpenAI testa Sponsored Agents em anúncios do ChatGPT",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 16, 2026",
+        "url": "https://www.seroundtable.com/openai-chatgpt-sponsored-agents-42104.html",
+        "summary": "No novo formato, o clique no anúncio abre uma conversa rotulada com um agente da empresa anunciante, separada da conversa original, em teste com anunciantes selecionados nos EUA. A OpenAI também anunciou criação de anúncios assistida por IA, integrações com Shopify e HubSpot e opções de atribuição de 7, 14 ou 30 dias; trata-se de piloto, não de lançamento geral."
+      },
+      {
+        "title": "Juíza rejeita separação do ad tech do Google e impõe remédios comportamentais com monitor",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 17, 2026",
+        "url": "https://www.seroundtable.com/google-ad-tech-monopoly-remedies-42107.html",
+        "summary": "Os remédios incluem compartilhamento de dados, proibição de lances discriminatórios, integração da bolsa de anúncios com servidores de publishers concorrentes e monitoramento independente por seis anos. A venda de divisões foi descartada por não ser realista nem necessária, segundo a decisão; os efeitos práticos para anunciantes dependerão da implementação."
+      },
+      {
+        "title": "Microsoft Advertising lista quatro bases para preparar campanhas para as compras de fim de ano",
+        "source": "Microsoft Advertising",
+        "date": "Sep 17, 2026",
+        "url": "https://about.ads.microsoft.com/en/blog/post/september-2026/four-foundations-to-get-your-brand-ai-ready-for-the-holidays",
+        "summary": "O guia recomenda feeds completos, medição com Universal Event Tracking e Conversions API, consolidação de campanhas com ao menos 30 conversões em 30 dias e uso de Clarity e Brand Agents. Os resultados citados, como ROAS de 1.042% e conversão três vezes maior com Brand Agents, vêm de casos informados pela empresa e não são benchmark geral."
+      },
+      {
+        "title": "Bing testa rótulos Top Picks, Sale e Price Drop em carrosséis de produtos",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 17, 2026",
+        "url": "https://www.seroundtable.com/bing-product-carousel-labels-42092.html",
+        "summary": "A Microsoft está testando rótulos como Top Picks, Sale, Price Drop e contagem de visualizações nos carrosséis de produtos do Bing. O próprio autor admite que parte dos rótulos pode não ser nova, e o teste pode mudar antes de qualquer lançamento."
+      },
+      {
+        "title": "Bing testa filtros de compras na barra lateral esquerda",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 16, 2026",
+        "url": "https://www.seroundtable.com/bing-sidebar-shopping-filters-42084.html",
+        "summary": "Capturas de tela indicam filtros de produto mais detalhados na lateral dos resultados, aproximando o layout do Bing do usado pelo Google. O autor não conseguiu reproduzir o teste, e não há confirmação de lançamento."
+      },
+      {
+        "title": "Google testa levar cliques de listagens de produtos direto ao site do lojista",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 16, 2026",
+        "url": "https://www.seroundtable.com/google-product-listings-direct-merchant-42089.html",
+        "summary": "Em vez de abrir o painel com várias lojas, o clique em produtos na Busca levaria diretamente à página do comerciante, segundo teste observado pelo analista Brodie Clark. O experimento segue outro semelhante feito em junho e não indica lançamento amplo, mas pode alterar a jornada em Shopping."
+      },
+      {
+        "title": "Google retira listagens gratuitas de produtos do Espaço Econômico Europeu",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 18, 2026",
+        "url": "https://www.seroundtable.com/google-drops-free-product-listings-eea-42113.html",
+        "summary": "Por causa da Lei de Mercados Digitais, listagens gratuitas e carrosséis de produtos populares desapareceram quase por completo na região, com quedas de 90% a 100% em análise de terceiros; o espaço passou a serviços de comparação de compras. A remoção foi confirmada por Ginny Marvin, do Google, e afeta o planejamento de varejistas com presença na Europa."
+      },
+      {
+        "title": "Merchant Center ganha suporte a avaliações de produto pela API",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 18, 2026",
+        "url": "https://www.seroundtable.com/google-merchant-center-api-supports-product-reviews-42101.html",
+        "summary": "A documentação do Google passou a indicar que fontes de dados de avaliações de produto podem ser adicionadas por API, o que antes não era suportado. O texto também atualizou termos e orientações de reprovação; não há cronograma nem detalhes técnicos de implantação."
+      },
+      {
+        "title": "Reddit publica guia de fim de ano para pequenas empresas com dados de descoberta de produtos",
+        "source": "Social Media Today",
+        "date": "Sep 17, 2026",
+        "url": "https://www.socialmediatoday.com/news/reddit-smb-guide-offers-holiday-planning-tips/830738/",
+        "summary": "O manual de 11 páginas diz que 75% dos usuários recorrem ao Reddit por avaliações honestas ao pesquisar presentes e que as menções a pequenas empresas em r/gifts subiram 120% em 2025. Os números são da própria plataforma e servem como hipótese de planejamento, não como previsão de resultado de mídia."
+      },
+      {
+        "title": "LinkedIn compartilha orientações para Thought Leader Ads",
+        "source": "Social Media Today",
+        "date": "Sep 15, 2026",
+        "url": "https://www.socialmediatoday.com/news/linkedin-shares-tips-on-thought-leader-ads/830359/",
+        "summary": "O LinkedIn publicou dicas para amplificar posts de pessoas, incluindo conteúdo de quem não é funcionário, e cita que marketers B2B relatam engajamento 1,6 vez maior que anúncios de imagem única. É dado da plataforma e a cobertura não detalha as recomendações, então o teste deve ter métricas próprias."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Google testa programa de pagamento a publishers por conteúdo usado em respostas de IA",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 14, 2026",
+        "url": "https://www.seroundtable.com/google-al-contribution-pilot-42076.html",
+        "summary": "O piloto AI contribution remunera publishers cujo conteúdo contribui de forma significativa para respostas em AI Overviews, AI Mode e Gemini, com painel no Search Console e possibilidade de sair a qualquer momento. Segundo a Digiday, dezenas de publishers foram procurados e o Google ainda define como calcular o valor; é um piloto, não um programa aberto."
+      },
+      {
+        "title": "Google atualiza perfis de Search com menos seguidores exigidos e login único",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 16, 2026",
+        "url": "https://www.seroundtable.com/google-search-profiles-updates-42098.html",
+        "summary": "O requisito de seguidores nas redes caiu de 100 mil para 10 mil, o layout de artigos foi redesenhado e é possível gerenciar até 10 perfis com um só login. A mudança amplia a elegibilidade de publishers e creators, mas o efeito sobre tráfego ainda precisa ser medido."
+      },
+      {
+        "title": "Mueller diz que relatórios de IA no Search Console vão evoluir com o tempo",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 16, 2026",
+        "url": "https://www.seroundtable.com/google-search-console-ai-reporting-change-42099.html",
+        "summary": "John Mueller afirmou que métricas de posição e impressões de AI Mode e AI Overviews terão casos-limite e buscam ser úteis, não uma verdade absoluta de posição. A mudança de método pode quebrar comparações históricas, então vale registrar a data de cada alteração."
+      },
+      {
+        "title": "Volatilidade nos rankings do Google aumenta em 15 de setembro sem confirmação oficial",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 15, 2026",
+        "url": "https://www.seroundtable.com/google-update-42091.html",
+        "summary": "Comunidade e ferramentas de monitoramento apontaram movimentos fortes, especialmente no Reino Unido, mas o Google não confirmou atualização e algumas ferramentas ainda não mostravam o pico. As observações vêm de relatos de usuários; mudanças de tráfego devem ser confirmadas nos dados próprios antes de reagir."
+      },
+      {
+        "title": "Google pode ter ficado mais eficaz em bloquear scrapers e ferramentas de rastreamento de SEO",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 18, 2026",
+        "url": "https://www.seroundtable.com/google-blocking-scrapers-and-tracking-tools-42118.html",
+        "summary": "Fornecedores como Nozzle e Sistrix relataram queda na coleta de dados desde cerca de 13 de setembro, com impacto desigual entre ferramentas. O autor alerta que os números dessas plataformas podem estar errados; relatórios de rank desse período exigem cautela."
+      },
+      {
+        "title": "Painel de conhecimento local do Google passa a ter descrição gerada por IA",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 17, 2026",
+        "url": "https://www.seroundtable.com/google-local-knowledge-panel-ai-overview-42105.html",
+        "summary": "Perfis de empresa passaram a mostrar um AI Overview com botão para expandir em chat, segundo exemplo compartilhado no LinkedIn. As descrições são geradas a partir de conteúdo do site e podem refletir informação desatualizada, o que reforça manter site e perfil revisados."
+      },
+      {
+        "title": "Meta lança Creator Marketing Hub com busca de criadores e anúncios com um clique",
+        "source": "Social Media Today",
+        "date": "Sep 16, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-adds-more-creator-partnership-tools/830480/",
+        "summary": "O hub reúne descoberta de criadores, recomendações de conteúdo, mensagens diretas, permissões por conteúdo com validade e criação de anúncios com um clique; também amplia a integração com a Creator Marketplace API. As funções ajudam a operacionalizar parcerias, mas a cobertura não apresenta resultados de campanha."
+      },
+      {
+        "title": "Estudo da Emplifi indica que colaborações publicadas por criadores superam posts de marcas no Instagram",
+        "source": "Social Media Today",
+        "date": "Sep 16, 2026",
+        "url": "https://www.socialmediatoday.com/news/report-highlights-the-value-of-creator-led-collabs-on-instagram/830619/",
+        "summary": "A análise de mais de 520 mil posts de 3.791 perfis, entre janeiro e junho de 2026, aponta que colaborações aceitas geram mais de cinco vezes a amplificação de posts sem colaboração em e-commerce e varejo. É estudo de uma só empresa e período curto, que serve como hipótese a ser testada."
+      },
+      {
+        "title": "Reddit mostra como usuários pesquisam produtos para o fim de ano",
+        "source": "Social Media Today",
+        "date": "Sep 15, 2026",
+        "url": "https://www.socialmediatoday.com/news/reddit-shares-holiday-shopping-insights/830363/",
+        "summary": "A plataforma destacou o uso de avaliações feitas por usuários e a frequência com que é citada por chatbots de IA. A cobertura lembra que o Reddit teve queda recente de referências vindas do ChatGPT, o que relativiza o valor para visibilidade em IA."
+      },
+      {
+        "title": "LinkedIn troca recurso de aprimoramento de posts por revisor de texto Post Proofreader",
+        "source": "Social Media Today",
+        "date": "Sep 20, 2026",
+        "url": "https://www.socialmediatoday.com/news/linkedin-ditches-post-enhancement-launches-post-proofreader/830851/",
+        "summary": "O Post Proofreader, para assinantes Premium, sugere correções com controle de alterações em vez de reescrever o texto inteiro, em meio à reação contra conteúdo de IA de baixa qualidade. O LinkedIn diz que a denúncia de AI slop foi usada mais de 1 milhão de vezes em menos de três semanas; é dado da plataforma."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Google lança Gemini 3.8 Live e Gemini 3.8 Live Extended Thinking",
+        "source": "Google Blog",
+        "date": "Sep 15, 2026",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+        "summary": "Os modelos de voz oferecem contexto visual em tempo real, detecção de idioma em 97 línguas e execução de ferramentas em segundo plano, disponíveis na Gemini API e no Google AI Studio e em produtos como Search Live. As posições em benchmarks citadas são do Google; a versão empresarial está em prévia privada."
+      },
+      {
+        "title": "Search Live passa a usar o Gemini 3.8 Live",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 15, 2026",
+        "url": "https://www.seroundtable.com/google-search-live-gemini-3-8-42094.html",
+        "summary": "Segundo Rajan Patel, do Google, a atualização traz respostas mais úteis com links, suporte multilíngue e conversas mais naturais. A mudança interessa a SEO e conteúdo porque a busca por voz e câmera passa a depender mais de respostas geradas."
+      },
+      {
+        "title": "Anthropic unifica chat e Cowork em uma única experiência do Claude",
+        "source": "Claude Blog",
+        "date": "Sep 16, 2026",
+        "url": "https://claude.com/blog/cowork-is-now-claude",
+        "summary": "O Claude agora direciona pedidos entre chat, Cowork, Artifacts e Claude Design, e lançou Claude Docs e Claude Slides em beta nos planos pagos. A liberação é gradual, começa por Pro e Max e chega depois a Team e Free; os benefícios descritos são da empresa."
+      },
+      {
+        "title": "Claude for Small Business ganha 43 workflows, 27 integrações e treinamentos",
+        "source": "Claude Blog",
+        "date": "Sep 15, 2026",
+        "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+        "summary": "A Anthropic ampliou o plugin com fluxos para geração de leads, propostas e relatórios, integrações como Shopify, Stripe e TikTok e workshops presenciais nos EUA. A empresa afirma mais de 900 mil instalações desde maio e que os fluxos exigem aprovação do dono por padrão; os números são da própria Anthropic."
+      },
+      {
+        "title": "Anthropic redesenha Projects no Claude como fluxo de conversas coordenadas",
+        "source": "Claude Blog",
+        "date": "Sep 17, 2026",
+        "url": "https://claude.com/blog/projects-redesigned",
+        "summary": "O novo Projects usa threads independentes com um coordenador, memória compartilhada e uma biblioteca de arquivos e artefatos. O acesso começa em beta para parte dos assinantes Pro e Max com sessões em nuvem do Claude Code, com expansão posterior para Team e Enterprise."
+      },
+      {
+        "title": "Anthropic cria programa de verificação para pesquisa em ciências da vida",
+        "source": "Anthropic",
+        "date": "Sep 17, 2026",
+        "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+        "summary": "O Life Sciences Verification Program dá a profissionais verificados acesso a modelos Claude com salvaguardas ajustadas para biologia, com concessões padrão e de alto risco. O monitoramento é feito offline e o tráfego é retido por 30 dias; as regras são da empresa e dependem de aprovação."
+      },
+      {
+        "title": "Pinterest amplia parceria com a Nvidia para busca visual e conversação com IA",
+        "source": "Social Media Today",
+        "date": "Sep 15, 2026",
+        "url": "https://www.socialmediatoday.com/news/pinterest-announces-new-deal-with-nvidia/830356/",
+        "summary": "O acordo usa GPUs Blackwell para sustentar busca visual e segurança de conteúdo, com ganhos de latência citados em testes internos do próprio Pinterest. Os números não têm verificação independente e o impacto para anunciantes ainda não foi demonstrado."
+      },
+      {
+        "title": "Google testa novas interfaces de expansão de perguntas no AI Mode",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 14, 2026",
+        "url": "https://www.seroundtable.com/google-ai-mode-more-query-expansions-42074.html",
+        "summary": "Capturas indicam caixas de seleção múltipla em perguntas de acompanhamento, opções de refinamento e respostas paginadas. São testes observados por pesquisadores, sem anúncio oficial, e o autor admite que parte pode não ser nova."
+      },
+      {
+        "title": "Google testa botão do AI Mode na barra de busca da página de resultados",
+        "source": "Search Engine Roundtable",
+        "date": "Sep 18, 2026",
+        "url": "https://www.seroundtable.com/google-search-bar-testing-ai-mode-button-42110.html",
+        "summary": "O botão já aparece em outros pontos da Busca e agora surgiu na barra dentro dos resultados, mas não em todas as consultas. É um teste limitado, e a busca tradicional continua disponível; vale acompanhar mudanças no comportamento de cliques."
+      },
+      {
+        "title": "Anthropic lança Claude for Financial Advisors com conectores e fluxos de trabalho",
+        "source": "Claude Blog",
+        "date": "Sep 14, 2026",
+        "url": "https://claude.com/blog/claude-for-financial-advisors",
+        "summary": "O pacote traz conectores com 11 plataformas, como Addepar, Schwab e Vanguard, e oito workflows de preparação de reuniões, compliance e rebalanceamento. Está disponível nos planos Enterprise, mantém supervisão humana em atividades reguladas e reflete a expansão de agentes por vertical; o ganho de tempo é premissa da Anthropic."
+      }
+    ]
+  },
+  "repeat_url_overrides": []
+}
