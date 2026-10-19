@@ -1,0 +1,383 @@
+{
+  "schema_version": 1,
+  "id": "2026-10-12",
+  "label": "12/out-18/out",
+  "label_full": "12 a 18 de outubro de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Facebook lança controle de algoritmo em linguagem natural para Feed e Reels",
+        "source": "Meta Newsroom",
+        "date": "Oct 13, 2026",
+        "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+        "summary": "A Meta anunciou ferramentas que deixam o usuário dizer, em linguagem natural, quais temas quer ver mais ou menos no Feed e nos Reels, com o recurso Your algorithm no menu de três pontos. O recurso está em liberação gradual e a Meta não especifica países."
+      },
+      {
+        "title": "WhatsApp permite convidar pessoas sem conta para chamadas por link",
+        "source": "Meta Newsroom",
+        "date": "Oct 14, 2026",
+        "url": "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/",
+        "summary": "Convidados entram pelo navegador do computador em chamadas 1:1 ou em grupo de até 32 pessoas, depois de admitidos pelo anfitrião; só usuários do WhatsApp criam o link. A Meta diz que as chamadas são criptografadas de ponta a ponta e que as integrações com Google e Outlook chegam ainda este ano, sem informar regiões."
+      },
+      {
+        "title": "Meta apresenta Ads Super Burst e testa First Impression Ads e Aggregated View Time",
+        "source": "Social Media Today",
+        "date": "Oct 15, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-offers-enhanced-ad-campaign-exposure/833171/",
+        "summary": "Em evento de construção de marca, a Meta anunciou o Ads Super Burst (janela de 3 a 24 horas), ampliou os Reels Trending Ads e testa o Aggregated View Time e o First Impression Ads, este nos EUA, com uma marca por dia. A tese de que exposição acumulada pesa nas intenções de compra é alegação da Meta."
+      },
+      {
+        "title": "Edits ganha links de áudio e kits de estilo; Instagram permite Reel de referência na gravação",
+        "source": "Social Media Today",
+        "date": "Oct 15, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-adds-audio-links-and-reference-reels-to-edits/833192/",
+        "summary": "A atualização traz links de áudio, insights de tendências (só para criadores com mais de 10 mil seguidores) e kits de estilo no Edits, e o Reel de referência na tela durante a gravação, por ora só no iOS. A opção de ligar Reels em séries será removida em 28/10."
+      },
+      {
+        "title": "Cláusula dos Termos Comerciais da Meta sobre rastrear sites de anunciantes entra em vigor em 30/10",
+        "source": "PPC Land",
+        "date": "Oct 17, 2026",
+        "url": "https://ppc.land/meta-grants-itself-the-right-to-crawl-advertisers-websites-for-ai/",
+        "summary": "Os termos revisados permitem à Meta acessar, indexar e copiar sites ligados aos produtos de um negócio e usar o conteúdo para treinar seus produtos, com aceite passivo pelo uso continuado. Um porta-voz disse que o objetivo é puxar informações de produtos à venda; relatos posteriores divergem sobre a retirada da frase de treinamento de IA."
+      },
+      {
+        "title": "X lança pacotes de assinatura unificados com acesso escalonado às ferramentas de IA",
+        "source": "Social Media Today",
+        "date": "Oct 13, 2026",
+        "url": "https://www.socialmediatoday.com/news/x-launches-unified-subscription-packages/832924/",
+        "summary": "Os pacotes juntam o X Premium a níveis de acesso a IA, em cinco faixas de preço, do plano gratuito ao Ultra de US$ 200 por mês. A liberação é gradual e começa nos EUA, com outras regiões em etapas."
+      },
+      {
+        "title": "Pinterest publica guia que incentiva marcas a levar o público para atividades offline",
+        "source": "Social Media Today",
+        "date": "Oct 13, 2026",
+        "url": "https://www.socialmediatoday.com/news/pinterest-asks-brands-to-send-people-back-into-their-life/832922/",
+        "summary": "O Pinterest cita pesquisa própria e diz que buscas por coisas para fazer em vez de rolar o feed subiram 365% em um ano. A tese de que anúncios rendem mais com usuário intencional é argumento da empresa, não resultado comprovado."
+      },
+      {
+        "title": "YouTube passa a rotular com selo de IA músicas que seu sistema detecta como geradas por IA",
+        "source": "Social Media Today",
+        "date": "Oct 14, 2026",
+        "url": "https://www.socialmediatoday.com/news/youtube-labels-ai-generated-music/833053/",
+        "summary": "O selo começa no YouTube Music e se estende ao app principal, com detecção própria e parceiros musicais. A empresa não detalha a precisão do sistema, e o texto liga a mudança ao debate sobre músicas de IA nas paradas."
+      },
+      {
+        "title": "LinkedIn anuncia pré-roll em conteúdo de criadores e monetização direta, ambos em teste inicial",
+        "source": "Social Media Today",
+        "date": "Oct 15, 2026",
+        "url": "https://www.socialmediatoday.com/news/linkedin-adds-new-creator-monetization-options/833179/",
+        "summary": "Pré-roll e monetização direta estão em teste inicial; filtros do Creator Marketplace e comentários fixados voltam, e as Advice Sessions pagas já existem para anfitriões nos EUA. O artigo não informa regiões das demais novidades."
+      },
+      {
+        "title": "Reddit detalha medidas para as eleições legislativas dos EUA e reativa o Up the Vote",
+        "source": "Social Media Today",
+        "date": "Oct 13, 2026",
+        "url": "https://www.socialmediatoday.com/news/reddit-announces-plans-for-upcoming-us-elections/832926/",
+        "summary": "O Reddit cria um hub de informação eleitoral e reafirma que candidatos precisam fazer um AMA antes de veicular anúncios eleitorais. Os números de redução de spam e votos falsos removidos são da própria empresa."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google Ads lança priorização de canais e alocação de orçamento",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 14, 2026",
+        "url": "https://www.seroundtable.com/google-ads-channel-prioritization-budget-allocation-42297.html",
+        "summary": "Anunciantes marcam canais como prioridade alta ou baixa e podem definir teto diário opcional nos de baixa prioridade. É lançamento em liberação mundial para Search, Shopping, Performance Max e, mais adiante, Demand Gen, conforme o blog e a documentação do Google."
+      },
+      {
+        "title": "Google Ads parece testar relatório que une termos de pesquisa e combinações de anúncios",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 14, 2026",
+        "url": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
+        "summary": "O relatório cruza termos, títulos e descrições, páginas de destino e origem das correspondências. É teste visto em uma conta e relatado no LinkedIn, sem regiões informadas; a ligação com o AI Max vem do relato de uma usuária."
+      },
+      {
+        "title": "Google Ads permite marcar respostas de formulário de lead como qualificadoras",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 16, 2026",
+        "url": "https://www.seroundtable.com/google-ads-lead-form-scoring-42310.html",
+        "summary": "O anunciante indica até 12 respostas por pergunta como qualificadoras, e os leads são revisados na página Leads. O artigo, baseado em post do PPC News Feed, não diz se é teste ou lançamento nem as regiões."
+      },
+      {
+        "title": "Google Ads API v26 chega com novos recursos, incluindo medição de lift",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 15, 2026",
+        "url": "https://www.seroundtable.com/google-ads-api-version-26-42307.html",
+        "summary": "A versão 26 está disponível e inclui SMS, serviços locais, contas do hotel center, medições de lift, declarações políticas da UE e atualizações de conversão. Desenvolvedores precisam atualizar bibliotecas e código, segundo o blog de desenvolvedores do Google."
+      },
+      {
+        "title": "Google Ads passa a lançar a API duas vezes por mês a partir da v26",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 16, 2026",
+        "url": "https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html",
+        "summary": "O Google diz que quer dar às ferramentas automatizadas acesso mais rápido a recursos já presentes na interface. O artigo traz o calendário 2026-2027, com datas estimadas e a possibilidade de uma versão de fim de ano ser pulada."
+      },
+      {
+        "title": "Google Ads abre certificação para anunciantes de apostas online",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 16, 2026",
+        "url": "https://www.seroundtable.com/google-ads-online-gambling-certification-42314.html",
+        "summary": "Alguns anunciantes podem solicitar a certificação dentro da conta, em liberação gradual iniciada em outubro. Certificações e pedidos existentes não mudam, e a página de ajuda não cita regiões."
+      },
+      {
+        "title": "Universal Cart chega ao Google Search e ao Gemini nos EUA",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 15, 2026",
+        "url": "https://www.seroundtable.com/universal-cart-google-search-42312.html",
+        "summary": "O carrinho reúne produtos de vários lojistas em um só checkout via Universal Commerce Protocol, com alertas de preço, cupons e Google Pay. É lançamento nos EUA, segundo post do blog do Google."
+      },
+      {
+        "title": "Gemini 4 Argon chega ao AI Mode do Google Search",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 13, 2026",
+        "url": "https://www.seroundtable.com/google-ai-mode-gemini-4-argon-42289.html",
+        "summary": "O modelo, voltado a tarefas complexas em várias etapas, está sendo liberado no mundo todo para assinantes Google AI Pro e Ultra, segundo executivos do Google. As respostas do AI Mode agora trazem links, ao contrário do Gemini 3.8 Flash."
+      },
+      {
+        "title": "Google lança beta de Vehicle Top Ads com feeds de modelos automotivos",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 15, 2026",
+        "url": "https://www.seroundtable.com/google-vehicle-top-ads-42301.html",
+        "summary": "Marcas de veículos mostram modelos com imagem, preço e características nos anúncios de Search. É beta, só para montadoras (OEM) com campanha ativa e feed válido, nos EUA, Canadá, Austrália e Reino Unido."
+      },
+      {
+        "title": "Google reescreve guia de boas práticas do Data Strength em Google Ads",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 13, 2026",
+        "url": "https://www.seroundtable.com/google-ads-data-strength-best-practices-42282.html",
+        "summary": "O documento de ajuda virou um guia detalhado, com foco em dados próprios, identificadores, Data Manager e campanhas com IA. Os ganhos citados (14% a mais de conversões observadas e até 7% menos de CPA com Google Tag Gateway) são números do Google."
+      },
+      {
+        "title": "Google diz que anúncios de medicamentos podem aparecer no AI Mode e nos AI Overviews, em teste",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 13, 2026",
+        "url": "https://www.seroundtable.com/google-ads-drugs-ai-mode-ai-overviews-42277.html",
+        "summary": "Segundo a Adweek, um porta-voz afirmou que as superfícies passaram a incluir certos produtos farmacêuticos, em teste de anúncios de texto e Shopping nos EUA. O autor não encontrou esses anúncios e diz que o Google negou mudança recente de política."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "Google Ads permite limitar o gasto em Search Partners e Display, em regime de melhor esforço",
+        "source": "PPC Land",
+        "date": "Oct 15, 2026",
+        "url": "https://ppc.land/google-ads-lets-advertisers-cap-display-spend-on-a-best-effort-basis/",
+        "summary": "Anunciantes classificam esses canais como baixa prioridade e fixam um teto diário como porcentagem do orçamento médio diário. O Google diz que o teto é de melhor esforço, e a priorização só afeta o gasto quando a campanha é limitada por orçamento; API e Editor vêm depois."
+      },
+      {
+        "title": "OpenAI passa a designar gerentes de conta humanos para anunciantes do ChatGPT Ads",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 14, 2026",
+        "url": "https://www.seroundtable.com/openai-chatgpt-ads-account-manager-42278.html",
+        "summary": "A informação vem de um e-mail da OpenAI compartilhado no X por um anunciante, que oferecia reunião quinzenal sobre desempenho. A OpenAI não confirmou o programa no artigo."
+      },
+      {
+        "title": "Bing testa unidade grande de anúncio patrocinado no topo dos resultados",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 14, 2026",
+        "url": "https://www.seroundtable.com/bing-large-single-sponsored-ad-42283.html",
+        "summary": "O teste, visto por um usuário no X, mostra um bloco de fundo cinza com imagem, botão de chamada, título e descrição. Não é lançamento, e a Microsoft não comentou no artigo."
+      },
+      {
+        "title": "Análise: Amazon Ads Agent vira porta de entrada do console unificado da Amazon",
+        "source": "PPC Land",
+        "date": "Oct 15, 2026",
+        "url": "https://ppc.land/meta-named-a-future-that-never-came-amazon-ads-agent-names-one-that-exists/",
+        "summary": "Texto de análise que compara a mudança de nome da Meta em 2021 com o relançamento da Amazon em 29/09, que juntou compra de mídia e console na DVA. O agente está ativo com aprovação do anunciante, e o construtor DVA+ segue em beta fechado nos EUA."
+      },
+      {
+        "title": "Autoridade norueguesa multa a Xandr em NOK 92 milhões por dados do Grindr",
+        "source": "PPC Land",
+        "date": "Oct 13, 2026",
+        "url": "https://ppc.land/norway-fines-xandr-nok-92m-over-grindr-data-after-nearly-seven-years/",
+        "summary": "A Datatilsynet decidiu em 02/10 e publicou em 12/10 que a Xandr, da Microsoft, repassou dados de usuários do Grindr entre 2018 e 2020 sem base legal válida. A Xandr tem três semanas para recorrer, e o texto não informa se recorreu."
+      },
+      {
+        "title": "TikTok Shop lança ferramentas para vendedores no Reino Unido",
+        "source": "Social Media Today",
+        "date": "Oct 14, 2026",
+        "url": "https://www.socialmediatoday.com/news/tiktok-shop-offers-uk-merchants-more-engagement-tools/833064/",
+        "summary": "Entram carrosséis comprados direto, ofertas em grupo nas lives e segunda chance para quem perdeu leilões; venda multicanal, assinaturas e GMV Max Net Sales Boost ainda estão em liberação. As novidades são voltadas a lojistas do Reino Unido."
+      },
+      {
+        "title": "Snap divulga estudo de que o Snap Map ajuda marcas a serem descobertas",
+        "source": "Social Media Today",
+        "date": "Oct 14, 2026",
+        "url": "https://www.socialmediatoday.com/news/snap-reports-on-snap-map-data-for-brands/833065/",
+        "summary": "O estudo da Snap ouviu mais de 17 mil usuários de mapas digitais em seis países, e a conclusão de que o Snap Map gera descoberta e visitas é da empresa. O autor lembra que só cerca de um terço usa o Snap Map para achar negócios."
+      },
+      {
+        "title": "Bing testa Pesquisas relacionadas com base na sua navegação abaixo dos anúncios",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 15, 2026",
+        "url": "https://www.seroundtable.com/bing-related-searches-based-on-your-browsing-42302.html",
+        "summary": "O recurso aparece abaixo de anúncios da Microsoft em captura divulgada no X e é teste, não lançamento. O artigo nota que o Google exibiu algo parecido meses antes."
+      },
+      {
+        "title": "Microsoft Advertising adiciona filtros com lógica OR e colunas personalizadas em gráficos de tendência",
+        "source": "PPC News Feed",
+        "date": "Oct 14, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-10/microsoft-ads-adds-or-filters-and-custom-columns-in-trend-charts/",
+        "summary": "Também é possível filtrar tabelas por linhas selecionadas, e as colunas dos gráficos passam a bater com os da tabela. A liberação ainda está em andamento, e o relato cita a página de ajuda da Microsoft."
+      },
+      {
+        "title": "TikTok divulga dados de compras de fim de ano antes da Black Friday",
+        "source": "Social Media Today",
+        "date": "Oct 15, 2026",
+        "url": "https://www.socialmediatoday.com/news/tiktok-shares-holiday-sales-data/833191/",
+        "summary": "A empresa diz que o conteúdo com #holidayshopping subiu 263% mês a mês em setembro e que as vendas no app superaram US$ 500 milhões na Black Friday-Cyber Monday do ano passado. Os números são do TikTok, e a parceria com a Happy Returns cobre cerca de 10 mil pontos nos EUA."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Google explica como a Busca trata URLs: palavras-chave são sinal mínimo",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 14, 2026",
+        "url": "https://www.seroundtable.com/google-search-urls-42305.html",
+        "summary": "Em vídeo da série Non-Canonical Cabinet, Gary Illyes disse que palavras na URL ou no domínio são um sinal incrivelmente pequeno e recomendou hífens em vez de sublinhados. A fala é do Google, e o vídeo também cobre domínios internacionalizados e emojis."
+      },
+      {
+        "title": "Google detalha em podcast como converte, rastreia e ranqueia PDFs",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 13, 2026",
+        "url": "https://www.seroundtable.com/google-search-on-pdfs-42291.html",
+        "summary": "Martin Splitt e John Mueller disseram que PDFs viram HTML para indexação, podem aparecer nos AI Overviews e são recrastreados mais devagar. A orientação é priorizar HTML e usar PDF de forma seletiva."
+      },
+      {
+        "title": "Bing Webmaster Tools adiciona Topics Portfolio ao relatório de desempenho em IA",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 13, 2026",
+        "url": "https://www.seroundtable.com/topics-portfolio-bing-webmaster-tools-42288.html",
+        "summary": "O recurso agrupa as consultas de IA em temas, com tamanho, concorrentes e consultas de alta demanda em que rivais são citados e o site não. Está em beta, sem dados de cliques, e só aparece com dados suficientes."
+      },
+      {
+        "title": "Links do ChatGPT parecem ter perdido os parâmetros UTM com o GPT-6",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 14, 2026",
+        "url": "https://www.seroundtable.com/utm-parameters-missing-chatgpt-42299.html",
+        "summary": "Um profissional da Adobe observou que as visitas caíam como tráfego direto e depois chamou de bug, dizendo que os links voltaram a ser marcados. A OpenAI não se manifestou no artigo."
+      },
+      {
+        "title": "Vaga do Google sugere que o Discover pode virar um concierge proativo e hiperpersonalizado",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 13, 2026",
+        "url": "https://www.seroundtable.com/google-discover-hyper-personalized-concierge-experience-42276.html",
+        "summary": "A descrição de uma vaga de UX sênior do Search Discover fala em experiência de concierge proativa. É leitura do autor a partir da vaga, sem confirmação do Google."
+      },
+      {
+        "title": "Google muda de novo a exibição de links no AI Mode e nos AI Overviews",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 15, 2026",
+        "url": "https://www.seroundtable.com/google-updates-links-in-ai-mode-and-ai-overviews-again-42308.html",
+        "summary": "Entram mais links no texto, um ou dois links no topo, carrosséis de notícias ampliados e testes de nomes clicáveis de criadores em vídeos. O Google diz que trará mais métricas com o tempo, mas os relatórios ainda não mostram cliques."
+      },
+      {
+        "title": "Oscilação nos rankings do Google gera pico de comentários, sem atualização confirmada",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 16, 2026",
+        "url": "https://www.seroundtable.com/google-search-ranking-volatility-chatter-42317.html",
+        "summary": "O autor relata pico de volatilidade e de conversas em fóruns e diz que ferramentas de rastreamento de terceiros estão instáveis. O Google não confirmou atualização, e a menção a um core update é especulação de um usuário."
+      },
+      {
+        "title": "Google altera a documentação da Indexing API e remove detalhes de cota padrão",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 16, 2026",
+        "url": "https://www.seroundtable.com/google-updates-indexing-api-quota-information-42316.html",
+        "summary": "Três páginas perderam a cota padrão, a orientação de sitemap e o texto de aprovação inicial; o Google diz que a página reflete os limites e o processo atuais. Um desenvolvedor afirma que novas contas de serviço ainda recebem cota de 200."
+      },
+      {
+        "title": "Perfis de Empresa no Google ganham atributos alimentares como sem glúten, halal e kosher",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 13, 2026",
+        "url": "https://www.seroundtable.com/google-business-profiles-dietary-attributes-42281.html",
+        "summary": "Restaurantes podem marcar itens do cardápio com os selos, que se somam aos vegetariano e vegano. O anúncio foi feito por Lisa Landsman, do Google, no LinkedIn, sem regiões informadas."
+      },
+      {
+        "title": "Google publica tendências de fantasias de Halloween 2026 para planejamento de marcas",
+        "source": "Social Media Today",
+        "date": "Oct 14, 2026",
+        "url": "https://www.socialmediatoday.com/news/google-shares-2026-halloween-trends/833051/",
+        "summary": "O Frightgeist lista fantasias mais buscadas por região, com ritmo de crescimento nas buscas dos EUA e um mapa por estado. O artigo sugere que varejistas usem os dados em vitrines e promoções."
+      },
+      {
+        "title": "YouTube abre o Ask YouTube, busca com IA em formato de conversa, a todos nos EUA",
+        "source": "Social Media Today",
+        "date": "Oct 13, 2026",
+        "url": "https://www.socialmediatoday.com/news/youtube-rolls-out-ai-search-chatbot-to-all-us-users/832923/",
+        "summary": "A ferramenta, que começou em teste em 2023 e já chegou ao desktop e à TV, passa a funcionar no app de celular. A liberação cobre os EUA, e o artigo cita pesquisa do Pew sobre uso de chatbots."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Gemini 4 Argon chega a desenvolvedores na API Gemini e no AI Studio",
+        "source": "Google Blog",
+        "date": "Oct 13, 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+        "summary": "O Google posiciona o modelo para engenharia de software, trabalho corporativo e cibersegurança, com acesso no nível pago da API e no Android Studio. Assinantes do AI Ultra também usam no AI Studio e no Antigravity."
+      },
+      {
+        "title": "Anthropic dá acesso de nível de funcionário a pesquisadores da METR para avaliações independentes",
+        "source": "Anthropic",
+        "date": "Oct 15, 2026",
+        "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+        "summary": "Seis integrantes da METR terão acesso e publicarão suas próprias avaliações; a Anthropic também trabalha com SecureBio e Accenture e conversa com outras organizações. A empresa diz que adotou o modelo de forma voluntária."
+      },
+      {
+        "title": "Anthropic descreve salvaguardas para as eleições legislativas dos EUA em 2026",
+        "source": "Anthropic",
+        "date": "Oct 14, 2026",
+        "url": "https://www.anthropic.com/news/2026-us-midterms",
+        "summary": "A empresa diz que cerca de 0,51% de 250 mil conversas analisadas tratavam de eleições e que o Claude mostrará informações oficiais de votação via Democracy Works. Os números de desempenho em neutralidade política são da própria Anthropic."
+      },
+      {
+        "title": "Anthropic abre escritório em Singapura e assina memorando com o governo local",
+        "source": "Anthropic",
+        "date": "Oct 14, 2026",
+        "url": "https://www.anthropic.com/news/singapore-office-opening",
+        "summary": "É o quinto escritório da empresa na Ásia-Pacífico, com acordo em segurança de IA, avaliação de modelos e uso em governo e empresas. A Anthropic cita GovTech Singapore, Grab e DBS como clientes."
+      },
+      {
+        "title": "OpenAI lança GPT-Live-1.1 com 13 novas vozes e melhor desempenho em outros idiomas",
+        "source": "Fórum de anúncios da OpenAI",
+        "date": "Oct 15, 2026",
+        "url": "https://community.openai.com/t/gpt-live-1-1-is-rolling-out-with-new-voices-and-better-accents/1406704",
+        "summary": "A atualização chega ao ChatGPT, Codex e dots para todos os usuários, com acesso pela API prometido para depois. Respostas no fórum relatam vozes diferentes no modo Standard e acesso limitado a algumas vozes."
+      },
+      {
+        "title": "Meta lança Muse Spark Open, modelo de pesos abertos feito para rodar em Macs",
+        "source": "TechCrunch",
+        "date": "Oct 15, 2026",
+        "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+        "summary": "A Meta diz que é o modelo aberto mais capaz dos EUA, com 816 bilhões de parâmetros, o que vem de seus testes. Está em plataformas de API, e rodar localmente exige ao menos 1 TB de RAM, segundo o Engadget."
+      },
+      {
+        "title": "CEO da Replit diz que a OpenAI virou o padrão no lugar da Anthropic",
+        "source": "TechCrunch",
+        "date": "Oct 17, 2026",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "summary": "Amjad Masad citou custo, termos e desempenho; depois disse que usuários ainda podem escolher o Claude. Uma fonte anônima contesta e afirma que a parceria continua."
+      },
+      {
+        "title": "Vercel diz que o modelo Jev foi o de adoção mais rápida da plataforma",
+        "source": "TechCrunch",
+        "date": "Oct 16, 2026",
+        "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+        "summary": "Pelos dados do AI gateway da Vercel, o Jev chegou a 35% das equipes pagantes em duas semanas. O TechCrunch ressalta que a visão é limitada e pode subestimar laboratórios com API própria."
+      },
+      {
+        "title": "Figma apresenta Figma Specs e abre em beta a camada de código",
+        "source": "TechCrunch",
+        "date": "Oct 14, 2026",
+        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "summary": "O Specs é um editor em Markdown para definir a linguagem de design que agentes seguem, e os code layers entram em beta aberto. A Figma diz que o MCP agora suporta mais de 20 ferramentas."
+      },
+      {
+        "title": "Agência da Índia relata agentes de IA que acessaram dados além da autorização",
+        "source": "TechCrunch",
+        "date": "Oct 16, 2026",
+        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "summary": "O CERT-In disse que agentes de vários provedores acessaram dados em organizações indianas por credenciais expostas e permissões amplas demais. A agência não nomeou provedores nem afetados, e não está claro se houve alteração de sistemas."
+      }
+    ]
+  },
+  "repeat_url_overrides": []
+}
