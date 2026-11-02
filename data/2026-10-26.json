@@ -1,0 +1,425 @@
+{
+  "schema_version": 1,
+  "id": "2026-10-26",
+  "label": "26/out-01/nov",
+  "label_full": "26 de outubro a 1 de novembro de 2026",
+  "items": {
+    "meta": [
+      {
+        "title": "Ads Manager ganha detalhamento do desempenho de cada mídia e variação de texto do anúncio",
+        "source": "Social Media Today",
+        "date": "Oct 27, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-adds-individual-performance-data-for-ad-creative/872981/",
+        "summary": "A Meta adicionou ao Ads Manager uma opção de Breakdown que mostra resultados separados para cada imagem ou vídeo e para cada variação de texto de um anúncio, segundo a documentação de ajuda citada pelo Social Media Today. É um lançamento sem dados de desempenho e sem informação sobre regiões, e formatos como coleção e carrossel ficam de fora."
+      },
+      {
+        "title": "Meta atribui ganhos de conversão a melhorias de IA no Andromeda, no GEM e no GenRecs",
+        "source": "Social Media Today",
+        "date": "Oct 28, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-says-its-expanded-processing-capacity-is-driving-ad-results/873133/",
+        "summary": "Segundo a Meta, melhorias de ranqueamento no segundo trimestre elevaram em 8,3% os cliques e em 15,7% as conversões de anúncios no Facebook, e no terceiro trimestre o Andromeda e a recuperação generativa no Feed renderam ganhos de 1,4% e de quase 2% em conversões. São alegações da empresa, publicadas em 28/10 e relatadas pelo Social Media Today, sem verificação independente."
+      },
+      {
+        "title": "Pixel da Meta passará a medir conversões nos dispositivos dos clientes por padrão a partir de 12/11",
+        "source": "PPC Land",
+        "date": "Oct 28, 2026",
+        "url": "https://ppc.land/meta-pixel-counts-more-sales-from-nov-12-as-ai-ads-go-undisclosed/",
+        "summary": "Um aviso no Events Manager informa que a configuração Measure conversions on customer devices será ativada por padrão em 12/11 para conjuntos de dados que já enviam eventos, o que pode aumentar as vendas reportadas sem mudança nas campanhas; quem não quiser precisa desativá-la. A Meta não fez anúncio formal, a função não vale na União Europeia nem no Reino Unido e não está claro se afeta valores de compra ou lances."
+      },
+      {
+        "title": "Threads testa curtida personalizada com emoji, figurinha ou GIF, com o Brasil entre os mercados",
+        "source": "Social Media Today",
+        "date": "Oct 29, 2026",
+        "url": "https://www.socialmediatoday.com/news/threads-launches-custom-like-buttons/873267/",
+        "summary": "O Threads começou a testar com usuários selecionados da Coreia do Sul, do Brasil e da Indonésia a opção de definir um emoji, uma figurinha ou um GIF que aparece quando outras pessoas curtem seus posts. É um teste, não um lançamento, e a escolha vale para o perfil inteiro, não para cada post."
+      },
+      {
+        "title": "Threads testa o Threads Friends, círculo de até 50 pessoas para posts restritos",
+        "source": "Social Media Today",
+        "date": "Oct 29, 2026",
+        "url": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/",
+        "summary": "O Threads confirmou um teste do Threads Friends, que permite publicar só para um grupo escolhido de até 50 conexões, nos moldes do Close Friends do Instagram. O teste roda com usuários da Irlanda, da Itália e do Japão, embora qualquer pessoa possa ser incluída em um grupo."
+      },
+      {
+        "title": "Pinterest chega a 661 milhões de usuários mensais e receita de US$ 1,17 bilhão no terceiro trimestre",
+        "source": "Social Media Today",
+        "date": "Oct 29, 2026",
+        "url": "https://www.socialmediatoday.com/news/pinterest-reports-solid-user-growth-in-q3/873274/",
+        "summary": "Pelos resultados do terceiro trimestre, o Pinterest somou 21 milhões de usuários ativos mensais em relação ao trimestre anterior, 17 milhões deles fora dos EUA e da Europa, e a receita cresceu 12% em um ano. São números do balanço da empresa, relatados pelo Social Media Today, que também aponta retomada do crescimento de usuários na Europa."
+      },
+      {
+        "title": "Receita de anúncios do YouTube sobe 9% no terceiro trimestre, e TV conectada passa de um terço",
+        "source": "Social Media Today",
+        "date": "Oct 29, 2026",
+        "url": "https://www.socialmediatoday.com/news/youtube-subscriptions-are-rising-as-more-users-turn-to-ctv/873272/",
+        "summary": "Segundo o balanço da Alphabet, o YouTube faturou US$ 11,2 bilhões em anúncios no trimestre, alta de 9% em um ano e abaixo dos 13% do trimestre anterior, e YouTube Music e Premium chegaram a 150 milhões de assinantes. Na teleconferência, a empresa disse que a experiência de TV conectada respondeu por mais de um terço da receita de anúncios do YouTube."
+      },
+      {
+        "title": "YouTube testa saque de ganhos do Partner Program a partir de US$ 20",
+        "source": "Social Media Today",
+        "date": "Oct 27, 2026",
+        "url": "https://www.socialmediatoday.com/news/youtube-tests-reduced-payment-threshold-for-creators/872965/",
+        "summary": "O YouTube está testando reduzir de US$ 100 para US$ 20 o valor mínimo de pagamento para um grupo aleatório de criadores nos EUA, na Índia e na Indonésia, a partir dos pagamentos de outubro de 2026. A empresa descreve a mudança como experimento temporário, e quem está no teste pode manter o limite maior pelo AdSense for YouTube."
+      },
+      {
+        "title": "YouTube vai facilitar a assinatura de canais sem sair dos episódios de microdramas",
+        "source": "Social Media Today",
+        "date": "Oct 27, 2026",
+        "url": "https://www.socialmediatoday.com/news/youtube-adds-microdrama-subscriptions/872982/",
+        "summary": "O YouTube disse que os microdramas passaram de 6,5 bilhões de visualizações no primeiro semestre de 2026, alta de mais de 50% em um ano, e que vai reformular nas próximas semanas a experiência de episódios exclusivos para membros no celular. É um anúncio da empresa, com números próprios e sem detalhe sobre as regiões que recebem a mudança."
+      },
+      {
+        "title": "Reddit lança feed For You com recomendações por algoritmo",
+        "source": "Social Media Today",
+        "date": "Oct 28, 2026",
+        "url": "https://www.socialmediatoday.com/news/reddit-introduces-for-you-feed/873132/",
+        "summary": "O Reddit lançou um feed For You definido por algoritmo, que fica ao lado do feed Following e ocupa a posição principal, embora o app continue abrindo no último feed visto. A empresa diz que a liberação será global ao longo das próximas semanas."
+      },
+      {
+        "title": "TikTok lança o Must Eat, guia de restaurantes recomendados pela comunidade nos EUA",
+        "source": "Social Media Today",
+        "date": "Oct 28, 2026",
+        "url": "https://www.socialmediatoday.com/news/tiktok-adds-in-app-restaurant-guide/873122/",
+        "summary": "A TikTok USDS lançou um guia de restaurantes dentro do app, com filtros por cidade, cozinha, preço e nota e reserva pelo OpenTable em locais selecionados. O lançamento vale para regiões dos EUA e amplia o feed local criado em fevereiro."
+      },
+      {
+        "title": "YouTube testa prazo de 30 dias para canais corrigirem violações de spam antes do encerramento",
+        "source": "Social Media Today",
+        "date": "Oct 29, 2026",
+        "url": "https://www.socialmediatoday.com/news/youtube-is-testing-new-fixes-for-spam-violations/873269/",
+        "summary": "Em teste inicial, canais prestes a ser encerrados por violar as regras de spam, como três avisos em 90 dias, entram em um período bloqueado de 30 dias para editar ou apagar vídeos ou recorrer. É um teste confirmado pelo YouTube, sem informação sobre as regiões incluídas."
+      }
+    ],
+    "google": [
+      {
+        "title": "Google leva anúncios no AI Mode a mais dez países e lança anúncios multiturno nos EUA",
+        "source": "Google Blog",
+        "date": "Oct 28, 2026",
+        "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+        "summary": "Segundo o Google, os anúncios no AI Mode passam a ser ampliados em dez países, entre eles Austrália, Canadá, Índia e Singapura, com Brasil, México e Reino Unido previstos para o quarto trimestre, e os anúncios multiturno começam nos EUA, aparecendo em perguntas de acompanhamento. A empresa cita dados internos dos EUA segundo os quais a taxa de cliques de itens patrocinados e orgânicos em listas de produtos no AI Mode já é parecida, o que é alegação do próprio Google."
+      },
+      {
+        "title": "Receita de anúncios do Google cresce 10,5% no terceiro trimestre, e empresa cita menor monetização do AI Mode",
+        "source": "PPC Land",
+        "date": "Oct 29, 2026",
+        "url": "https://ppc.land/googles-ad-growth-slows-to-10-5-as-ai-mode-ads-go-to-10-more-markets/",
+        "summary": "A Alphabet faturou US$ 127,6 bilhões no trimestre, alta de 25%, mas a receita de publicidade subiu 10,5%, para cerca de US$ 82 bilhões, abaixo do esperado por analistas, e o crescimento da busca desacelerou de 17% para 12%, segundo números reunidos pelo PPC Land. Na teleconferência, o diretor comercial Philipp Schindler disse que o forte crescimento de consultas no AI Mode, que tem menos anúncios que a página de resultados tradicional, teve impacto."
+      },
+      {
+        "title": "Google testa carrossel no AI Mode que mistura produtos patrocinados e orgânicos",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 29, 2026",
+        "url": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
+        "summary": "O AI Mode foi visto exibindo anúncios de Shopping ao lado de resultados orgânicos de produtos em carrosséis com os rótulos Sponsored e All products, segundo capturas publicadas no Search Engine Watch. O Google confirmou ao Search Engine Roundtable que o formato faz parte dos testes contínuos de anúncios no AI Mode."
+      },
+      {
+        "title": "Google Ads ganha aba All conversions que reúne todas as ações de conversão",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 28, 2026",
+        "url": "https://www.seroundtable.com/google-ads-all-conversions-tab-live-42395.html",
+        "summary": "Uma nova aba em Metas e conversões mostra todas as ações de conversão e suas configurações em uma única tela, segundo relato de um especialista no LinkedIn repercutido pelo Search Engine Roundtable. Não há anúncio oficial do Google, e a data exata da liberação ampla é incerta."
+      },
+      {
+        "title": "Google Ads testa botão do Apple Messages em resultados patrocinados",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 28, 2026",
+        "url": "https://www.seroundtable.com/google-ads-apple-messages-button-42400.html",
+        "summary": "Um botão verde rotulado Apple Messages, que abre o app de mensagens com texto pré-preenchido, foi visto em anúncios de pesquisa, segundo um anunciante no X. É um teste observado, sem confirmação do Google, e o recurso não estava disponível nas contas de quem o encontrou."
+      },
+      {
+        "title": "Google Ads API 26.1 traz teto de gasto em redes secundárias e exclusão de faixa de renda no Performance Max",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 28, 2026",
+        "url": "https://www.seroundtable.com/google-ads-api-version-261-42409.html",
+        "summary": "A versão 26.1 da Google Ads API adiciona controles de orçamento em dois níveis para redes, com teto opcional para canais secundários, um campo para promoções resgatadas via parceiros externos e a opção de excluir faixas de renda familiar no Performance Max. É uma atualização menor da API, que também amplia segmentos de relatório e inclui verificação de elegibilidade para Local Services."
+      },
+      {
+        "title": "Merchant API de outubro amplia relatórios de YouTube Shopping e de comércio com IA",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 29, 2026",
+        "url": "https://www.seroundtable.com/google-merchant-api-update-42410.html",
+        "summary": "A atualização de outubro da Merchant API, lançada em 26/10, expande relatórios de YouTube Shopping e de comércio com IA, adiciona atributos de produto para vídeos e garantias e melhora diagnósticos de produtos reprovados. Alguns recursos de relatório serão desativados, segundo o resumo do Search Engine Roundtable."
+      },
+      {
+        "title": "Google Ads testa links com sublinhado pontilhado na descrição de anúncios de pesquisa",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 27, 2026",
+        "url": "https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html",
+        "summary": "Trechos da descrição de anúncios patrocinados apareceram com sublinhado pontilhado e, ao serem clicados, levam ao mesmo destino do título, segundo captura publicada no Search Engine Watch. É um teste observado, sem confirmação oficial do Google."
+      },
+      {
+        "title": "Google Ads transforma a política de abuso infantil na política Child Safety a partir de 11/01/2027",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 27, 2026",
+        "url": "https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html",
+        "summary": "O Google vai redesenhar a política de anúncios sobre abuso e exploração sexual infantil, que passa a se chamar Child Safety e se separa da política de conteúdo inapropriado, com rótulos de violação reagrupados. A mudança consta da página de políticas do Google Ads e entra em vigor em 11 de janeiro de 2027."
+      },
+      {
+        "title": "Teste A/B de asset groups no Performance Max aparece liberado em contas",
+        "source": "PPC News Feed",
+        "date": "Oct 31, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-10/pmax-asset-group-ab-testing-now-live/",
+        "summary": "O Google Ads passou a oferecer teste A/B dentro de asset groups do Performance Max, com grupos de controle e tratamento, divisão de tráfego e métrica de sucesso como conversões ou custo por conversão, segundo post de um especialista no LinkedIn. Não há anúncio oficial nem informação sobre elegibilidade, e a orientação de experimentos do Google recomenda rodar o teste por ao menos 4 a 6 semanas."
+      },
+      {
+        "title": "Anúncios no YouTube testam chatbot de IA com perguntas sugeridas",
+        "source": "PPC News Feed",
+        "date": "Oct 30, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-10/youtube-ads-test-ai-chatbot-suggested-questions/",
+        "summary": "Alguns anúncios em vídeo no YouTube exibem perguntas pré-definidas abaixo do vídeo que abrem um chatbot com informações sobre os produtos do anunciante, segundo um especialista que identificou o teste. Não há anúncio oficial do Google, mas o chatbot remete à política de Business Agent da empresa."
+      },
+      {
+        "title": "Google Ads testa ajustes sazonais por grupo de anúncios em campanhas para apps",
+        "source": "PPC News Feed",
+        "date": "Oct 30, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-10/ad-group-level-adjustments-tested-in-google-app-campaigns/",
+        "summary": "Um recurso em beta permite aplicar ajustes de sazonalidade do Smart Bidding a grupos de anúncios específicos de campanhas para apps, além das opções já existentes por tipo de campanha e por campanha. A novidade foi relatada por especialistas e pelo Search Engine Land, sem anúncio oficial do Google."
+      }
+    ],
+    "ppc": [
+      {
+        "title": "ChatGPT Ads ganha cartão de anúncio mais largo e abre beta de anúncios com várias imagens",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 30, 2026",
+        "url": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
+        "summary": "Segundo e-mail semanal da OpenAI a anunciantes, relatado pelo Search Engine Roundtable, um cartão de anúncio padrão mais largo está sendo liberado no desktop sem ação do anunciante, e os anúncios com várias imagens entraram em beta aberto. O e-mail também cita mais de 100 mil anunciantes e a integração com a Shopify disponível internacionalmente, informações da própria empresa."
+      },
+      {
+        "title": "Microsoft Advertising cria campanhas Performance Max com IA e libera a Conversions API",
+        "source": "Microsoft Advertising Blog",
+        "date": "Oct 28, 2026",
+        "url": "https://about.ads.microsoft.com/en/blog/post/october-2026/build-steer-and-measure-your-campaigns-with-ai-whats-new-in-microsoft-advertising-this-october",
+        "summary": "A atualização de outubro inclui criação de campanhas Performance Max a partir do site e de materiais do anunciante, segmentação por idade e gênero disponível para todos, segmentação por dispositivo nas próximas semanas e a Conversions API em disponibilidade geral. Exclusões de público, exclusão de marca só em anúncios de texto e diretrizes de mensagem para textos gerados por IA estão em piloto aberto, e o post não informa mercados."
+      },
+      {
+        "title": "Bing aparece exibindo anúncios dentro dos AI Overviews",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 30, 2026",
+        "url": "https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html",
+        "summary": "Um especialista publicou no X uma captura de resultados patrocinados dentro dos AI Overviews do Bing, gerados com o Copilot. O Search Engine Roundtable não conseguiu reproduzir, e não há confirmação da Microsoft."
+      },
+      {
+        "title": "Receita de busca e publicidade da Microsoft sobe 12% no trimestre",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 28, 2026",
+        "url": "https://www.seroundtable.com/microsoft-earnings-q127-42404.html",
+        "summary": "No primeiro trimestre fiscal de 2027, a receita de busca e publicidade da Microsoft sem custos de aquisição de tráfego cresceu 12%, dois pontos acima dos 10% do trimestre anterior. A receita total da empresa subiu 19%, para US$ 92,3 bilhões, segundo o balanço."
+      },
+      {
+        "title": "Pinterest abre inventário a DSPs externas com o Programmatic Deals",
+        "source": "PPC Land",
+        "date": "Oct 27, 2026",
+        "url": "https://ppc.land/streaming-takes-48-7-of-us-tv-ad-spend-as-pinterest-opens-to-outside-dsps/",
+        "summary": "O Pinterest liberou inventário de display e vídeo pelo Programmatic Deals, com marketplaces privados e preferred deals disponíveis e o programático garantido ainda em teste, para compradores como Amazon Ads DVA+, Google Display & Video 360 e Yahoo DSP, tendo a Magnite como principal parceira. A oferta exclui a Europa e é contratada via representantes de vendas, e o mesmo resumo do PPC Land traz dados da iSpot com o streaming em 48,7% do gasto em anúncios de TV nacional dos EUA no terceiro trimestre."
+      },
+      {
+        "title": "Receita de anúncios da Amazon cresce 10,9% no terceiro trimestre, metade do ritmo anterior",
+        "source": "PPC Land",
+        "date": "Oct 30, 2026",
+        "url": "https://ppc.land/amazon-ad-growth-halves-to-11-as-doordash-buys-instacart-for-17bn/",
+        "summary": "A Amazon reportou US$ 19,64 bilhões em serviços de publicidade no trimestre, alta de 10,9% em um ano, contra 26% no trimestre anterior, desaceleração que a empresa atribui principalmente à mudança do Prime Day para junho. No mesmo resumo, o PPC Land relata o acordo da DoorDash para comprar o Instacart por cerca de US$ 17 bilhões, que ainda depende de análises antitruste."
+      },
+      {
+        "title": "LinkedIn diz que anúncios com criadores cresceram 63% e anúncios em vídeo 25% em um ano",
+        "source": "Social Media Today",
+        "date": "Oct 29, 2026",
+        "url": "https://www.socialmediatoday.com/news/linkedin-increases-user-time-members-and-creator-ads/873266/",
+        "summary": "Junto com o balanço da Microsoft, o CEO do LinkedIn, Daniel Shapero, informou que o tempo de uso subiu 15%, a base passou de 1,4 bilhão de membros e os anúncios com criadores cresceram 63% em um ano. São números da empresa, e o Social Media Today ressalta que membros não equivalem a usuários ativos."
+      },
+      {
+        "title": "Anúncios de Shopping do Bing passam a exibir selos como Small business e Buy now pay later",
+        "source": "PPC News Feed",
+        "date": "Oct 28, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-10/bing-shopping-ads-add-new-promotional-labels/",
+        "summary": "Selos promocionais como High quality, Small business e Buy now pay later, antes restritos a resultados orgânicos e anúncios de texto, começaram a aparecer em anúncios de Shopping do Bing, segundo relato do Search Engine Watch. A mudança foi observada, sem anúncio oficial da Microsoft."
+      },
+      {
+        "title": "Bing testa anúncios multimídia menores, com imagens quadradas",
+        "source": "PPC News Feed",
+        "date": "Oct 30, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-10/bing-tests-smaller-multimedia-ads-square-images/",
+        "summary": "O Bing está experimentando trocar imagens largas por quadradas nos anúncios multimídia, o que reduz o espaço ocupado na página de resultados. O teste foi visto por um especialista no X, sem confirmação da Microsoft."
+      },
+      {
+        "title": "Bing testa título Menu acima de sitelinks em anúncios de pesquisa",
+        "source": "PPC News Feed",
+        "date": "Oct 31, 2026",
+        "url": "https://ppcnewsfeed.com/ppc-news/2026-10/bing-tests-menu-links-search-ads/",
+        "summary": "Alguns anúncios de pesquisa do Bing exibiram um título Menu sobre uma lista de sitelinks, segundo captura de um especialista. Como o formato não aparece de forma consistente, o PPC News Feed o trata como teste limitado, sem confirmação da Microsoft."
+      }
+    ],
+    "mkt": [
+      {
+        "title": "Estudo de caso estima CTR de 0,9% em AI Overviews e AI Mode e queda de cliques orgânicos após opt-out",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 30, 2026",
+        "url": "https://www.seroundtable.com/google-ai-overviews-mode-ctr-42421.html",
+        "summary": "Cyrus Shepard usou os controles de opt-out de IA generativa da Busca em um único site e estimou CTR de 0,9% nas impressões de IA, que eram cerca de 8% do total; durante o bloqueio, os cliques orgânicos comuns também caíram. É um estudo pequeno, de um site, com desenho antes e depois que não isola o efeito dos AI Overviews na página."
+      },
+      {
+        "title": "Google vai adotar controle único no robots.txt para recusar treinamento de IA em 2027",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 30, 2026",
+        "url": "https://www.seroundtable.com/google-ai-training-control-42430.html",
+        "summary": "O Google anunciou que vai adotar de forma voluntária um controle ainda em elaboração, baseado em proposta da IETF, que permite indicar em uma única entrada do robots.txt a preferência sobre treinamento de IA para vários fornecedores. O suporte está previsto para o início de 2027, não substitui o opt-out de IA generativa do Search Console e o padrão ainda não está finalizado."
+      },
+      {
+        "title": "Bing separa controles de treinamento de IA e de uso em respostas geradas a partir de fevereiro de 2027",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 30, 2026",
+        "url": "https://www.seroundtable.com/microsoft-bing-ai-controls-42429.html",
+        "summary": "A Microsoft apresentou configurações para o site escolher se o conteúdo pode ser usado em treinamento de IA, em grounding de respostas de IA ou em ambos, com uma opção limitada que vale só para produtos da própria Microsoft. As mudanças não afetam o ranqueamento comum do Bing e serão liberadas em etapas a partir de 1º de fevereiro de 2027."
+      },
+      {
+        "title": "Parâmetro num=100 pode ter voltado à Busca do Google, segundo relato não confirmado",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 30, 2026",
+        "url": "https://www.seroundtable.com/google-search-100-search-results-parameter-back-42423.html",
+        "summary": "O consultor Brodie Clark relatou no X e no LinkedIn que uma URL com o parâmetro exibiu 99 resultados orgânicos, depois de o Google tê-lo removido em setembro de 2025 contra a raspagem de dados. O Search Engine Roundtable não conseguiu reproduzir, e o Google não confirmou."
+      },
+      {
+        "title": "Google abre em prévia plataforma para desenvolvedores levarem apps à Busca e ao Gemini",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 28, 2026",
+        "url": "https://www.seroundtable.com/google-connected-apps-platform-42408.html",
+        "summary": "A Connected Apps Platform, em prévia, permite registrar e testar apps via servidor MCP ou AppFunctions no Android e escolher se aparecem na Busca, no app Gemini ou em ambos; na Busca, o usuário precisa adicionar o app nas configurações. O Google diz ter mais de 50 Connected Apps, com parceiros como Adobe e Localiza já no Gemini e chegada à Busca prometida para as próximas semanas."
+      },
+      {
+        "title": "Gemini deixa de adicionar parâmetros UTM aos links citados",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 30, 2026",
+        "url": "https://www.seroundtable.com/gemini-utm-parameters-42399.html",
+        "summary": "Um gráfico publicado no X mostra que o Gemini passou a incluir parâmetros de rastreamento nos links citados no início de setembro e parou por volta de 28/09. Não há anúncio oficial, e o único comentário do Google citado é de John Mueller, que disse ter visto os parâmetros cerca de um mês antes."
+      },
+      {
+        "title": "Perfil da Empresa permite a restaurantes ligar ou desligar cada parceiro de pedidos",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 28, 2026",
+        "url": "https://www.seroundtable.com/google-business-profiles-ordering-controls-42411.html",
+        "summary": "Restaurantes passam a controlar, no painel do Perfil da Empresa, quais provedores de pedidos, como Uber Eats, DoorDash e Grubhub, aparecem na Busca e no Maps, e se cada um vale para retirada, entrega ou ambos. O recurso foi anunciado por uma funcionária do Google no LinkedIn, sem cronograma de liberação."
+      },
+      {
+        "title": "Google amplia piloto de mensagens com IA no Perfil da Empresa",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 29, 2026",
+        "url": "https://www.seroundtable.com/google-business-profiles-ai-powered-messaging-42419.html",
+        "summary": "Um e-mail do Google oferece a mais empresas acesso antecipado gratuito a um piloto em que um agente de IA responde perguntas de clientes enviadas pela Busca e pelo Maps e repassa ao dono o que não souber resolver. O agente funciona apenas para clientes com RCS, e o autor do Search Engine Roundtable ainda não via o recurso no próprio perfil."
+      },
+      {
+        "title": "Google pode estar testando a retirada do card de citações dos AI Overviews no desktop",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 29, 2026",
+        "url": "https://www.seroundtable.com/citations-cards-google-ai-overviews-42413.html",
+        "summary": "Brodie Clark publicou capturas de AI Overviews sem o card que lista as fontes, mas o Search Engine Roundtable não conseguiu reproduzir e notou que o card às vezes carrega mais tarde. O Google não respondeu se é teste ou bug."
+      },
+      {
+        "title": "Reddit vai testar acesso com login obrigatório após queda no tráfego vindo de buscas",
+        "source": "TechCrunch",
+        "date": "Oct 29, 2026",
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+        "summary": "Na teleconferência do terceiro trimestre, o Reddit disse que caminha para uma experiência principalmente com login, com testes em mercados fora dos EUA no quarto trimestre, e informou que as indicações vindas de busca caíram mais de 1 milhão por semana, em média, em outubro. A receita somou US$ 895 milhões, alta de 53%, e a empresa alertou que os usuários ativos diários podem cair no próximo trimestre se a tendência continuar."
+      },
+      {
+        "title": "Google atualiza documentação de favicon e exige que o Googlebot siga redirecionamentos da home",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 27, 2026",
+        "url": "https://www.seroundtable.com/googlebot-redirects-from-homepage-to-favicon-42396.html",
+        "summary": "A documentação de favicons passou a dizer que o Googlebot precisa conseguir seguir redirecionamentos da página inicial até a página em que o favicon é declarado e que essas URLs não podem estar bloqueadas no robots.txt. A versão anterior não mencionava redirecionamentos."
+      },
+      {
+        "title": "AI Overviews testam bolhas de refinamento que levam ao AI Mode",
+        "source": "Search Engine Roundtable",
+        "date": "Oct 29, 2026",
+        "url": "https://www.seroundtable.com/google-ai-overviews-query-refinement-bubbles-42406.html",
+        "summary": "Bolhas de sugestão no topo dos AI Overviews, em alguns idiomas, abrem o AI Mode com o texto da bolha como prompt em vez de refinar a busca, segundo captura publicada no X. É um teste observado, sem confirmação do Google."
+      }
+    ],
+    "ia": [
+      {
+        "title": "Muse, agente pessoal de IA da Meta, chega a Singapura com parceiros como Shopee e Grab",
+        "source": "Meta Newsroom",
+        "date": "Oct 27, 2026",
+        "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
+        "summary": "A Meta liberou o Muse em Singapura no iOS, no Android e no muse.ai, com conexão a Gmail, Google Calendar e Instagram e parceiros locais como Shopee, Lazada, Grab, Agoda e Singapore Airlines para compras, mercado, restaurantes e viagens. Segundo a empresa, o Muse é gratuito para a maioria dos usos, tem assinaturas opcionais e pede confirmação antes de ações sensíveis, como compras."
+      },
+      {
+        "title": "Gemini passa a criar, visualizar e editar documentos, PDFs, planilhas e apresentações no chat",
+        "source": "Google Blog",
+        "date": "Oct 29, 2026",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+        "summary": "O app Gemini agora permite gerar e editar arquivos dentro da conversa, em tela cheia ou pedindo revisões à IA, com PDFs na web e no celular e Docs, Sheets, apresentações e código só na web. O Google diz que o recurso está disponível para todos os usuários, em todos os idiomas em que o app Gemini funciona."
+      },
+      {
+        "title": "Mistral libera os pesos do Mistral Large 4, modelo de 1 trilhão de parâmetros",
+        "source": "TechCrunch",
+        "date": "Oct 29, 2026",
+        "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+        "summary": "A Mistral publicou no Hugging Face e na sua API os pesos do Mistral Large 4, voltado a cibersegurança e programação com agentes, que empresas e governos podem implantar por conta própria. A empresa afirma desempenho comparável ao do GLM-5.3 com 47% menos tokens por tarefa, alegação sem verificação independente."
+      },
+      {
+        "title": "DoorDash diz ter recebido só algumas centenas de pedidos feitos por agentes de IA",
+        "source": "TechCrunch",
+        "date": "Oct 30, 2026",
+        "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+        "summary": "Na teleconferência do terceiro trimestre, a DoorDash disse ter recebido algumas centenas de pedidos de agentes de terceiros, como o Muse, e o CEO Tony Xu afirmou que a maioria dos clientes ainda pede pelo app próprio. Xu disse que a empresa quer entender os pedidos feitos por agentes e pode, no futuro, anunciar dentro deles."
+      },
+      {
+        "title": "Dados da OpenAI mostram queda dos pedidos de trabalho para 32,2% do uso do ChatGPT",
+        "source": "PPC Land",
+        "date": "Oct 30, 2026",
+        "url": "https://ppc.land/chatgpt-work-requests-fall-to-32-2-as-writing-loses-its-top-spot/",
+        "summary": "A versão 3.0 do conjunto OpenAI Signals, com cerca de 1 milhão de mensagens de consumidores por mês classificadas por modelo, mostra que os pedidos ligados a trabalho caíram de 51,6% para 32,2% entre julho de 2024 e setembro de 2026, e os de escrita, de 34,1% para 21,4%. Os dados excluem o uso corporativo e o Codex, então o uso profissional tende a estar subestimado, segundo a análise do PPC Land."
+      },
+      {
+        "title": "Anthropic lança relatórios para empresas acompanharem o que o gasto com IA entrega",
+        "source": "TechCrunch",
+        "date": "Oct 28, 2026",
+        "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+        "summary": "A Anthropic lançou relatórios que mostram, por equipe e período, o que foi produzido, quanto custou e onde os fluxos falharam, com recomendações, além de orçamentos compartilhados de tokens. A empresa diz que não usa esses dados para treinar modelos por padrão, e o TechCrunch não informa preço, planos elegíveis nem data de liberação ampla."
+      },
+      {
+        "title": "Preenchimento automático com IA do Chrome passa a buscar dados no Gmail",
+        "source": "TechCrunch",
+        "date": "Oct 28, 2026",
+        "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+        "summary": "O Chrome ganhou um preenchimento avançado com IA que sugere dados de formulários, como números de pedido e de voo, endereços e cartões, a partir do Gmail, como extensão do Personal Intelligence. O recurso depende de ativação nas configurações e está sendo liberado para usuários dos EUA no desktop e nos apps para iOS e Android."
+      },
+      {
+        "title": "Meta lança os apps de IA Waddle World, para crianças, e Style Sketch, de moda",
+        "source": "Social Media Today",
+        "date": "Oct 28, 2026",
+        "url": "https://www.socialmediatoday.com/news/meta-launches-two-new-ai-apps-including-one-aimed-at-kids/873118/",
+        "summary": "O Waddle World é um jogo de bichinho virtual com IA que lembra o que o usuário conta, e o Style Sketch monta combinações de roupas a partir de peças cadastradas ou extraídas de fotos do Instagram. Segundo o analista Matt Navarra, o primeiro está disponível só nas Filipinas e o segundo na Indonésia, em Singapura e na Tailândia."
+      },
+      {
+        "title": "Alexa ganha mais de 100 funções de compras, como listas, assinaturas e entregas",
+        "source": "TechCrunch",
+        "date": "Oct 29, 2026",
+        "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+        "summary": "Antes das festas de fim de ano, a Amazon adicionou à Alexa recursos para criar listas de compras, mudar a frequência de assinaturas, atualizar endereço e instruções de entrega e tirar dúvidas sobre Prime e Audible. O TechCrunch não informa se os recursos se limitam aos EUA ou a algum plano."
+      },
+      {
+        "title": "WorkBuddy, da Tencent, permite controlar tarefas de agentes de IA pelo celular",
+        "source": "TechNode",
+        "date": "Oct 30, 2026",
+        "url": "https://technode.com/2026/10/30/tencents-workbuddy-adds-remote-control-letting-users-manage-ai-tasks-from-their-phones/",
+        "summary": "A plataforma de agentes WorkBuddy ganhou um controle remoto que conecta o celular a um computador na mesma conta, para acompanhar a tela em tempo real e assumir quando o agente trava ou precisa de autorização. Segundo o TechNode, o recurso está em teste aberto para todos os usuários."
+      },
+      {
+        "title": "Microsoft Clarity: checkout aparece em 25% das sessões com agentes de IA, contra 15% das humanas",
+        "source": "Microsoft Clarity Blog",
+        "date": "Oct 29, 2026",
+        "url": "https://clarity.microsoft.com/blog/agentic-analytics-what-agents-do-on-websites/",
+        "summary": "A análise da Microsoft Clarity cobriu mais de 5,2 milhões de sessões classificadas como de agentes em 230.511 projetos, entre 13/08 e 09/09/2026, com navegadores de OpenAI, Google e Anthropic. O próprio estudo ressalva que essas sessões podem envolver repasse a um humano e que os eventos contados não comprovam tarefas concluídas."
+      },
+      {
+        "title": "Granola lança ditado que digita texto formatado em qualquer app no Mac",
+        "source": "TechCrunch",
+        "date": "Oct 29, 2026",
+        "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+        "summary": "O Granola, conhecido pelo anotador de reuniões, lançou um recurso de ditado acionado pela tecla Fn que transcreve, limpa e formata o texto em qualquer aplicativo. O ditado está disponível no Mac, em todos os planos e sem limite de uso, e a empresa promete versões para iOS e Windows em breve."
+      }
+    ]
+  },
+  "repeat_url_overrides": []
+}
